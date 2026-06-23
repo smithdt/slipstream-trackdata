@@ -1,0 +1,79 @@
+#!/usr/bin/env python
+"""Package a satellite/ imagery tree for on-demand distribution.
+
+Groups the per-config sets (satellite/{ir_id}/) by their parent venue, writes one zip per venue into --out,
+and emits index.json (ir_id -> venue/asset/version/attribution) + ATTRIBUTION.md (the per-source credits the
+licenses require). Only APPROVED sets are included. The zips become GitHub Release assets; index.json +
+ATTRIBUTION.md are committed to the repo.
+
+Usage:
+  python tools/package_release.py --src ../SlipstreamLive/trackdata/satellite \
+         --meta ../SlipstreamLive/trackdata/iracing-tracks-metadata.json \
+         --out dist --version imagery-v1 --base-url https://github.com/smithdt/slipstream-trackdata/releases/download
+"""
+import argparse, json, os, re, zipfile, hashlib
+
+def slug(s):
+    return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", s.lower())).strip("-")
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--src", required=True, help="satellite/ source tree (satellite/{ir_id}/...)")
+    ap.add_argument("--meta", required=True, help="iracing-tracks-metadata.json (ir_id -> venue)")
+    ap.add_argument("--out", default="dist", help="output dir for the per-venue zips")
+    ap.add_argument("--version", required=True, help="release/version tag, e.g. imagery-v1")
+    ap.add_argument("--base-url", default="https://github.com/smithdt/slipstream-trackdata/releases/download",
+                    help="release-asset base URL; asset URL = {base}/{version}/{venue}.zip")
+    ap.add_argument("--index", default="index.json")
+    ap.add_argument("--attribution", default="ATTRIBUTION.md")
+    a = ap.parse_args()
+
+    meta = json.load(open(a.meta, encoding="utf-8"))
+    id2venue = {c["track_id"]: t.get("track_name") or "?"
+                for t in meta["tracks"] for c in t.get("configurations", [])}
+
+    # group approved sets by venue
+    venues, attributions = {}, {}
+    for p in sorted(os.listdir(a.src)):
+        d = os.path.join(a.src, p)
+        if not (p.isdigit() and os.path.isfile(os.path.join(d, "manifest.json"))):
+            continue
+        m = json.load(open(os.path.join(d, "manifest.json"), encoding="utf-8"))
+        if not m.get("approved"):
+            continue
+        ir = int(p); venue = id2venue.get(ir, f"track-{ir}")
+        venues.setdefault(venue, []).append((ir, m))
+        if m.get("attribution"):
+            attributions[m["attribution"]] = m.get("source", m.get("provider", ""))
+
+    os.makedirs(a.out, exist_ok=True)
+    index = {"version": a.version, "tracks": {}}
+    for venue, sets in sorted(venues.items()):
+        vslug = slug(venue)
+        zpath = os.path.join(a.out, f"{vslug}.zip")
+        with zipfile.ZipFile(zpath, "w", zipfile.ZIP_STORED) as z:   # JPEGs already compressed -> STORED
+            for ir, m in sets:
+                d = os.path.join(a.src, str(ir))
+                for fn in os.listdir(d):
+                    z.write(os.path.join(d, fn), f"{ir}/{fn}")
+        sha = hashlib.sha256(open(zpath, "rb").read()).hexdigest()[:16]
+        asset = f"{a.base_url}/{a.version}/{vslug}.zip"
+        for ir, m in sets:
+            index["tracks"][str(ir)] = {
+                "venue": venue, "asset": asset, "version": a.version, "sha256": sha,
+                "corners": len(m.get("corners", [])), "provider": m.get("provider"),
+                "attribution": m.get("attribution"),
+            }
+        print(f"  {venue:<36} {len(sets)} cfg  -> {vslug}.zip  ({os.path.getsize(zpath)//1024} KB)")
+
+    json.dump(index, open(a.index, "w", encoding="utf-8"), indent=2, ensure_ascii=False)
+    with open(a.attribution, "w", encoding="utf-8") as f:
+        f.write("# Imagery attribution\n\n")
+        f.write("Slipstream Live track imagery is derived from the public / open-licensed ortho sources below. "
+                "Each carries its source's required credit; see the per-source license for terms.\n\n")
+        for attr, src in sorted(attributions.items()):
+            f.write(f"- **{attr}**" + (f"  \n  _{src}_\n" if src else "\n"))
+    print(f"\nwrote {a.index} ({len(index['tracks'])} tracks, {len(venues)} venues) + {a.attribution}")
+
+if __name__ == "__main__":
+    main()

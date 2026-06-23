@@ -1,0 +1,815 @@
+{
+  "version": "imagery-v1",
+  "tracks": {
+    "509": {
+      "venue": "Algarve International Circuit",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/algarve-international-circuit.zip",
+      "version": "imagery-v1",
+      "sha256": "ce1a1f2f55cab4e5",
+      "corners": 15,
+      "provider": "pt-dgt-2018",
+      "attribution": "© Direção-Geral do Território (DGT) — Ortos2018 (CC BY 4.0)"
+    },
+    "266": {
+      "venue": "Autodromo Internazionale Enzo e Dino Ferrari",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/autodromo-internazionale-enzo-e-dino-ferrari.zip",
+      "version": "imagery-v1",
+      "sha256": "577bb5edd90f007e",
+      "corners": 17,
+      "provider": "it-mase",
+      "attribution": "Geoportale Nazionale — Ministero dell'Ambiente (MASE), Ortofoto 2012"
+    },
+    "498": {
+      "venue": "Autodromo Internazionale del Mugello",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/autodromo-internazionale-del-mugello.zip",
+      "version": "imagery-v1",
+      "sha256": "4b9c862848d8e3bd",
+      "corners": 15,
+      "provider": "it-toscana",
+      "attribution": "© Regione Toscana — GEOscopio (CC BY 4.0)"
+    },
+    "499": {
+      "venue": "Autodromo Internazionale del Mugello",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/autodromo-internazionale-del-mugello.zip",
+      "version": "imagery-v1",
+      "sha256": "4b9c862848d8e3bd",
+      "corners": 7,
+      "provider": "it-toscana",
+      "attribution": "© Regione Toscana — GEOscopio (CC BY 4.0)"
+    },
+    "239": {
+      "venue": "Autodromo Nazionale Monza",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/autodromo-nazionale-monza.zip",
+      "version": "imagery-v1",
+      "sha256": "69ab80a00496d3a2",
+      "corners": 11,
+      "provider": "it-mase",
+      "attribution": "Geoportale Nazionale — Ministero dell'Ambiente (MASE), Ortofoto 2012"
+    },
+    "212": {
+      "venue": "Autódromo José Carlos Pace",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/aut-dromo-jos-carlos-pace.zip",
+      "version": "imagery-v1",
+      "sha256": "56778831422a237a",
+      "corners": 15,
+      "provider": "br-geosampa",
+      "attribution": "© Prefeitura de São Paulo — GeoSampa (CC BY-SA 4.0)"
+    },
+    "585": {
+      "venue": "Barber Motorsports Park",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/barber-motorsports-park.zip",
+      "version": "imagery-v1",
+      "sha256": "938d06a6fd48498a",
+      "corners": 16,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain"
+    },
+    "144": {
+      "venue": "Canadian Tire Motorsports Park",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/canadian-tire-motorsports-park.zip",
+      "version": "imagery-v1",
+      "sha256": "02eba02fca6356ad",
+      "corners": 10,
+      "provider": "ca-on-oiwms",
+      "attribution": "Contains information licensed under the Open Government Licence – Ontario"
+    },
+    "483": {
+      "venue": "Chicago Street Course",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/chicago-street-course.zip",
+      "version": "imagery-v1",
+      "sha256": "f57dde81be8a47b6",
+      "corners": 12,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain"
+    },
+    "485": {
+      "venue": "Circuit Zandvoort",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-zandvoort.zip",
+      "version": "imagery-v1",
+      "sha256": "169e31da4c8d9482",
+      "corners": 14,
+      "provider": "nl-pdok",
+      "attribution": "© PDOK / Kadaster — Luchtfoto Actueel (CC BY 4.0)"
+    },
+    "487": {
+      "venue": "Circuit Zandvoort",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-zandvoort.zip",
+      "version": "imagery-v1",
+      "sha256": "169e31da4c8d9482",
+      "corners": 10,
+      "provider": "nl-pdok",
+      "attribution": "© PDOK / Kadaster — Luchtfoto Actueel (CC BY 4.0)"
+    },
+    "199": {
+      "venue": "Circuit Zolder",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-zolder.zip",
+      "version": "imagery-v1",
+      "sha256": "125776f313a74014",
+      "corners": 10,
+      "provider": "be-flanders",
+      "attribution": "© Digitaal Vlaanderen — Orthofotomozaïek"
+    },
+    "200": {
+      "venue": "Circuit Zolder",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-zolder.zip",
+      "version": "imagery-v1",
+      "sha256": "125776f313a74014",
+      "corners": 10,
+      "provider": "be-flanders",
+      "attribution": "© Digitaal Vlaanderen — Orthofotomozaïek"
+    },
+    "345": {
+      "venue": "Circuit de Barcelona Catalunya",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-de-barcelona-catalunya.zip",
+      "version": "imagery-v1",
+      "sha256": "2360cffda30f57a1",
+      "corners": 16,
+      "provider": "es-pnoa",
+      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
+    },
+    "346": {
+      "venue": "Circuit de Barcelona Catalunya",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-de-barcelona-catalunya.zip",
+      "version": "imagery-v1",
+      "sha256": "2360cffda30f57a1",
+      "corners": 11,
+      "provider": "es-pnoa",
+      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
+    },
+    "349": {
+      "venue": "Circuit de Barcelona Catalunya",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-de-barcelona-catalunya.zip",
+      "version": "imagery-v1",
+      "sha256": "2360cffda30f57a1",
+      "corners": 13,
+      "provider": "es-pnoa",
+      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
+    },
+    "489": {
+      "venue": "Circuit de Lédenon",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-de-l-denon.zip",
+      "version": "imagery-v1",
+      "sha256": "8649518da4497ef6",
+      "corners": 15,
+      "provider": "ign-geoplateforme",
+      "attribution": "© IGN — Géoplateforme (Licence Ouverte / Etalab 2.0)"
+    },
+    "463": {
+      "venue": "Circuit de Nevers Magny-Cours",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-de-nevers-magny-cours.zip",
+      "version": "imagery-v1",
+      "sha256": "2091caffc9c41b45",
+      "corners": 17,
+      "provider": "ign-geoplateforme",
+      "attribution": "© IGN — Géoplateforme (Licence Ouverte / Etalab 2.0)"
+    },
+    "523": {
+      "venue": "Circuit de Spa-Francorchamps",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-de-spa-francorchamps.zip",
+      "version": "imagery-v1",
+      "sha256": "919d177a763bbc88",
+      "corners": 19,
+      "provider": "be-wallonia",
+      "attribution": "© SPW (Service public de Wallonie) — open data"
+    },
+    "524": {
+      "venue": "Circuit de Spa-Francorchamps",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-de-spa-francorchamps.zip",
+      "version": "imagery-v1",
+      "sha256": "919d177a763bbc88",
+      "corners": 19,
+      "provider": "be-wallonia",
+      "attribution": "© SPW (Service public de Wallonie) — open data"
+    },
+    "525": {
+      "venue": "Circuit de Spa-Francorchamps",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-de-spa-francorchamps.zip",
+      "version": "imagery-v1",
+      "sha256": "919d177a763bbc88",
+      "corners": 19,
+      "provider": "be-wallonia",
+      "attribution": "© SPW (Service public de Wallonie) — open data"
+    },
+    "526": {
+      "venue": "Circuit de Spa-Francorchamps",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-de-spa-francorchamps.zip",
+      "version": "imagery-v1",
+      "sha256": "919d177a763bbc88",
+      "corners": 19,
+      "provider": "be-wallonia",
+      "attribution": "© SPW (Service public de Wallonie) — open data"
+    },
+    "268": {
+      "venue": "Circuit des 24 Heures du Mans",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-des-24-heures-du-mans.zip",
+      "version": "imagery-v1",
+      "sha256": "b3ef56799644c0ac",
+      "corners": 33,
+      "provider": "ign-geoplateforme",
+      "attribution": "© IGN — Géoplateforme (Licence Ouverte / Etalab 2.0)"
+    },
+    "229": {
+      "venue": "Circuit of the Americas",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-of-the-americas.zip",
+      "version": "imagery-v1",
+      "sha256": "9135fbb242767a07",
+      "corners": 20,
+      "provider": "tx-stratmap19-caparea",
+      "attribution": "Texas StratMap 2019 / TxGIO (TNRIS) — Capital Area"
+    },
+    "473": {
+      "venue": "Circuito de Jerez - Ángel Nieto",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuito-de-jerez-ngel-nieto.zip",
+      "version": "imagery-v1",
+      "sha256": "8a25c3b45a27c27b",
+      "corners": 15,
+      "provider": "es-pnoa",
+      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
+    },
+    "515": {
+      "venue": "Circuito de Navarra",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuito-de-navarra.zip",
+      "version": "imagery-v1",
+      "sha256": "6073376664aa151a",
+      "corners": 15,
+      "provider": "es-pnoa",
+      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
+    },
+    "516": {
+      "venue": "Circuito de Navarra",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuito-de-navarra.zip",
+      "version": "imagery-v1",
+      "sha256": "6073376664aa151a",
+      "corners": 8,
+      "provider": "es-pnoa",
+      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
+    },
+    "517": {
+      "venue": "Circuito de Navarra",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuito-de-navarra.zip",
+      "version": "imagery-v1",
+      "sha256": "6073376664aa151a",
+      "corners": 6,
+      "provider": "es-pnoa",
+      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
+    },
+    "192": {
+      "venue": "Daytona International Speedway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/daytona-international-speedway.zip",
+      "version": "imagery-v1",
+      "sha256": "c31c5499b62d7a93",
+      "corners": 12,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain"
+    },
+    "319": {
+      "venue": "Detroit Grand Prix at Belle Isle",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/detroit-grand-prix-at-belle-isle.zip",
+      "version": "imagery-v1",
+      "sha256": "f56985c5431b0830",
+      "corners": 14,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain"
+    },
+    "444": {
+      "venue": "Fuji International Speedway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/fuji-international-speedway.zip",
+      "version": "imagery-v1",
+      "sha256": "26d4aae17139fe8b",
+      "corners": 16,
+      "provider": "jp-gsi",
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
+    },
+    "445": {
+      "venue": "Fuji International Speedway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/fuji-international-speedway.zip",
+      "version": "imagery-v1",
+      "sha256": "26d4aae17139fe8b",
+      "corners": 14,
+      "provider": "jp-gsi",
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
+    },
+    "390": {
+      "venue": "Hockenheimring Baden-Württemberg",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/hockenheimring-baden-w-rttemberg.zip",
+      "version": "imagery-v1",
+      "sha256": "407004dc4657ba38",
+      "corners": 16,
+      "provider": "de-bw",
+      "attribution": "© LGL-BW, dl-de/by-2-0"
+    },
+    "391": {
+      "venue": "Hockenheimring Baden-Württemberg",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/hockenheimring-baden-w-rttemberg.zip",
+      "version": "imagery-v1",
+      "sha256": "407004dc4657ba38",
+      "corners": 15,
+      "provider": "de-bw",
+      "attribution": "© LGL-BW, dl-de/by-2-0"
+    },
+    "395": {
+      "venue": "Hockenheimring Baden-Württemberg",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/hockenheimring-baden-w-rttemberg.zip",
+      "version": "imagery-v1",
+      "sha256": "407004dc4657ba38",
+      "corners": 12,
+      "provider": "de-bw",
+      "attribution": "© LGL-BW, dl-de/by-2-0"
+    },
+    "22": {
+      "venue": "Homestead Miami Speedway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/homestead-miami-speedway.zip",
+      "version": "imagery-v1",
+      "sha256": "6ca7550e03cd5364",
+      "corners": 10,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain"
+    },
+    "448": {
+      "venue": "Indianapolis Motor Speedway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/indianapolis-motor-speedway.zip",
+      "version": "imagery-v1",
+      "sha256": "ca669be23550b481",
+      "corners": 13,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain"
+    },
+    "352": {
+      "venue": "Lime Rock Park",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/lime-rock-park.zip",
+      "version": "imagery-v1",
+      "sha256": "6def2e633fedfa25",
+      "corners": 7,
+      "provider": "ct-cteco",
+      "attribution": "Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)"
+    },
+    "353": {
+      "venue": "Lime Rock Park",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/lime-rock-park.zip",
+      "version": "imagery-v1",
+      "sha256": "6def2e633fedfa25",
+      "corners": 9,
+      "provider": "ct-cteco",
+      "attribution": "Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)"
+    },
+    "354": {
+      "venue": "Lime Rock Park",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/lime-rock-park.zip",
+      "version": "imagery-v1",
+      "sha256": "6def2e633fedfa25",
+      "corners": 11,
+      "provider": "ct-cteco",
+      "attribution": "Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)"
+    },
+    "355": {
+      "venue": "Lime Rock Park",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/lime-rock-park.zip",
+      "version": "imagery-v1",
+      "sha256": "6def2e633fedfa25",
+      "corners": 9,
+      "provider": "ct-cteco",
+      "attribution": "Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)"
+    },
+    "179": {
+      "venue": "Long Beach Street Circuit",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/long-beach-street-circuit.zip",
+      "version": "imagery-v1",
+      "sha256": "bf7ef537c70f45d3",
+      "corners": 11,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain"
+    },
+    "539": {
+      "venue": "Miami International Autodrome",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/miami-international-autodrome.zip",
+      "version": "imagery-v1",
+      "sha256": "feda513a5ae1b2a2",
+      "corners": 19,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain"
+    },
+    "153": {
+      "venue": "Mid-Ohio Sports Car Course",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/mid-ohio-sports-car-course.zip",
+      "version": "imagery-v1",
+      "sha256": "ed0aa6cacb9ab811",
+      "corners": 13,
+      "provider": "oh-morrow-2021",
+      "attribution": "Morrow County GIS — 2021 Aerial Imagery"
+    },
+    "501": {
+      "venue": "Misano World Circuit Marco Simoncelli",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/misano-world-circuit-marco-simoncelli.zip",
+      "version": "imagery-v1",
+      "sha256": "8c331130c4c60033",
+      "corners": 16,
+      "provider": "it-rer",
+      "attribution": "© Regione Emilia-Romagna — RER 2023-24 (CC BY 4.0)"
+    },
+    "503": {
+      "venue": "Misano World Circuit Marco Simoncelli",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/misano-world-circuit-marco-simoncelli.zip",
+      "version": "imagery-v1",
+      "sha256": "8c331130c4c60033",
+      "corners": 11,
+      "provider": "it-rer",
+      "attribution": "© Regione Emilia-Romagna — RER 2023-24 (CC BY 4.0)"
+    },
+    "505": {
+      "venue": "Misano World Circuit Marco Simoncelli",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/misano-world-circuit-marco-simoncelli.zip",
+      "version": "imagery-v1",
+      "sha256": "8c331130c4c60033",
+      "corners": 16,
+      "provider": "it-rer",
+      "attribution": "© Regione Emilia-Romagna — RER 2023-24 (CC BY 4.0)"
+    },
+    "195": {
+      "venue": "Mobility Resort Motegi",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/mobility-resort-motegi.zip",
+      "version": "imagery-v1",
+      "sha256": "4c7f53756590194e",
+      "corners": 14,
+      "provider": "jp-gsi",
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
+    },
+    "475": {
+      "venue": "MotorLand Aragón",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/motorland-arag-n.zip",
+      "version": "imagery-v1",
+      "sha256": "47682385d5eeff13",
+      "corners": 18,
+      "provider": "es-pnoa",
+      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
+    },
+    "449": {
+      "venue": "Motorsport Arena Oschersleben",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/motorsport-arena-oschersleben.zip",
+      "version": "imagery-v1",
+      "sha256": "c7b574c1b7ccb4b0",
+      "corners": 14,
+      "provider": "de-st",
+      "attribution": "© LVermGeo Sachsen-Anhalt, dl-de/by-2-0"
+    },
+    "455": {
+      "venue": "Motorsport Arena Oschersleben",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/motorsport-arena-oschersleben.zip",
+      "version": "imagery-v1",
+      "sha256": "c7b574c1b7ccb4b0",
+      "corners": 8,
+      "provider": "de-st",
+      "attribution": "© LVermGeo Sachsen-Anhalt, dl-de/by-2-0"
+    },
+    "219": {
+      "venue": "Mount Panorama Circuit",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/mount-panorama-circuit.zip",
+      "version": "imagery-v1",
+      "sha256": "e094507b9f49c5c2",
+      "corners": 23,
+      "provider": "au-nsw",
+      "attribution": "(c) State of New South Wales (Spatial Services) - CC-BY 3.0 AU"
+    },
+    "252": {
+      "venue": "Nürburgring Combined",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/n-rburgring-combined.zip",
+      "version": "imagery-v1",
+      "sha256": "94b7ccf53f36a13e",
+      "corners": 0,
+      "provider": "de-rlp",
+      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]"
+    },
+    "262": {
+      "venue": "Nürburgring Combined",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/n-rburgring-combined.zip",
+      "version": "imagery-v1",
+      "sha256": "94b7ccf53f36a13e",
+      "corners": 0,
+      "provider": "de-rlp",
+      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]"
+    },
+    "250": {
+      "venue": "Nürburgring Grand-Prix-Strecke",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/n-rburgring-grand-prix-strecke.zip",
+      "version": "imagery-v1",
+      "sha256": "ea52e4367f2913e3",
+      "corners": 16,
+      "provider": "de-rlp",
+      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]"
+    },
+    "255": {
+      "venue": "Nürburgring Grand-Prix-Strecke",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/n-rburgring-grand-prix-strecke.zip",
+      "version": "imagery-v1",
+      "sha256": "ea52e4367f2913e3",
+      "corners": 16,
+      "provider": "de-rlp",
+      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]"
+    },
+    "259": {
+      "venue": "Nürburgring Grand-Prix-Strecke",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/n-rburgring-grand-prix-strecke.zip",
+      "version": "imagery-v1",
+      "sha256": "ea52e4367f2913e3",
+      "corners": 11,
+      "provider": "de-rlp",
+      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]"
+    },
+    "249": {
+      "venue": "Nürburgring Nordschleife",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/n-rburgring-nordschleife.zip",
+      "version": "imagery-v1",
+      "sha256": "94cf7172c9b128d8",
+      "corners": 0,
+      "provider": "de-rlp",
+      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]"
+    },
+    "166": {
+      "venue": "Okayama International Circuit",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/okayama-international-circuit.zip",
+      "version": "imagery-v1",
+      "sha256": "8977febcaff594cd",
+      "corners": 11,
+      "provider": "jp-gsi",
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
+    },
+    "167": {
+      "venue": "Okayama International Circuit",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/okayama-international-circuit.zip",
+      "version": "imagery-v1",
+      "sha256": "8977febcaff594cd",
+      "corners": 7,
+      "provider": "jp-gsi",
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
+    },
+    "536": {
+      "venue": "Portland International Raceway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/portland-international-raceway.zip",
+      "version": "imagery-v1",
+      "sha256": "ec1ffdb0865b7045",
+      "corners": 12,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain"
+    },
+    "537": {
+      "venue": "Portland International Raceway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/portland-international-raceway.zip",
+      "version": "imagery-v1",
+      "sha256": "ec1ffdb0865b7045",
+      "corners": 0,
+      "provider": "or-osip",
+      "attribution": "Oregon OSIP 2018"
+    },
+    "403": {
+      "venue": "Red Bull Ring",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/red-bull-ring.zip",
+      "version": "imagery-v1",
+      "sha256": "9dfe09cd67be374a",
+      "corners": 10,
+      "provider": "at-basemap",
+      "attribution": "Datenquelle: basemap.at (CC BY 4.0)"
+    },
+    "404": {
+      "venue": "Red Bull Ring",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/red-bull-ring.zip",
+      "version": "imagery-v1",
+      "sha256": "9dfe09cd67be374a",
+      "corners": 6,
+      "provider": "at-basemap",
+      "attribution": "Datenquelle: basemap.at (CC BY 4.0)"
+    },
+    "18": {
+      "venue": "Road America",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/road-america.zip",
+      "version": "imagery-v1",
+      "sha256": "b5c3e1c4130069be",
+      "corners": 14,
+      "provider": "wi-dnr",
+      "attribution": "Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery"
+    },
+    "50": {
+      "venue": "Road America",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/road-america.zip",
+      "version": "imagery-v1",
+      "sha256": "b5c3e1c4130069be",
+      "corners": 14,
+      "provider": "wi-dnr",
+      "attribution": "Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery"
+    },
+    "127": {
+      "venue": "Road Atlanta",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/road-atlanta.zip",
+      "version": "imagery-v1",
+      "sha256": "31607e49e4b795b6",
+      "corners": 11,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain"
+    },
+    "128": {
+      "venue": "Road Atlanta",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/road-atlanta.zip",
+      "version": "imagery-v1",
+      "sha256": "31607e49e4b795b6",
+      "corners": 10,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain"
+    },
+    "521": {
+      "venue": "Sachsenring",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/sachsenring.zip",
+      "version": "imagery-v1",
+      "sha256": "53da15ee42d9a822",
+      "corners": 13,
+      "provider": "de-sn",
+      "attribution": "© GeoSN (Staatsbetrieb Geobasisinformation und Vermessung Sachsen), dl-de/by-2-0"
+    },
+    "95": {
+      "venue": "Sebring International Raceway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/sebring-international-raceway.zip",
+      "version": "imagery-v1",
+      "sha256": "19bff827ad226be1",
+      "corners": 17,
+      "provider": "fl-fdot-east-2020",
+      "attribution": "FDOT — Florida Statewide Digital Orthoimagery (2020)"
+    },
+    "96": {
+      "venue": "Sebring International Raceway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/sebring-international-raceway.zip",
+      "version": "imagery-v1",
+      "sha256": "19bff827ad226be1",
+      "corners": 9,
+      "provider": "fl-fdot-east-2020",
+      "attribution": "FDOT — Florida Statewide Digital Orthoimagery (2020)"
+    },
+    "97": {
+      "venue": "Sebring International Raceway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/sebring-international-raceway.zip",
+      "version": "imagery-v1",
+      "sha256": "19bff827ad226be1",
+      "corners": 11,
+      "provider": "fl-fdot-east-2020",
+      "attribution": "FDOT — Florida Statewide Digital Orthoimagery (2020)"
+    },
+    "570": {
+      "venue": "Sonoma Raceway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/sonoma-raceway.zip",
+      "version": "imagery-v1",
+      "sha256": "64f367a5c2dd742e",
+      "corners": 18,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain"
+    },
+    "8": {
+      "venue": "Summit Point Raceway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/summit-point-raceway.zip",
+      "version": "imagery-v1",
+      "sha256": "e8faba33419366be",
+      "corners": 7,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain"
+    },
+    "9": {
+      "venue": "Summit Point Raceway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/summit-point-raceway.zip",
+      "version": "imagery-v1",
+      "sha256": "e8faba33419366be",
+      "corners": 10,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain"
+    },
+    "168": {
+      "venue": "Suzuka International Racing Course",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/suzuka-international-racing-course.zip",
+      "version": "imagery-v1",
+      "sha256": "f9eda8701956399c",
+      "corners": 0,
+      "provider": "jp-gsi",
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
+    },
+    "532": {
+      "venue": "Thruxton Circuit",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/thruxton-circuit.zip",
+      "version": "imagery-v1",
+      "sha256": "8cfd9654437f10f0",
+      "corners": 12,
+      "provider": "ea-vap",
+      "attribution": "© Environment Agency copyright and/or database right — Open Government Licence v3.0"
+    },
+    "324": {
+      "venue": "Tsukuba Circuit",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/tsukuba-circuit.zip",
+      "version": "imagery-v1",
+      "sha256": "c7f95c69d09c1466",
+      "corners": 9,
+      "provider": "jp-gsi",
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
+    },
+    "325": {
+      "venue": "Tsukuba Circuit",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/tsukuba-circuit.zip",
+      "version": "imagery-v1",
+      "sha256": "c7f95c69d09c1466",
+      "corners": 10,
+      "provider": "jp-gsi",
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
+    },
+    "329": {
+      "venue": "Tsukuba Circuit",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/tsukuba-circuit.zip",
+      "version": "imagery-v1",
+      "sha256": "c7f95c69d09c1466",
+      "corners": 11,
+      "provider": "jp-gsi",
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
+    },
+    "465": {
+      "venue": "Virginia International Raceway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/virginia-international-raceway.zip",
+      "version": "imagery-v1",
+      "sha256": "0e7f1b5c5a85b092",
+      "corners": 16,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain"
+    },
+    "467": {
+      "venue": "Virginia International Raceway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/virginia-international-raceway.zip",
+      "version": "imagery-v1",
+      "sha256": "0e7f1b5c5a85b092",
+      "corners": 16,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain"
+    },
+    "432": {
+      "venue": "Watkins Glen International",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/watkins-glen-international.zip",
+      "version": "imagery-v1",
+      "sha256": "9b0083b4b6734043",
+      "corners": 7,
+      "provider": "ny-its",
+      "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery"
+    },
+    "433": {
+      "venue": "Watkins Glen International",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/watkins-glen-international.zip",
+      "version": "imagery-v1",
+      "sha256": "9b0083b4b6734043",
+      "corners": 7,
+      "provider": "ny-its",
+      "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery"
+    },
+    "434": {
+      "venue": "Watkins Glen International",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/watkins-glen-international.zip",
+      "version": "imagery-v1",
+      "sha256": "9b0083b4b6734043",
+      "corners": 11,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain"
+    },
+    "435": {
+      "venue": "Watkins Glen International",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/watkins-glen-international.zip",
+      "version": "imagery-v1",
+      "sha256": "9b0083b4b6734043",
+      "corners": 11,
+      "provider": "ny-its",
+      "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery"
+    },
+    "586": {
+      "venue": "WeatherTech Raceway Laguna Seca",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/weathertech-raceway-laguna-seca.zip",
+      "version": "imagery-v1",
+      "sha256": "9e67d365ebd09c5f",
+      "corners": 11,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain"
+    },
+    "47": {
+      "venue": "WeatherTech Raceway at Laguna Seca",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/weathertech-raceway-at-laguna-seca.zip",
+      "version": "imagery-v1",
+      "sha256": "7f7bd7873c6a1aa0",
+      "corners": 11,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain"
+    },
+    "481": {
+      "venue": "Willow Springs International Raceway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/willow-springs-international-raceway.zip",
+      "version": "imagery-v1",
+      "sha256": "700b07435a4950f2",
+      "corners": 9,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain"
+    },
+    "238": {
+      "venue": "World Wide Technology Raceway (Gateway)",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/world-wide-technology-raceway-gateway.zip",
+      "version": "imagery-v1",
+      "sha256": "0276eb71f3a420dc",
+      "corners": 8,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain"
+    }
+  }
+}

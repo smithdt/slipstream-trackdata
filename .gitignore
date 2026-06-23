@@ -1,0 +1,9 @@
+# Imagery binaries are distributed via GitHub Release assets, NOT committed (would bloat git history forever).
+satellite/
+dist/
+*.zip
+
+# scratch
+__pycache__/
+*.pyc
+.DS_Store
