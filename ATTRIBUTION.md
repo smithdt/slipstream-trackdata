@@ -56,3 +56,5 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
   _LVermGeo RLP DOP20 via WMS (layer rp_dop20), 0.20 m, EPSG:3857 (probed live 2026-06-09; covers Nürburgring GP + Nordschleife)_
 - **出典：国土地理院（地理院タイル seamlessphoto を加工して作成）**  
   _GSI (Geospatial Information Authority of Japan) 地理院タイル seamlessphoto XYZ tiles, max z18 (~0.2-0.4 m effective), native EPSG:3857 (probed live 2026-06-09; nationwide — Suzuka/Fuji/Motegi/Okayama/Tsukuba)_
+- **(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)**  
+- **(c) Scottish Government / Scottish Remote Sensing Portal (OGL v3.0); (c) OpenStreetMap contributors (ODbL)**  

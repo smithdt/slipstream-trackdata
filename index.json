@@ -810,6 +810,105 @@
       "corners": 8,
       "provider": "naip",
       "attribution": "USDA Farm Service Agency / USGS — public domain"
+    },
+    "145": {
+      "venue": "Brands Hatch Circuit",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/brands-hatch-circuit.zip",
+      "version": "imagery-v1",
+      "sha256": "71d8b0e8be645eb3",
+      "corners": 9,
+      "provider": "ea-lidar-osm",
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
+    },
+    "146": {
+      "venue": "Brands Hatch Circuit",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/brands-hatch-circuit.zip",
+      "version": "imagery-v1",
+      "sha256": "71d8b0e8be645eb3",
+      "corners": 5,
+      "provider": "ea-lidar-osm",
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
+    },
+    "527": {
+      "venue": "Cadwell Park Circuit",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/cadwell-park-circuit.zip",
+      "version": "imagery-v1",
+      "sha256": "b028b16c7adf2a8f",
+      "corners": 18,
+      "provider": "ea-lidar-osm",
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
+    },
+    "233": {
+      "venue": "Donington Park Racing Circuit",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/donington-park-racing-circuit.zip",
+      "version": "imagery-v1",
+      "sha256": "50b5c02159bb821d",
+      "corners": 12,
+      "provider": "ea-lidar-osm",
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
+    },
+    "234": {
+      "venue": "Donington Park Racing Circuit",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/donington-park-racing-circuit.zip",
+      "version": "imagery-v1",
+      "sha256": "50b5c02159bb821d",
+      "corners": 10,
+      "provider": "ea-lidar-osm",
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
+    },
+    "423": {
+      "venue": "Knockhill Racing Circuit",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/knockhill-racing-circuit.zip",
+      "version": "imagery-v1",
+      "sha256": "291631eaf2a9473b",
+      "corners": 9,
+      "provider": "srsp-lidar-osm",
+      "attribution": "(c) Scottish Government / Scottish Remote Sensing Portal (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
+    },
+    "180": {
+      "venue": "Oulton Park Circuit",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/oulton-park-circuit.zip",
+      "version": "imagery-v1",
+      "sha256": "cfb0f1cea22cd8ef",
+      "corners": 17,
+      "provider": "ea-lidar-osm",
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
+    },
+    "341": {
+      "venue": "Silverstone Circuit",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/silverstone-circuit.zip",
+      "version": "imagery-v1",
+      "sha256": "d24982e1703a4f62",
+      "corners": 18,
+      "provider": "ea-lidar-osm",
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
+    },
+    "342": {
+      "venue": "Silverstone Circuit",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/silverstone-circuit.zip",
+      "version": "imagery-v1",
+      "sha256": "d24982e1703a4f62",
+      "corners": 9,
+      "provider": "ea-lidar-osm",
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
+    },
+    "343": {
+      "venue": "Silverstone Circuit",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/silverstone-circuit.zip",
+      "version": "imagery-v1",
+      "sha256": "d24982e1703a4f62",
+      "corners": 6,
+      "provider": "ea-lidar-osm",
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
+    },
+    "297": {
+      "venue": "Snetterton Circuit",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/snetterton-circuit.zip",
+      "version": "imagery-v1",
+      "sha256": "84b5ef794f2dc6ea",
+      "corners": 13,
+      "provider": "ea-lidar-osm",
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
     }
   }
 }
