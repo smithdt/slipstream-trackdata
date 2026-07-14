@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v2-road-america",
+  "version": "imagery-v2-catalog-01",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -48,11 +48,12 @@
     },
     "212": {
       "venue": "Autódromo José Carlos Pace",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/aut-dromo-jos-carlos-pace.zip",
-      "version": "imagery-v1",
-      "sha256": "56778831422a237a",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/aut-dromo-jos-carlos-pace.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "21eeaf572a92d947",
       "corners": 15,
       "provider": "br-geosampa",
+      "live_tiles": 86,
       "attribution": "© Prefeitura de São Paulo — GeoSampa (CC BY-SA 4.0)"
     },
     "585": {
@@ -66,11 +67,12 @@
     },
     "144": {
       "venue": "Canadian Tire Motorsports Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/canadian-tire-motorsports-park.zip",
-      "version": "imagery-v1",
-      "sha256": "02eba02fca6356ad",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/canadian-tire-motorsports-park.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "cc010aa3eb1604e9",
       "corners": 10,
       "provider": "ca-on-oiwms",
+      "live_tiles": 108,
       "attribution": "Contains information licensed under the Open Government Licence – Ontario"
     },
     "483": {
@@ -102,20 +104,22 @@
     },
     "199": {
       "venue": "Circuit Zolder",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-zolder.zip",
-      "version": "imagery-v1",
-      "sha256": "125776f313a74014",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/circuit-zolder.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "84696b2f298a20d7",
       "corners": 10,
       "provider": "be-flanders",
+      "live_tiles": 89,
       "attribution": "© Digitaal Vlaanderen — Orthofotomozaïek"
     },
     "200": {
       "venue": "Circuit Zolder",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-zolder.zip",
-      "version": "imagery-v1",
-      "sha256": "125776f313a74014",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/circuit-zolder.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "84696b2f298a20d7",
       "corners": 10,
       "provider": "be-flanders",
+      "live_tiles": 90,
       "attribution": "© Digitaal Vlaanderen — Orthofotomozaïek"
     },
     "345": {
@@ -210,11 +214,12 @@
     },
     "229": {
       "venue": "Circuit of the Americas",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-of-the-americas.zip",
-      "version": "imagery-v1",
-      "sha256": "9135fbb242767a07",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/circuit-of-the-americas.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "ce67d2fb12564575",
       "corners": 20,
       "provider": "tx-stratmap19-caparea",
+      "live_tiles": 112,
       "attribution": "Texas StratMap 2019 / TxGIO (TNRIS) — Capital Area"
     },
     "473": {
@@ -255,20 +260,22 @@
     },
     "192": {
       "venue": "Daytona International Speedway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/daytona-international-speedway.zip",
-      "version": "imagery-v1",
-      "sha256": "c31c5499b62d7a93",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/daytona-international-speedway.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "b731756fe03398ca",
       "corners": 12,
       "provider": "naip",
+      "live_tiles": 31,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "319": {
       "venue": "Detroit Grand Prix at Belle Isle",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/detroit-grand-prix-at-belle-isle.zip",
-      "version": "imagery-v1",
-      "sha256": "f56985c5431b0830",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/detroit-grand-prix-at-belle-isle.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "0df5fb6de5d49f49",
       "corners": 14,
       "provider": "naip",
+      "live_tiles": 25,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "444": {
@@ -318,11 +325,12 @@
     },
     "22": {
       "venue": "Homestead Miami Speedway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/homestead-miami-speedway.zip",
-      "version": "imagery-v1",
-      "sha256": "6ca7550e03cd5364",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/homestead-miami-speedway.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "3f2d7e99e7db541e",
       "corners": 10,
       "provider": "naip",
+      "live_tiles": 16,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "448": {
@@ -336,47 +344,52 @@
     },
     "352": {
       "venue": "Lime Rock Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/lime-rock-park.zip",
-      "version": "imagery-v1",
-      "sha256": "6def2e633fedfa25",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/lime-rock-park.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "5e7735ebc51389da",
       "corners": 7,
       "provider": "ct-cteco",
+      "live_tiles": 64,
       "attribution": "Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)"
     },
     "353": {
       "venue": "Lime Rock Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/lime-rock-park.zip",
-      "version": "imagery-v1",
-      "sha256": "6def2e633fedfa25",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/lime-rock-park.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "5e7735ebc51389da",
       "corners": 9,
       "provider": "ct-cteco",
+      "live_tiles": 64,
       "attribution": "Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)"
     },
     "354": {
       "venue": "Lime Rock Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/lime-rock-park.zip",
-      "version": "imagery-v1",
-      "sha256": "6def2e633fedfa25",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/lime-rock-park.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "5e7735ebc51389da",
       "corners": 11,
       "provider": "ct-cteco",
+      "live_tiles": 65,
       "attribution": "Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)"
     },
     "355": {
       "venue": "Lime Rock Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/lime-rock-park.zip",
-      "version": "imagery-v1",
-      "sha256": "6def2e633fedfa25",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/lime-rock-park.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "5e7735ebc51389da",
       "corners": 9,
       "provider": "ct-cteco",
+      "live_tiles": 65,
       "attribution": "Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)"
     },
     "179": {
       "venue": "Long Beach Street Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/long-beach-street-circuit.zip",
-      "version": "imagery-v1",
-      "sha256": "bf7ef537c70f45d3",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/long-beach-street-circuit.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "3f2e42255e63b9e5",
       "corners": 11,
       "provider": "naip",
+      "live_tiles": 18,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "539": {
@@ -390,11 +403,12 @@
     },
     "153": {
       "venue": "Mid-Ohio Sports Car Course",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/mid-ohio-sports-car-course.zip",
-      "version": "imagery-v1",
-      "sha256": "ed0aa6cacb9ab811",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/mid-ohio-sports-car-course.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "ea8fbb1df6146e11",
       "corners": 13,
       "provider": "oh-morrow-2021",
+      "live_tiles": 81,
       "attribution": "Morrow County GIS — 2021 Aerial Imagery"
     },
     "501": {
@@ -426,11 +440,12 @@
     },
     "195": {
       "venue": "Mobility Resort Motegi",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/mobility-resort-motegi.zip",
-      "version": "imagery-v1",
-      "sha256": "4c7f53756590194e",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/mobility-resort-motegi.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "69c2e0365ebf416e",
       "corners": 14,
       "provider": "jp-gsi",
+      "live_tiles": 63,
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
     },
     "475": {
@@ -525,20 +540,22 @@
     },
     "166": {
       "venue": "Okayama International Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/okayama-international-circuit.zip",
-      "version": "imagery-v1",
-      "sha256": "8977febcaff594cd",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/okayama-international-circuit.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "16dcf53afa85e038",
       "corners": 11,
       "provider": "jp-gsi",
+      "live_tiles": 48,
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
     },
     "167": {
       "venue": "Okayama International Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/okayama-international-circuit.zip",
-      "version": "imagery-v1",
-      "sha256": "8977febcaff594cd",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/okayama-international-circuit.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "16dcf53afa85e038",
       "corners": 7,
       "provider": "jp-gsi",
+      "live_tiles": 35,
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
     },
     "536": {
@@ -589,29 +606,32 @@
     },
     "50": {
       "venue": "Road America",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/road-america.zip",
-      "version": "imagery-v1",
-      "sha256": "b5c3e1c4130069be",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/road-america.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "4c20c2bbad1bc162",
       "corners": 14,
       "provider": "wi-dnr",
+      "live_tiles": 146,
       "attribution": "Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery"
     },
     "127": {
       "venue": "Road Atlanta",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/road-atlanta.zip",
-      "version": "imagery-v1",
-      "sha256": "31607e49e4b795b6",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/road-atlanta.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "716224cfa8d0e4bb",
       "corners": 11,
       "provider": "naip",
+      "live_tiles": 30,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "128": {
       "venue": "Road Atlanta",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/road-atlanta.zip",
-      "version": "imagery-v1",
-      "sha256": "31607e49e4b795b6",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/road-atlanta.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "716224cfa8d0e4bb",
       "corners": 10,
       "provider": "naip",
+      "live_tiles": 19,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "521": {
@@ -625,29 +645,32 @@
     },
     "95": {
       "venue": "Sebring International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/sebring-international-raceway.zip",
-      "version": "imagery-v1",
-      "sha256": "19bff827ad226be1",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/sebring-international-raceway.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "3e7e4184877f6cb9",
       "corners": 17,
       "provider": "fl-fdot-east-2020",
+      "live_tiles": 120,
       "attribution": "FDOT — Florida Statewide Digital Orthoimagery (2020)"
     },
     "96": {
       "venue": "Sebring International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/sebring-international-raceway.zip",
-      "version": "imagery-v1",
-      "sha256": "19bff827ad226be1",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/sebring-international-raceway.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "3e7e4184877f6cb9",
       "corners": 9,
       "provider": "fl-fdot-east-2020",
+      "live_tiles": 72,
       "attribution": "FDOT — Florida Statewide Digital Orthoimagery (2020)"
     },
     "97": {
       "venue": "Sebring International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/sebring-international-raceway.zip",
-      "version": "imagery-v1",
-      "sha256": "19bff827ad226be1",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/sebring-international-raceway.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "3e7e4184877f6cb9",
       "corners": 11,
       "provider": "fl-fdot-east-2020",
+      "live_tiles": 67,
       "attribution": "FDOT — Florida Statewide Digital Orthoimagery (2020)"
     },
     "570": {
@@ -661,29 +684,32 @@
     },
     "8": {
       "venue": "Summit Point Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/summit-point-raceway.zip",
-      "version": "imagery-v1",
-      "sha256": "e8faba33419366be",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/summit-point-raceway.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "42f1d4e8544f8117",
       "corners": 7,
       "provider": "naip",
+      "live_tiles": 8,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "9": {
       "venue": "Summit Point Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/summit-point-raceway.zip",
-      "version": "imagery-v1",
-      "sha256": "e8faba33419366be",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/summit-point-raceway.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "42f1d4e8544f8117",
       "corners": 10,
       "provider": "naip",
+      "live_tiles": 18,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "168": {
       "venue": "Suzuka International Racing Course",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/suzuka-international-racing-course.zip",
-      "version": "imagery-v1",
-      "sha256": "f9eda8701956399c",
-      "corners": 0,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/suzuka-international-racing-course.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "d603ed2ed2d730a0",
+      "corners": 17,
       "provider": "jp-gsi",
+      "live_tiles": 85,
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
     },
     "532": {
@@ -787,11 +813,12 @@
     },
     "47": {
       "venue": "WeatherTech Raceway at Laguna Seca",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/weathertech-raceway-at-laguna-seca.zip",
-      "version": "imagery-v1",
-      "sha256": "7f7bd7873c6a1aa0",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/weathertech-raceway-at-laguna-seca.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "50e6b6cf6167ec54",
       "corners": 11,
       "provider": "naip",
+      "live_tiles": 21,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "481": {
@@ -805,11 +832,12 @@
     },
     "238": {
       "venue": "World Wide Technology Raceway (Gateway)",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/world-wide-technology-raceway-gateway.zip",
-      "version": "imagery-v1",
-      "sha256": "0276eb71f3a420dc",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/world-wide-technology-raceway-gateway.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "f209311488b63b41",
       "corners": 8,
       "provider": "naip",
+      "live_tiles": 13,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "145": {
@@ -910,6 +938,126 @@
       "corners": 13,
       "provider": "ea-lidar-osm",
       "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
+    },
+    "147": {
+      "venue": "Circuit Zandvoort",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/circuit-zandvoort.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "ab050e80e1cfc87e",
+      "corners": 14,
+      "provider": "nl-pdok-2019",
+      "live_tiles": 77,
+      "attribution": "© PDOK / Kadaster — Luchtfoto 2019 (CC BY 4.0)"
+    },
+    "148": {
+      "venue": "Circuit Zandvoort",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/circuit-zandvoort.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "ab050e80e1cfc87e",
+      "corners": 8,
+      "provider": "nl-pdok-2019",
+      "live_tiles": 53,
+      "attribution": "© PDOK / Kadaster — Luchtfoto 2019 (CC BY 4.0)"
+    },
+    "149": {
+      "venue": "Circuit Zandvoort",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/circuit-zandvoort.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "ab050e80e1cfc87e",
+      "corners": 14,
+      "provider": "nl-pdok-2019",
+      "live_tiles": 77,
+      "attribution": "© PDOK / Kadaster — Luchtfoto 2019 (CC BY 4.0)"
+    },
+    "150": {
+      "venue": "Circuit Zandvoort",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/circuit-zandvoort.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "ab050e80e1cfc87e",
+      "corners": 10,
+      "provider": "nl-pdok-2019",
+      "live_tiles": 62,
+      "attribution": "© PDOK / Kadaster — Luchtfoto 2019 (CC BY 4.0)"
+    },
+    "151": {
+      "venue": "Circuit Zandvoort",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/circuit-zandvoort.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "ab050e80e1cfc87e",
+      "corners": 6,
+      "provider": "nl-pdok-2019",
+      "live_tiles": 33,
+      "attribution": "© PDOK / Kadaster — Luchtfoto 2019 (CC BY 4.0)"
+    },
+    "218": {
+      "venue": "Circuit Gilles Villeneuve",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/circuit-gilles-villeneuve.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "2fd7e2c3ccf80fe7",
+      "corners": 14,
+      "provider": "wm-skysat-montreal",
+      "live_tiles": 12,
+      "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    "202": {
+      "venue": "Oran Park Raceway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/oran-park-raceway.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "d9daad8dc03f8ecc",
+      "corners": 12,
+      "provider": "au-nsw-hist1998",
+      "live_tiles": 13,
+      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)"
+    },
+    "207": {
+      "venue": "Oran Park Raceway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/oran-park-raceway.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "d9daad8dc03f8ecc",
+      "corners": 0,
+      "provider": "au-nsw-hist1998",
+      "live_tiles": 8,
+      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)"
+    },
+    "208": {
+      "venue": "Oran Park Raceway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/oran-park-raceway.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "d9daad8dc03f8ecc",
+      "corners": 7,
+      "provider": "au-nsw-hist1998",
+      "live_tiles": 13,
+      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)"
+    },
+    "209": {
+      "venue": "Oran Park Raceway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/oran-park-raceway.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "d9daad8dc03f8ecc",
+      "corners": 0,
+      "provider": "au-nsw-hist1998",
+      "live_tiles": 8,
+      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)"
+    },
+    "210": {
+      "venue": "Oran Park Raceway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/oran-park-raceway.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "d9daad8dc03f8ecc",
+      "corners": 0,
+      "provider": "au-nsw-hist1998",
+      "live_tiles": 6,
+      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)"
+    },
+    "211": {
+      "venue": "Oran Park Raceway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-01/oran-park-raceway.zip",
+      "version": "imagery-v2-catalog-01",
+      "sha256": "d9daad8dc03f8ecc",
+      "corners": 0,
+      "provider": "au-nsw-hist1998",
+      "live_tiles": 13,
+      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)"
     }
   }
 }
