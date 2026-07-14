@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v2-nurburgring-combined",
+  "version": "imagery-v2-catalog-06",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -39,12 +39,11 @@
     },
     "239": {
       "venue": "Autodromo Nazionale Monza",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-07/autodromo-nazionale-monza.zip",
-      "version": "imagery-v2-catalog-07",
-      "sha256": "8c324a792628e026",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/autodromo-nazionale-monza.zip",
+      "version": "imagery-v1",
+      "sha256": "69ab80a00496d3a2",
       "corners": 11,
       "provider": "it-mase",
-      "live_tiles": 49,
       "attribution": "Geoportale Nazionale — Ministero dell'Ambiente (MASE), Ortofoto 2012"
     },
     "212": {
@@ -482,22 +481,20 @@
     },
     "219": {
       "venue": "Mount Panorama Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-07/mount-panorama-circuit.zip",
-      "version": "imagery-v2-catalog-07",
-      "sha256": "801c2eb9a4557f13",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/mount-panorama-circuit.zip",
+      "version": "imagery-v1",
+      "sha256": "e094507b9f49c5c2",
       "corners": 23,
       "provider": "au-nsw",
-      "live_tiles": 55,
       "attribution": "(c) State of New South Wales (Spatial Services) - CC-BY 3.0 AU"
     },
     "252": {
       "venue": "Nürburgring Combined",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-nurburgring-combined/n-rburgring-combined.zip",
-      "version": "imagery-v2-nurburgring-combined",
-      "sha256": "564ed11b44554925",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/n-rburgring-combined.zip",
+      "version": "imagery-v1",
+      "sha256": "94b7ccf53f36a13e",
       "corners": 0,
       "provider": "de-rlp",
-      "live_tiles": 664,
       "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]"
     },
     "262": {
@@ -511,12 +508,11 @@
     },
     "250": {
       "venue": "Nürburgring Grand-Prix-Strecke",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-07/n-rburgring-grand-prix-strecke.zip",
-      "version": "imagery-v2-catalog-07",
-      "sha256": "a448e25fa847d8e1",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/n-rburgring-grand-prix-strecke.zip",
+      "version": "imagery-v1",
+      "sha256": "ea52e4367f2913e3",
       "corners": 16,
       "provider": "de-rlp",
-      "live_tiles": 102,
       "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]"
     },
     "255": {
@@ -539,12 +535,11 @@
     },
     "249": {
       "venue": "Nürburgring Nordschleife",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-nordschleife/n-rburgring-nordschleife.zip",
-      "version": "imagery-v2-nordschleife",
-      "sha256": "7c7c9e887a85eb8d",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/n-rburgring-nordschleife.zip",
+      "version": "imagery-v1",
+      "sha256": "94cf7172c9b128d8",
       "corners": 0,
       "provider": "de-rlp",
-      "live_tiles": 594,
       "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]"
     },
     "166": {
