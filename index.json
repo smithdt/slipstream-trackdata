@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v2-catalog-03",
+  "version": "imagery-v2-catalog-04",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -721,11 +721,12 @@
     },
     "532": {
       "venue": "Thruxton Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/thruxton-circuit.zip",
-      "version": "imagery-v1",
-      "sha256": "8cfd9654437f10f0",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-04/thruxton-circuit.zip",
+      "version": "imagery-v2-catalog-04",
+      "sha256": "d25eef96173ea273",
       "corners": 12,
       "provider": "ea-vap",
+      "live_tiles": 4,
       "attribution": "© Environment Agency copyright and/or database right — Open Government Licence v3.0"
     },
     "324": {
@@ -857,65 +858,72 @@
     },
     "145": {
       "venue": "Brands Hatch Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/brands-hatch-circuit.zip",
-      "version": "imagery-v1",
-      "sha256": "71d8b0e8be645eb3",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-04/brands-hatch-circuit.zip",
+      "version": "imagery-v2-catalog-04",
+      "sha256": "0ebf2d59014bc0d7",
       "corners": 9,
       "provider": "ea-lidar-osm",
+      "live_tiles": 22,
       "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
     },
     "146": {
       "venue": "Brands Hatch Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/brands-hatch-circuit.zip",
-      "version": "imagery-v1",
-      "sha256": "71d8b0e8be645eb3",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-04/brands-hatch-circuit.zip",
+      "version": "imagery-v2-catalog-04",
+      "sha256": "0ebf2d59014bc0d7",
       "corners": 5,
       "provider": "ea-lidar-osm",
+      "live_tiles": 12,
       "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
     },
     "527": {
       "venue": "Cadwell Park Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/cadwell-park-circuit.zip",
-      "version": "imagery-v1",
-      "sha256": "b028b16c7adf2a8f",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-04/cadwell-park-circuit.zip",
+      "version": "imagery-v2-catalog-04",
+      "sha256": "3c88ac95dceac3ff",
       "corners": 18,
       "provider": "ea-lidar-osm",
+      "live_tiles": 21,
       "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
     },
     "233": {
       "venue": "Donington Park Racing Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/donington-park-racing-circuit.zip",
-      "version": "imagery-v1",
-      "sha256": "50b5c02159bb821d",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-04/donington-park-racing-circuit.zip",
+      "version": "imagery-v2-catalog-04",
+      "sha256": "f99509df7bcdfbf0",
       "corners": 12,
       "provider": "ea-lidar-osm",
+      "live_tiles": 26,
       "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
     },
     "234": {
       "venue": "Donington Park Racing Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/donington-park-racing-circuit.zip",
-      "version": "imagery-v1",
-      "sha256": "50b5c02159bb821d",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-04/donington-park-racing-circuit.zip",
+      "version": "imagery-v2-catalog-04",
+      "sha256": "f99509df7bcdfbf0",
       "corners": 10,
       "provider": "ea-lidar-osm",
+      "live_tiles": 26,
       "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
     },
     "423": {
       "venue": "Knockhill Racing Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/knockhill-racing-circuit.zip",
-      "version": "imagery-v1",
-      "sha256": "291631eaf2a9473b",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-04/knockhill-racing-circuit.zip",
+      "version": "imagery-v2-catalog-04",
+      "sha256": "7ed98d47d66224f4",
       "corners": 9,
       "provider": "srsp-lidar-osm",
+      "live_tiles": 16,
       "attribution": "(c) Scottish Government / Scottish Remote Sensing Portal (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
     },
     "180": {
       "venue": "Oulton Park Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/oulton-park-circuit.zip",
-      "version": "imagery-v1",
-      "sha256": "cfb0f1cea22cd8ef",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-04/oulton-park-circuit.zip",
+      "version": "imagery-v2-catalog-04",
+      "sha256": "90b57846cb6c2655",
       "corners": 17,
       "provider": "ea-lidar-osm",
+      "live_tiles": 29,
       "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
     },
     "341": {
@@ -947,11 +955,12 @@
     },
     "297": {
       "venue": "Snetterton Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/snetterton-circuit.zip",
-      "version": "imagery-v1",
-      "sha256": "84b5ef794f2dc6ea",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-04/snetterton-circuit.zip",
+      "version": "imagery-v2-catalog-04",
+      "sha256": "1dac78ca27130137",
       "corners": 13,
       "provider": "ea-lidar-osm",
+      "live_tiles": 22,
       "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
     },
     "147": {
