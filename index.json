@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v2-catalog-04",
+  "version": "imagery-v2-nordschleife",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -535,11 +535,12 @@
     },
     "249": {
       "venue": "Nürburgring Nordschleife",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/n-rburgring-nordschleife.zip",
-      "version": "imagery-v1",
-      "sha256": "94cf7172c9b128d8",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-nordschleife/n-rburgring-nordschleife.zip",
+      "version": "imagery-v2-nordschleife",
+      "sha256": "7c7c9e887a85eb8d",
       "corners": 0,
       "provider": "de-rlp",
+      "live_tiles": 594,
       "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]"
     },
     "166": {
