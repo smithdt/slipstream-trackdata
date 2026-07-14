@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v2-catalog-10",
+  "version": "imagery-v2-catalog-11",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -215,11 +215,12 @@
     },
     "229": {
       "venue": "Circuit of the Americas",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-of-the-americas.zip",
-      "version": "imagery-v1",
-      "sha256": "9135fbb242767a07",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-11/circuit-of-the-americas.zip",
+      "version": "imagery-v2-catalog-11",
+      "sha256": "bbbf818b07cbcd10",
       "corners": 20,
       "provider": "tx-stratmap19-caparea",
+      "live_tiles": 113,
       "attribution": "Texas StratMap 2019 / TxGIO (TNRIS) — Capital Area"
     },
     "473": {
@@ -325,11 +326,12 @@
     },
     "22": {
       "venue": "Homestead Miami Speedway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/homestead-miami-speedway.zip",
-      "version": "imagery-v1",
-      "sha256": "6ca7550e03cd5364",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-11/homestead-miami-speedway.zip",
+      "version": "imagery-v2-catalog-11",
+      "sha256": "fee4b97197df7c2d",
       "corners": 10,
       "provider": "naip",
+      "live_tiles": 16,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "448": {
@@ -361,20 +363,22 @@
     },
     "354": {
       "venue": "Lime Rock Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/lime-rock-park.zip",
-      "version": "imagery-v1",
-      "sha256": "6def2e633fedfa25",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-11/lime-rock-park.zip",
+      "version": "imagery-v2-catalog-11",
+      "sha256": "650f97d635f1999e",
       "corners": 11,
       "provider": "ct-cteco",
+      "live_tiles": 64,
       "attribution": "Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)"
     },
     "355": {
       "venue": "Lime Rock Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/lime-rock-park.zip",
-      "version": "imagery-v1",
-      "sha256": "6def2e633fedfa25",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-11/lime-rock-park.zip",
+      "version": "imagery-v2-catalog-11",
+      "sha256": "650f97d635f1999e",
       "corners": 9,
       "provider": "ct-cteco",
+      "live_tiles": 64,
       "attribution": "Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)"
     },
     "179": {
@@ -397,11 +401,12 @@
     },
     "153": {
       "venue": "Mid-Ohio Sports Car Course",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/mid-ohio-sports-car-course.zip",
-      "version": "imagery-v1",
-      "sha256": "ed0aa6cacb9ab811",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-11/mid-ohio-sports-car-course.zip",
+      "version": "imagery-v2-catalog-11",
+      "sha256": "54dca0c341c80a28",
       "corners": 13,
       "provider": "oh-morrow-2021",
+      "live_tiles": 81,
       "attribution": "Morrow County GIS — 2021 Aerial Imagery"
     },
     "501": {
@@ -599,29 +604,32 @@
     },
     "50": {
       "venue": "Road America",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/road-america.zip",
-      "version": "imagery-v1",
-      "sha256": "b5c3e1c4130069be",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-11/road-america.zip",
+      "version": "imagery-v2-catalog-11",
+      "sha256": "37a1cb19144a03cc",
       "corners": 14,
       "provider": "wi-dnr",
+      "live_tiles": 147,
       "attribution": "Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery"
     },
     "127": {
       "venue": "Road Atlanta",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/road-atlanta.zip",
-      "version": "imagery-v1",
-      "sha256": "31607e49e4b795b6",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-11/road-atlanta.zip",
+      "version": "imagery-v2-catalog-11",
+      "sha256": "e317031ac7af7be7",
       "corners": 11,
       "provider": "naip",
+      "live_tiles": 30,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "128": {
       "venue": "Road Atlanta",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/road-atlanta.zip",
-      "version": "imagery-v1",
-      "sha256": "31607e49e4b795b6",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-11/road-atlanta.zip",
+      "version": "imagery-v2-catalog-11",
+      "sha256": "e317031ac7af7be7",
       "corners": 10,
       "provider": "naip",
+      "live_tiles": 19,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "521": {
@@ -671,11 +679,12 @@
     },
     "8": {
       "venue": "Summit Point Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/summit-point-raceway.zip",
-      "version": "imagery-v1",
-      "sha256": "e8faba33419366be",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-11/summit-point-raceway.zip",
+      "version": "imagery-v2-catalog-11",
+      "sha256": "d4c1aca8d52ccd95",
       "corners": 7,
       "provider": "naip",
+      "live_tiles": 8,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "9": {
@@ -816,11 +825,12 @@
     },
     "238": {
       "venue": "World Wide Technology Raceway (Gateway)",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/world-wide-technology-raceway-gateway.zip",
-      "version": "imagery-v1",
-      "sha256": "0276eb71f3a420dc",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-11/world-wide-technology-raceway-gateway.zip",
+      "version": "imagery-v2-catalog-11",
+      "sha256": "3c8532ed5eb55619",
       "corners": 8,
       "provider": "naip",
+      "live_tiles": 13,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "145": {
