@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v2-catalog-11",
+  "version": "imagery-v2-catalog-12",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -67,11 +67,12 @@
     },
     "144": {
       "venue": "Canadian Tire Motorsports Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/canadian-tire-motorsports-park.zip",
-      "version": "imagery-v1",
-      "sha256": "02eba02fca6356ad",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-12/canadian-tire-motorsports-park.zip",
+      "version": "imagery-v2-catalog-12",
+      "sha256": "cdd6d132b5d7a015",
       "corners": 10,
       "provider": "ca-on-oiwms",
+      "live_tiles": 108,
       "attribution": "Contains information licensed under the Open Government Licence – Ontario"
     },
     "483": {
@@ -438,11 +439,12 @@
     },
     "195": {
       "venue": "Mobility Resort Motegi",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/mobility-resort-motegi.zip",
-      "version": "imagery-v1",
-      "sha256": "4c7f53756590194e",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-12/mobility-resort-motegi.zip",
+      "version": "imagery-v2-catalog-12",
+      "sha256": "9369d4145d09a3ce",
       "corners": 14,
       "provider": "jp-gsi",
+      "live_tiles": 63,
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
     },
     "475": {
@@ -540,20 +542,22 @@
     },
     "166": {
       "venue": "Okayama International Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/okayama-international-circuit.zip",
-      "version": "imagery-v1",
-      "sha256": "8977febcaff594cd",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-12/okayama-international-circuit.zip",
+      "version": "imagery-v2-catalog-12",
+      "sha256": "bfa5c334817cd74d",
       "corners": 11,
       "provider": "jp-gsi",
+      "live_tiles": 48,
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
     },
     "167": {
       "venue": "Okayama International Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/okayama-international-circuit.zip",
-      "version": "imagery-v1",
-      "sha256": "8977febcaff594cd",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-12/okayama-international-circuit.zip",
+      "version": "imagery-v2-catalog-12",
+      "sha256": "bfa5c334817cd74d",
       "corners": 7,
       "provider": "jp-gsi",
+      "live_tiles": 35,
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
     },
     "536": {
@@ -698,11 +702,12 @@
     },
     "168": {
       "venue": "Suzuka International Racing Course",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/suzuka-international-racing-course.zip",
-      "version": "imagery-v1",
-      "sha256": "f9eda8701956399c",
-      "corners": 0,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-12/suzuka-international-racing-course.zip",
+      "version": "imagery-v2-catalog-12",
+      "sha256": "7345c009912ee84b",
+      "corners": 17,
       "provider": "jp-gsi",
+      "live_tiles": 86,
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
     },
     "532": {
@@ -939,6 +944,56 @@
       "provider": "ea-lidar-osm",
       "live_tiles": 22,
       "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
+    },
+    "147": {
+      "venue": "Circuit Zandvoort",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-12/circuit-zandvoort.zip",
+      "version": "imagery-v2-catalog-12",
+      "sha256": "045cc2971e367e21",
+      "corners": 14,
+      "provider": "nl-pdok-2019",
+      "live_tiles": 77,
+      "attribution": "© PDOK / Kadaster — Luchtfoto 2019 (CC BY 4.0)"
+    },
+    "148": {
+      "venue": "Circuit Zandvoort",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-12/circuit-zandvoort.zip",
+      "version": "imagery-v2-catalog-12",
+      "sha256": "045cc2971e367e21",
+      "corners": 8,
+      "provider": "nl-pdok-2019",
+      "live_tiles": 53,
+      "attribution": "© PDOK / Kadaster — Luchtfoto 2019 (CC BY 4.0)"
+    },
+    "149": {
+      "venue": "Circuit Zandvoort",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-12/circuit-zandvoort.zip",
+      "version": "imagery-v2-catalog-12",
+      "sha256": "045cc2971e367e21",
+      "corners": 14,
+      "provider": "nl-pdok-2019",
+      "live_tiles": 77,
+      "attribution": "© PDOK / Kadaster — Luchtfoto 2019 (CC BY 4.0)"
+    },
+    "150": {
+      "venue": "Circuit Zandvoort",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-12/circuit-zandvoort.zip",
+      "version": "imagery-v2-catalog-12",
+      "sha256": "045cc2971e367e21",
+      "corners": 10,
+      "provider": "nl-pdok-2019",
+      "live_tiles": 62,
+      "attribution": "© PDOK / Kadaster — Luchtfoto 2019 (CC BY 4.0)"
+    },
+    "151": {
+      "venue": "Circuit Zandvoort",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-12/circuit-zandvoort.zip",
+      "version": "imagery-v2-catalog-12",
+      "sha256": "045cc2971e367e21",
+      "corners": 6,
+      "provider": "nl-pdok-2019",
+      "live_tiles": 33,
+      "attribution": "© PDOK / Kadaster — Luchtfoto 2019 (CC BY 4.0)"
     }
   }
 }
