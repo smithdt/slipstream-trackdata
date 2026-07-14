@@ -77,12 +77,11 @@
     },
     "483": {
       "venue": "Chicago Street Course",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-02/chicago-street-course.zip",
-      "version": "imagery-v2-catalog-02",
-      "sha256": "e3034c9a397f2770",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/chicago-street-course.zip",
+      "version": "imagery-v1",
+      "sha256": "f57dde81be8a47b6",
       "corners": 12,
       "provider": "naip",
-      "live_tiles": 20,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "485": {
@@ -336,12 +335,11 @@
     },
     "448": {
       "venue": "Indianapolis Motor Speedway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-02/indianapolis-motor-speedway.zip",
-      "version": "imagery-v2-catalog-02",
-      "sha256": "faa3ce420ab2046b",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/indianapolis-motor-speedway.zip",
+      "version": "imagery-v1",
+      "sha256": "ca669be23550b481",
       "corners": 13,
       "provider": "naip",
-      "live_tiles": 22,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "352": {
@@ -562,12 +560,11 @@
     },
     "536": {
       "venue": "Portland International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-02/portland-international-raceway.zip",
-      "version": "imagery-v2-catalog-02",
-      "sha256": "d27f0f3adb9e7913",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/portland-international-raceway.zip",
+      "version": "imagery-v1",
+      "sha256": "ec1ffdb0865b7045",
       "corners": 12,
       "provider": "naip",
-      "live_tiles": 17,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "537": {
@@ -754,62 +751,56 @@
     },
     "465": {
       "venue": "Virginia International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-02/virginia-international-raceway.zip",
-      "version": "imagery-v2-catalog-02",
-      "sha256": "64466a9286d8553a",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/virginia-international-raceway.zip",
+      "version": "imagery-v1",
+      "sha256": "0e7f1b5c5a85b092",
       "corners": 16,
       "provider": "naip",
-      "live_tiles": 32,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "467": {
       "venue": "Virginia International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-02/virginia-international-raceway.zip",
-      "version": "imagery-v2-catalog-02",
-      "sha256": "64466a9286d8553a",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/virginia-international-raceway.zip",
+      "version": "imagery-v1",
+      "sha256": "0e7f1b5c5a85b092",
       "corners": 16,
       "provider": "naip",
-      "live_tiles": 21,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "432": {
       "venue": "Watkins Glen International",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-02/watkins-glen-international.zip",
-      "version": "imagery-v2-catalog-02",
-      "sha256": "a8fdbe5e83ec4652",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/watkins-glen-international.zip",
+      "version": "imagery-v1",
+      "sha256": "9b0083b4b6734043",
       "corners": 7,
       "provider": "ny-its",
-      "live_tiles": 109,
       "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery"
     },
     "433": {
       "venue": "Watkins Glen International",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-02/watkins-glen-international.zip",
-      "version": "imagery-v2-catalog-02",
-      "sha256": "a8fdbe5e83ec4652",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/watkins-glen-international.zip",
+      "version": "imagery-v1",
+      "sha256": "9b0083b4b6734043",
       "corners": 7,
       "provider": "ny-its",
-      "live_tiles": 109,
       "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery"
     },
     "434": {
       "venue": "Watkins Glen International",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-02/watkins-glen-international.zip",
-      "version": "imagery-v2-catalog-02",
-      "sha256": "a8fdbe5e83ec4652",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/watkins-glen-international.zip",
+      "version": "imagery-v1",
+      "sha256": "9b0083b4b6734043",
       "corners": 11,
       "provider": "naip",
-      "live_tiles": 34,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "435": {
       "venue": "Watkins Glen International",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-02/watkins-glen-international.zip",
-      "version": "imagery-v2-catalog-02",
-      "sha256": "a8fdbe5e83ec4652",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/watkins-glen-international.zip",
+      "version": "imagery-v1",
+      "sha256": "9b0083b4b6734043",
       "corners": 11,
       "provider": "ny-its",
-      "live_tiles": 125,
       "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery"
     },
     "586": {
@@ -833,12 +824,11 @@
     },
     "481": {
       "venue": "Willow Springs International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-02/willow-springs-international-raceway.zip",
-      "version": "imagery-v2-catalog-02",
-      "sha256": "29d881963d1c8b7c",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/willow-springs-international-raceway.zip",
+      "version": "imagery-v1",
+      "sha256": "700b07435a4950f2",
       "corners": 9,
       "provider": "naip",
-      "live_tiles": 25,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "238": {
