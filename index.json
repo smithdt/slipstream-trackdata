@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v2-catalog-15",
+  "version": "imagery-v2-catalog-16",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -51,11 +51,12 @@
     },
     "212": {
       "venue": "Autódromo José Carlos Pace",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/aut-dromo-jos-carlos-pace.zip",
-      "version": "imagery-v1",
-      "sha256": "56778831422a237a",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-16/aut-dromo-jos-carlos-pace.zip",
+      "version": "imagery-v2-catalog-16",
+      "sha256": "7bb678f29c17eec5",
       "corners": 15,
       "provider": "br-geosampa",
+      "live_tiles": 86,
       "attribution": "© Prefeitura de São Paulo — GeoSampa (CC BY-SA 4.0)"
     },
     "585": {
@@ -110,20 +111,22 @@
     },
     "199": {
       "venue": "Circuit Zolder",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-zolder.zip",
-      "version": "imagery-v1",
-      "sha256": "125776f313a74014",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-16/circuit-zolder.zip",
+      "version": "imagery-v2-catalog-16",
+      "sha256": "5b1ed5af9162df5e",
       "corners": 10,
       "provider": "be-flanders",
+      "live_tiles": 89,
       "attribution": "© Digitaal Vlaanderen — Orthofotomozaïek"
     },
     "200": {
       "venue": "Circuit Zolder",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-zolder.zip",
-      "version": "imagery-v1",
-      "sha256": "125776f313a74014",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-16/circuit-zolder.zip",
+      "version": "imagery-v2-catalog-16",
+      "sha256": "5b1ed5af9162df5e",
       "corners": 10,
       "provider": "be-flanders",
+      "live_tiles": 88,
       "attribution": "© Digitaal Vlaanderen — Orthofotomozaïek"
     },
     "345": {
@@ -1042,6 +1045,76 @@
       "provider": "wm-skysat-mexico",
       "live_tiles": 13,
       "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    "218": {
+      "venue": "Circuit Gilles Villeneuve",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-16/circuit-gilles-villeneuve.zip",
+      "version": "imagery-v2-catalog-16",
+      "sha256": "f7afd03ef68e0a5e",
+      "corners": 14,
+      "provider": "wm-skysat-montreal",
+      "live_tiles": 12,
+      "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    "202": {
+      "venue": "Oran Park Raceway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-16/oran-park-raceway.zip",
+      "version": "imagery-v2-catalog-16",
+      "sha256": "2e630f91415e4063",
+      "corners": 12,
+      "provider": "au-nsw-hist1998",
+      "live_tiles": 13,
+      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)"
+    },
+    "207": {
+      "venue": "Oran Park Raceway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-16/oran-park-raceway.zip",
+      "version": "imagery-v2-catalog-16",
+      "sha256": "2e630f91415e4063",
+      "corners": 0,
+      "provider": "au-nsw-hist1998",
+      "live_tiles": 8,
+      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)"
+    },
+    "208": {
+      "venue": "Oran Park Raceway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-16/oran-park-raceway.zip",
+      "version": "imagery-v2-catalog-16",
+      "sha256": "2e630f91415e4063",
+      "corners": 7,
+      "provider": "au-nsw-hist1998",
+      "live_tiles": 13,
+      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)"
+    },
+    "209": {
+      "venue": "Oran Park Raceway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-16/oran-park-raceway.zip",
+      "version": "imagery-v2-catalog-16",
+      "sha256": "2e630f91415e4063",
+      "corners": 0,
+      "provider": "au-nsw-hist1998",
+      "live_tiles": 8,
+      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)"
+    },
+    "210": {
+      "venue": "Oran Park Raceway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-16/oran-park-raceway.zip",
+      "version": "imagery-v2-catalog-16",
+      "sha256": "2e630f91415e4063",
+      "corners": 0,
+      "provider": "au-nsw-hist1998",
+      "live_tiles": 6,
+      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)"
+    },
+    "211": {
+      "venue": "Oran Park Raceway",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-16/oran-park-raceway.zip",
+      "version": "imagery-v2-catalog-16",
+      "sha256": "2e630f91415e4063",
+      "corners": 0,
+      "provider": "au-nsw-hist1998",
+      "live_tiles": 13,
+      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)"
     }
   }
 }
