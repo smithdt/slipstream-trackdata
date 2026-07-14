@@ -98,6 +98,25 @@ class PackageReleaseTests(unittest.TestCase):
         self.assertTrue(index["tracks"]["2"]["sentinel"])
         self.assertEqual("imagery-v2", index["tracks"]["1"]["version"])
 
+    def test_partial_release_retains_credits_from_an_authoritative_source_tree(self):
+        self.write_set(1)
+        attribution_src = self.root / "production-satellite"
+        production = attribution_src / "2"
+        production.mkdir(parents=True)
+        (production / "manifest.json").write_text(json.dumps({
+            "approved": True,
+            "attribution": "Historic imagery credit",
+            "source": "Historic source URL",
+        }), encoding="utf-8")
+
+        result = self.run_package("--only-ids", "1", "--attribution-src", str(attribution_src))
+
+        self.assertEqual(0, result.returncode, result.stderr)
+        attribution = (self.root / "ATTRIBUTION.md").read_text(encoding="utf-8")
+        self.assertIn("Test imagery", attribution)
+        self.assertIn("Historic imagery credit", attribution)
+        self.assertIn("Historic source URL", attribution)
+
 
 if __name__ == "__main__":
     unittest.main()

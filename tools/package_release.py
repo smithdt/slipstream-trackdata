@@ -41,6 +41,8 @@ def main():
                     help="release-asset base URL; asset URL = {base}/{version}/{venue}.zip")
     ap.add_argument("--index", default="index.json")
     ap.add_argument("--attribution", default="ATTRIBUTION.md")
+    ap.add_argument("--attribution-src", action="append", default=[],
+                    help="additional satellite source tree whose manifest credits are retained; repeatable")
     ap.add_argument("--only-ids", default="",
                     help="comma-separated iRacing track ids for a partial release; preserves all other index entries")
     a = ap.parse_args()
@@ -66,6 +68,21 @@ def main():
             venues.setdefault(venue, []).append((ir, m))
         if m.get("attribution"):
             attributions[m["attribution"]] = m.get("source", m.get("provider", ""))
+
+    # Partial releases are often packaged from an isolated candidate tree. Retain the credits for the rest of
+    # the catalog from one or more authoritative production trees rather than shrinking ATTRIBUTION.md to just
+    # this batch. The candidate source above already owns duplicate keys, so an updated manifest can refine its
+    # own credit without an older production manifest overwriting it.
+    for attribution_src in a.attribution_src:
+        if not os.path.isdir(attribution_src):
+            raise SystemExit(f"--attribution-src is not a directory: {attribution_src}")
+        for p in sorted(os.listdir(attribution_src)):
+            manifest_path = os.path.join(attribution_src, p, "manifest.json")
+            if not (p.isdigit() and os.path.isfile(manifest_path)):
+                continue
+            m = json.load(open(manifest_path, encoding="utf-8"))
+            if m.get("approved") and m.get("attribution"):
+                attributions.setdefault(m["attribution"], m.get("source", m.get("provider", "")))
 
     if only_ids:
         found = {ir for sets in venues.values() for ir, _ in sets}
