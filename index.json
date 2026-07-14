@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v1",
+  "version": "imagery-v2-road-america",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -579,12 +579,13 @@
     },
     "18": {
       "venue": "Road America",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/road-america.zip",
-      "version": "imagery-v1",
-      "sha256": "b5c3e1c4130069be",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-road-america/road-america.zip",
+      "version": "imagery-v2-road-america",
+      "sha256": "bb443e88c2c8879a",
       "corners": 14,
-      "provider": "wi-dnr",
-      "attribution": "Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery"
+      "provider": "wi-wroc-roadamerica-native",
+      "live_tiles": 107,
+      "attribution": "Wisconsin Regional Orthophoto Consortium (WROC) — Sheboygan County 2020, 12-inch leaf-off orthoimagery"
     },
     "50": {
       "venue": "Road America",

@@ -2,6 +2,10 @@
 
 Slipstream Live track imagery is derived from the public / open-licensed ortho sources below. Each carries its source's required credit; see the per-source license for terms.
 
+- **(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)**  
+  _EA National LIDAR Programme 2019 (DSM + laser intensity) + OpenStreetMap_
+- **(c) Scottish Government / Scottish Remote Sensing Portal (OGL v3.0); (c) OpenStreetMap contributors (ODbL)**  
+  _Scottish Remote Sensing Portal LIDAR Phase 5 (DSM + laser intensity) + OpenStreetMap_
 - **(c) State of New South Wales (Spatial Services) - CC-BY 3.0 AU**  
   _NSW Spatial Services - NSW Imagery (data.nsw.gov.au)_
 - **Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)**  
@@ -14,6 +18,8 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
   _FDOT Statewide Yearly Aerials 2020, 3-inch, native NAD83(2011) FL East (EPSG:6439) — does NOT serve 3857 (returns black); uses the reprojection warp. Covers Sebring/Highlands (verified live 2026-06-09)._
 - **Geoportale Nazionale — Ministero dell'Ambiente (MASE), Ortofoto 2012**  
   _Geoportale Nazionale (MASE) Ortofoto 2012 colore via WMS (layer OI.ORTOIMMAGINI.2012.32, UTM32N tileset), 0.50 m, EPSG:3857 — national open fallback for Italian venues outside a higher-res regional flight (e.g. Imola). NB: host forces plain HTTP._
+- **Miami-Dade County GIS — Woolpert 2025 Aerial Imagery**  
+  _Miami-Dade County Woolpert 2025 orthophoto ImageServer, native 0.25 US-ft (3-inch) imagery in EPSG:6438_
 - **Morrow County GIS — 2021 Aerial Imagery**  
   _Morrow County GIS 2021 Aerial Imagery (ImageServer, cached), ~3.7 cm, native EPSG:3857 (probed live 2026-06-12; covers Mid-Ohio Sports Car Course / ir_id 153). Also has 2014/2016/2019 vintages at same endpoint pattern._
 - **NYS ITS GIS Program Office — Statewide Orthoimagery**  
@@ -22,12 +28,16 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
   _Oregon Statewide Imagery Program OSIP 2018 (oregonexplorer.info)_
 - **PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)**  
   _IGN España PNOA Máxima Actualidad via WMS-INSPIRE (www.ign.es/wms-inspire/pnoa-ma, layer OI.OrthoimageCoverage), 0.25 m, EPSG:3857 (probed live 2026-06-09; covers Barcelona/Jerez/Navarra/Aragón)_
+- **Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)**  
+  _Planet Labs SkySat image of Autódromo Hermanos Rodríguez (2018-06-04) via Wikimedia Commons, hand-georeferenced to EPSG:3857 (2279×1709 px). https://commons.wikimedia.org/wiki/File:Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez,_June_4,_2018_SkySat.jpg_
 - **Texas StratMap 2019 / TxGIO (TNRIS) — Capital Area**  
   _TxGIO/TNRIS StratMap 2019 Capital Area NCCIR, 6-inch, native EPSG:3857 — drop-in (probed live 2026-06-09; covers COTA/Travis. NB: the newer StratMap21 CapArea has a nodata gap at COTA, so use 2019)._
 - **USDA Farm Service Agency / USGS — public domain**  
   _USGS NAIP (USGSNAIPPlus ImageServer)_
 - **Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery**  
   _WI DNR 'Latest Leaf-Off' statewide ortho (WROC), 3-inch, native EPSG:3071 — reprojects to 3857 server-side via exportImage (probed live 2026-06-09)_
+- **Wisconsin Regional Orthophoto Consortium (WROC) — Sheboygan County 2020, 12-inch leaf-off orthoimagery**  
+  _Wisconsin Regional Orthophoto Consortium (WROC) 2020 Sheboygan County leaf-off orthoimagery, 12-inch (0.3048 m) source, preserved locally with its native georeference (validated 2026-07-14)_
 - **© Digitaal Vlaanderen — Orthofotomozaïek**  
   _Digitaal Vlaanderen Orthofotomozaïek (winter, most-recent) via WMS, 0.15-0.25 m, EPSG:3857 (probed live 2026-06-09; covers Zolder — Flanders, distinct from be-wallonia/Spa)_
 - **© Direção-Geral do Território (DGT) — Ortos2018 (CC BY 4.0)**  
@@ -42,6 +52,8 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
   _LGL-BW DOP20 via INSPIRE WMS (layer OI.OrthoimageCoverage), 0.20 m, EPSG:3857 (layer confirmed via GetCapabilities 2026-06-09; covers Hockenheim. Open Data since 2024-06-09 — DOP20 only, NOT DOP10)_
 - **© LVermGeo Sachsen-Anhalt, dl-de/by-2-0**  
   _LVermGeo Sachsen-Anhalt DOP20 OpenData WMS (layer lsa_lvermgeo_dop20_2), 0.20 m, EPSG:3857 (probed live 2026-06-09; covers Oschersleben — use the OpenData service, not the fee-gated GDI one)_
+- **© PDOK / Kadaster — Luchtfoto 2019 (CC BY 4.0)**  
+  _PDOK Luchtfoto 2019 Ortho 25cm RGB (layer 2019_ortho25) via the same LV Beeldmateriaal WMS, native EPSG:28992, serves EPSG:3857 via WMS GetMap, 0.25 m. VINTAGE CHOSEN ON PURPOSE: this is the newest nationwide flight strictly PRE-DATING Zandvoort's 2020 F1 rebuild (banked Hugenholtz T3 + banked Luyendyk/Arena), so it matches iRacing's 2009 track scan. The 8cm 'Actueel' layer shows the post-2020 reprofiled tarmac and cannot be rigid-fit to the 2009 line (probed + eyeballed live 2026-07-12: 2019 shows the flat unbanked hairpin, Actueel shows the banked F1 apron). orthoHR/8cm only exists 2021+; 25cm is the best available pre-rebuild res._
 - **© PDOK / Kadaster — Luchtfoto Actueel (CC BY 4.0)**  
   _PDOK Luchtfoto Actueel Ortho HR (8 cm RGB) via WMS, native EPSG:28992 but serves EPSG:3857 via WMS GetMap, 0.08 m (probed live 2026-06-09; highest-res source in the set)_
 - **© Prefeitura de São Paulo — GeoSampa (CC BY-SA 4.0)**  
@@ -52,9 +64,9 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
   _Regione Toscana GEOscopio OFC ortho via WMS (layer rt_ofc.5k23.32bit = 2023 flight; the 2025 layer is blank at Mugello), 0.20 m, EPSG:3857 (probed live 2026-06-09; covers Mugello)_
 - **© SPW (Service public de Wallonie) — open data**  
   _Wallonia ORTHO_LAST (geoservices.wallonie.be)_
+- **© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)**  
+  _NSW Spatial Services - Historical Imagery 1998 (ArcGIS hosted tile cache, {z}/{y}/{x} row/col order, native EPSG:3857). Tiles are PNG bytes served with NO extension; max usable LOD 18 (~0.6 m/px, z19+ 404). Flown 27 Sep / 14 Oct 1998, 1:25,000 film. CHOSEN ON PURPOSE: Oran Park Raceway (ir 202/207-211) was demolished in 2010, so no current ortho exists - this 1998 historical film is the only real imagery of the circuit, and it matches iRacing's pre-demolition scan. Probed live 2026-07-12._
 - **©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]**  
   _LVermGeo RLP DOP20 via WMS (layer rp_dop20), 0.20 m, EPSG:3857 (probed live 2026-06-09; covers Nürburgring GP + Nordschleife)_
 - **出典：国土地理院（地理院タイル seamlessphoto を加工して作成）**  
   _GSI (Geospatial Information Authority of Japan) 地理院タイル seamlessphoto XYZ tiles, max z18 (~0.2-0.4 m effective), native EPSG:3857 (probed live 2026-06-09; nationwide — Suzuka/Fuji/Motegi/Okayama/Tsukuba)_
-- **(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)**  
-- **(c) Scottish Government / Scottish Remote Sensing Portal (OGL v3.0); (c) OpenStreetMap contributors (ODbL)**  
