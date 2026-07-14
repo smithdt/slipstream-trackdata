@@ -16,6 +16,21 @@ import argparse, json, os, re, zipfile, hashlib
 def slug(s):
     return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", s.lower())).strip("-")
 
+def referenced_files(manifest):
+    files = [manifest["full"]["file"]]
+    files.extend(c["file"] for c in manifest.get("corners", []))
+    files.extend(t["file"] for t in (manifest.get("live_tiles") or {}).get("tiles", []))
+    return files
+
+def validate_assets(directory, manifest):
+    root = os.path.realpath(directory)
+    for rel in referenced_files(manifest):
+        path = os.path.realpath(os.path.join(root, rel))
+        if os.path.commonpath([root, path]) != root:
+            raise SystemExit(f"manifest asset escapes track directory: {directory} -> {rel}")
+        if not os.path.isfile(path):
+            raise SystemExit(f"manifest references missing asset: {directory} -> {rel}")
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--src", required=True, help="satellite/ source tree (satellite/{ir_id}/...)")
@@ -45,6 +60,7 @@ def main():
         m = json.load(open(os.path.join(d, "manifest.json"), encoding="utf-8"))
         if not m.get("approved"):
             continue
+        validate_assets(d, m)
         ir = int(p); venue = id2venue.get(ir, f"track-{ir}")
         if not only_ids or ir in only_ids:
             venues.setdefault(venue, []).append((ir, m))
@@ -70,14 +86,19 @@ def main():
         with zipfile.ZipFile(zpath, "w", zipfile.ZIP_STORED) as z:   # JPEGs already compressed -> STORED
             for ir, m in sets:
                 d = os.path.join(a.src, str(ir))
-                for fn in os.listdir(d):
-                    z.write(os.path.join(d, fn), f"{ir}/{fn}")
+                for root, dirs, files in os.walk(d):
+                    dirs.sort(); files.sort()
+                    for fn in files:
+                        path = os.path.join(root, fn)
+                        rel = os.path.relpath(path, d).replace(os.sep, "/")
+                        z.write(path, f"{ir}/{rel}")
         sha = hashlib.sha256(open(zpath, "rb").read()).hexdigest()[:16]
         asset = f"{a.base_url}/{a.version}/{vslug}.zip"
         for ir, m in sets:
             index["tracks"][str(ir)] = {
                 "venue": venue, "asset": asset, "version": a.version, "sha256": sha,
                 "corners": len(m.get("corners", [])), "provider": m.get("provider"),
+                "live_tiles": len((m.get("live_tiles") or {}).get("tiles", [])),
                 "attribution": m.get("attribution"),
             }
         print(f"  {venue:<36} {len(sets)} cfg  -> {vslug}.zip  ({os.path.getsize(zpath)//1024} KB)")

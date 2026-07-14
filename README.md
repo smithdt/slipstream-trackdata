@@ -42,6 +42,9 @@ gh release create imagery-v1 dist/*.zip --title "Imagery v1" --notes "..."
 ```
 
 The app reads `index.json` (raw URL or bundled copy) to discover versions, then pulls each venue's zip on demand.
+Track directories may include a nested `tiles/` corridor: the live minimap decodes only nearby high-resolution
+tiles while retaining `full.jpg` as a compact whole-track overview and seamless fallback. Packaging walks track
+directories recursively and validates every manifest-referenced full, corner and live-tile asset.
 
 ### Updating one track without making every client re-download
 
