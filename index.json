@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v2-provenance-rollback",
+  "version": "imagery-v2-catalog-10",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -21,11 +21,12 @@
     },
     "498": {
       "venue": "Autodromo Internazionale del Mugello",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/autodromo-internazionale-del-mugello.zip",
-      "version": "imagery-v1",
-      "sha256": "4b9c862848d8e3bd",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-10/autodromo-internazionale-del-mugello.zip",
+      "version": "imagery-v2-catalog-10",
+      "sha256": "8ef359b6c7fef211",
       "corners": 15,
       "provider": "it-toscana",
+      "live_tiles": 93,
       "attribution": "© Regione Toscana — GEOscopio (CC BY 4.0)"
     },
     "499": {
@@ -84,20 +85,22 @@
     },
     "485": {
       "venue": "Circuit Zandvoort",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-zandvoort.zip",
-      "version": "imagery-v1",
-      "sha256": "169e31da4c8d9482",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-10/circuit-zandvoort.zip",
+      "version": "imagery-v2-catalog-10",
+      "sha256": "0859679eef76bf7d",
       "corners": 14,
       "provider": "nl-pdok",
+      "live_tiles": 77,
       "attribution": "© PDOK / Kadaster — Luchtfoto Actueel (CC BY 4.0)"
     },
     "487": {
       "venue": "Circuit Zandvoort",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-zandvoort.zip",
-      "version": "imagery-v1",
-      "sha256": "169e31da4c8d9482",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-10/circuit-zandvoort.zip",
+      "version": "imagery-v2-catalog-10",
+      "sha256": "0859679eef76bf7d",
       "corners": 10,
       "provider": "nl-pdok",
+      "live_tiles": 58,
       "attribution": "© PDOK / Kadaster — Luchtfoto Actueel (CC BY 4.0)"
     },
     "199": {
@@ -147,20 +150,22 @@
     },
     "489": {
       "venue": "Circuit de Lédenon",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-de-l-denon.zip",
-      "version": "imagery-v1",
-      "sha256": "8649518da4497ef6",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-10/circuit-de-l-denon.zip",
+      "version": "imagery-v2-catalog-10",
+      "sha256": "6a0406fe88a05120",
       "corners": 15,
       "provider": "ign-geoplateforme",
+      "live_tiles": 50,
       "attribution": "© IGN — Géoplateforme (Licence Ouverte / Etalab 2.0)"
     },
     "463": {
       "venue": "Circuit de Nevers Magny-Cours",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-de-nevers-magny-cours.zip",
-      "version": "imagery-v1",
-      "sha256": "2091caffc9c41b45",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-10/circuit-de-nevers-magny-cours.zip",
+      "version": "imagery-v2-catalog-10",
+      "sha256": "a4c13b5a58135846",
       "corners": 17,
       "provider": "ign-geoplateforme",
+      "live_tiles": 75,
       "attribution": "© IGN — Géoplateforme (Licence Ouverte / Etalab 2.0)"
     },
     "523": {
@@ -219,11 +224,12 @@
     },
     "473": {
       "venue": "Circuito de Jerez - Ángel Nieto",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuito-de-jerez-ngel-nieto.zip",
-      "version": "imagery-v1",
-      "sha256": "8a25c3b45a27c27b",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-10/circuito-de-jerez-ngel-nieto.zip",
+      "version": "imagery-v2-catalog-10",
+      "sha256": "19f122408370975f",
       "corners": 15,
       "provider": "es-pnoa",
+      "live_tiles": 85,
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
     },
     "515": {
@@ -282,11 +288,12 @@
     },
     "445": {
       "venue": "Fuji International Speedway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/fuji-international-speedway.zip",
-      "version": "imagery-v1",
-      "sha256": "26d4aae17139fe8b",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-10/fuji-international-speedway.zip",
+      "version": "imagery-v2-catalog-10",
+      "sha256": "02b68a6d681ac098",
       "corners": 14,
       "provider": "jp-gsi",
+      "live_tiles": 77,
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
     },
     "390": {
@@ -435,29 +442,32 @@
     },
     "475": {
       "venue": "MotorLand Aragón",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/motorland-arag-n.zip",
-      "version": "imagery-v1",
-      "sha256": "47682385d5eeff13",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-10/motorland-arag-n.zip",
+      "version": "imagery-v2-catalog-10",
+      "sha256": "9edd43f800d12686",
       "corners": 18,
       "provider": "es-pnoa",
+      "live_tiles": 117,
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
     },
     "449": {
       "venue": "Motorsport Arena Oschersleben",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/motorsport-arena-oschersleben.zip",
-      "version": "imagery-v1",
-      "sha256": "c7b574c1b7ccb4b0",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-10/motorsport-arena-oschersleben.zip",
+      "version": "imagery-v2-catalog-10",
+      "sha256": "d54ebceb91f9b541",
       "corners": 14,
       "provider": "de-st",
+      "live_tiles": 65,
       "attribution": "© LVermGeo Sachsen-Anhalt, dl-de/by-2-0"
     },
     "455": {
       "venue": "Motorsport Arena Oschersleben",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/motorsport-arena-oschersleben.zip",
-      "version": "imagery-v1",
-      "sha256": "c7b574c1b7ccb4b0",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-10/motorsport-arena-oschersleben.zip",
+      "version": "imagery-v2-catalog-10",
+      "sha256": "d54ebceb91f9b541",
       "corners": 8,
       "provider": "de-st",
+      "live_tiles": 52,
       "attribution": "© LVermGeo Sachsen-Anhalt, dl-de/by-2-0"
     },
     "219": {

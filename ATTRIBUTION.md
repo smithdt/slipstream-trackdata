@@ -29,7 +29,7 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
 - **PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)**  
   _IGN España PNOA Máxima Actualidad via WMS-INSPIRE (www.ign.es/wms-inspire/pnoa-ma, layer OI.OrthoimageCoverage), 0.25 m, EPSG:3857 (probed live 2026-06-09; covers Barcelona/Jerez/Navarra/Aragón)_
 - **Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)**  
-  _Planet Labs SkySat image of Autódromo Hermanos Rodríguez (2018-06-04) via Wikimedia Commons, hand-georeferenced to EPSG:3857 (2279×1709 px). https://commons.wikimedia.org/wiki/File:Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez,_June_4,_2018_SkySat.jpg_
+  _Planet Labs SkySat image of Circuit Gilles-Villeneuve (2018-05-29) via Wikimedia Commons, hand-georeferenced to EPSG:3857 (4000×2249 px). https://commons.wikimedia.org/wiki/File:Circuit_Gilles-Villeneuve,_May_29,_2018_SkySat.jpg_
 - **Texas StratMap 2019 / TxGIO (TNRIS) — Capital Area**  
   _TxGIO/TNRIS StratMap 2019 Capital Area NCCIR, 6-inch, native EPSG:3857 — drop-in (probed live 2026-06-09; covers COTA/Travis. NB: the newer StratMap21 CapArea has a nodata gap at COTA, so use 2019)._
 - **USDA Farm Service Agency / USGS — public domain**  
