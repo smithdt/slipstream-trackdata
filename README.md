@@ -42,3 +42,18 @@ gh release create imagery-v1 dist/*.zip --title "Imagery v1" --notes "..."
 ```
 
 The app reads `index.json` (raw URL or bundled copy) to discover versions, then pulls each venue's zip on demand.
+
+### Updating one track without making every client re-download
+
+Build a partial release and give it a unique version tag:
+
+```bash
+python tools/package_release.py --src ../SlipstreamLive/trackdata/satellite \
+  --meta ../SlipstreamLive/trackdata/iracing-tracks-metadata.json \
+  --out dist --version imagery-roadamerica-20260714 --only-ids 18
+```
+
+`--only-ids` preserves every other entry in the existing `index.json`, builds only the selected venue zip,
+and changes only those track entries to the new version/asset URL/hash. After that zip is attached to the
+matching GitHub release and the updated index is pushed, installed clients keep serving their cached image,
+download that one changed zip in the background, then atomically replace and hot-reload it.

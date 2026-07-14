@@ -26,7 +26,11 @@ def main():
                     help="release-asset base URL; asset URL = {base}/{version}/{venue}.zip")
     ap.add_argument("--index", default="index.json")
     ap.add_argument("--attribution", default="ATTRIBUTION.md")
+    ap.add_argument("--only-ids", default="",
+                    help="comma-separated iRacing track ids for a partial release; preserves all other index entries")
     a = ap.parse_args()
+
+    only_ids = {int(x.strip()) for x in a.only_ids.split(",") if x.strip()}
 
     meta = json.load(open(a.meta, encoding="utf-8"))
     id2venue = {c["track_id"]: t.get("track_name") or "?"
@@ -42,12 +46,24 @@ def main():
         if not m.get("approved"):
             continue
         ir = int(p); venue = id2venue.get(ir, f"track-{ir}")
-        venues.setdefault(venue, []).append((ir, m))
+        if not only_ids or ir in only_ids:
+            venues.setdefault(venue, []).append((ir, m))
         if m.get("attribution"):
             attributions[m["attribution"]] = m.get("source", m.get("provider", ""))
 
+    if only_ids:
+        found = {ir for sets in venues.values() for ir, _ in sets}
+        missing = sorted(only_ids - found)
+        if missing:
+            raise SystemExit(f"--only-ids contains missing or unapproved track ids: {missing}")
+
     os.makedirs(a.out, exist_ok=True)
-    index = {"version": a.version, "tracks": {}}
+    if only_ids and os.path.isfile(a.index):
+        index = json.load(open(a.index, encoding="utf-8"))
+        index.setdefault("tracks", {})
+    else:
+        index = {"version": a.version, "tracks": {}}
+    index["version"] = a.version
     for venue, sets in sorted(venues.items()):
         vslug = slug(venue)
         zpath = os.path.join(a.out, f"{vslug}.zip")
@@ -73,7 +89,8 @@ def main():
                 "Each carries its source's required credit; see the per-source license for terms.\n\n")
         for attr, src in sorted(attributions.items()):
             f.write(f"- **{attr}**" + (f"  \n  _{src}_\n" if src else "\n"))
-    print(f"\nwrote {a.index} ({len(index['tracks'])} tracks, {len(venues)} venues) + {a.attribution}")
+    mode = f"partial ids={sorted(only_ids)}" if only_ids else "full"
+    print(f"\nwrote {a.index} ({len(index['tracks'])} tracks, {len(venues)} packaged venues, {mode}) + {a.attribution}")
 
 if __name__ == "__main__":
     main()
