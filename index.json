@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v2-catalog-14",
+  "version": "imagery-v2-catalog-15",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -32,11 +32,12 @@
     },
     "499": {
       "venue": "Autodromo Internazionale del Mugello",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/autodromo-internazionale-del-mugello.zip",
-      "version": "imagery-v1",
-      "sha256": "4b9c862848d8e3bd",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-15/autodromo-internazionale-del-mugello.zip",
+      "version": "imagery-v2-catalog-15",
+      "sha256": "3e849bbebb743141",
       "corners": 7,
       "provider": "it-toscana",
+      "live_tiles": 6,
       "attribution": "© Regione Toscana — GEOscopio (CC BY 4.0)"
     },
     "239": {
@@ -204,11 +205,12 @@
     },
     "526": {
       "venue": "Circuit de Spa-Francorchamps",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-de-spa-francorchamps.zip",
-      "version": "imagery-v1",
-      "sha256": "919d177a763bbc88",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-15/circuit-de-spa-francorchamps.zip",
+      "version": "imagery-v2-catalog-15",
+      "sha256": "1811cae07c4eb656",
       "corners": 19,
       "provider": "be-wallonia",
+      "live_tiles": 172,
       "attribution": "© SPW (Service public de Wallonie) — open data"
     },
     "268": {
@@ -242,11 +244,12 @@
     },
     "515": {
       "venue": "Circuito de Navarra",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuito-de-navarra.zip",
-      "version": "imagery-v1",
-      "sha256": "6073376664aa151a",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-15/circuito-de-navarra.zip",
+      "version": "imagery-v2-catalog-15",
+      "sha256": "4fe2186394a19e61",
       "corners": 15,
       "provider": "es-pnoa",
+      "live_tiles": 9,
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
     },
     "516": {
@@ -1029,6 +1032,16 @@
       "provider": "nl-pdok-2019",
       "live_tiles": 33,
       "attribution": "© PDOK / Kadaster — Luchtfoto 2019 (CC BY 4.0)"
+    },
+    "572": {
+      "venue": "Autódromo Hermanos Rodríguez",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-15/aut-dromo-hermanos-rodr-guez.zip",
+      "version": "imagery-v2-catalog-15",
+      "sha256": "bc8138fe7f9eaa48",
+      "corners": 17,
+      "provider": "wm-skysat-mexico",
+      "live_tiles": 13,
+      "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)"
     }
   }
 }
