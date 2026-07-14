@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v2-catalog-06",
+  "version": "imagery-v2-catalog-07",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -40,11 +40,12 @@
     },
     "239": {
       "venue": "Autodromo Nazionale Monza",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/autodromo-nazionale-monza.zip",
-      "version": "imagery-v1",
-      "sha256": "69ab80a00496d3a2",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-07/autodromo-nazionale-monza.zip",
+      "version": "imagery-v2-catalog-07",
+      "sha256": "8c324a792628e026",
       "corners": 11,
       "provider": "it-mase",
+      "live_tiles": 49,
       "attribution": "Geoportale Nazionale — Ministero dell'Ambiente (MASE), Ortofoto 2012"
     },
     "212": {
@@ -491,11 +492,12 @@
     },
     "219": {
       "venue": "Mount Panorama Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/mount-panorama-circuit.zip",
-      "version": "imagery-v1",
-      "sha256": "e094507b9f49c5c2",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-07/mount-panorama-circuit.zip",
+      "version": "imagery-v2-catalog-07",
+      "sha256": "801c2eb9a4557f13",
       "corners": 23,
       "provider": "au-nsw",
+      "live_tiles": 55,
       "attribution": "(c) State of New South Wales (Spatial Services) - CC-BY 3.0 AU"
     },
     "252": {
@@ -518,11 +520,12 @@
     },
     "250": {
       "venue": "Nürburgring Grand-Prix-Strecke",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/n-rburgring-grand-prix-strecke.zip",
-      "version": "imagery-v1",
-      "sha256": "ea52e4367f2913e3",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-07/n-rburgring-grand-prix-strecke.zip",
+      "version": "imagery-v2-catalog-07",
+      "sha256": "a448e25fa847d8e1",
       "corners": 16,
       "provider": "de-rlp",
+      "live_tiles": 102,
       "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]"
     },
     "255": {
