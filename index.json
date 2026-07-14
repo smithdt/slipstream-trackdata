@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v2-catalog-12",
+  "version": "imagery-v2-catalog-13",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -58,11 +58,12 @@
     },
     "585": {
       "venue": "Barber Motorsports Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/barber-motorsports-park.zip",
-      "version": "imagery-v1",
-      "sha256": "938d06a6fd48498a",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/barber-motorsports-park.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "acea69712a3b9ed1",
       "corners": 16,
       "provider": "naip",
+      "live_tiles": 9,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "144": {
@@ -77,11 +78,12 @@
     },
     "483": {
       "venue": "Chicago Street Course",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/chicago-street-course.zip",
-      "version": "imagery-v1",
-      "sha256": "f57dde81be8a47b6",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/chicago-street-course.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "cd99ca8c499eccd0",
       "corners": 12,
       "provider": "naip",
+      "live_tiles": 6,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "485": {
@@ -263,20 +265,22 @@
     },
     "192": {
       "venue": "Daytona International Speedway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/daytona-international-speedway.zip",
-      "version": "imagery-v1",
-      "sha256": "c31c5499b62d7a93",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/daytona-international-speedway.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "71ff4aed0961dff9",
       "corners": 12,
       "provider": "naip",
+      "live_tiles": 9,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "319": {
       "venue": "Detroit Grand Prix at Belle Isle",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/detroit-grand-prix-at-belle-isle.zip",
-      "version": "imagery-v1",
-      "sha256": "f56985c5431b0830",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/detroit-grand-prix-at-belle-isle.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "a1f9d648249d675c",
       "corners": 14,
       "provider": "naip",
+      "live_tiles": 6,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "444": {
@@ -337,29 +341,32 @@
     },
     "448": {
       "venue": "Indianapolis Motor Speedway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/indianapolis-motor-speedway.zip",
-      "version": "imagery-v1",
-      "sha256": "ca669be23550b481",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/indianapolis-motor-speedway.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "f7c40fc18fd209d9",
       "corners": 13,
       "provider": "naip",
+      "live_tiles": 22,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "352": {
       "venue": "Lime Rock Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/lime-rock-park.zip",
-      "version": "imagery-v1",
-      "sha256": "6def2e633fedfa25",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/lime-rock-park.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "c0ccc02afc8cc4e6",
       "corners": 7,
       "provider": "ct-cteco",
+      "live_tiles": 12,
       "attribution": "Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)"
     },
     "353": {
       "venue": "Lime Rock Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/lime-rock-park.zip",
-      "version": "imagery-v1",
-      "sha256": "6def2e633fedfa25",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/lime-rock-park.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "c0ccc02afc8cc4e6",
       "corners": 9,
       "provider": "ct-cteco",
+      "live_tiles": 6,
       "attribution": "Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)"
     },
     "354": {
@@ -384,21 +391,23 @@
     },
     "179": {
       "venue": "Long Beach Street Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/long-beach-street-circuit.zip",
-      "version": "imagery-v1",
-      "sha256": "bf7ef537c70f45d3",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/long-beach-street-circuit.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "89fff1dbf81c2d77",
       "corners": 11,
       "provider": "naip",
+      "live_tiles": 6,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "539": {
       "venue": "Miami International Autodrome",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/miami-international-autodrome.zip",
-      "version": "imagery-v1",
-      "sha256": "feda513a5ae1b2a2",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/miami-international-autodrome.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "e5c340db044a781f",
       "corners": 19,
-      "provider": "naip",
-      "attribution": "USDA Farm Service Agency / USGS — public domain"
+      "provider": "fl-miami-dade-woolpert-2025",
+      "live_tiles": 105,
+      "attribution": "Miami-Dade County GIS — Woolpert 2025 Aerial Imagery"
     },
     "153": {
       "venue": "Mid-Ohio Sports Car Course",
@@ -562,20 +571,22 @@
     },
     "536": {
       "venue": "Portland International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/portland-international-raceway.zip",
-      "version": "imagery-v1",
-      "sha256": "ec1ffdb0865b7045",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/portland-international-raceway.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "99d9e7560a4172d5",
       "corners": 12,
       "provider": "naip",
+      "live_tiles": 6,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "537": {
       "venue": "Portland International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/portland-international-raceway.zip",
-      "version": "imagery-v1",
-      "sha256": "ec1ffdb0865b7045",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/portland-international-raceway.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "99d9e7560a4172d5",
       "corners": 0,
       "provider": "or-osip",
+      "live_tiles": 59,
       "attribution": "Oregon OSIP 2018"
     },
     "403": {
@@ -647,38 +658,42 @@
     },
     "95": {
       "venue": "Sebring International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/sebring-international-raceway.zip",
-      "version": "imagery-v1",
-      "sha256": "19bff827ad226be1",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/sebring-international-raceway.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "ccd5e70d2d41983b",
       "corners": 17,
       "provider": "fl-fdot-east-2020",
+      "live_tiles": 9,
       "attribution": "FDOT — Florida Statewide Digital Orthoimagery (2020)"
     },
     "96": {
       "venue": "Sebring International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/sebring-international-raceway.zip",
-      "version": "imagery-v1",
-      "sha256": "19bff827ad226be1",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/sebring-international-raceway.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "ccd5e70d2d41983b",
       "corners": 9,
       "provider": "fl-fdot-east-2020",
+      "live_tiles": 8,
       "attribution": "FDOT — Florida Statewide Digital Orthoimagery (2020)"
     },
     "97": {
       "venue": "Sebring International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/sebring-international-raceway.zip",
-      "version": "imagery-v1",
-      "sha256": "19bff827ad226be1",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/sebring-international-raceway.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "ccd5e70d2d41983b",
       "corners": 11,
       "provider": "fl-fdot-east-2020",
+      "live_tiles": 6,
       "attribution": "FDOT — Florida Statewide Digital Orthoimagery (2020)"
     },
     "570": {
       "venue": "Sonoma Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/sonoma-raceway.zip",
-      "version": "imagery-v1",
-      "sha256": "64f367a5c2dd742e",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/sonoma-raceway.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "a87699c27d1b62fb",
       "corners": 18,
       "provider": "naip",
+      "live_tiles": 9,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "8": {
@@ -693,11 +708,12 @@
     },
     "9": {
       "venue": "Summit Point Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/summit-point-raceway.zip",
-      "version": "imagery-v1",
-      "sha256": "e8faba33419366be",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/summit-point-raceway.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "d301c48e9045678c",
       "corners": 10,
       "provider": "naip",
+      "live_tiles": 6,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "168": {
@@ -749,83 +765,92 @@
     },
     "465": {
       "venue": "Virginia International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/virginia-international-raceway.zip",
-      "version": "imagery-v1",
-      "sha256": "0e7f1b5c5a85b092",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/virginia-international-raceway.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "d206d89c4bf07ffb",
       "corners": 16,
       "provider": "naip",
+      "live_tiles": 32,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "467": {
       "venue": "Virginia International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/virginia-international-raceway.zip",
-      "version": "imagery-v1",
-      "sha256": "0e7f1b5c5a85b092",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/virginia-international-raceway.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "d206d89c4bf07ffb",
       "corners": 16,
       "provider": "naip",
+      "live_tiles": 9,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "432": {
       "venue": "Watkins Glen International",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/watkins-glen-international.zip",
-      "version": "imagery-v1",
-      "sha256": "9b0083b4b6734043",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/watkins-glen-international.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "f37545c23fcddb31",
       "corners": 7,
       "provider": "ny-its",
+      "live_tiles": 108,
       "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery"
     },
     "433": {
       "venue": "Watkins Glen International",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/watkins-glen-international.zip",
-      "version": "imagery-v1",
-      "sha256": "9b0083b4b6734043",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/watkins-glen-international.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "f37545c23fcddb31",
       "corners": 7,
       "provider": "ny-its",
+      "live_tiles": 109,
       "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery"
     },
     "434": {
       "venue": "Watkins Glen International",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/watkins-glen-international.zip",
-      "version": "imagery-v1",
-      "sha256": "9b0083b4b6734043",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/watkins-glen-international.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "f37545c23fcddb31",
       "corners": 11,
       "provider": "naip",
+      "live_tiles": 34,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "435": {
       "venue": "Watkins Glen International",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/watkins-glen-international.zip",
-      "version": "imagery-v1",
-      "sha256": "9b0083b4b6734043",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/watkins-glen-international.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "f37545c23fcddb31",
       "corners": 11,
       "provider": "ny-its",
+      "live_tiles": 128,
       "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery"
     },
     "586": {
       "venue": "WeatherTech Raceway Laguna Seca",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/weathertech-raceway-laguna-seca.zip",
-      "version": "imagery-v1",
-      "sha256": "9e67d365ebd09c5f",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/weathertech-raceway-laguna-seca.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "46618d2af152d274",
       "corners": 11,
       "provider": "naip",
+      "live_tiles": 9,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "47": {
       "venue": "WeatherTech Raceway at Laguna Seca",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/weathertech-raceway-at-laguna-seca.zip",
-      "version": "imagery-v1",
-      "sha256": "7f7bd7873c6a1aa0",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/weathertech-raceway-at-laguna-seca.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "4adf07364d7e2e9b",
       "corners": 11,
       "provider": "naip",
+      "live_tiles": 9,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "481": {
       "venue": "Willow Springs International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/willow-springs-international-raceway.zip",
-      "version": "imagery-v1",
-      "sha256": "700b07435a4950f2",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-13/willow-springs-international-raceway.zip",
+      "version": "imagery-v2-catalog-13",
+      "sha256": "0086bcda324687ef",
       "corners": 9,
       "provider": "naip",
+      "live_tiles": 6,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "238": {
