@@ -1,13 +1,14 @@
 {
-  "version": "imagery-v2-catalog-13",
+  "version": "imagery-v2-catalog-14",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/algarve-international-circuit.zip",
-      "version": "imagery-v1",
-      "sha256": "ce1a1f2f55cab4e5",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-14/algarve-international-circuit.zip",
+      "version": "imagery-v2-catalog-14",
+      "sha256": "a2f8a37a7d638d68",
       "corners": 15,
       "provider": "pt-dgt-2018",
+      "live_tiles": 85,
       "attribution": "© Direção-Geral do Território (DGT) — Ortos2018 (CC BY 4.0)"
     },
     "266": {
@@ -173,29 +174,32 @@
     },
     "523": {
       "venue": "Circuit de Spa-Francorchamps",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-de-spa-francorchamps.zip",
-      "version": "imagery-v1",
-      "sha256": "919d177a763bbc88",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-14/circuit-de-spa-francorchamps.zip",
+      "version": "imagery-v2-catalog-14",
+      "sha256": "f8dc7dd8a5af347d",
       "corners": 19,
       "provider": "be-wallonia",
+      "live_tiles": 173,
       "attribution": "© SPW (Service public de Wallonie) — open data"
     },
     "524": {
       "venue": "Circuit de Spa-Francorchamps",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-de-spa-francorchamps.zip",
-      "version": "imagery-v1",
-      "sha256": "919d177a763bbc88",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-14/circuit-de-spa-francorchamps.zip",
+      "version": "imagery-v2-catalog-14",
+      "sha256": "f8dc7dd8a5af347d",
       "corners": 19,
       "provider": "be-wallonia",
+      "live_tiles": 170,
       "attribution": "© SPW (Service public de Wallonie) — open data"
     },
     "525": {
       "venue": "Circuit de Spa-Francorchamps",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-de-spa-francorchamps.zip",
-      "version": "imagery-v1",
-      "sha256": "919d177a763bbc88",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-14/circuit-de-spa-francorchamps.zip",
+      "version": "imagery-v2-catalog-14",
+      "sha256": "f8dc7dd8a5af347d",
       "corners": 19,
       "provider": "be-wallonia",
+      "live_tiles": 173,
       "attribution": "© SPW (Service public de Wallonie) — open data"
     },
     "526": {
@@ -247,20 +251,22 @@
     },
     "516": {
       "venue": "Circuito de Navarra",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuito-de-navarra.zip",
-      "version": "imagery-v1",
-      "sha256": "6073376664aa151a",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-14/circuito-de-navarra.zip",
+      "version": "imagery-v2-catalog-14",
+      "sha256": "2048aed9f3ecc15d",
       "corners": 8,
       "provider": "es-pnoa",
+      "live_tiles": 61,
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
     },
     "517": {
       "venue": "Circuito de Navarra",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuito-de-navarra.zip",
-      "version": "imagery-v1",
-      "sha256": "6073376664aa151a",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-14/circuito-de-navarra.zip",
+      "version": "imagery-v2-catalog-14",
+      "sha256": "2048aed9f3ecc15d",
       "corners": 6,
       "provider": "es-pnoa",
+      "live_tiles": 33,
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
     },
     "192": {
@@ -421,29 +427,32 @@
     },
     "501": {
       "venue": "Misano World Circuit Marco Simoncelli",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/misano-world-circuit-marco-simoncelli.zip",
-      "version": "imagery-v1",
-      "sha256": "8c331130c4c60033",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-14/misano-world-circuit-marco-simoncelli.zip",
+      "version": "imagery-v2-catalog-14",
+      "sha256": "90efe1b8e4f18256",
       "corners": 16,
       "provider": "it-rer",
+      "live_tiles": 79,
       "attribution": "© Regione Emilia-Romagna — RER 2023-24 (CC BY 4.0)"
     },
     "503": {
       "venue": "Misano World Circuit Marco Simoncelli",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/misano-world-circuit-marco-simoncelli.zip",
-      "version": "imagery-v1",
-      "sha256": "8c331130c4c60033",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-14/misano-world-circuit-marco-simoncelli.zip",
+      "version": "imagery-v2-catalog-14",
+      "sha256": "90efe1b8e4f18256",
       "corners": 11,
       "provider": "it-rer",
+      "live_tiles": 79,
       "attribution": "© Regione Emilia-Romagna — RER 2023-24 (CC BY 4.0)"
     },
     "505": {
       "venue": "Misano World Circuit Marco Simoncelli",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/misano-world-circuit-marco-simoncelli.zip",
-      "version": "imagery-v1",
-      "sha256": "8c331130c4c60033",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-14/misano-world-circuit-marco-simoncelli.zip",
+      "version": "imagery-v2-catalog-14",
+      "sha256": "90efe1b8e4f18256",
       "corners": 16,
       "provider": "it-rer",
+      "live_tiles": 76,
       "attribution": "© Regione Emilia-Romagna — RER 2023-24 (CC BY 4.0)"
     },
     "195": {
@@ -649,11 +658,12 @@
     },
     "521": {
       "venue": "Sachsenring",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/sachsenring.zip",
-      "version": "imagery-v1",
-      "sha256": "53da15ee42d9a822",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-14/sachsenring.zip",
+      "version": "imagery-v2-catalog-14",
+      "sha256": "04679c2daa122e67",
       "corners": 13,
       "provider": "de-sn",
+      "live_tiles": 66,
       "attribution": "© GeoSN (Staatsbetrieb Geobasisinformation und Vermessung Sachsen), dl-de/by-2-0"
     },
     "95": {
