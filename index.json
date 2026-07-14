@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v2-catalog-07",
+  "version": "imagery-v2-nurburgring-combined",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -502,11 +502,12 @@
     },
     "252": {
       "venue": "Nürburgring Combined",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/n-rburgring-combined.zip",
-      "version": "imagery-v1",
-      "sha256": "94b7ccf53f36a13e",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-nurburgring-combined/n-rburgring-combined.zip",
+      "version": "imagery-v2-nurburgring-combined",
+      "sha256": "564ed11b44554925",
       "corners": 0,
       "provider": "de-rlp",
+      "live_tiles": 664,
       "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]"
     },
     "262": {
