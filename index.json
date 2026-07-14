@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v2-catalog-06",
+  "version": "imagery-v2-provenance-rollback",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -58,12 +58,11 @@
     },
     "585": {
       "venue": "Barber Motorsports Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-03/barber-motorsports-park.zip",
-      "version": "imagery-v2-catalog-03",
-      "sha256": "2a017e3d27422b87",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/barber-motorsports-park.zip",
+      "version": "imagery-v1",
+      "sha256": "938d06a6fd48498a",
       "corners": 16,
       "provider": "naip",
-      "live_tiles": 16,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "144": {
@@ -397,13 +396,12 @@
     },
     "539": {
       "venue": "Miami International Autodrome",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-03/miami-international-autodrome.zip",
-      "version": "imagery-v2-catalog-03",
-      "sha256": "b5284d04149282c5",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/miami-international-autodrome.zip",
+      "version": "imagery-v1",
+      "sha256": "feda513a5ae1b2a2",
       "corners": 19,
-      "provider": "fl-miami-dade-woolpert-2025",
-      "live_tiles": 105,
-      "attribution": "Miami-Dade County GIS — Woolpert 2025 Aerial Imagery"
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "153": {
       "venue": "Mid-Ohio Sports Car Course",
@@ -574,12 +572,11 @@
     },
     "537": {
       "venue": "Portland International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-03/portland-international-raceway.zip",
-      "version": "imagery-v2-catalog-03",
-      "sha256": "01a4498c4d31605d",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/portland-international-raceway.zip",
+      "version": "imagery-v1",
+      "sha256": "ec1ffdb0865b7045",
       "corners": 0,
       "provider": "or-osip",
-      "live_tiles": 59,
       "attribution": "Oregon OSIP 2018"
     },
     "403": {
@@ -681,12 +678,11 @@
     },
     "570": {
       "venue": "Sonoma Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-03/sonoma-raceway.zip",
-      "version": "imagery-v2-catalog-03",
-      "sha256": "0917956016012654",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/sonoma-raceway.zip",
+      "version": "imagery-v1",
+      "sha256": "64f367a5c2dd742e",
       "corners": 18,
       "provider": "naip",
-      "live_tiles": 18,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "8": {
@@ -818,12 +814,11 @@
     },
     "586": {
       "venue": "WeatherTech Raceway Laguna Seca",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-03/weathertech-raceway-laguna-seca.zip",
-      "version": "imagery-v2-catalog-03",
-      "sha256": "9966e759cbf5737c",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/weathertech-raceway-laguna-seca.zip",
+      "version": "imagery-v1",
+      "sha256": "9e67d365ebd09c5f",
       "corners": 11,
       "provider": "naip",
-      "live_tiles": 20,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "47": {
