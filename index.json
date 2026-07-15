@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v2-catalog-18",
+  "version": "imagery-v2-catalog-19",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -303,11 +303,12 @@
     },
     "444": {
       "venue": "Fuji International Speedway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/fuji-international-speedway.zip",
-      "version": "imagery-v1",
-      "sha256": "26d4aae17139fe8b",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-19/fuji-international-speedway.zip",
+      "version": "imagery-v2-catalog-19",
+      "sha256": "92e67a7923b7e924",
       "corners": 16,
       "provider": "jp-gsi",
+      "live_tiles": 76,
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
     },
     "445": {
@@ -332,20 +333,22 @@
     },
     "391": {
       "venue": "Hockenheimring Baden-Württemberg",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/hockenheimring-baden-w-rttemberg.zip",
-      "version": "imagery-v1",
-      "sha256": "407004dc4657ba38",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-19/hockenheimring-baden-w-rttemberg.zip",
+      "version": "imagery-v2-catalog-19",
+      "sha256": "6f3c11038d16d89d",
       "corners": 15,
       "provider": "de-bw",
+      "live_tiles": 84,
       "attribution": "© LGL-BW, dl-de/by-2-0"
     },
     "395": {
       "venue": "Hockenheimring Baden-Württemberg",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/hockenheimring-baden-w-rttemberg.zip",
-      "version": "imagery-v1",
-      "sha256": "407004dc4657ba38",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-19/hockenheimring-baden-w-rttemberg.zip",
+      "version": "imagery-v2-catalog-19",
+      "sha256": "6f3c11038d16d89d",
       "corners": 12,
       "provider": "de-bw",
+      "live_tiles": 104,
       "attribution": "© LGL-BW, dl-de/by-2-0"
     },
     "22": {
@@ -620,20 +623,22 @@
     },
     "403": {
       "venue": "Red Bull Ring",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/red-bull-ring.zip",
-      "version": "imagery-v1",
-      "sha256": "9dfe09cd67be374a",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-19/red-bull-ring.zip",
+      "version": "imagery-v2-catalog-19",
+      "sha256": "1f9034c3a01a8054",
       "corners": 10,
       "provider": "at-basemap",
+      "live_tiles": 91,
       "attribution": "Datenquelle: basemap.at (CC BY 4.0)"
     },
     "404": {
       "venue": "Red Bull Ring",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/red-bull-ring.zip",
-      "version": "imagery-v1",
-      "sha256": "9dfe09cd67be374a",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-19/red-bull-ring.zip",
+      "version": "imagery-v2-catalog-19",
+      "sha256": "1f9034c3a01a8054",
       "corners": 6,
       "provider": "at-basemap",
+      "live_tiles": 64,
       "attribution": "Datenquelle: basemap.at (CC BY 4.0)"
     },
     "18": {
@@ -1135,6 +1140,16 @@
       "provider": "au-nsw-hist1998",
       "live_tiles": 13,
       "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)"
+    },
+    "413": {
+      "venue": "Hungaroring",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-19/hungaroring.zip",
+      "version": "imagery-v2-catalog-19",
+      "sha256": "833507ef7ae3d6d6",
+      "corners": 14,
+      "provider": "wm-skysat-hungaroring",
+      "live_tiles": 12,
+      "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)"
     }
   }
 }
