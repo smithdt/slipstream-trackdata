@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v2-catalog-17",
+  "version": "imagery-v2-catalog-18",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -133,29 +133,32 @@
     },
     "345": {
       "venue": "Circuit de Barcelona Catalunya",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-de-barcelona-catalunya.zip",
-      "version": "imagery-v1",
-      "sha256": "2360cffda30f57a1",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-18/circuit-de-barcelona-catalunya.zip",
+      "version": "imagery-v2-catalog-18",
+      "sha256": "ffc48160231db169",
       "corners": 16,
       "provider": "es-pnoa",
+      "live_tiles": 87,
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
     },
     "346": {
       "venue": "Circuit de Barcelona Catalunya",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-de-barcelona-catalunya.zip",
-      "version": "imagery-v1",
-      "sha256": "2360cffda30f57a1",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-18/circuit-de-barcelona-catalunya.zip",
+      "version": "imagery-v2-catalog-18",
+      "sha256": "ffc48160231db169",
       "corners": 11,
       "provider": "es-pnoa",
+      "live_tiles": 66,
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
     },
     "349": {
       "venue": "Circuit de Barcelona Catalunya",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/circuit-de-barcelona-catalunya.zip",
-      "version": "imagery-v1",
-      "sha256": "2360cffda30f57a1",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-18/circuit-de-barcelona-catalunya.zip",
+      "version": "imagery-v2-catalog-18",
+      "sha256": "ffc48160231db169",
       "corners": 13,
       "provider": "es-pnoa",
+      "live_tiles": 87,
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
     },
     "489": {
@@ -319,11 +322,12 @@
     },
     "390": {
       "venue": "Hockenheimring Baden-Württemberg",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/hockenheimring-baden-w-rttemberg.zip",
-      "version": "imagery-v1",
-      "sha256": "407004dc4657ba38",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-18/hockenheimring-baden-w-rttemberg.zip",
+      "version": "imagery-v2-catalog-18",
+      "sha256": "e208821098a61041",
       "corners": 16,
       "provider": "de-bw",
+      "live_tiles": 103,
       "attribution": "© LGL-BW, dl-de/by-2-0"
     },
     "391": {
@@ -764,29 +768,32 @@
     },
     "324": {
       "venue": "Tsukuba Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/tsukuba-circuit.zip",
-      "version": "imagery-v1",
-      "sha256": "c7f95c69d09c1466",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-18/tsukuba-circuit.zip",
+      "version": "imagery-v2-catalog-18",
+      "sha256": "e20e66d08df98932",
       "corners": 9,
       "provider": "jp-gsi",
+      "live_tiles": 27,
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
     },
     "325": {
       "venue": "Tsukuba Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/tsukuba-circuit.zip",
-      "version": "imagery-v1",
-      "sha256": "c7f95c69d09c1466",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-18/tsukuba-circuit.zip",
+      "version": "imagery-v2-catalog-18",
+      "sha256": "e20e66d08df98932",
       "corners": 10,
       "provider": "jp-gsi",
+      "live_tiles": 28,
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
     },
     "329": {
       "venue": "Tsukuba Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/tsukuba-circuit.zip",
-      "version": "imagery-v1",
-      "sha256": "c7f95c69d09c1466",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-18/tsukuba-circuit.zip",
+      "version": "imagery-v2-catalog-18",
+      "sha256": "e20e66d08df98932",
       "corners": 11,
       "provider": "jp-gsi",
+      "live_tiles": 17,
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
     },
     "465": {
@@ -961,30 +968,33 @@
     },
     "341": {
       "venue": "Silverstone Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/silverstone-circuit.zip",
-      "version": "imagery-v1",
-      "sha256": "d24982e1703a4f62",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-18/silverstone-circuit.zip",
+      "version": "imagery-v2-catalog-18",
+      "sha256": "78bb4742cff5ea25",
       "corners": 18,
-      "provider": "ea-lidar-osm",
-      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
+      "provider": "wm-skysat-silverstone",
+      "live_tiles": 15,
+      "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)"
     },
     "342": {
       "venue": "Silverstone Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/silverstone-circuit.zip",
-      "version": "imagery-v1",
-      "sha256": "d24982e1703a4f62",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-18/silverstone-circuit.zip",
+      "version": "imagery-v2-catalog-18",
+      "sha256": "78bb4742cff5ea25",
       "corners": 9,
-      "provider": "ea-lidar-osm",
-      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
+      "provider": "wm-skysat-silverstone",
+      "live_tiles": 12,
+      "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)"
     },
     "343": {
       "venue": "Silverstone Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v1/silverstone-circuit.zip",
-      "version": "imagery-v1",
-      "sha256": "d24982e1703a4f62",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-18/silverstone-circuit.zip",
+      "version": "imagery-v2-catalog-18",
+      "sha256": "78bb4742cff5ea25",
       "corners": 6,
-      "provider": "ea-lidar-osm",
-      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
+      "provider": "wm-skysat-silverstone",
+      "live_tiles": 8,
+      "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)"
     },
     "297": {
       "venue": "Snetterton Circuit",
