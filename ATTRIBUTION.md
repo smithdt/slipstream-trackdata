@@ -7,7 +7,7 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
 - **(c) Scottish Government / Scottish Remote Sensing Portal (OGL v3.0); (c) OpenStreetMap contributors (ODbL)**  
   _Scottish Remote Sensing Portal LIDAR Phase 5 (DSM + laser intensity) + OpenStreetMap_
 - **(c) State of New South Wales (Spatial Services) - CC-BY 3.0 AU**  
-  _NSW Spatial Services - NSW Imagery (data.nsw.gov.au)_
+  _NSW Spatial Services - NSW Imagery (data.nsw.gov.au). Bathurst/Mount Panorama sits in a 10 cm ADS_Towns block flown 2022-02-12 (verified via NSW_Imagery_Dates; export probed sharp at 0.1 m/px 2026-07-24). max_request_px capped at 2048 (4096 hits an ArcGIS byte limit on this service)._
 - **Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)**  
   _CT ECO 2023 statewide orthophoto (UConn CLEAR / CT DEEP), 3-inch, EPSG:3857 (probed live 2026-06-08)_
 - **Contains information licensed under the Open Government Licence – Ontario**  
@@ -18,6 +18,8 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
   _FDOT Statewide Yearly Aerials 2020, 3-inch, native NAD83(2011) FL East (EPSG:6439) — does NOT serve 3857 (returns black); uses the reprojection warp. Covers Sebring/Highlands (verified live 2026-06-09)._
 - **Geoportale Nazionale — Ministero dell'Ambiente (MASE), Ortofoto 2012**  
   _Geoportale Nazionale (MASE) Ortofoto 2012 colore via WMS (layer OI.ORTOIMMAGINI.2012.32, UTM32N tileset), 0.50 m, EPSG:3857 — national open fallback for Italian venues outside a higher-res regional flight (e.g. Imola). NB: host forces plain HTTP._
+- **Indiana Geographic Information Office — Statewide Orthoimagery (CC0)**  
+  _Indiana GIO Current Orthoimagery, 6-inch statewide / 3-inch at Indianapolis (2025 tile in2025_16751656_3in verified 2026-07-24)_
 - **Miami-Dade County GIS — Woolpert 2025 Aerial Imagery**  
   _Miami-Dade County Woolpert 2025 orthophoto ImageServer, native 0.25 US-ft (3-inch) imagery in EPSG:6438_
 - **Morrow County GIS — 2021 Aerial Imagery**  
@@ -29,11 +31,13 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
 - **PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)**  
   _IGN España PNOA Máxima Actualidad via WMS-INSPIRE (www.ign.es/wms-inspire/pnoa-ma, layer OI.OrthoimageCoverage), 0.25 m, EPSG:3857 (probed live 2026-06-09; covers Barcelona/Jerez/Navarra/Aragón)_
 - **Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)**  
-  _Planet Labs SkySat image of the Hungaroring (2018-04-28) via Wikimedia Commons, hand-georeferenced to EPSG:3857 (2023×2022 px). https://commons.wikimedia.org/wiki/File:Hungaroring,_April_28,_2018_SkySat.jpg_
+  _Planet Labs SkySat captures via Wikimedia Commons, each hand-georeferenced to EPSG:3857. Silverstone Circuit (2018-07-02): https://commons.wikimedia.org/wiki/File:Silverstone_Circuit,_July_2,_2018_SkySat.jpg — Hungaroring (2018-04-28): https://commons.wikimedia.org/wiki/File:Hungaroring,_April_28,_2018_SkySat.jpg — Circuit Gilles-Villeneuve, Montreal (2018-05-29): https://commons.wikimedia.org/wiki/File:Circuit_Gilles-Villeneuve,_May_29,_2018_SkySat.jpg — Autódromo Hermanos Rodríguez, Mexico City (2018-06-04): https://commons.wikimedia.org/wiki/File:Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez,_June_4,_2018_SkySat.jpg_
 - **Texas StratMap 2019 / TxGIO (TNRIS) — Capital Area**  
   _TxGIO/TNRIS StratMap 2019 Capital Area NCCIR, 6-inch, native EPSG:3857 — drop-in (probed live 2026-06-09; covers COTA/Travis. NB: the newer StratMap21 CapArea has a nodata gap at COTA, so use 2019)._
 - **USDA Farm Service Agency / USGS — public domain**  
   _USGS NAIP (USGSNAIPPlus ImageServer)_
+- **Virginia Geographic Information Network — VBMP**  
+  _Virginia VBMP (Virginia Base Mapping Program) MostRecentImagery, 1-ft statewide (0.305 m), EPSG:3857 native. Urban areas may be 6-inch or 3-inch depending on county/cycle. Covers VIR (Halifax County). Endpoint moved from the retired gismaps.vita host to vginmaps.vdem.virginia.gov (verified 2026-07-24; default-DNS resolution can be flaky - probed via 8.8.8.8)._
 - **Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery**  
   _WI DNR 'Latest Leaf-Off' statewide ortho (WROC), 3-inch, native EPSG:3071 — reprojects to 3857 server-side via exportImage (probed live 2026-06-09)_
 - **Wisconsin Regional Orthophoto Consortium (WROC) — Sheboygan County 2020, 12-inch leaf-off orthoimagery**  
