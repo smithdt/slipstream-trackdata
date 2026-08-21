@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v2-catalog-26",
+  "version": "imagery-road-atlanta-20260821",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -663,12 +663,13 @@
     },
     "127": {
       "venue": "Road Atlanta",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-26/road-atlanta.zip",
-      "version": "imagery-v2-catalog-26",
-      "sha256": "07490737e94ac9fc",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-road-atlanta-20260821/road-atlanta.zip",
+      "version": "imagery-road-atlanta-20260821",
+      "sha256": "099d4876700b1a5b",
       "corners": 11,
       "provider": "naip",
       "live_tiles": 120,
+      "hero3d": true,
       "attribution": "USDA Farm Service Agency / USGS — public domain"
     },
     "128": {
