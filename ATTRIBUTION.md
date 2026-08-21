@@ -38,6 +38,8 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
   _USGS NAIP (USGSNAIPPlus ImageServer)_
 - **Virginia Geographic Information Network — VBMP**  
   _Virginia VBMP (Virginia Base Mapping Program) MostRecentImagery, 1-ft statewide (0.305 m), EPSG:3857 native. Urban areas may be 6-inch or 3-inch depending on county/cycle. Covers VIR (Halifax County). Endpoint moved from the retired gismaps.vita host to vginmaps.vdem.virginia.gov (verified 2026-07-24; default-DNS resolution can be flaky - probed via 8.8.8.8)._
+- **Volusia County Property Appraiser — 2024 aerial imagery**  
+  _Volusia County Property Appraiser 2024 aerial ImageServer, January 2024. The source description says 3-inch EagleView, but the live export service verified at 0.25 m/px; staged at the verified service resolution. https://maps5.vcgov.org/arcgis/rest/services/Aerials/2024_Aerial/ImageServer_
 - **Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery**  
   _WI DNR 'Latest Leaf-Off' statewide ortho (WROC), 3-inch, native EPSG:3071 — reprojects to 3857 server-side via exportImage (probed live 2026-06-09)_
 - **Wisconsin Regional Orthophoto Consortium (WROC) — Sheboygan County 2020, 12-inch leaf-off orthoimagery**  
@@ -59,7 +61,7 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
 - **© PDOK / Kadaster — Luchtfoto 2019 (CC BY 4.0)**  
   _PDOK Luchtfoto 2019 Ortho 25cm RGB (layer 2019_ortho25) via the same LV Beeldmateriaal WMS, native EPSG:28992, serves EPSG:3857 via WMS GetMap, 0.25 m. VINTAGE CHOSEN ON PURPOSE: this is the newest nationwide flight strictly PRE-DATING Zandvoort's 2020 F1 rebuild (banked Hugenholtz T3 + banked Luyendyk/Arena), so it matches iRacing's 2009 track scan. The 8cm 'Actueel' layer shows the post-2020 reprofiled tarmac and cannot be rigid-fit to the 2009 line (probed + eyeballed live 2026-07-12: 2019 shows the flat unbanked hairpin, Actueel shows the banked F1 apron). orthoHR/8cm only exists 2021+; 25cm is the best available pre-rebuild res._
 - **© PDOK / Kadaster — Luchtfoto Actueel (CC BY 4.0)**  
-  _PDOK Luchtfoto Actueel Ortho HR (8 cm RGB) via WMS, native EPSG:28992 but serves EPSG:3857 via WMS GetMap, 0.08 m (probed live 2026-06-09; highest-res source in the set)_
+  _PDOK Luchtfoto Actueel Ortho HR (8 cm RGB) via WMS, native EPSG:28992 but serves EPSG:3857 via WMS GetMap, 0.08 m (probed live 2026-06-09; highest-res source in the set). max_request_px capped at 2048 - the WMS ServiceExceptions on GetMap requests above ~2048 px/side (a native 0.08 m corner is 2750 px, so it tiles)._
 - **© Prefeitura de São Paulo — GeoSampa (CC BY-SA 4.0)**  
   _GeoSampa (Prefeitura de São Paulo) Ortofoto 2020 RGB via GeoServer WMS (layer geoportal:ORTO_RGB_2020), 0.10 m, serves EPSG:3857 (probed live 2026-06-09; covers Interlagos)_
 - **© Regione Emilia-Romagna — RER 2023-24 (CC BY 4.0)**  

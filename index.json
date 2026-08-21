@@ -1,5 +1,5 @@
 {
-  "version": "imagery-road-atlanta-20260821",
+  "version": "imagery-v2-catalog-27",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -23,22 +23,24 @@
     },
     "498": {
       "venue": "Autodromo Internazionale del Mugello",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/autodromo-internazionale-del-mugello.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "29c8a29ecd7440d0",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-27/autodromo-internazionale-del-mugello.zip",
+      "version": "imagery-v2-catalog-27",
+      "sha256": "26d688dfd975ca98",
       "corners": 15,
       "provider": "it-toscana",
-      "live_tiles": 96,
+      "live_tiles": 171,
+      "hero3d": true,
       "attribution": "© Regione Toscana — GEOscopio (CC BY 4.0)"
     },
     "499": {
       "venue": "Autodromo Internazionale del Mugello",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/autodromo-internazionale-del-mugello.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "29c8a29ecd7440d0",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-27/autodromo-internazionale-del-mugello.zip",
+      "version": "imagery-v2-catalog-27",
+      "sha256": "26d688dfd975ca98",
       "corners": 7,
       "provider": "it-toscana",
-      "live_tiles": 66,
+      "live_tiles": 116,
+      "hero3d": true,
       "attribution": "© Regione Toscana — GEOscopio (CC BY 4.0)"
     },
     "239": {
@@ -73,12 +75,13 @@
     },
     "144": {
       "venue": "Canadian Tire Motorsports Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-12/canadian-tire-motorsports-park.zip",
-      "version": "imagery-v2-catalog-12",
-      "sha256": "cdd6d132b5d7a015",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-27/canadian-tire-motorsports-park.zip",
+      "version": "imagery-v2-catalog-27",
+      "sha256": "c2ced4a092952905",
       "corners": 10,
       "provider": "ca-on-oiwms",
-      "live_tiles": 108,
+      "live_tiles": 310,
+      "hero3d": true,
       "attribution": "Contains information licensed under the Open Government Licence – Ontario"
     },
     "483": {
@@ -93,22 +96,24 @@
     },
     "485": {
       "venue": "Circuit Zandvoort",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/circuit-zandvoort.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "e5d38f70bf8aa1df",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-27/circuit-zandvoort.zip",
+      "version": "imagery-v2-catalog-27",
+      "sha256": "20073e587f9fa5b7",
       "corners": 14,
       "provider": "nl-pdok",
-      "live_tiles": 77,
+      "live_tiles": 529,
+      "hero3d": true,
       "attribution": "© PDOK / Kadaster — Luchtfoto Actueel (CC BY 4.0)"
     },
     "487": {
       "venue": "Circuit Zandvoort",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/circuit-zandvoort.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "e5d38f70bf8aa1df",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-27/circuit-zandvoort.zip",
+      "version": "imagery-v2-catalog-27",
+      "sha256": "20073e587f9fa5b7",
       "corners": 10,
       "provider": "nl-pdok",
-      "live_tiles": 58,
+      "live_tiles": 386,
+      "hero3d": true,
       "attribution": "© PDOK / Kadaster — Luchtfoto Actueel (CC BY 4.0)"
     },
     "199": {
@@ -233,12 +238,13 @@
     },
     "229": {
       "venue": "Circuit of the Americas",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/circuit-of-the-americas.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "57345ba448a60591",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-27/circuit-of-the-americas.zip",
+      "version": "imagery-v2-catalog-27",
+      "sha256": "0e76aa7611b69d77",
       "corners": 20,
       "provider": "tx-stratmap19-caparea",
-      "live_tiles": 113,
+      "live_tiles": 358,
+      "hero3d": true,
       "attribution": "Texas StratMap 2019 / TxGIO (TNRIS) — Capital Area"
     },
     "473": {
@@ -283,13 +289,14 @@
     },
     "192": {
       "venue": "Daytona International Speedway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-26/daytona-international-speedway.zip",
-      "version": "imagery-v2-catalog-26",
-      "sha256": "db6cdea75882f833",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-27/daytona-international-speedway.zip",
+      "version": "imagery-v2-catalog-27",
+      "sha256": "60e61d146c00e0db",
       "corners": 12,
-      "provider": "naip",
-      "live_tiles": 124,
-      "attribution": "USDA Farm Service Agency / USGS — public domain"
+      "provider": "fl-volusia-2024",
+      "live_tiles": 196,
+      "hero3d": true,
+      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery"
     },
     "319": {
       "venue": "Detroit Grand Prix at Belle Isle",
@@ -323,32 +330,35 @@
     },
     "390": {
       "venue": "Hockenheimring Baden-Württemberg",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-23/hockenheimring-baden-w-rttemberg.zip",
-      "version": "imagery-v2-catalog-23",
-      "sha256": "719188cb98793232",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-27/hockenheimring-baden-w-rttemberg.zip",
+      "version": "imagery-v2-catalog-27",
+      "sha256": "1d8d94b52942d04a",
       "corners": 16,
       "provider": "de-bw",
-      "live_tiles": 103,
+      "live_tiles": 187,
+      "hero3d": true,
       "attribution": "© LGL-BW, dl-de/by-2-0"
     },
     "391": {
       "venue": "Hockenheimring Baden-Württemberg",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-23/hockenheimring-baden-w-rttemberg.zip",
-      "version": "imagery-v2-catalog-23",
-      "sha256": "719188cb98793232",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-27/hockenheimring-baden-w-rttemberg.zip",
+      "version": "imagery-v2-catalog-27",
+      "sha256": "1d8d94b52942d04a",
       "corners": 15,
       "provider": "de-bw",
-      "live_tiles": 84,
+      "live_tiles": 144,
+      "hero3d": true,
       "attribution": "© LGL-BW, dl-de/by-2-0"
     },
     "395": {
       "venue": "Hockenheimring Baden-Württemberg",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-23/hockenheimring-baden-w-rttemberg.zip",
-      "version": "imagery-v2-catalog-23",
-      "sha256": "719188cb98793232",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-27/hockenheimring-baden-w-rttemberg.zip",
+      "version": "imagery-v2-catalog-27",
+      "sha256": "1d8d94b52942d04a",
       "corners": 12,
       "provider": "de-bw",
-      "live_tiles": 104,
+      "live_tiles": 188,
+      "hero3d": true,
       "attribution": "© LGL-BW, dl-de/by-2-0"
     },
     "22": {
@@ -373,22 +383,24 @@
     },
     "352": {
       "venue": "Lime Rock Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/lime-rock-park.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "33c98b132b21f4a1",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-27/lime-rock-park.zip",
+      "version": "imagery-v2-catalog-27",
+      "sha256": "a8f70df6c5e4c30e",
       "corners": 7,
       "provider": "ct-cteco",
-      "live_tiles": 64,
+      "live_tiles": 415,
+      "hero3d": true,
       "attribution": "Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)"
     },
     "353": {
       "venue": "Lime Rock Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/lime-rock-park.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "33c98b132b21f4a1",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-27/lime-rock-park.zip",
+      "version": "imagery-v2-catalog-27",
+      "sha256": "a8f70df6c5e4c30e",
       "corners": 9,
       "provider": "ct-cteco",
-      "live_tiles": 64,
+      "live_tiles": 415,
+      "hero3d": true,
       "attribution": "Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)"
     },
     "354": {
@@ -623,22 +635,24 @@
     },
     "403": {
       "venue": "Red Bull Ring",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-23/red-bull-ring.zip",
-      "version": "imagery-v2-catalog-23",
-      "sha256": "638c8fcdaf7283fd",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-27/red-bull-ring.zip",
+      "version": "imagery-v2-catalog-27",
+      "sha256": "9e9525b943b05b3e",
       "corners": 10,
       "provider": "at-basemap",
-      "live_tiles": 91,
+      "live_tiles": 166,
+      "hero3d": true,
       "attribution": "Datenquelle: basemap.at (CC BY 4.0)"
     },
     "404": {
       "venue": "Red Bull Ring",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-23/red-bull-ring.zip",
-      "version": "imagery-v2-catalog-23",
-      "sha256": "638c8fcdaf7283fd",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-27/red-bull-ring.zip",
+      "version": "imagery-v2-catalog-27",
+      "sha256": "9e9525b943b05b3e",
       "corners": 6,
       "provider": "at-basemap",
-      "live_tiles": 64,
+      "live_tiles": 112,
+      "hero3d": true,
       "attribution": "Datenquelle: basemap.at (CC BY 4.0)"
     },
     "18": {
@@ -804,22 +818,24 @@
     },
     "465": {
       "venue": "Virginia International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-21/virginia-international-raceway.zip",
-      "version": "imagery-v2-catalog-21",
-      "sha256": "237a6b216fbb78b1",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-27/virginia-international-raceway.zip",
+      "version": "imagery-v2-catalog-27",
+      "sha256": "6e9e2ab8d007d504",
       "corners": 16,
       "provider": "va-vbmp",
-      "live_tiles": 32,
+      "live_tiles": 128,
+      "hero3d": true,
       "attribution": "Virginia Geographic Information Network — VBMP"
     },
     "467": {
       "venue": "Virginia International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-22/virginia-international-raceway.zip",
-      "version": "imagery-v2-catalog-22",
-      "sha256": "10efd30930bfb5b0",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-27/virginia-international-raceway.zip",
+      "version": "imagery-v2-catalog-27",
+      "sha256": "6e9e2ab8d007d504",
       "corners": 16,
       "provider": "va-vbmp",
-      "live_tiles": 9,
+      "live_tiles": 84,
+      "hero3d": true,
       "attribution": "Virginia Geographic Information Network — VBMP"
     },
     "432": {
@@ -844,12 +860,13 @@
     },
     "434": {
       "venue": "Watkins Glen International",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/watkins-glen-international.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "479c6c52ba25adde",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-27/watkins-glen-international.zip",
+      "version": "imagery-v2-catalog-27",
+      "sha256": "d4249b16ebaf23b8",
       "corners": 11,
       "provider": "ny-its",
-      "live_tiles": 129,
+      "live_tiles": 384,
+      "hero3d": true,
       "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery"
     },
     "435": {
