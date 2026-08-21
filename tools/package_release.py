@@ -24,6 +24,24 @@ def referenced_files(manifest):
         files.append(manifest["hero3d"]["file"])
     return files
 
+def local_path_values(value, path="manifest"):
+    if isinstance(value, dict):
+        for key, child in value.items():
+            yield from local_path_values(child, f"{path}.{key}")
+    elif isinstance(value, list):
+        for index, child in enumerate(value):
+            yield from local_path_values(child, f"{path}[{index}]")
+    elif isinstance(value, str):
+        normalized = value.replace("\\", "/")
+        if re.match(r"^[A-Za-z]:/", normalized) or normalized.startswith("file://") or "ToDelete/" in normalized:
+            yield path, value
+
+def validate_public_manifest(manifest, directory):
+    local_values = list(local_path_values(manifest))
+    if local_values:
+        field, _ = local_values[0]
+        raise SystemExit(f"manifest contains local-only path metadata: {directory} -> {field}")
+
 def hero_imagery_fingerprint(live_tiles):
     digest = hashlib.sha256(b"SlipstreamHeroImagery/v1")
     digest.update(struct.pack("<d", float(live_tiles.get("ground_mpp", 0))))
@@ -124,6 +142,7 @@ def validate_hero3d(surface, manifest, hero3d, directory):
         raise SystemExit(f"hero3d companion is stale or invalid: {directory}")
 
 def validate_assets(directory, manifest, elevation_dir):
+    validate_public_manifest(manifest, directory)
     root = os.path.realpath(directory)
     live_tiles = (manifest.get("live_tiles") or {}).get("tiles", [])
     hero3d = manifest.get("hero3d")
@@ -182,9 +201,9 @@ def main():
         m = json.load(open(os.path.join(d, "manifest.json"), encoding="utf-8"))
         if not m.get("approved"):
             continue
-        validate_assets(d, m, elevation_dir)
         ir = int(p); venue = id2venue.get(ir, f"track-{ir}")
         if not only_ids or ir in only_ids:
+            validate_assets(d, m, elevation_dir)
             venues.setdefault(venue, []).append((ir, m))
         if m.get("attribution"):
             attributions[m["attribution"]] = m.get("source", m.get("provider", ""))
@@ -223,17 +242,15 @@ def main():
         with zipfile.ZipFile(zpath, "w", zipfile.ZIP_STORED) as z:   # JPEGs already compressed -> STORED
             for ir, m in sets:
                 d = os.path.join(a.src, str(ir))
-                for root, dirs, files in os.walk(d):
-                    dirs.sort(); files.sort()
-                    for fn in files:
-                        path = os.path.join(root, fn)
-                        rel = os.path.relpath(path, d).replace(os.sep, "/")
-                        if rel == (m.get("hero3d") or {}).get("file"):
-                            # JPEGs are already compressed, but the float terrain grid is highly compressible
-                            # (especially flat fallbacks). Keep it small on the wire without duplicating imagery.
-                            z.write(path, f"{ir}/{rel}", compress_type=zipfile.ZIP_DEFLATED, compresslevel=9)
-                        else:
-                            z.write(path, f"{ir}/{rel}")
+                packaged_files = sorted({"manifest.json", *referenced_files(m)})
+                for rel in packaged_files:
+                    path = os.path.join(d, rel)
+                    if rel == (m.get("hero3d") or {}).get("file"):
+                        # JPEGs are already compressed, but the float terrain grid is highly compressible
+                        # (especially flat fallbacks). Keep it small on the wire without duplicating imagery.
+                        z.write(path, f"{ir}/{rel}", compress_type=zipfile.ZIP_DEFLATED, compresslevel=9)
+                    else:
+                        z.write(path, f"{ir}/{rel}")
         sha = hashlib.sha256(open(zpath, "rb").read()).hexdigest()[:16]
         asset = f"{a.base_url}/{a.version}/{vslug}.zip"
         for ir, m in sets:

@@ -103,6 +103,38 @@ class PackageReleaseTests(unittest.TestCase):
         self.assertEqual(1, index["tracks"]["1"]["live_tiles"])
         self.assertTrue(index["tracks"]["1"]["hero3d"])
 
+    def test_unreferenced_files_are_excluded_from_the_public_archive(self):
+        self.write_set(1)
+        directory = self.src / "1"
+        (directory / "resolution-upgrade-receipt.json").write_text(
+            '{"stage":"C:\\\\private\\\\review"}', encoding="utf-8")
+        (directory / "review").mkdir()
+        (directory / "review" / "source.jpg").write_bytes(b"private review image")
+
+        result = self.run_package()
+
+        self.assertEqual(0, result.returncode, result.stderr)
+        with zipfile.ZipFile(self.root / "dist" / "venue-one.zip") as archive:
+            self.assertEqual({
+                "1/corner.jpg",
+                "1/full.jpg",
+                "1/hero3d/surface-v1.bin",
+                "1/manifest.json",
+                "1/tiles/0-0.jpg",
+            }, set(archive.namelist()))
+
+    def test_local_path_metadata_stops_packaging(self):
+        self.write_set(1)
+        manifest_path = self.src / "1" / "manifest.json"
+        manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+        manifest["alignment"] = {"review": "ToDelete/_review/private/"}
+        manifest_path.write_text(json.dumps(manifest), encoding="utf-8")
+
+        result = self.run_package()
+
+        self.assertNotEqual(0, result.returncode)
+        self.assertIn("manifest contains local-only path metadata", result.stderr)
+
     def test_missing_manifest_tile_stops_packaging(self):
         self.write_set(1, include_tile=False)
 

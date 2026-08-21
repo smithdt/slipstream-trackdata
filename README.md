@@ -47,8 +47,9 @@ Track directories may include a nested `tiles/` corridor: the live minimap decod
 tiles while retaining `full.jpg` as a compact whole-track overview and seamless fallback. Every live-tile set also
 includes `hero3d/surface-v1.bin`, a small precomputed terrain grid used by the Reference Coach 3D hero. The terrain
 contains no duplicate imagery. The private imagery generator rebuilds it automatically whenever tiles or approved
-elevation change. Packaging walks track directories recursively, verifies the terrain hash against both the tile
-manifest and authoritative elevation profile, and rejects a live-tile set whose companion is missing or stale.
+elevation change. Packaging includes only `manifest.json` and its referenced runtime assets, verifies the terrain
+hash against both the tile manifest and authoritative elevation profile, and rejects a live-tile set whose
+companion is missing or stale.
 
 ### Updating one track without making every client re-download
 
