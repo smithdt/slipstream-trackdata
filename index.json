@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v2-catalog-28",
+  "version": "imagery-v2-catalog-29",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -86,13 +86,14 @@
     },
     "483": {
       "venue": "Chicago Street Course",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-26/chicago-street-course.zip",
-      "version": "imagery-v2-catalog-26",
-      "sha256": "3535f4696da86dd8",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-29/chicago-street-course.zip",
+      "version": "imagery-v2-catalog-29",
+      "sha256": "5867d1768e47e53f",
       "corners": 12,
-      "provider": "naip",
-      "live_tiles": 80,
-      "attribution": "USDA Farm Service Agency / USGS — public domain"
+      "provider": "il-cook-ortho-2024",
+      "live_tiles": 335,
+      "hero3d": true,
+      "attribution": "Cook County GIS — 2024 orthophotography"
     },
     "485": {
       "venue": "Circuit Zandvoort",
@@ -363,12 +364,13 @@
     },
     "22": {
       "venue": "Homestead Miami Speedway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-22/homestead-miami-speedway.zip",
-      "version": "imagery-v2-catalog-22",
-      "sha256": "74054da7a4d781f4",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-29/homestead-miami-speedway.zip",
+      "version": "imagery-v2-catalog-29",
+      "sha256": "ed34775133d3e742",
       "corners": 10,
       "provider": "fl-miami-dade-woolpert-2025",
-      "live_tiles": 16,
+      "live_tiles": 620,
+      "hero3d": true,
       "attribution": "Miami-Dade County GIS — Woolpert 2025 Aerial Imagery"
     },
     "448": {
@@ -425,13 +427,14 @@
     },
     "179": {
       "venue": "Long Beach Street Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-26/long-beach-street-circuit.zip",
-      "version": "imagery-v2-catalog-26",
-      "sha256": "79ccafc00c7dafb9",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-29/long-beach-street-circuit.zip",
+      "version": "imagery-v2-catalog-29",
+      "sha256": "fefbb06569a82ffa",
       "corners": 11,
-      "provider": "naip",
-      "live_tiles": 40,
-      "attribution": "USDA Farm Service Agency / USGS — public domain"
+      "provider": "us-noaa-long-beach-2025-local",
+      "live_tiles": 60,
+      "hero3d": true,
+      "attribution": "NOAA National Geodetic Survey, 2025"
     },
     "539": {
       "venue": "Miami International Autodrome",
@@ -738,13 +741,14 @@
     },
     "570": {
       "venue": "Sonoma Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-26/sonoma-raceway.zip",
-      "version": "imagery-v2-catalog-26",
-      "sha256": "877fa7673d932fb7",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-29/sonoma-raceway.zip",
+      "version": "imagery-v2-catalog-29",
+      "sha256": "d7735f11d71b4427",
       "corners": 18,
-      "provider": "naip",
-      "live_tiles": 72,
-      "attribution": "USDA Farm Service Agency / USGS — public domain"
+      "provider": "ca-sonoma-eagleview-2025",
+      "live_tiles": 303,
+      "hero3d": true,
+      "attribution": "Sonoma County and EagleView — 2025 orthophotography"
     },
     "8": {
       "venue": "Summit Point Raceway",
@@ -758,13 +762,14 @@
     },
     "9": {
       "venue": "Summit Point Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-26/summit-point-raceway.zip",
-      "version": "imagery-v2-catalog-26",
-      "sha256": "7e22d38a521914fe",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-29/summit-point-raceway.zip",
+      "version": "imagery-v2-catalog-29",
+      "sha256": "0ceeae6cd1e2f88e",
       "corners": 10,
-      "provider": "naip",
-      "live_tiles": 72,
-      "attribution": "USDA Farm Service Agency / USGS — public domain"
+      "provider": "wv-wvgistc-jefferson-2025",
+      "live_tiles": 307,
+      "hero3d": true,
+      "attribution": "WVGISTC and Jefferson County — 2025 leaf-off imagery"
     },
     "168": {
       "venue": "Suzuka International Racing Course",
@@ -1091,13 +1096,14 @@
     },
     "218": {
       "venue": "Circuit Gilles Villeneuve",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-16/circuit-gilles-villeneuve.zip",
-      "version": "imagery-v2-catalog-16",
-      "sha256": "f7afd03ef68e0a5e",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-29/circuit-gilles-villeneuve.zip",
+      "version": "imagery-v2-catalog-29",
+      "sha256": "76e425481dbeadca",
       "corners": 14,
-      "provider": "wm-skysat-montreal",
-      "live_tiles": 12,
-      "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)"
+      "provider": "ca-cmm-montreal-2022-local",
+      "live_tiles": 1261,
+      "hero3d": true,
+      "attribution": "Communauté métropolitaine de Montréal, Orthophoto 2022"
     },
     "202": {
       "venue": "Oran Park Raceway",

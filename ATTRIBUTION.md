@@ -8,10 +8,14 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
   _Scottish Remote Sensing Portal LIDAR Phase 5 (DSM + laser intensity) + OpenStreetMap_
 - **(c) State of New South Wales (Spatial Services) - CC-BY 3.0 AU**  
   _NSW Spatial Services - NSW Imagery (data.nsw.gov.au). Bathurst/Mount Panorama sits in a 10 cm ADS_Towns block flown 2022-02-12 (verified via NSW_Imagery_Dates; export probed sharp at 0.1 m/px 2026-07-24). max_request_px capped at 2048 (4096 hits an ArcGIS byte limit on this service)._
+- **Communauté métropolitaine de Montréal, Orthophoto 2022**  
+  _Communauté métropolitaine de Montréal Orthophoto 2022; April 2022 acquisition; documented 0.10 m source, served by EPSG:32188 L34 cache._
 - **Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)**  
   _CT ECO 2023 statewide orthophoto (UConn CLEAR / CT DEEP), 3-inch, EPSG:3857 (probed live 2026-06-08)_
 - **Contains information licensed under the Open Government Licence – Ontario**  
   _Land Information Ontario OIWMS imagery MapServer export (NOT the _Source footprints service), ~0.16 m, EPSG:3857 (probed live 2026-06-09; covers Mosport / Canadian Tire Motorsport Park)_
+- **Cook County GIS — 2024 orthophotography**  
+  _Cook County GIS 2024 four-band orthophoto ImageServer, 6-inch / 0.1524 m imagery. https://gis.cookcountyil.gov/imagery/rest/services/CookOrtho2024/ImageServer_
 - **Datenquelle: basemap.at (CC BY 4.0)**  
   _basemap.at Orthofoto (bmaporthofoto30cm) WMTS google3857 XYZ tiles, 0.15-0.30 m, native EPSG:3857 (probed live 2026-06-09; host mapsneu.wien.gv.at — note {z}/{y}/{x} row/col order)_
 - **FDOT — Florida Statewide Digital Orthoimagery (2020)**  
@@ -24,6 +28,8 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
   _Miami-Dade County Woolpert 2025 orthophoto ImageServer, native 0.25 US-ft (3-inch) imagery in EPSG:6438_
 - **Morrow County GIS — 2021 Aerial Imagery**  
   _Morrow County GIS 2021 Aerial Imagery (ImageServer, cached), ~3.7 cm, native EPSG:3857 (probed live 2026-06-12; covers Mid-Ohio Sports Car Course / ir_id 153). Also has 2014/2016/2019 vintages at same endpoint pattern._
+- **NOAA National Geodetic Survey, 2025**  
+  _NOAA National Geodetic Survey Long Beach 4-band orthophoto; acquired 2025-02-01; 0.25 m GSD; bounded circuit crop read through the official EPSG:6340 VRT from intersecting COGs 387000e3738000n.tif and 390000e3738000n.tif._
 - **NYS ITS GIS Program Office — Statewide Orthoimagery**  
   _NYS Statewide Latest Orthoimagery (ITS GIS Program Office), 6-inch source, EPSG:3857 (probed live 2026-06-08)_
 - **Oregon OSIP 2018**  
@@ -32,6 +38,8 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
   _IGN España PNOA Máxima Actualidad via WMS-INSPIRE (www.ign.es/wms-inspire/pnoa-ma, layer OI.OrthoimageCoverage), 0.25 m, EPSG:3857 (probed live 2026-06-09; covers Barcelona/Jerez/Navarra/Aragón)_
 - **Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)**  
   _Planet Labs SkySat image of Autódromo Hermanos Rodríguez (2018-06-04) via Wikimedia Commons, hand-georeferenced to EPSG:3857 (2279×1709 px). https://commons.wikimedia.org/wiki/File:Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez,_June_4,_2018_SkySat.jpg_
+- **Sonoma County and EagleView — 2025 orthophotography**  
+  _Sonoma County / EagleView 2025 orthophoto ImageServer, May 2025, published 0.1524003 m service pixel size. https://socogis.sonomacounty.ca.gov/image2/rest/services/Rasters/Ortho_SoCo_EagleView_2025_WM/ImageServer_
 - **Texas StratMap 2019 / TxGIO (TNRIS) — Capital Area**  
   _TxGIO/TNRIS StratMap 2019 Capital Area NCCIR, 6-inch, native EPSG:3857 — drop-in (probed live 2026-06-09; covers COTA/Travis. NB: the newer StratMap21 CapArea has a nodata gap at COTA, so use 2019)._
 - **USDA Farm Service Agency / USGS — public domain**  
@@ -40,6 +48,8 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
   _Virginia VBMP (Virginia Base Mapping Program) MostRecentImagery, 1-ft statewide (0.305 m), EPSG:3857 native. Urban areas may be 6-inch or 3-inch depending on county/cycle. Covers VIR (Halifax County). Endpoint moved from the retired gismaps.vita host to vginmaps.vdem.virginia.gov (verified 2026-07-24; default-DNS resolution can be flaky - probed via 8.8.8.8)._
 - **Volusia County Property Appraiser — 2024 aerial imagery**  
   _Volusia County Property Appraiser 2024 aerial ImageServer, January 2024. The source description says 3-inch EagleView, but the live export service verified at 0.25 m/px; staged at the verified service resolution. https://maps5.vcgov.org/arcgis/rest/services/Aerials/2024_Aerial/ImageServer_
+- **WVGISTC and Jefferson County — 2025 leaf-off imagery**  
+  _WVGISTC Jefferson County 2025 leaf-off imagery, layer 1031; mixed 3–6 inch source classes, conservatively staged at 0.1524 m/px. https://services.wvgis.wvu.edu/arcgis/rest/services/Imagery_BaseMaps_EarthCover/wv_imagery_WVGISTC_leaf_off_mosaic/MapServer_
 - **Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery**  
   _WI DNR 'Latest Leaf-Off' statewide ortho (WROC), 3-inch, native EPSG:3071 — reprojects to 3857 server-side via exportImage (probed live 2026-06-09)_
 - **Wisconsin Regional Orthophoto Consortium (WROC) — Sheboygan County 2020, 12-inch leaf-off orthoimagery**  
