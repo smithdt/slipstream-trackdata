@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v2-catalog-30",
+  "version": "imagery-v2-catalog-31",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -55,12 +55,13 @@
     },
     "212": {
       "venue": "Autódromo José Carlos Pace",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/aut-dromo-jos-carlos-pace.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "3a534c41e36fe079",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-31/aut-dromo-jos-carlos-pace.zip",
+      "version": "imagery-v2-catalog-31",
+      "sha256": "a1ded1d3d05c19c5",
       "corners": 15,
       "provider": "br-geosampa",
-      "live_tiles": 86,
+      "live_tiles": 588,
+      "hero3d": true,
       "attribution": "© Prefeitura de São Paulo — GeoSampa (CC BY-SA 4.0)"
     },
     "585": {
@@ -260,12 +261,13 @@
     },
     "515": {
       "venue": "Circuito de Navarra",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/circuito-de-navarra.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "f656428e641d240d",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-31/circuito-de-navarra.zip",
+      "version": "imagery-v2-catalog-31",
+      "sha256": "3f16b94223c0d985",
       "corners": 15,
       "provider": "es-pnoa",
-      "live_tiles": 12,
+      "live_tiles": 133,
+      "hero3d": true,
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
     },
     "516": {
@@ -407,22 +409,24 @@
     },
     "354": {
       "venue": "Lime Rock Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/lime-rock-park.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "33c98b132b21f4a1",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-31/lime-rock-park.zip",
+      "version": "imagery-v2-catalog-31",
+      "sha256": "463c19f25206968f",
       "corners": 11,
       "provider": "ct-cteco",
-      "live_tiles": 64,
+      "live_tiles": 446,
+      "hero3d": true,
       "attribution": "Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)"
     },
     "355": {
       "venue": "Lime Rock Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/lime-rock-park.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "33c98b132b21f4a1",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-31/lime-rock-park.zip",
+      "version": "imagery-v2-catalog-31",
+      "sha256": "463c19f25206968f",
       "corners": 9,
       "provider": "ct-cteco",
-      "live_tiles": 64,
+      "live_tiles": 446,
+      "hero3d": true,
       "attribution": "Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)"
     },
     "179": {
@@ -448,12 +452,13 @@
     },
     "153": {
       "venue": "Mid-Ohio Sports Car Course",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/mid-ohio-sports-car-course.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "c22944a47088772a",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-31/mid-ohio-sports-car-course.zip",
+      "version": "imagery-v2-catalog-31",
+      "sha256": "afd61e9a8c2bd16f",
       "corners": 13,
       "provider": "oh-morrow-2021",
-      "live_tiles": 81,
+      "live_tiles": 560,
+      "hero3d": true,
       "attribution": "Morrow County GIS — 2021 Aerial Imagery"
     },
     "501": {
@@ -528,12 +533,13 @@
     },
     "219": {
       "venue": "Mount Panorama Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/mount-panorama-circuit.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "b72fe0619bbe8964",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-31/mount-panorama-circuit.zip",
+      "version": "imagery-v2-catalog-31",
+      "sha256": "f62e341991110e93",
       "corners": 23,
       "provider": "au-nsw",
-      "live_tiles": 55,
+      "live_tiles": 1475,
+      "hero3d": true,
       "attribution": "(c) State of New South Wales (Spatial Services) - CC-BY 3.0 AU"
     },
     "252": {
@@ -722,12 +728,13 @@
     },
     "96": {
       "venue": "Sebring International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-23/sebring-international-raceway.zip",
-      "version": "imagery-v2-catalog-23",
-      "sha256": "e15fa2a0806aae3d",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-31/sebring-international-raceway.zip",
+      "version": "imagery-v2-catalog-31",
+      "sha256": "e2f77e8d99025377",
       "corners": 9,
       "provider": "fl-fdot-east-2020",
-      "live_tiles": 8,
+      "live_tiles": 467,
+      "hero3d": true,
       "attribution": "FDOT — Florida Statewide Digital Orthoimagery (2020)"
     },
     "97": {
@@ -753,13 +760,14 @@
     },
     "8": {
       "venue": "Summit Point Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-26/summit-point-raceway.zip",
-      "version": "imagery-v2-catalog-26",
-      "sha256": "7e22d38a521914fe",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-31/summit-point-raceway.zip",
+      "version": "imagery-v2-catalog-31",
+      "sha256": "9e05319d283fd85d",
       "corners": 7,
-      "provider": "naip",
-      "live_tiles": 32,
-      "attribution": "USDA Farm Service Agency / USGS — public domain"
+      "provider": "wv-wvgistc-jefferson-2025",
+      "live_tiles": 132,
+      "hero3d": true,
+      "attribution": "WVGISTC and Jefferson County — 2025 leaf-off imagery"
     },
     "9": {
       "venue": "Summit Point Raceway",
@@ -846,22 +854,24 @@
     },
     "432": {
       "venue": "Watkins Glen International",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/watkins-glen-international.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "479c6c52ba25adde",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-31/watkins-glen-international.zip",
+      "version": "imagery-v2-catalog-31",
+      "sha256": "253d41b0f9a05465",
       "corners": 7,
       "provider": "ny-its",
-      "live_tiles": 108,
+      "live_tiles": 339,
+      "hero3d": true,
       "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery"
     },
     "433": {
       "venue": "Watkins Glen International",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/watkins-glen-international.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "479c6c52ba25adde",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-31/watkins-glen-international.zip",
+      "version": "imagery-v2-catalog-31",
+      "sha256": "253d41b0f9a05465",
       "corners": 7,
       "provider": "ny-its",
-      "live_tiles": 109,
+      "live_tiles": 348,
+      "hero3d": true,
       "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery"
     },
     "434": {
@@ -877,12 +887,13 @@
     },
     "435": {
       "venue": "Watkins Glen International",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/watkins-glen-international.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "479c6c52ba25adde",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-31/watkins-glen-international.zip",
+      "version": "imagery-v2-catalog-31",
+      "sha256": "253d41b0f9a05465",
       "corners": 11,
       "provider": "ny-its",
-      "live_tiles": 128,
+      "live_tiles": 407,
+      "hero3d": true,
       "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery"
     },
     "586": {
@@ -1175,6 +1186,17 @@
       "provider": "wm-skysat-hungaroring",
       "live_tiles": 12,
       "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    "220": {
+      "venue": "New Jersey Motorsports Park",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-31/new-jersey-motorsports-park.zip",
+      "version": "imagery-v2-catalog-31",
+      "sha256": "b2ced195911381d9",
+      "corners": 12,
+      "provider": "nj-njgin-2020",
+      "live_tiles": 57,
+      "hero3d": true,
+      "attribution": "New Jersey Office of Information Technology, Office of GIS — 2020 Natural Color Orthophotography"
     }
   }
 }

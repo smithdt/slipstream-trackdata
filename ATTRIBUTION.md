@@ -32,6 +32,8 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
   _NOAA National Geodetic Survey Long Beach 4-band orthophoto; acquired 2025-02-01; 0.25 m GSD; bounded circuit crop read through the official EPSG:6340 VRT from intersecting COGs 387000e3738000n.tif and 390000e3738000n.tif._
 - **NYS ITS GIS Program Office — Statewide Orthoimagery**  
   _NYS Statewide Latest Orthoimagery (ITS GIS Program Office), 6-inch source, EPSG:3857 (probed live 2026-06-08)_
+- **New Jersey Office of Information Technology, Office of GIS — 2020 Natural Color Orthophotography**  
+  _NJ Office of Information Technology, Office of GIS 2020 statewide leaf-off natural-color orthophotography; native EPSG:6527, 1-foot pixels, publicly served through the official EPSG:3857 cache_
 - **Oregon OSIP 2018**  
   _Oregon Statewide Imagery Program OSIP 2018 (oregonexplorer.info)_
 - **PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)**  
