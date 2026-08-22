@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v2-catalog-29",
+  "version": "imagery-v2-catalog-30",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -711,12 +711,13 @@
     },
     "95": {
       "venue": "Sebring International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-23/sebring-international-raceway.zip",
-      "version": "imagery-v2-catalog-23",
-      "sha256": "e15fa2a0806aae3d",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-30/sebring-international-raceway.zip",
+      "version": "imagery-v2-catalog-30",
+      "sha256": "32f7f9f8da3f0d8a",
       "corners": 17,
       "provider": "fl-fdot-east-2020",
-      "live_tiles": 9,
+      "live_tiles": 775,
+      "hero3d": true,
       "attribution": "FDOT — Florida Statewide Digital Orthoimagery (2020)"
     },
     "96": {
