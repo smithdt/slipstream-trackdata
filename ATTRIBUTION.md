@@ -46,6 +46,8 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
   _TxGIO/TNRIS StratMap 2019 Capital Area NCCIR, 6-inch, native EPSG:3857 — drop-in (probed live 2026-06-09; covers COTA/Travis. NB: the newer StratMap21 CapArea has a nodata gap at COTA, so use 2019)._
 - **USDA Farm Service Agency / USGS — public domain**  
   _USGS NAIP (USGSNAIPPlus ImageServer)_
+- **VIRTUAL SHIZUOKA 静岡県 点群データ (CC BY 4.0) を加工して作成**  
+  _VIRTUAL SHIZUOKA 富士山南東部・伊豆東部 点群データ — LP orthophoto, FY2019 (TIFF processed 2020-03-19). 48 published 1/1000 sheets (08ME29xx/08ME39xx, 400x300 m, JGD2011 plane rectangular zone VIII) downloaded from the open S3 bucket, mosaicked and reprojected to EPSG:3857 with the publishers' own world files; no hand georeferencing. Sheet resolution verified as 0.200 m/px from the TFW. Rebuilt 2026-08-23._
 - **Virginia Geographic Information Network — VBMP**  
   _Virginia VBMP (Virginia Base Mapping Program) MostRecentImagery, 1-ft statewide (0.305 m), EPSG:3857 native. Urban areas may be 6-inch or 3-inch depending on county/cycle. Covers VIR (Halifax County). Endpoint moved from the retired gismaps.vita host to vginmaps.vdem.virginia.gov (verified 2026-07-24; default-DNS resolution can be flaky - probed via 8.8.8.8)._
 - **Volusia County Property Appraiser — 2024 aerial imagery**  
@@ -85,4 +87,4 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
 - **©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]**  
   _LVermGeo RLP DOP20 via WMS (layer rp_dop20), 0.20 m, EPSG:3857 (probed live 2026-06-09; covers Nürburgring GP + Nordschleife)_
 - **出典：国土地理院（地理院タイル seamlessphoto を加工して作成）**  
-  _GSI (Geospatial Information Authority of Japan) 地理院タイル seamlessphoto XYZ tiles, max z18 (~0.2-0.4 m effective), native EPSG:3857 (probed live 2026-06-09; nationwide — Suzuka/Fuji/Motegi/Okayama/Tsukuba)_
+  _GSI (Geospatial Information Authority of Japan) 地理院タイル seamlessphoto XYZ tiles, max z18, native EPSG:3857 (z19/z20 probed 404 on 2026-06-09 and re-probed 2026-08-23; nationwide). z18 is 0.48 m/px TRUE GROUND at this venue's latitude (156543.03/2^18 x cos(lat)); the former 0.3 figure was a bake target, not a source resolution, so the stored grid is a 1.61x upsample of the finest data GSI publishes. Corrected 2026-08-23._

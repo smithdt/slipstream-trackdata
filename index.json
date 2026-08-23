@@ -1,5 +1,5 @@
 {
-  "version": "imagery-road-america-20260823",
+  "version": "imagery-v2-catalog-34",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -87,9 +87,9 @@
     },
     "483": {
       "venue": "Chicago Street Course",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-29/chicago-street-course.zip",
-      "version": "imagery-v2-catalog-29",
-      "sha256": "5867d1768e47e53f",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-34/chicago-street-course.zip",
+      "version": "imagery-v2-catalog-34",
+      "sha256": "10bf6d8fc152929b",
       "corners": 12,
       "provider": "il-cook-ortho-2024",
       "live_tiles": 335,
@@ -297,9 +297,9 @@
     },
     "192": {
       "venue": "Daytona International Speedway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-28/daytona-international-speedway.zip",
-      "version": "imagery-v2-catalog-28",
-      "sha256": "5096faaec9018425",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-34/daytona-international-speedway.zip",
+      "version": "imagery-v2-catalog-34",
+      "sha256": "f1f5daa481b61ecc",
       "corners": 12,
       "provider": "fl-volusia-2024",
       "live_tiles": 196,
@@ -775,9 +775,9 @@
     },
     "8": {
       "venue": "Summit Point Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-31/summit-point-raceway.zip",
-      "version": "imagery-v2-catalog-31",
-      "sha256": "9e05319d283fd85d",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-34/summit-point-raceway.zip",
+      "version": "imagery-v2-catalog-34",
+      "sha256": "0416f0587ccde02e",
       "corners": 7,
       "provider": "wv-wvgistc-jefferson-2025",
       "live_tiles": 132,
@@ -786,9 +786,9 @@
     },
     "9": {
       "venue": "Summit Point Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-29/summit-point-raceway.zip",
-      "version": "imagery-v2-catalog-29",
-      "sha256": "0ceeae6cd1e2f88e",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-34/summit-point-raceway.zip",
+      "version": "imagery-v2-catalog-34",
+      "sha256": "0416f0587ccde02e",
       "corners": 10,
       "provider": "wv-wvgistc-jefferson-2025",
       "live_tiles": 307,
@@ -973,12 +973,13 @@
     },
     "527": {
       "venue": "Cadwell Park Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/cadwell-park-circuit.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "6bb01bad01338bdc",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-34/cadwell-park-circuit.zip",
+      "version": "imagery-v2-catalog-34",
+      "sha256": "3e9cc392a73fcb93",
       "corners": 18,
       "provider": "ea-lidar-osm",
       "live_tiles": 21,
+      "hero3d": true,
       "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
     },
     "233": {
@@ -1003,12 +1004,13 @@
     },
     "423": {
       "venue": "Knockhill Racing Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-04/knockhill-racing-circuit.zip",
-      "version": "imagery-v2-catalog-04",
-      "sha256": "7ed98d47d66224f4",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-34/knockhill-racing-circuit.zip",
+      "version": "imagery-v2-catalog-34",
+      "sha256": "8cea6a5141bcfeb0",
       "corners": 9,
       "provider": "srsp-lidar-osm",
-      "live_tiles": 16,
+      "live_tiles": 0,
+      "hero3d": false,
       "attribution": "(c) Scottish Government / Scottish Remote Sensing Portal (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
     },
     "180": {
