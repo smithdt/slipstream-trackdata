@@ -36,6 +36,37 @@ def local_path_values(value, path="manifest"):
         if re.match(r"^[A-Za-z]:/", normalized) or normalized.startswith("file://") or "ToDelete/" in normalized:
             yield path, value
 
+# Provenance fields that legitimately name a reviewer's local scratch directory. They record WHERE the
+# evidence for a fit or an upgrade was reviewed, which is worth keeping in the private tree and is noise
+# in a public one - no runtime code reads any of them. They are dropped from the published copy instead
+# of blocking the release; every OTHER local path still refuses, which is what the gate is for.
+#
+# align.py stamps `manual_correction.review` into every manifest whose fit the driver approves, so
+# without this the corpus becomes progressively unpublishable as more venues are hand-fitted.
+INTERNAL_PATH_FIELDS = (
+    ("manual_correction", "review"),
+    ("live_tiles", "georeference_correction", "evidence"),
+    ("live_tiles", "georeference_correction", "candidate_source"),
+    ("live_tiles", "resolution_upgrade", "registration", "sidecar"),
+    ("live_tiles", "resolution_upgrade", "registration", "preparation_receipt"),
+    ("live_tiles", "resolution_upgrade", "reviewed_source_continuity", "reviewed_image"),
+)
+
+def public_manifest(manifest):
+    """Return (published copy, dropped field names). Only the fields above may be dropped."""
+    clean = json.loads(json.dumps(manifest))
+    dropped = []
+    for path in INTERNAL_PATH_FIELDS:
+        node = clean
+        for key in path[:-1]:
+            node = node.get(key) if isinstance(node, dict) else None
+            if not isinstance(node, dict):
+                break
+        if isinstance(node, dict) and path[-1] in node:
+            node.pop(path[-1])
+            dropped.append(".".join(path))
+    return clean, dropped
+
 def validate_public_manifest(manifest, directory):
     local_values = list(local_path_values(manifest))
     if local_values:
@@ -203,6 +234,11 @@ def main():
             continue
         ir = int(p); venue = id2venue.get(ir, f"track-{ir}")
         if not only_ids or ir in only_ids:
+            # Sanitize BEFORE validating, so the gate judges exactly what will ship, and package the
+            # sanitized copy rather than the file on disk.
+            m, dropped = public_manifest(m)
+            if dropped:
+                print(f"  ir{ir}: dropped internal provenance {', '.join(dropped)}")
             validate_assets(d, m, elevation_dir)
             venues.setdefault(venue, []).append((ir, m))
         if m.get("attribution"):
@@ -245,7 +281,12 @@ def main():
                 packaged_files = sorted({"manifest.json", *referenced_files(m)})
                 for rel in packaged_files:
                     path = os.path.join(d, rel)
-                    if rel == (m.get("hero3d") or {}).get("file"):
+                    if rel == "manifest.json":
+                        # `m` is the sanitized copy; the file on disk still holds the private provenance.
+                        z.writestr(f"{ir}/manifest.json",
+                                   json.dumps(m, indent=2, ensure_ascii=False) + "\n",
+                                   compress_type=zipfile.ZIP_DEFLATED, compresslevel=9)
+                    elif rel == (m.get("hero3d") or {}).get("file"):
                         # JPEGs are already compressed, but the float terrain grid is highly compressible
                         # (especially flat fallbacks). Keep it small on the wire without duplicating imagery.
                         z.write(path, f"{ir}/{rel}", compress_type=zipfile.ZIP_DEFLATED, compresslevel=9)

@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v2-catalog-34",
+  "version": "imagery-v2-catalog-35",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -953,22 +953,24 @@
     },
     "145": {
       "venue": "Brands Hatch Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/brands-hatch-circuit.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "24c6d1c699af7daa",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-35/brands-hatch-circuit.zip",
+      "version": "imagery-v2-catalog-35",
+      "sha256": "f5f4403f27c41509",
       "corners": 9,
       "provider": "ea-lidar-osm",
       "live_tiles": 22,
+      "hero3d": true,
       "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
     },
     "146": {
       "venue": "Brands Hatch Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/brands-hatch-circuit.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "24c6d1c699af7daa",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-35/brands-hatch-circuit.zip",
+      "version": "imagery-v2-catalog-35",
+      "sha256": "f5f4403f27c41509",
       "corners": 5,
       "provider": "ea-lidar-osm",
       "live_tiles": 12,
+      "hero3d": true,
       "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
     },
     "527": {
@@ -984,22 +986,24 @@
     },
     "233": {
       "venue": "Donington Park Racing Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/donington-park-racing-circuit.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "b0a47103a67bd4b4",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-35/donington-park-racing-circuit.zip",
+      "version": "imagery-v2-catalog-35",
+      "sha256": "cabbce807396d851",
       "corners": 12,
       "provider": "ea-lidar-osm",
       "live_tiles": 26,
+      "hero3d": true,
       "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
     },
     "234": {
       "venue": "Donington Park Racing Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/donington-park-racing-circuit.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "b0a47103a67bd4b4",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-35/donington-park-racing-circuit.zip",
+      "version": "imagery-v2-catalog-35",
+      "sha256": "cabbce807396d851",
       "corners": 10,
       "provider": "ea-lidar-osm",
       "live_tiles": 26,
+      "hero3d": true,
       "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
     },
     "423": {
@@ -1015,12 +1019,13 @@
     },
     "180": {
       "venue": "Oulton Park Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-04/oulton-park-circuit.zip",
-      "version": "imagery-v2-catalog-04",
-      "sha256": "90b57846cb6c2655",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-35/oulton-park-circuit.zip",
+      "version": "imagery-v2-catalog-35",
+      "sha256": "640d888ff6858605",
       "corners": 17,
       "provider": "ea-lidar-osm",
       "live_tiles": 29,
+      "hero3d": true,
       "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
     },
     "341": {
@@ -1055,12 +1060,13 @@
     },
     "297": {
       "venue": "Snetterton Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/snetterton-circuit.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "065a2007ffb44f82",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-35/snetterton-circuit.zip",
+      "version": "imagery-v2-catalog-35",
+      "sha256": "c3681b5afee27680",
       "corners": 13,
       "provider": "ea-lidar-osm",
       "live_tiles": 22,
+      "hero3d": true,
       "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
     },
     "147": {
