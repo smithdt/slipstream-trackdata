@@ -24,6 +24,8 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
   _Geoportale Nazionale (MASE) Ortofoto 2012 colore via WMS (layer OI.ORTOIMMAGINI.2012.32, UTM32N tileset), 0.50 m, EPSG:3857 — national open fallback for Italian venues outside a higher-res regional flight (e.g. Imola). NB: host forces plain HTTP._
 - **Indiana Geographic Information Office — Statewide Orthoimagery (CC0)**  
   _Indiana GIO Current Orthoimagery, 6-inch statewide / 3-inch at Indianapolis (2025 tile in2025_16751656_3in verified 2026-07-24)_
+- **Lechner Tudásközpont (Lechner Knowledge Centre) — Hungarian national orthophoto 2015**  
+  _Hungarian national orthophoto 2015 (OI.2015), Lechner Knowledge Centre INSPIRE WMS, https://inspire.lechnerkozpont.hu/geoserver/OI.2015/wms_
 - **Miami-Dade County GIS — Woolpert 2025 Aerial Imagery**  
   _Miami-Dade County Woolpert 2025 orthophoto ImageServer, native 0.25 US-ft (3-inch) imagery in EPSG:6438_
 - **Morrow County GIS — 2021 Aerial Imagery**  

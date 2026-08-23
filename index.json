@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v2-catalog-36",
+  "version": "imagery-v2-catalog-37",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -1202,13 +1202,14 @@
     },
     "413": {
       "venue": "Hungaroring",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-19/hungaroring.zip",
-      "version": "imagery-v2-catalog-19",
-      "sha256": "833507ef7ae3d6d6",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-37/hungaroring.zip",
+      "version": "imagery-v2-catalog-37",
+      "sha256": "cc7db3367570dc90",
       "corners": 14,
-      "provider": "wm-skysat-hungaroring",
-      "live_tiles": 12,
-      "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)"
+      "provider": "hu-lechner-2015",
+      "live_tiles": 0,
+      "hero3d": false,
+      "attribution": "Lechner Tudásközpont (Lechner Knowledge Centre) — Hungarian national orthophoto 2015"
     },
     "220": {
       "venue": "New Jersey Motorsports Park",
