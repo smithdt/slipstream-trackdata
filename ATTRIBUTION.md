@@ -54,8 +54,6 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
   _WVGISTC Jefferson County 2025 leaf-off imagery, layer 1031; mixed 3–6 inch source classes, conservatively staged at 0.1524 m/px. https://services.wvgis.wvu.edu/arcgis/rest/services/Imagery_BaseMaps_EarthCover/wv_imagery_WVGISTC_leaf_off_mosaic/MapServer_
 - **Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery**  
   _WI DNR 'Latest Leaf-Off' statewide ortho (WROC), 3-inch, native EPSG:3071 — reprojects to 3857 server-side via exportImage (probed live 2026-06-09)_
-- **Wisconsin Regional Orthophoto Consortium (WROC) — Sheboygan County 2020, 12-inch leaf-off orthoimagery**  
-  _Wisconsin Regional Orthophoto Consortium (WROC) 2020 Sheboygan County leaf-off orthoimagery, 12-inch (0.3048 m) source, preserved locally with its native georeference (validated 2026-07-14)_
 - **© Digitaal Vlaanderen — Orthofotomozaïek**  
   _Digitaal Vlaanderen Orthofotomozaïek (winter, most-recent) via WMS, 0.15-0.25 m, EPSG:3857 (probed live 2026-06-09; covers Zolder — Flanders, distinct from be-wallonia/Spa)_
 - **© Direção-Geral do Território (DGT) — Ortos2018 (CC BY 4.0)**  
