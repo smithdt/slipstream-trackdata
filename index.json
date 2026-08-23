@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v2-catalog-35",
+  "version": "imagery-v2-catalog-36",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -436,9 +436,9 @@
     },
     "179": {
       "venue": "Long Beach Street Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-29/long-beach-street-circuit.zip",
-      "version": "imagery-v2-catalog-29",
-      "sha256": "fefbb06569a82ffa",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-36/long-beach-street-circuit.zip",
+      "version": "imagery-v2-catalog-36",
+      "sha256": "48d0845f4bcaa55f",
       "corners": 11,
       "provider": "us-noaa-long-beach-2025-local",
       "live_tiles": 60,
@@ -1131,9 +1131,9 @@
     },
     "218": {
       "venue": "Circuit Gilles Villeneuve",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-29/circuit-gilles-villeneuve.zip",
-      "version": "imagery-v2-catalog-29",
-      "sha256": "76e425481dbeadca",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-36/circuit-gilles-villeneuve.zip",
+      "version": "imagery-v2-catalog-36",
+      "sha256": "caca3f29d454b934",
       "corners": 14,
       "provider": "ca-cmm-montreal-2022-local",
       "live_tiles": 1261,
