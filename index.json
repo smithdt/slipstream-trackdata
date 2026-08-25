@@ -1,5 +1,5 @@
 {
-  "version": "imagery-hungaroring-ai-20260824",
+  "version": "imagery-hungaroring-ai-runtime-20260825",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -1202,13 +1202,13 @@
     },
     "413": {
       "venue": "Hungaroring",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-hungaroring-ai-20260824/hungaroring.zip",
-      "version": "imagery-hungaroring-ai-20260824",
-      "sha256": "beff6f8a5b9e47ae",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-hungaroring-ai-runtime-20260825/hungaroring.zip",
+      "version": "imagery-hungaroring-ai-runtime-20260825",
+      "sha256": "7e9ab9432e7b9d92",
       "corners": 14,
       "provider": "hu-lechner-2015",
-      "live_tiles": 0,
-      "hero3d": false,
+      "live_tiles": 132,
+      "hero3d": true,
       "attribution": "Lechner Tudásközpont (Lechner Knowledge Centre) — Hungarian national orthophoto 2015"
     },
     "220": {
