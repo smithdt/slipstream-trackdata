@@ -1,0 +1,7 @@
+# Generatively restored imagery
+
+These venue assets contain source-anchored detail restored by Slipstream Live.
+
+| Venue key | Venue | Layout IDs | Source | Outgoing imagery licence | Modification notice | Disclosure |
+| --- | --- | --- | --- | --- | --- | --- |
+| tsukuba | Tsukuba Circuit | 324, 325, 329 | https://maps.gsi.go.jp/development/ichiran.html | GSI Content Usage Terms — commercial reuse + redistribution OK for photo tiles (no application needed), attribution + a 'processed' notice required. https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html | Detail generatively restored by Slipstream Live | Detail generatively restored by Slipstream Live |

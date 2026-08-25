@@ -817,33 +817,39 @@
     },
     "324": {
       "venue": "Tsukuba Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/tsukuba-circuit.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "6464b40ad7ae08b2",
       "corners": 9,
       "provider": "jp-gsi",
-      "live_tiles": 29,
-      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
+      "live_tiles": 9,
+      "hero3d": true,
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
+      "version": "imagery-tsukuba-ai-runtime-20260825",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-tsukuba-ai-runtime-20260825/tsukuba-circuit.zip",
+      "sha256": "a7b91851ecfd1eb2",
+      "size_bytes": 4562340
     },
     "325": {
       "venue": "Tsukuba Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/tsukuba-circuit.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "6464b40ad7ae08b2",
       "corners": 10,
       "provider": "jp-gsi",
-      "live_tiles": 28,
-      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
+      "live_tiles": 9,
+      "hero3d": true,
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
+      "version": "imagery-tsukuba-ai-runtime-20260825",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-tsukuba-ai-runtime-20260825/tsukuba-circuit.zip",
+      "sha256": "a7b91851ecfd1eb2",
+      "size_bytes": 4562340
     },
     "329": {
       "venue": "Tsukuba Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/tsukuba-circuit.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "6464b40ad7ae08b2",
       "corners": 11,
       "provider": "jp-gsi",
-      "live_tiles": 17,
-      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
+      "live_tiles": 4,
+      "hero3d": true,
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
+      "version": "imagery-tsukuba-ai-runtime-20260825",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-tsukuba-ai-runtime-20260825/tsukuba-circuit.zip",
+      "sha256": "a7b91851ecfd1eb2",
+      "size_bytes": 4562340
     },
     "465": {
       "venue": "Virginia International Raceway",
