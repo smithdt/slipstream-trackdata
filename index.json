@@ -1,5 +1,5 @@
 {
-  "version": "imagery-hungaroring-ai-runtime-20260825",
+  "version": "imagery-sebring-alignment-20260825",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -731,9 +731,9 @@
     },
     "95": {
       "venue": "Sebring International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-30/sebring-international-raceway.zip",
-      "version": "imagery-v2-catalog-30",
-      "sha256": "32f7f9f8da3f0d8a",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-sebring-alignment-20260825/sebring-international-raceway.zip",
+      "version": "imagery-sebring-alignment-20260825",
+      "sha256": "533ccc6c31805f47",
       "corners": 17,
       "provider": "fl-fdot-east-2020",
       "live_tiles": 775,
@@ -742,9 +742,9 @@
     },
     "96": {
       "venue": "Sebring International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-31/sebring-international-raceway.zip",
-      "version": "imagery-v2-catalog-31",
-      "sha256": "e2f77e8d99025377",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-sebring-alignment-20260825/sebring-international-raceway.zip",
+      "version": "imagery-sebring-alignment-20260825",
+      "sha256": "533ccc6c31805f47",
       "corners": 9,
       "provider": "fl-fdot-east-2020",
       "live_tiles": 467,
@@ -753,9 +753,9 @@
     },
     "97": {
       "venue": "Sebring International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-32/sebring-international-raceway.zip",
-      "version": "imagery-v2-catalog-32",
-      "sha256": "288853ac27928bae",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-sebring-alignment-20260825/sebring-international-raceway.zip",
+      "version": "imagery-sebring-alignment-20260825",
+      "sha256": "533ccc6c31805f47",
       "corners": 11,
       "provider": "fl-fdot-east-2020",
       "live_tiles": 439,
