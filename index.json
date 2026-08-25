@@ -1,5 +1,5 @@
 {
-  "version": "imagery-v2-catalog-37",
+  "version": "imagery-hungaroring-ai-20260824",
   "tracks": {
     "509": {
       "venue": "Algarve International Circuit",
@@ -1202,9 +1202,9 @@
     },
     "413": {
       "venue": "Hungaroring",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-37/hungaroring.zip",
-      "version": "imagery-v2-catalog-37",
-      "sha256": "cc7db3367570dc90",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-hungaroring-ai-20260824/hungaroring.zip",
+      "version": "imagery-hungaroring-ai-20260824",
+      "sha256": "beff6f8a5b9e47ae",
       "corners": 14,
       "provider": "hu-lechner-2015",
       "live_tiles": 0,
