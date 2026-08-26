@@ -1237,6 +1237,18 @@
       "live_tiles": 57,
       "hero3d": true,
       "attribution": "New Jersey Office of Information Technology, Office of GIS — 2020 Natural Color Orthophotography"
+    },
+    "554": {
+      "venue": "Charlotte Motor Speedway",
+      "corners": 15,
+      "provider": "nc-cabarrus-charlotte-2025",
+      "live_tiles": 432,
+      "hero3d": true,
+      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
+      "version": "imagery-charlotte-source-runtime-20260826",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-charlotte-source-runtime-20260826/charlotte-roval-20260826.zip",
+      "sha256": "af8a8995b1611619",
+      "size_bytes": 65829329
     }
   }
 }
