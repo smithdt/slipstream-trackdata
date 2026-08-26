@@ -99,6 +99,7 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
 
 | Venue key | Layout IDs | Source | Outgoing imagery licence | Modification notice |
 | --- | --- | --- | --- | --- |
+| barber | 585 | https://jccgis.jccal.org/image/rest/services/2025/DOP2025/ImageServer | Jefferson County GIS Consortium public-service redistribution under explicit product-owner risk acceptance; no affirmative redistribution grant was located | Source imagery processed by Slipstream Live |
 | charlotte-roval | 554 | https://location.cabarruscounty.us/services2/rest/services/Cached/Aerial2025/MapServer | Cabarrus County GIS public-cache redistribution under explicit product-owner risk acceptance; no affirmative redistribution grant was located | Source imagery processed by Slipstream Live |
 | okayama | 166, 167 | https://i-box.pref.okayama.jp/datasets/250 | CC BY 4.0 under the recorded product-owner risk override; the source page also names ODbL | Source imagery processed by Slipstream Live |
 | sebring | 95 | https://ca.dep.state.fl.us/image/rest/services/FDOT_Yearly_Aerials/Aerial_Imagery_2020/ImageServer | Florida public record (FL Statutes public-records law). Commercial reuse generally permitted as public record — verify before resale. | Backdrop alignment corrected by Slipstream Live |
@@ -111,3 +112,6 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
 
 - **Pinellas County Enterprise GIS — 2025 Aerial Imagery**  
   _https://egis.pinellas.gov/gis/rest/services/Aerials2025/ImageServer_
+
+- **Jefferson County GIS Consortium — 2025 Digital Orthophotos**  
+  _https://jccgis.jccal.org/image/rest/services/2025/DOP2025/ImageServer_

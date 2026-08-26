@@ -70,13 +70,15 @@
     },
     "585": {
       "venue": "Barber Motorsports Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-26/barber-motorsports-park.zip",
-      "version": "imagery-v2-catalog-26",
-      "sha256": "bfa0a90a1d2c45d7",
       "corners": 16,
-      "provider": "naip",
-      "live_tiles": 64,
-      "attribution": "USDA Farm Service Agency / USGS — public domain"
+      "provider": "al-jefferson-dop-2025",
+      "live_tiles": 594,
+      "hero3d": true,
+      "attribution": "Jefferson County GIS Consortium — 2025 Digital Orthophotos",
+      "version": "imagery-barber-source-runtime-20260826",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-barber-source-runtime-20260826/barber-20260826.zip",
+      "sha256": "ff21bf0ee08e5c06",
+      "size_bytes": 107644649
     },
     "144": {
       "venue": "Canadian Tire Motorsports Park",
