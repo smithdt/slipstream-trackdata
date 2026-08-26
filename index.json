@@ -617,23 +617,27 @@
     },
     "166": {
       "venue": "Okayama International Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/okayama-international-circuit.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "a5eacdeead88077f",
       "corners": 11,
-      "provider": "jp-gsi",
-      "live_tiles": 47,
-      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
+      "provider": "jp-okayama-infrabox",
+      "live_tiles": 55,
+      "hero3d": true,
+      "attribution": "おかやまインフラボックス 岡山県 3次元点群データ オルソ画像 を加工して作成",
+      "version": "imagery-okayama-source-runtime-20260826",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-okayama-source-runtime-20260826/imagery-okayama-source-runtime-20260826.zip",
+      "sha256": "e980667bf219bee4",
+      "size_bytes": 13414969
     },
     "167": {
       "venue": "Okayama International Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/okayama-international-circuit.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "a5eacdeead88077f",
       "corners": 7,
-      "provider": "jp-gsi",
-      "live_tiles": 35,
-      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
+      "provider": "jp-okayama-infrabox",
+      "live_tiles": 21,
+      "hero3d": true,
+      "attribution": "おかやまインフラボックス 岡山県 3次元点群データ オルソ画像 を加工して作成",
+      "version": "imagery-okayama-source-runtime-20260826",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-okayama-source-runtime-20260826/imagery-okayama-source-runtime-20260826.zip",
+      "sha256": "e980667bf219bee4",
+      "size_bytes": 13414969
     },
     "536": {
       "venue": "Portland International Raceway",

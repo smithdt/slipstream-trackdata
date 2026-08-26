@@ -90,3 +90,14 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
   _LVermGeo RLP DOP20 via WMS (layer rp_dop20), 0.20 m, EPSG:3857 (probed live 2026-06-09; covers Nürburgring GP + Nordschleife)_
 - **出典：国土地理院（地理院タイル seamlessphoto を加工して作成）**  
   _GSI (Geospatial Information Authority of Japan) 地理院タイル seamlessphoto XYZ tiles, max z18, native EPSG:3857 (z19/z20 probed 404 on 2026-06-09 and re-probed 2026-08-23; nationwide). z18 is 0.48 m/px TRUE GROUND at this venue's latitude (156543.03/2^18 x cos(lat)); the former 0.3 figure was a bake target, not a source resolution, so the stored grid is a 1.61x upsample of the finest data GSI publishes. Corrected 2026-08-23._
+
+- **おかやまインフラボックス 岡山県 3次元点群データ オルソ画像 を加工して作成**  
+  _https://i-box.pref.okayama.jp/datasets/250_
+
+<!-- slipstream-source-processed:start -->
+## Source-processed venue imagery
+
+| Venue key | Layout IDs | Source | Outgoing imagery licence | Modification notice |
+| --- | --- | --- | --- | --- |
+| okayama | 166, 167 | https://i-box.pref.okayama.jp/datasets/250 | CC BY 4.0 under the recorded product-owner risk override; the source page also names ODbL | Source imagery processed by Slipstream Live |
+<!-- slipstream-source-processed:end -->
