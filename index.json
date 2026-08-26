@@ -506,13 +506,15 @@
     },
     "195": {
       "venue": "Mobility Resort Motegi",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/mobility-resort-motegi.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "0465b6a60b28b46f",
       "corners": 14,
       "provider": "jp-gsi",
-      "live_tiles": 63,
-      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
+      "live_tiles": 154,
+      "hero3d": true,
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
+      "version": "motegi-native-genai-v1-20260826",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/motegi-native-genai-v1-20260826/imagery-motegi-native-genai-v1-20260826.zip",
+      "sha256": "cbaaf19338e74952",
+      "size_bytes": 50649371
     },
     "475": {
       "venue": "MotorLand Aragón",
@@ -1249,6 +1251,42 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-charlotte-source-runtime-20260826/charlotte-roval-20260826.zip",
       "sha256": "af8a8995b1611619",
       "size_bytes": 65829329
+    },
+    "196": {
+      "venue": "Mobility Resort Motegi",
+      "corners": 0,
+      "provider": "jp-gsi",
+      "live_tiles": 154,
+      "hero3d": true,
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
+      "version": "motegi-native-genai-v1-20260826",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/motegi-native-genai-v1-20260826/imagery-motegi-native-genai-v1-20260826.zip",
+      "sha256": "cbaaf19338e74952",
+      "size_bytes": 50649371
+    },
+    "197": {
+      "venue": "Mobility Resort Motegi",
+      "corners": 0,
+      "provider": "jp-gsi",
+      "live_tiles": 154,
+      "hero3d": true,
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
+      "version": "motegi-native-genai-v1-20260826",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/motegi-native-genai-v1-20260826/imagery-motegi-native-genai-v1-20260826.zip",
+      "sha256": "cbaaf19338e74952",
+      "size_bytes": 50649371
+    },
+    "198": {
+      "venue": "Mobility Resort Motegi",
+      "corners": 0,
+      "provider": "jp-gsi",
+      "live_tiles": 154,
+      "hero3d": true,
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
+      "version": "motegi-native-genai-v1-20260826",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/motegi-native-genai-v1-20260826/imagery-motegi-native-genai-v1-20260826.zip",
+      "sha256": "cbaaf19338e74952",
+      "size_bytes": 50649371
     }
   }
 }
