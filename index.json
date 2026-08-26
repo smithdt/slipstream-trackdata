@@ -937,24 +937,28 @@
       "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery"
     },
     "586": {
-      "venue": "WeatherTech Raceway Laguna Seca",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-26/weathertech-raceway-laguna-seca.zip",
-      "version": "imagery-v2-catalog-26",
-      "sha256": "b76f82c1c0c0b31e",
+      "venue": "WeatherTech Raceway at Laguna Seca",
       "corners": 11,
       "provider": "naip",
-      "live_tiles": 80,
-      "attribution": "USDA Farm Service Agency / USGS — public domain"
+      "live_tiles": 20,
+      "hero3d": true,
+      "attribution": "USDA Farm Service Agency / USGS — public domain",
+      "version": "laguna-seca-native-genai-v2-20260826",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/laguna-seca-native-genai-v2-20260826/imagery-laguna-seca-native-genai-v2-20260826.zip",
+      "sha256": "9c8298f696ebe1b4",
+      "size_bytes": 10516552
     },
     "47": {
       "venue": "WeatherTech Raceway at Laguna Seca",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-26/weathertech-raceway-at-laguna-seca.zip",
-      "version": "imagery-v2-catalog-26",
-      "sha256": "66465b26aaacf33e",
       "corners": 11,
       "provider": "naip",
-      "live_tiles": 84,
-      "attribution": "USDA Farm Service Agency / USGS — public domain"
+      "live_tiles": 20,
+      "hero3d": true,
+      "attribution": "USDA Farm Service Agency / USGS — public domain",
+      "version": "laguna-seca-native-genai-v2-20260826",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/laguna-seca-native-genai-v2-20260826/imagery-laguna-seca-native-genai-v2-20260826.zip",
+      "sha256": "9c8298f696ebe1b4",
+      "size_bytes": 10516552
     },
     "481": {
       "venue": "Willow Springs International Raceway",
