@@ -13,13 +13,15 @@
     },
     "266": {
       "venue": "Autodromo Internazionale Enzo e Dino Ferrari",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-17/autodromo-internazionale-enzo-e-dino-ferrari.zip",
-      "version": "imagery-v2-catalog-17",
-      "sha256": "2984855446063c08",
       "corners": 17,
       "provider": "it-mase",
-      "live_tiles": 36,
-      "attribution": "Geoportale Nazionale — Ministero dell'Ambiente (MASE), Ortofoto 2012"
+      "live_tiles": 66,
+      "hero3d": true,
+      "attribution": "Geoportale Nazionale — Ministero dell'Ambiente (MASE), Ortofoto 2012",
+      "version": "imagery-imola-ai-runtime-20260826",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-imola-ai-runtime-20260826/imagery-imola-ai-runtime-20260826.zip",
+      "sha256": "7b1c9cfcce99f879",
+      "size_bytes": 7465378
     },
     "498": {
       "venue": "Autodromo Internazionale del Mugello",
