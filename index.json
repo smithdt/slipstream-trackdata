@@ -711,24 +711,27 @@
     },
     "127": {
       "venue": "Road Atlanta",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-road-atlanta-20260821/road-atlanta.zip",
-      "version": "imagery-road-atlanta-20260821",
-      "sha256": "099d4876700b1a5b",
       "corners": 11,
       "provider": "naip",
-      "live_tiles": 120,
+      "live_tiles": 210,
       "hero3d": true,
-      "attribution": "USDA Farm Service Agency / USGS — public domain"
+      "attribution": "USDA Farm Service Agency / USGS — public domain",
+      "version": "road-atlanta-native-genai-v1-20260826",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-atlanta-native-genai-v1-20260826/imagery-road-atlanta-native-genai-v1-20260826-dae740304.zip",
+      "sha256": "b8d804114f024464",
+      "size_bytes": 38977450
     },
     "128": {
       "venue": "Road Atlanta",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-26/road-atlanta.zip",
-      "version": "imagery-v2-catalog-26",
-      "sha256": "07490737e94ac9fc",
       "corners": 10,
       "provider": "naip",
-      "live_tiles": 76,
-      "attribution": "USDA Farm Service Agency / USGS — public domain"
+      "live_tiles": 130,
+      "hero3d": true,
+      "attribution": "USDA Farm Service Agency / USGS — public domain",
+      "version": "road-atlanta-native-genai-v1-20260826",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-atlanta-native-genai-v1-20260826/imagery-road-atlanta-native-genai-v1-20260826-dae740304.zip",
+      "sha256": "b8d804114f024464",
+      "size_bytes": 38977450
     },
     "521": {
       "venue": "Sachsenring",
