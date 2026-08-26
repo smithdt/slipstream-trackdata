@@ -1294,13 +1294,13 @@
       "venue": "St. Petersburg Grand Prix",
       "corners": 14,
       "provider": "fl-pinellas-aerials-2025",
-      "live_tiles": 600,
+      "live_tiles": 361,
       "hero3d": true,
       "attribution": "Pinellas County Enterprise GIS — 2025 Aerial Imagery",
-      "version": "imagery-st-petersburg-source-runtime-20260826",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-st-petersburg-source-runtime-20260826/st-petersburg-20260826.zip",
-      "sha256": "1f6bb7cb0defff60",
-      "size_bytes": 64718635
+      "version": "imagery-st-petersburg-source-runtime-20260826-r2",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-st-petersburg-source-runtime-20260826-r2/st-petersburg-20260826-r2.zip",
+      "sha256": "5f768f74294546fe",
+      "size_bytes": 42397023
     }
   }
 }
