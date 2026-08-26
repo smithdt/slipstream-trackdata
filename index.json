@@ -870,25 +870,27 @@
     },
     "465": {
       "venue": "Virginia International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-28/virginia-international-raceway.zip",
-      "version": "imagery-v2-catalog-28",
-      "sha256": "f94a2dc403bbebde",
       "corners": 16,
       "provider": "va-vbmp",
-      "live_tiles": 128,
+      "live_tiles": 242,
       "hero3d": true,
-      "attribution": "Virginia Geographic Information Network — VBMP"
+      "attribution": "Virginia Geographic Information Network — VBMP",
+      "version": "imagery-vir-native-genai-v1-20260826",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-vir-native-genai-v1-20260826/imagery-vir-native-genai-v1-20260826.zip",
+      "sha256": "5034e662fd1ad208",
+      "size_bytes": 46135321
     },
     "467": {
       "venue": "Virginia International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-28/virginia-international-raceway.zip",
-      "version": "imagery-v2-catalog-28",
-      "sha256": "f94a2dc403bbebde",
       "corners": 16,
       "provider": "va-vbmp",
-      "live_tiles": 84,
+      "live_tiles": 132,
       "hero3d": true,
-      "attribution": "Virginia Geographic Information Network — VBMP"
+      "attribution": "Virginia Geographic Information Network — VBMP",
+      "version": "imagery-vir-native-genai-v1-20260826",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-vir-native-genai-v1-20260826/imagery-vir-native-genai-v1-20260826.zip",
+      "sha256": "5034e662fd1ad208",
+      "size_bytes": 46135321
     },
     "432": {
       "venue": "Watkins Glen International",
