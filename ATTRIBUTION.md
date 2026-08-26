@@ -101,4 +101,5 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
 | --- | --- | --- | --- | --- |
 | okayama | 166, 167 | https://i-box.pref.okayama.jp/datasets/250 | CC BY 4.0 under the recorded product-owner risk override; the source page also names ODbL | Source imagery processed by Slipstream Live |
 | sebring | 95 | https://ca.dep.state.fl.us/image/rest/services/FDOT_Yearly_Aerials/Aerial_Imagery_2020/ImageServer | Florida public record (FL Statutes public-records law). Commercial reuse generally permitted as public record — verify before resale. | Backdrop alignment corrected by Slipstream Live |
+| sonoma | 570 | https://socogis.sonomacounty.ca.gov/image2/rest/services/Rasters/Ortho_SoCo_EagleView_2025_WM/ImageServer/exportImage | The service credits EagleView and Sonoma County but publishes no open redistribution licence. Driver redistribution-risk override recorded separately; this text is not provider approval. | Backdrop and corner crops recut from the retained 2025 source used by the live tiles |
 <!-- slipstream-source-processed:end -->

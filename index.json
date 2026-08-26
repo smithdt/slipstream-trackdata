@@ -773,14 +773,15 @@
     },
     "570": {
       "venue": "Sonoma Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-29/sonoma-raceway.zip",
-      "version": "imagery-v2-catalog-29",
-      "sha256": "d7735f11d71b4427",
       "corners": 18,
       "provider": "ca-sonoma-eagleview-2025",
       "live_tiles": 303,
       "hero3d": true,
-      "attribution": "Sonoma County and EagleView — 2025 orthophotography"
+      "attribution": "Sonoma County and EagleView — 2025 orthophotography",
+      "version": "imagery-sonoma-backdrop-continuity-20260826",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-sonoma-backdrop-continuity-20260826/sonoma-raceway-r2.zip",
+      "sha256": "7f3b917159927510",
+      "size_bytes": 22282217
     },
     "8": {
       "venue": "Summit Point Raceway",
