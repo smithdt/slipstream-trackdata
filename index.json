@@ -739,14 +739,15 @@
     },
     "95": {
       "venue": "Sebring International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-sebring-alignment-20260825/sebring-international-raceway.zip",
-      "version": "imagery-sebring-alignment-20260825",
-      "sha256": "533ccc6c31805f47",
       "corners": 17,
       "provider": "fl-fdot-east-2020",
       "live_tiles": 775,
       "hero3d": true,
-      "attribution": "FDOT — Florida Statewide Digital Orthoimagery (2020)"
+      "attribution": "FDOT — Florida Statewide Digital Orthoimagery (2020)",
+      "version": "imagery-sebring-backdrop-alignment-20260826",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-sebring-backdrop-alignment-20260826/sebring-international-raceway.zip",
+      "sha256": "64a27432228f59c5",
+      "size_bytes": 39588583
     },
     "96": {
       "venue": "Sebring International Raceway",
