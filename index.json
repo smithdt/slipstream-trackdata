@@ -814,13 +814,15 @@
     },
     "168": {
       "venue": "Suzuka International Racing Course",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/suzuka-international-racing-course.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "e8be601cff04ae61",
       "corners": 17,
       "provider": "jp-gsi",
-      "live_tiles": 86,
-      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
+      "live_tiles": 72,
+      "hero3d": true,
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
+      "version": "suzuka-native-genai-v2-20260826",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/suzuka-native-genai-v2-20260826/imagery-suzuka-native-genai-v2-20260826.zip",
+      "sha256": "55eebf326b30210c",
+      "size_bytes": 10019657
     },
     "532": {
       "venue": "Thruxton Circuit",
