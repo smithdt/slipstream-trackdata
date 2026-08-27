@@ -1156,13 +1156,15 @@
     },
     "572": {
       "venue": "Autódromo Hermanos Rodríguez",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-15/aut-dromo-hermanos-rodr-guez.zip",
-      "version": "imagery-v2-catalog-15",
-      "sha256": "bc8138fe7f9eaa48",
       "corners": 17,
       "provider": "wm-skysat-mexico",
-      "live_tiles": 13,
-      "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)"
+      "live_tiles": 1,
+      "hero3d": true,
+      "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)",
+      "version": "mexico-native-genai-v2-20260826",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/mexico-native-genai-v2-20260826/imagery-mexico-native-genai-v2-20260826.zip",
+      "sha256": "a2fad1be87bac315",
+      "size_bytes": 4400160
     },
     "218": {
       "venue": "Circuit Gilles Villeneuve",
