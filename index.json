@@ -751,14 +751,15 @@
     },
     "521": {
       "venue": "Sachsenring",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-32/sachsenring.zip",
-      "version": "imagery-v2-catalog-32",
-      "sha256": "7076c423e792f94c",
       "corners": 13,
       "provider": "de-sn",
-      "live_tiles": 114,
-      "hero3d": true,
-      "attribution": "© GeoSN (Staatsbetrieb Geobasisinformation und Vermessung Sachsen), dl-de/by-2-0"
+      "live_tiles": 120,
+      "hero3d": false,
+      "attribution": "© GeoSN (Staatsbetrieb Geobasisinformation und Vermessung Sachsen), dl-de/by-2-0",
+      "version": "0.10.29",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.29/sachsenring-v0.10.29.zip",
+      "sha256": "8114d2cc9d8f365b",
+      "size_bytes": 17502248
     },
     "95": {
       "venue": "Sebring International Raceway",
