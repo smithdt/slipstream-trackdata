@@ -1343,12 +1343,12 @@
       "corners": 14,
       "provider": "fl-pinellas-aerials-2025",
       "live_tiles": 361,
-      "hero3d": true,
+      "hero3d": false,
       "attribution": "Pinellas County Enterprise GIS — 2025 Aerial Imagery",
-      "version": "imagery-st-petersburg-source-runtime-20260826-r2",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-st-petersburg-source-runtime-20260826-r2/st-petersburg-20260826-r2.zip",
-      "sha256": "5f768f74294546fe",
-      "size_bytes": 42397023
+      "version": "0.10.23",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.23/st-petersburg-v0.10.23.zip",
+      "sha256": "e628b5fd019ecb16",
+      "size_bytes": 42396349
     },
     "26": {
       "venue": "Daytona International Speedway",
