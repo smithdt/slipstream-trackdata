@@ -303,14 +303,15 @@
     },
     "192": {
       "venue": "Daytona International Speedway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-34/daytona-international-speedway.zip",
-      "version": "imagery-v2-catalog-34",
-      "sha256": "f1f5daa481b61ecc",
       "corners": 12,
       "provider": "fl-volusia-2024",
-      "live_tiles": 196,
-      "hero3d": true,
-      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery"
+      "live_tiles": 72,
+      "hero3d": false,
+      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
+      "version": "daytona-native-imagery-v2-20260828",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/daytona-native-imagery-v2-20260828/daytona-native-imagery-v2-20260828.zip",
+      "sha256": "bdaa5d2f262c3c44",
+      "size_bytes": 154987396
     },
     "319": {
       "venue": "Detroit Grand Prix at Belle Isle",
@@ -1332,6 +1333,102 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-st-petersburg-source-runtime-20260826-r2/st-petersburg-20260826-r2.zip",
       "sha256": "5f768f74294546fe",
       "size_bytes": 42397023
+    },
+    "26": {
+      "venue": "Daytona International Speedway",
+      "corners": 12,
+      "provider": "fl-volusia-2024",
+      "live_tiles": 72,
+      "hero3d": false,
+      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
+      "version": "daytona-native-imagery-v2-20260828",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/daytona-native-imagery-v2-20260828/daytona-native-imagery-v2-20260828.zip",
+      "sha256": "bdaa5d2f262c3c44",
+      "size_bytes": 154987396
+    },
+    "27": {
+      "venue": "Daytona International Speedway",
+      "corners": 4,
+      "provider": "fl-volusia-2024",
+      "live_tiles": 72,
+      "hero3d": false,
+      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
+      "version": "daytona-native-imagery-v2-20260828",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/daytona-native-imagery-v2-20260828/daytona-native-imagery-v2-20260828.zip",
+      "sha256": "bdaa5d2f262c3c44",
+      "size_bytes": 154987396
+    },
+    "28": {
+      "venue": "Daytona International Speedway",
+      "corners": 12,
+      "provider": "fl-volusia-2024",
+      "live_tiles": 72,
+      "hero3d": false,
+      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
+      "version": "daytona-native-imagery-v2-20260828",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/daytona-native-imagery-v2-20260828/daytona-native-imagery-v2-20260828.zip",
+      "sha256": "bdaa5d2f262c3c44",
+      "size_bytes": 154987396
+    },
+    "29": {
+      "venue": "Daytona International Speedway",
+      "corners": 6,
+      "provider": "fl-volusia-2024",
+      "live_tiles": 72,
+      "hero3d": false,
+      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
+      "version": "daytona-native-imagery-v2-20260828",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/daytona-native-imagery-v2-20260828/daytona-native-imagery-v2-20260828.zip",
+      "sha256": "bdaa5d2f262c3c44",
+      "size_bytes": 154987396
+    },
+    "191": {
+      "venue": "Daytona International Speedway",
+      "corners": 4,
+      "provider": "fl-volusia-2024",
+      "live_tiles": 72,
+      "hero3d": false,
+      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
+      "version": "daytona-native-imagery-v2-20260828",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/daytona-native-imagery-v2-20260828/daytona-native-imagery-v2-20260828.zip",
+      "sha256": "bdaa5d2f262c3c44",
+      "size_bytes": 154987396
+    },
+    "193": {
+      "venue": "Daytona International Speedway",
+      "corners": 13,
+      "provider": "fl-volusia-2024",
+      "live_tiles": 72,
+      "hero3d": false,
+      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
+      "version": "daytona-native-imagery-v2-20260828",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/daytona-native-imagery-v2-20260828/daytona-native-imagery-v2-20260828.zip",
+      "sha256": "bdaa5d2f262c3c44",
+      "size_bytes": 154987396
+    },
+    "194": {
+      "venue": "Daytona International Speedway",
+      "corners": 5,
+      "provider": "fl-volusia-2024",
+      "live_tiles": 72,
+      "hero3d": false,
+      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
+      "version": "daytona-native-imagery-v2-20260828",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/daytona-native-imagery-v2-20260828/daytona-native-imagery-v2-20260828.zip",
+      "sha256": "bdaa5d2f262c3c44",
+      "size_bytes": 154987396
+    },
+    "381": {
+      "venue": "Daytona International Speedway",
+      "corners": 14,
+      "provider": "fl-volusia-2024",
+      "live_tiles": 72,
+      "hero3d": false,
+      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
+      "version": "daytona-native-imagery-v2-20260828",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/daytona-native-imagery-v2-20260828/daytona-native-imagery-v2-20260828.zip",
+      "sha256": "bdaa5d2f262c3c44",
+      "size_bytes": 154987396
     }
   }
 }
