@@ -1281,14 +1281,15 @@
     },
     "220": {
       "venue": "New Jersey Motorsports Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-31/new-jersey-motorsports-park.zip",
-      "version": "imagery-v2-catalog-31",
-      "sha256": "b2ced195911381d9",
       "corners": 12,
       "provider": "nj-njgin-2020",
-      "live_tiles": 57,
-      "hero3d": true,
-      "attribution": "New Jersey Office of Information Technology, Office of GIS — 2020 Natural Color Orthophotography"
+      "live_tiles": 96,
+      "hero3d": false,
+      "attribution": "New Jersey Office of Information Technology, Office of GIS — 2020 Natural Color Orthophotography",
+      "version": "0.10.24",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.24/new-jersey-motorsports-park-v0.10.24.zip",
+      "sha256": "107fba2289e48a42",
+      "size_bytes": 12904526
     },
     "554": {
       "venue": "Charlotte Motor Speedway",
