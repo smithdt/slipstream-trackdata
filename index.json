@@ -466,14 +466,15 @@
     },
     "539": {
       "venue": "Miami International Autodrome",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-32/miami-international-autodrome.zip",
-      "version": "imagery-v2-catalog-32",
-      "sha256": "8ac83f4ece7184f9",
       "corners": 19,
       "provider": "fl-miami-dade-woolpert-2025",
-      "live_tiles": 1078,
-      "hero3d": true,
-      "attribution": "Miami-Dade County GIS — Woolpert 2025 Aerial Imagery"
+      "live_tiles": 490,
+      "hero3d": false,
+      "attribution": "Miami-Dade County GIS — Woolpert 2025 Aerial Imagery",
+      "version": "0.10.31",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.31/miami-international-autodrome-v0.10.31.zip",
+      "sha256": "bfb1e7ff0aa81c1d",
+      "size_bytes": 73373024
     },
     "153": {
       "venue": "Mid-Ohio Sports Car Course",
