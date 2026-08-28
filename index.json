@@ -324,13 +324,15 @@
     },
     "319": {
       "venue": "Detroit Grand Prix at Belle Isle",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-26/detroit-grand-prix-at-belle-isle.zip",
-      "version": "imagery-v2-catalog-26",
-      "sha256": "edbcb05963dbceec",
       "corners": 14,
       "provider": "naip",
-      "live_tiles": 100,
-      "attribution": "USDA Farm Service Agency / USGS — public domain"
+      "live_tiles": 98,
+      "hero3d": false,
+      "attribution": "USDA Farm Service Agency / USGS — public domain",
+      "version": "0.10.28",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.28/detroit-belle-isle-v0.10.28.zip",
+      "sha256": "7be41226a983e30d",
+      "size_bytes": 11851561
     },
     "444": {
       "venue": "Fuji International Speedway",
