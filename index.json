@@ -50,12 +50,12 @@
       "corners": 11,
       "provider": "it-mase",
       "live_tiles": 104,
-      "hero3d": true,
+      "hero3d": false,
       "attribution": "Geoportale Nazionale — Ministero dell'Ambiente (MASE), Ortofoto 2012",
-      "version": "imagery-monza-ai-runtime-20260826",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-monza-ai-runtime-20260826/imagery-monza-ai-runtime-20260826.zip",
-      "sha256": "87efd3a3a9ab4ab9",
-      "size_bytes": 12862996
+      "version": "0.10.31",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.31/monza-v0.10.31.zip",
+      "sha256": "51178ba99388c762",
+      "size_bytes": 12861868
     },
     "212": {
       "venue": "Autódromo José Carlos Pace",
