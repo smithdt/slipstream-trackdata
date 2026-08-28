@@ -177,15 +177,16 @@
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
     },
     "489": {
-      "venue": "Circuit de Lédenon",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-32/circuit-de-l-denon.zip",
-      "version": "imagery-v2-catalog-32",
-      "sha256": "74a8eb4d603e81ee",
+      "venue": "Circuit de Ledenon",
       "corners": 15,
       "provider": "ign-geoplateforme",
-      "live_tiles": 92,
-      "hero3d": true,
-      "attribution": "© IGN — Géoplateforme (Licence Ouverte / Etalab 2.0)"
+      "live_tiles": 54,
+      "hero3d": false,
+      "attribution": "© IGN — Géoplateforme (Licence Ouverte / Etalab 2.0)",
+      "version": "0.10.27",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.27/ledenon-v0.10.27.zip",
+      "sha256": "614bbdfe2db172ec",
+      "size_bytes": 10755706
     },
     "463": {
       "venue": "Circuit de Nevers Magny-Cours",
