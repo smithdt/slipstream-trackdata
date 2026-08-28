@@ -692,25 +692,27 @@
     },
     "18": {
       "venue": "Road America",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-road-america-20260823/road-america.zip",
-      "version": "imagery-road-america-20260823",
-      "sha256": "f554c357e5031df2",
       "corners": 14,
       "provider": "wi-dnr",
-      "live_tiles": 1636,
-      "hero3d": true,
-      "attribution": "Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery"
+      "live_tiles": 910,
+      "hero3d": false,
+      "attribution": "Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery",
+      "version": "road-america-native-genai-v2-20260828",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-america-native-genai-v2-20260828/road-america-native-genai-v2-20260828.zip",
+      "sha256": "f9e68289c54092f2",
+      "size_bytes": 88356049
     },
     "50": {
       "venue": "Road America",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-road-america-20260823/road-america.zip",
-      "version": "imagery-road-america-20260823",
-      "sha256": "f554c357e5031df2",
       "corners": 14,
       "provider": "wi-dnr",
-      "live_tiles": 147,
-      "hero3d": true,
-      "attribution": "Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery"
+      "live_tiles": 910,
+      "hero3d": false,
+      "attribution": "Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery",
+      "version": "road-america-native-genai-v2-20260828",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-america-native-genai-v2-20260828/road-america-native-genai-v2-20260828.zip",
+      "sha256": "f9e68289c54092f2",
+      "size_bytes": 88356049
     },
     "127": {
       "venue": "Road Atlanta",
