@@ -478,14 +478,15 @@
     },
     "153": {
       "venue": "Mid-Ohio Sports Car Course",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-31/mid-ohio-sports-car-course.zip",
-      "version": "imagery-v2-catalog-31",
-      "sha256": "afd61e9a8c2bd16f",
       "corners": 13,
       "provider": "oh-morrow-2021",
-      "live_tiles": 560,
-      "hero3d": true,
-      "attribution": "Morrow County GIS — 2021 Aerial Imagery"
+      "live_tiles": 432,
+      "hero3d": false,
+      "attribution": "Morrow County GIS — 2021 Aerial Imagery",
+      "version": "0.10.31",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.31/mid-ohio-v0.10.31.zip",
+      "sha256": "bb372468aba70cb5",
+      "size_bytes": 46121497
     },
     "501": {
       "venue": "Misano World Circuit Marco Simoncelli",
