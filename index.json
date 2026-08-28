@@ -1092,36 +1092,36 @@
       "corners": 18,
       "provider": "wm-skysat-silverstone",
       "live_tiles": 240,
-      "hero3d": true,
+      "hero3d": false,
       "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)",
-      "version": "silverstone-native-genai-v1-20260826",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/silverstone-native-genai-v1-20260826/imagery-silverstone-native-genai-v1-20260826.zip",
-      "sha256": "ae75264390732384",
-      "size_bytes": 35610278
+      "version": "0.10.31",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.31/silverstone-v0.10.31.zip",
+      "sha256": "411f6d5b85f90701",
+      "size_bytes": 35608059
     },
     "342": {
       "venue": "Silverstone Circuit",
       "corners": 9,
       "provider": "wm-skysat-silverstone",
       "live_tiles": 132,
-      "hero3d": true,
+      "hero3d": false,
       "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)",
-      "version": "silverstone-native-genai-v1-20260826",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/silverstone-native-genai-v1-20260826/imagery-silverstone-native-genai-v1-20260826.zip",
-      "sha256": "ae75264390732384",
-      "size_bytes": 35610278
+      "version": "0.10.31",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.31/silverstone-v0.10.31.zip",
+      "sha256": "411f6d5b85f90701",
+      "size_bytes": 35608059
     },
     "343": {
       "venue": "Silverstone Circuit",
       "corners": 6,
       "provider": "wm-skysat-silverstone",
       "live_tiles": 80,
-      "hero3d": true,
+      "hero3d": false,
       "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)",
-      "version": "silverstone-native-genai-v1-20260826",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/silverstone-native-genai-v1-20260826/imagery-silverstone-native-genai-v1-20260826.zip",
-      "sha256": "ae75264390732384",
-      "size_bytes": 35610278
+      "version": "0.10.31",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.31/silverstone-v0.10.31.zip",
+      "sha256": "411f6d5b85f90701",
+      "size_bytes": 35608059
     },
     "297": {
       "venue": "Snetterton Circuit",
