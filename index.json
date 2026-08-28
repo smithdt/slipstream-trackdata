@@ -73,12 +73,12 @@
       "corners": 16,
       "provider": "al-jefferson-dop-2025",
       "live_tiles": 357,
-      "hero3d": true,
+      "hero3d": false,
       "attribution": "Jefferson County GIS Consortium — 2025 Digital Orthophotos",
-      "version": "imagery-barber-source-runtime-20260826-r2",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-barber-source-runtime-20260826-r2/barber-20260826-r2.zip",
-      "sha256": "bdf1ce12e70367b8",
-      "size_bytes": 69584848
+      "version": "0.10.31",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.31/barber-v0.10.31.zip",
+      "sha256": "52bb3afeb656cb97",
+      "size_bytes": 70640494
     },
     "144": {
       "venue": "Canadian Tire Motorsports Park",
