@@ -200,43 +200,51 @@
     },
     "523": {
       "venue": "Circuit de Spa-Francorchamps",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/circuit-de-spa-francorchamps.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "5cdb8545f43b675c",
       "corners": 19,
       "provider": "be-wallonia",
-      "live_tiles": 173,
-      "attribution": "© SPW (Service public de Wallonie) — open data"
+      "live_tiles": 1363,
+      "hero3d": false,
+      "attribution": "© SPW (Service public de Wallonie) — open data",
+      "version": "spa-native-genai-v2-20260828",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-native-genai-v2-20260828/spa-native-genai-v2-20260828.zip",
+      "sha256": "288989509a3eb9c0",
+      "size_bytes": 231845331
     },
     "524": {
       "venue": "Circuit de Spa-Francorchamps",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/circuit-de-spa-francorchamps.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "5cdb8545f43b675c",
       "corners": 19,
       "provider": "be-wallonia",
-      "live_tiles": 170,
-      "attribution": "© SPW (Service public de Wallonie) — open data"
+      "live_tiles": 1363,
+      "hero3d": false,
+      "attribution": "© SPW (Service public de Wallonie) — open data",
+      "version": "spa-native-genai-v2-20260828",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-native-genai-v2-20260828/spa-native-genai-v2-20260828.zip",
+      "sha256": "288989509a3eb9c0",
+      "size_bytes": 231845331
     },
     "525": {
       "venue": "Circuit de Spa-Francorchamps",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/circuit-de-spa-francorchamps.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "5cdb8545f43b675c",
       "corners": 19,
       "provider": "be-wallonia",
-      "live_tiles": 173,
-      "attribution": "© SPW (Service public de Wallonie) — open data"
+      "live_tiles": 1363,
+      "hero3d": false,
+      "attribution": "© SPW (Service public de Wallonie) — open data",
+      "version": "spa-native-genai-v2-20260828",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-native-genai-v2-20260828/spa-native-genai-v2-20260828.zip",
+      "sha256": "288989509a3eb9c0",
+      "size_bytes": 231845331
     },
     "526": {
       "venue": "Circuit de Spa-Francorchamps",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/circuit-de-spa-francorchamps.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "5cdb8545f43b675c",
       "corners": 19,
       "provider": "be-wallonia",
-      "live_tiles": 172,
-      "attribution": "© SPW (Service public de Wallonie) — open data"
+      "live_tiles": 1363,
+      "hero3d": false,
+      "attribution": "© SPW (Service public de Wallonie) — open data",
+      "version": "spa-native-genai-v2-20260828",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-native-genai-v2-20260828/spa-native-genai-v2-20260828.zip",
+      "sha256": "288989509a3eb9c0",
+      "size_bytes": 231845331
     },
     "268": {
       "venue": "Circuit des 24 Heures du Mans",
@@ -1485,6 +1493,42 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.22/vir-0.10m-v2.zip",
       "sha256": "1769449df8f8461c",
       "size_bytes": 78132284
+    },
+    "163": {
+      "venue": "Circuit de Spa-Francorchamps",
+      "corners": 19,
+      "provider": "be-wallonia",
+      "live_tiles": 1363,
+      "hero3d": false,
+      "attribution": "© SPW (Service public de Wallonie) — open data",
+      "version": "spa-native-genai-v2-20260828",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-native-genai-v2-20260828/spa-native-genai-v2-20260828.zip",
+      "sha256": "288989509a3eb9c0",
+      "size_bytes": 231845331
+    },
+    "164": {
+      "venue": "Circuit de Spa-Francorchamps",
+      "corners": 19,
+      "provider": "be-wallonia",
+      "live_tiles": 1363,
+      "hero3d": false,
+      "attribution": "© SPW (Service public de Wallonie) — open data",
+      "version": "spa-native-genai-v2-20260828",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-native-genai-v2-20260828/spa-native-genai-v2-20260828.zip",
+      "sha256": "288989509a3eb9c0",
+      "size_bytes": 231845331
+    },
+    "165": {
+      "venue": "Circuit de Spa-Francorchamps",
+      "corners": 19,
+      "provider": "be-wallonia",
+      "live_tiles": 1363,
+      "hero3d": false,
+      "attribution": "© SPW (Service public de Wallonie) — open data",
+      "version": "spa-native-genai-v2-20260828",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-native-genai-v2-20260828/spa-native-genai-v2-20260828.zip",
+      "sha256": "288989509a3eb9c0",
+      "size_bytes": 231845331
     }
   }
 }
