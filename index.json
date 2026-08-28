@@ -877,25 +877,25 @@
       "venue": "Virginia International Raceway",
       "corners": 16,
       "provider": "va-vbmp",
-      "live_tiles": 242,
-      "hero3d": true,
+      "live_tiles": 66,
+      "hero3d": false,
       "attribution": "Virginia Geographic Information Network — VBMP",
-      "version": "imagery-vir-native-genai-v1-20260826",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-vir-native-genai-v1-20260826/imagery-vir-native-genai-v1-20260826.zip",
-      "sha256": "5034e662fd1ad208",
-      "size_bytes": 46135321
+      "version": "0.10.22",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.22/vir-0.10m-v2.zip",
+      "sha256": "1769449df8f8461c",
+      "size_bytes": 78132284
     },
     "467": {
       "venue": "Virginia International Raceway",
       "corners": 16,
       "provider": "va-vbmp",
-      "live_tiles": 132,
-      "hero3d": true,
+      "live_tiles": 66,
+      "hero3d": false,
       "attribution": "Virginia Geographic Information Network — VBMP",
-      "version": "imagery-vir-native-genai-v1-20260826",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-vir-native-genai-v1-20260826/imagery-vir-native-genai-v1-20260826.zip",
-      "sha256": "5034e662fd1ad208",
-      "size_bytes": 46135321
+      "version": "0.10.22",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.22/vir-0.10m-v2.zip",
+      "sha256": "1769449df8f8461c",
+      "size_bytes": 78132284
     },
     "432": {
       "venue": "Watkins Glen International",
@@ -1447,6 +1447,42 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/red-bull-ring-native-genai-v2-20260828/red-bull-ring-native-genai-v2-20260828.zip",
       "sha256": "85cda650315e1276",
       "size_bytes": 51446685
+    },
+    "466": {
+      "venue": "Virginia International Raceway",
+      "corners": 0,
+      "provider": "va-vbmp",
+      "live_tiles": 66,
+      "hero3d": false,
+      "attribution": "Virginia Geographic Information Network — VBMP",
+      "version": "0.10.22",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.22/vir-0.10m-v2.zip",
+      "sha256": "1769449df8f8461c",
+      "size_bytes": 78132284
+    },
+    "468": {
+      "venue": "Virginia International Raceway",
+      "corners": 0,
+      "provider": "va-vbmp",
+      "live_tiles": 66,
+      "hero3d": false,
+      "attribution": "Virginia Geographic Information Network — VBMP",
+      "version": "0.10.22",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.22/vir-0.10m-v2.zip",
+      "sha256": "1769449df8f8461c",
+      "size_bytes": 78132284
+    },
+    "469": {
+      "venue": "Virginia International Raceway",
+      "corners": 0,
+      "provider": "va-vbmp",
+      "live_tiles": 66,
+      "hero3d": false,
+      "attribution": "Virginia Geographic Information Network — VBMP",
+      "version": "0.10.22",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.22/vir-0.10m-v2.zip",
+      "sha256": "1769449df8f8461c",
+      "size_bytes": 78132284
     }
   }
 }
