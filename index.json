@@ -190,14 +190,15 @@
     },
     "463": {
       "venue": "Circuit de Nevers Magny-Cours",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-32/circuit-de-nevers-magny-cours.zip",
-      "version": "imagery-v2-catalog-32",
-      "sha256": "87296cb689320710",
       "corners": 17,
       "provider": "ign-geoplateforme",
-      "live_tiles": 133,
-      "hero3d": true,
-      "attribution": "© IGN — Géoplateforme (Licence Ouverte / Etalab 2.0)"
+      "live_tiles": 117,
+      "hero3d": false,
+      "attribution": "© IGN — Géoplateforme (Licence Ouverte / Etalab 2.0)",
+      "version": "0.10.30",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.30/magny-cours-v0.10.30.zip",
+      "sha256": "762aea69914c4e23",
+      "size_bytes": 17414412
     },
     "523": {
       "venue": "Circuit de Spa-Francorchamps",
