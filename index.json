@@ -711,10 +711,10 @@
       "live_tiles": 910,
       "hero3d": false,
       "attribution": "Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery",
-      "version": "road-america-native-genai-v2-20260828",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-america-native-genai-v2-20260828/road-america-native-genai-v2-20260828.zip",
-      "sha256": "f9e68289c54092f2",
-      "size_bytes": 88356049
+      "version": "road-america-native-genai-v3-20260829",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-america-native-genai-v3-20260829/road-america-native-genai-v3-20260829.zip",
+      "sha256": "8d0445e4cfe56e2c",
+      "size_bytes": 88356803
     },
     "50": {
       "venue": "Road America",
@@ -723,10 +723,10 @@
       "live_tiles": 910,
       "hero3d": false,
       "attribution": "Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery",
-      "version": "road-america-native-genai-v2-20260828",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-america-native-genai-v2-20260828/road-america-native-genai-v2-20260828.zip",
-      "sha256": "f9e68289c54092f2",
-      "size_bytes": 88356049
+      "version": "road-america-native-genai-v3-20260829",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-america-native-genai-v3-20260829/road-america-native-genai-v3-20260829.zip",
+      "sha256": "8d0445e4cfe56e2c",
+      "size_bytes": 88356803
     },
     "127": {
       "venue": "Road Atlanta",
