@@ -965,28 +965,28 @@
       "size_bytes": 92470050
     },
     "586": {
-      "venue": "WeatherTech Raceway at Laguna Seca",
+      "venue": "WeatherTech Raceway Laguna Seca",
       "corners": 11,
       "provider": "naip",
-      "live_tiles": 20,
-      "hero3d": true,
+      "live_tiles": 414,
+      "hero3d": false,
       "attribution": "USDA Farm Service Agency / USGS — public domain",
-      "version": "laguna-seca-native-genai-v2-20260826",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/laguna-seca-native-genai-v2-20260826/imagery-laguna-seca-native-genai-v2-20260826.zip",
-      "sha256": "9c8298f696ebe1b4",
-      "size_bytes": 10516552
+      "version": "0.10.31",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.31/laguna-seca-v0.10.31.zip",
+      "sha256": "da3df9001a7953dd",
+      "size_bytes": 51230840
     },
     "47": {
-      "venue": "WeatherTech Raceway at Laguna Seca",
+      "venue": "WeatherTech Raceway Laguna Seca",
       "corners": 11,
       "provider": "naip",
-      "live_tiles": 20,
-      "hero3d": true,
+      "live_tiles": 414,
+      "hero3d": false,
       "attribution": "USDA Farm Service Agency / USGS — public domain",
-      "version": "laguna-seca-native-genai-v2-20260826",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/laguna-seca-native-genai-v2-20260826/imagery-laguna-seca-native-genai-v2-20260826.zip",
-      "sha256": "9c8298f696ebe1b4",
-      "size_bytes": 10516552
+      "version": "0.10.31",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.31/laguna-seca-v0.10.31.zip",
+      "sha256": "da3df9001a7953dd",
+      "size_bytes": 51230840
     },
     "481": {
       "venue": "Willow Springs International Raceway",
