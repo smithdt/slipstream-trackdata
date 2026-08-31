@@ -685,24 +685,24 @@
       "corners": 10,
       "provider": "at-basemap",
       "live_tiles": 522,
-      "hero3d": false,
+      "hero3d": true,
       "attribution": "Datenquelle: basemap.at (CC BY 4.0)",
-      "version": "red-bull-ring-native-genai-v2-20260828",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/red-bull-ring-native-genai-v2-20260828/red-bull-ring-native-genai-v2-20260828.zip",
-      "sha256": "85cda650315e1276",
-      "size_bytes": 51446685
+      "version": "red-bull-ring-native-genai-v2-20260831-r2",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/red-bull-ring-native-genai-v2-20260831-r2/red-bull-ring-native-genai-v2-20260831-r2.zip",
+      "sha256": "98bf82a82d0b353a",
+      "size_bytes": 52190682
     },
     "404": {
       "venue": "Red Bull Ring",
       "corners": 6,
       "provider": "at-basemap",
       "live_tiles": 522,
-      "hero3d": false,
+      "hero3d": true,
       "attribution": "Datenquelle: basemap.at (CC BY 4.0)",
-      "version": "red-bull-ring-native-genai-v2-20260828",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/red-bull-ring-native-genai-v2-20260828/red-bull-ring-native-genai-v2-20260828.zip",
-      "sha256": "85cda650315e1276",
-      "size_bytes": 51446685
+      "version": "red-bull-ring-native-genai-v2-20260831-r2",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/red-bull-ring-native-genai-v2-20260831-r2/red-bull-ring-native-genai-v2-20260831-r2.zip",
+      "sha256": "98bf82a82d0b353a",
+      "size_bytes": 52190682
     },
     "18": {
       "venue": "Road America",
@@ -1465,12 +1465,12 @@
       "corners": 5,
       "provider": "at-basemap",
       "live_tiles": 522,
-      "hero3d": false,
+      "hero3d": true,
       "attribution": "Datenquelle: basemap.at (CC BY 4.0)",
-      "version": "red-bull-ring-native-genai-v2-20260828",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/red-bull-ring-native-genai-v2-20260828/red-bull-ring-native-genai-v2-20260828.zip",
-      "sha256": "85cda650315e1276",
-      "size_bytes": 51446685
+      "version": "red-bull-ring-native-genai-v2-20260831-r2",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/red-bull-ring-native-genai-v2-20260831-r2/red-bull-ring-native-genai-v2-20260831-r2.zip",
+      "sha256": "98bf82a82d0b353a",
+      "size_bytes": 52190682
     },
     "466": {
       "venue": "Virginia International Raceway",
