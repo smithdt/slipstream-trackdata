@@ -971,10 +971,10 @@
       "live_tiles": 414,
       "hero3d": false,
       "attribution": "USDA Farm Service Agency / USGS — public domain",
-      "version": "0.10.31",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.31/laguna-seca-v0.10.31.zip",
-      "sha256": "da3df9001a7953dd",
-      "size_bytes": 51230840
+      "version": "0.10.32",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.32/laguna-seca-v0.10.32.zip",
+      "sha256": "f97f326ec79bc419",
+      "size_bytes": 51115403
     },
     "47": {
       "venue": "WeatherTech Raceway Laguna Seca",
@@ -983,10 +983,10 @@
       "live_tiles": 414,
       "hero3d": false,
       "attribution": "USDA Farm Service Agency / USGS — public domain",
-      "version": "0.10.31",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.31/laguna-seca-v0.10.31.zip",
-      "sha256": "da3df9001a7953dd",
-      "size_bytes": 51230840
+      "version": "0.10.32",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.32/laguna-seca-v0.10.32.zip",
+      "sha256": "f97f326ec79bc419",
+      "size_bytes": 51115403
     },
     "481": {
       "venue": "Willow Springs International Raceway",
