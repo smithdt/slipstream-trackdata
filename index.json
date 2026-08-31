@@ -813,26 +813,28 @@
       "size_bytes": 22282217
     },
     "8": {
-      "venue": "Summit Point Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-34/summit-point-raceway.zip",
-      "version": "imagery-v2-catalog-34",
-      "sha256": "0416f0587ccde02e",
+      "venue": "Summit Point Motorsports Park",
       "corners": 7,
       "provider": "wv-wvgistc-jefferson-2025",
-      "live_tiles": 132,
-      "hero3d": true,
-      "attribution": "WVGISTC and Jefferson County — 2025 leaf-off imagery"
+      "live_tiles": 120,
+      "hero3d": false,
+      "attribution": "WVGISTC and Jefferson County — 2025 leaf-off imagery",
+      "version": "0.10.32",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.32/summit-point-exact010-seasonal-v2.zip",
+      "sha256": "967c33c978ca5d1b",
+      "size_bytes": 86319790
     },
     "9": {
-      "venue": "Summit Point Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-34/summit-point-raceway.zip",
-      "version": "imagery-v2-catalog-34",
-      "sha256": "0416f0587ccde02e",
+      "venue": "Summit Point Motorsports Park",
       "corners": 10,
       "provider": "wv-wvgistc-jefferson-2025",
-      "live_tiles": 307,
-      "hero3d": true,
-      "attribution": "WVGISTC and Jefferson County — 2025 leaf-off imagery"
+      "live_tiles": 432,
+      "hero3d": false,
+      "attribution": "WVGISTC and Jefferson County — 2025 leaf-off imagery",
+      "version": "0.10.32",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.32/summit-point-exact010-seasonal-v2.zip",
+      "sha256": "967c33c978ca5d1b",
+      "size_bytes": 86319790
     },
     "168": {
       "venue": "Suzuka International Racing Course",
