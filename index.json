@@ -1096,10 +1096,10 @@
       "live_tiles": 240,
       "hero3d": true,
       "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)",
-      "version": "0.10.33",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.33/silverstone-exact010-hero3d-v0.10.33.zip",
-      "sha256": "52463a8dfc8cf10c",
-      "size_bytes": 37545768
+      "version": "0.10.40",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.40/silverstone-exact010-hero3d-v0.10.40.zip",
+      "sha256": "8498a38ddee0cdd7",
+      "size_bytes": 37535894
     },
     "342": {
       "venue": "Silverstone",
@@ -1108,10 +1108,10 @@
       "live_tiles": 132,
       "hero3d": true,
       "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)",
-      "version": "0.10.33",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.33/silverstone-exact010-hero3d-v0.10.33.zip",
-      "sha256": "52463a8dfc8cf10c",
-      "size_bytes": 37545768
+      "version": "0.10.40",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.40/silverstone-exact010-hero3d-v0.10.40.zip",
+      "sha256": "8498a38ddee0cdd7",
+      "size_bytes": 37535894
     },
     "343": {
       "venue": "Silverstone",
@@ -1120,10 +1120,10 @@
       "live_tiles": 80,
       "hero3d": true,
       "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)",
-      "version": "0.10.33",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.33/silverstone-exact010-hero3d-v0.10.33.zip",
-      "sha256": "52463a8dfc8cf10c",
-      "size_bytes": 37545768
+      "version": "0.10.40",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.40/silverstone-exact010-hero3d-v0.10.40.zip",
+      "sha256": "8498a38ddee0cdd7",
+      "size_bytes": 37535894
     },
     "297": {
       "venue": "Snetterton Circuit",
