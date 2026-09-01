@@ -117,3 +117,6 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
 
 - **Jefferson County GIS Consortium — 2025 Digital Orthophotos**  
   _https://jccgis.jccal.org/image/rest/services/2025/DOP2025/ImageServer_
+
+- **Milwaukee County 2024 orthophotography; WROC; SEWRPC; EagleView**  
+  _https://gis.sewrpc.org/server/rest/services/RMS_Testing/Orthophotos_2024/MapServer/export_

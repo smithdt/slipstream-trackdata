@@ -1543,6 +1543,18 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-native-genai-v2-20260828/spa-native-genai-v2-20260828.zip",
       "sha256": "288989509a3eb9c0",
       "size_bytes": 231845331
+    },
+    "94": {
+      "venue": "Milwaukee Mile",
+      "corners": 4,
+      "provider": "sewrpc-orthophotos-2024-rendered-risk-ruling",
+      "live_tiles": 8,
+      "hero3d": true,
+      "attribution": "Milwaukee County 2024 orthophotography; WROC; SEWRPC; EagleView",
+      "version": "0.10.42",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.42/milwaukee-mile-exact010-v0.10.42.zip",
+      "sha256": "0c3b85cce29d77d5",
+      "size_bytes": 12223138
     }
   }
 }
