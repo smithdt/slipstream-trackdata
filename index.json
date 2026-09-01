@@ -817,24 +817,24 @@
       "corners": 7,
       "provider": "wv-wvgistc-jefferson-2025",
       "live_tiles": 120,
-      "hero3d": false,
+      "hero3d": true,
       "attribution": "WVGISTC and Jefferson County — 2025 leaf-off imagery",
-      "version": "0.10.32",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.32/summit-point-exact010-seasonal-v2.zip",
-      "sha256": "967c33c978ca5d1b",
-      "size_bytes": 86319790
+      "version": "0.10.35",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.35/summit-point-exact010-seasonal-v2-hero3d-repair-v0.10.35.zip",
+      "sha256": "4c34ee13b878e99d",
+      "size_bytes": 86321194
     },
     "9": {
       "venue": "Summit Point Motorsports Park",
       "corners": 10,
       "provider": "wv-wvgistc-jefferson-2025",
       "live_tiles": 432,
-      "hero3d": false,
+      "hero3d": true,
       "attribution": "WVGISTC and Jefferson County — 2025 leaf-off imagery",
-      "version": "0.10.32",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.32/summit-point-exact010-seasonal-v2.zip",
-      "sha256": "967c33c978ca5d1b",
-      "size_bytes": 86319790
+      "version": "0.10.35",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.35/summit-point-exact010-seasonal-v2-hero3d-repair-v0.10.35.zip",
+      "sha256": "4c34ee13b878e99d",
+      "size_bytes": 86321194
     },
     "168": {
       "venue": "Suzuka International Racing Course",
