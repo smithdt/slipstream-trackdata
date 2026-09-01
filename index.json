@@ -899,24 +899,24 @@
       "corners": 16,
       "provider": "va-vbmp",
       "live_tiles": 66,
-      "hero3d": false,
+      "hero3d": true,
       "attribution": "Virginia Geographic Information Network — VBMP",
-      "version": "0.10.22",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.22/vir-0.10m-v2.zip",
-      "sha256": "1769449df8f8461c",
-      "size_bytes": 78132284
+      "version": "0.10.34",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.34/vir-exact010-hero3d-v0.10.34.zip",
+      "sha256": "4d8ce1dd73116d82",
+      "size_bytes": 79147288
     },
     "467": {
       "venue": "Virginia International Raceway",
       "corners": 16,
       "provider": "va-vbmp",
       "live_tiles": 66,
-      "hero3d": false,
+      "hero3d": true,
       "attribution": "Virginia Geographic Information Network — VBMP",
-      "version": "0.10.22",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.22/vir-0.10m-v2.zip",
-      "sha256": "1769449df8f8461c",
-      "size_bytes": 78132284
+      "version": "0.10.34",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.34/vir-exact010-hero3d-v0.10.34.zip",
+      "sha256": "4d8ce1dd73116d82",
+      "size_bytes": 79147288
     },
     "432": {
       "venue": "Watkins Glen International",
@@ -1477,36 +1477,36 @@
       "corners": 0,
       "provider": "va-vbmp",
       "live_tiles": 66,
-      "hero3d": false,
+      "hero3d": true,
       "attribution": "Virginia Geographic Information Network — VBMP",
-      "version": "0.10.22",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.22/vir-0.10m-v2.zip",
-      "sha256": "1769449df8f8461c",
-      "size_bytes": 78132284
+      "version": "0.10.34",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.34/vir-exact010-hero3d-v0.10.34.zip",
+      "sha256": "4d8ce1dd73116d82",
+      "size_bytes": 79147288
     },
     "468": {
       "venue": "Virginia International Raceway",
       "corners": 0,
       "provider": "va-vbmp",
       "live_tiles": 66,
-      "hero3d": false,
+      "hero3d": true,
       "attribution": "Virginia Geographic Information Network — VBMP",
-      "version": "0.10.22",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.22/vir-0.10m-v2.zip",
-      "sha256": "1769449df8f8461c",
-      "size_bytes": 78132284
+      "version": "0.10.34",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.34/vir-exact010-hero3d-v0.10.34.zip",
+      "sha256": "4d8ce1dd73116d82",
+      "size_bytes": 79147288
     },
     "469": {
       "venue": "Virginia International Raceway",
       "corners": 0,
       "provider": "va-vbmp",
       "live_tiles": 66,
-      "hero3d": false,
+      "hero3d": true,
       "attribution": "Virginia Geographic Information Network — VBMP",
-      "version": "0.10.22",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.22/vir-0.10m-v2.zip",
-      "sha256": "1769449df8f8461c",
-      "size_bytes": 78132284
+      "version": "0.10.34",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.34/vir-exact010-hero3d-v0.10.34.zip",
+      "sha256": "4d8ce1dd73116d82",
+      "size_bytes": 79147288
     },
     "163": {
       "venue": "Circuit de Spa-Francorchamps",
