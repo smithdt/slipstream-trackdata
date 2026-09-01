@@ -863,36 +863,36 @@
       "corners": 9,
       "provider": "jp-gsi",
       "live_tiles": 9,
-      "hero3d": false,
+      "hero3d": true,
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
-      "version": "0.10.31",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.31/tsukuba-v0.10.31.zip",
-      "sha256": "c5355048ace93db1",
-      "size_bytes": 4563134
+      "version": "0.10.41",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.41/tsukuba-v0.10.41.zip",
+      "sha256": "97843d0dd446b1cd",
+      "size_bytes": 4564953
     },
     "325": {
       "venue": "Tsukuba Circuit",
       "corners": 10,
       "provider": "jp-gsi",
       "live_tiles": 9,
-      "hero3d": false,
+      "hero3d": true,
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
-      "version": "0.10.31",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.31/tsukuba-v0.10.31.zip",
-      "sha256": "c5355048ace93db1",
-      "size_bytes": 4563134
+      "version": "0.10.41",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.41/tsukuba-v0.10.41.zip",
+      "sha256": "97843d0dd446b1cd",
+      "size_bytes": 4564953
     },
     "329": {
       "venue": "Tsukuba Circuit",
       "corners": 11,
       "provider": "jp-gsi",
       "live_tiles": 4,
-      "hero3d": false,
+      "hero3d": true,
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
-      "version": "0.10.31",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.31/tsukuba-v0.10.31.zip",
-      "sha256": "c5355048ace93db1",
-      "size_bytes": 4563134
+      "version": "0.10.41",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.41/tsukuba-v0.10.41.zip",
+      "sha256": "97843d0dd446b1cd",
+      "size_bytes": 4564953
     },
     "465": {
       "venue": "Virginia International Raceway",
