@@ -967,28 +967,28 @@
       "size_bytes": 92470050
     },
     "586": {
-      "venue": "WeatherTech Raceway at Laguna Seca",
-      "corners": 12,
+      "venue": "WeatherTech Raceway Laguna Seca",
+      "corners": 11,
       "provider": "naip",
-      "live_tiles": 20,
+      "live_tiles": 414,
       "hero3d": true,
       "attribution": "USDA Farm Service Agency / USGS — public domain",
-      "version": "0.10.39",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.39/laguna-seca-corrected-v2-0.10.39.zip",
-      "sha256": "d640b97a1bec872e",
-      "size_bytes": 5180398
+      "version": "laguna-seca-v2-20260902",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/laguna-seca-v2-20260902/laguna-seca.zip",
+      "sha256": "452e44bf1c876f91",
+      "size_bytes": 48620965
     },
     "47": {
-      "venue": "WeatherTech Raceway at Laguna Seca",
-      "corners": 12,
+      "venue": "WeatherTech Raceway Laguna Seca",
+      "corners": 11,
       "provider": "naip",
-      "live_tiles": 20,
+      "live_tiles": 414,
       "hero3d": true,
       "attribution": "USDA Farm Service Agency / USGS — public domain",
-      "version": "0.10.39",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.39/laguna-seca-corrected-v2-0.10.39.zip",
-      "sha256": "d640b97a1bec872e",
-      "size_bytes": 5180398
+      "version": "laguna-seca-v2-20260902",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/laguna-seca-v2-20260902/laguna-seca.zip",
+      "sha256": "452e44bf1c876f91",
+      "size_bytes": 48620965
     },
     "481": {
       "venue": "Willow Springs International Raceway",
