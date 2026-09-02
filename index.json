@@ -862,37 +862,37 @@
       "venue": "Tsukuba Circuit",
       "corners": 9,
       "provider": "jp-gsi",
-      "live_tiles": 9,
+      "live_tiles": 121,
       "hero3d": true,
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
-      "version": "0.10.41",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.41/tsukuba-v0.10.41.zip",
-      "sha256": "97843d0dd446b1cd",
-      "size_bytes": 4564953
+      "version": "tsukuba-v2-20260902",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/tsukuba-v2-20260902/tsukuba.zip",
+      "sha256": "d6d2b4df0507c4dd",
+      "size_bytes": 33468740
     },
     "325": {
       "venue": "Tsukuba Circuit",
       "corners": 10,
       "provider": "jp-gsi",
-      "live_tiles": 9,
+      "live_tiles": 121,
       "hero3d": true,
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
-      "version": "0.10.41",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.41/tsukuba-v0.10.41.zip",
-      "sha256": "97843d0dd446b1cd",
-      "size_bytes": 4564953
+      "version": "tsukuba-v2-20260902",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/tsukuba-v2-20260902/tsukuba.zip",
+      "sha256": "d6d2b4df0507c4dd",
+      "size_bytes": 33468740
     },
     "329": {
       "venue": "Tsukuba Circuit",
       "corners": 11,
       "provider": "jp-gsi",
-      "live_tiles": 4,
+      "live_tiles": 30,
       "hero3d": true,
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
-      "version": "0.10.41",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.41/tsukuba-v0.10.41.zip",
-      "sha256": "97843d0dd446b1cd",
-      "size_bytes": 4564953
+      "version": "tsukuba-v2-20260902",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/tsukuba-v2-20260902/tsukuba.zip",
+      "sha256": "d6d2b4df0507c4dd",
+      "size_bytes": 33468740
     },
     "465": {
       "venue": "Virginia International Raceway",
