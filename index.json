@@ -81,15 +81,16 @@
       "size_bytes": 70640494
     },
     "144": {
-      "venue": "Canadian Tire Motorsports Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-28/canadian-tire-motorsports-park.zip",
-      "version": "imagery-v2-catalog-28",
-      "sha256": "1006b83ba1f8be34",
+      "venue": "Canadian Tire Motorsport Park",
       "corners": 10,
       "provider": "ca-on-oiwms",
-      "live_tiles": 310,
+      "live_tiles": 726,
       "hero3d": true,
-      "attribution": "Contains information licensed under the Open Government Licence – Ontario"
+      "attribution": "Contains information licensed under the Open Government Licence – Ontario",
+      "version": "canadian-tire-motorsport-park-v2-20260902",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/canadian-tire-motorsport-park-v2-20260902/canadian-tire-motorsport-park.zip",
+      "sha256": "0f21d8fcf8e18c24",
+      "size_bytes": 40505187
     },
     "483": {
       "venue": "Chicago Street Course",
