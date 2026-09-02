@@ -688,10 +688,10 @@
       "live_tiles": 522,
       "hero3d": true,
       "attribution": "Datenquelle: basemap.at (CC BY 4.0)",
-      "version": "red-bull-ring-native-genai-v3-20260831-aligned",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/red-bull-ring-native-genai-v3-20260831-aligned/red-bull-ring-native-genai-v3-20260831-aligned.zip",
-      "sha256": "bf4b99c0e8428c61",
-      "size_bytes": 52190869
+      "version": "red-bull-ring-v2-20260902",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/red-bull-ring-v2-20260902/red-bull-ring.zip",
+      "sha256": "b702dd3b17104dd4",
+      "size_bytes": 49480588
     },
     "404": {
       "venue": "Red Bull Ring",
@@ -700,10 +700,10 @@
       "live_tiles": 522,
       "hero3d": true,
       "attribution": "Datenquelle: basemap.at (CC BY 4.0)",
-      "version": "red-bull-ring-native-genai-v3-20260831-aligned",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/red-bull-ring-native-genai-v3-20260831-aligned/red-bull-ring-native-genai-v3-20260831-aligned.zip",
-      "sha256": "bf4b99c0e8428c61",
-      "size_bytes": 52190869
+      "version": "red-bull-ring-v2-20260902",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/red-bull-ring-v2-20260902/red-bull-ring.zip",
+      "sha256": "b702dd3b17104dd4",
+      "size_bytes": 49480588
     },
     "18": {
       "venue": "Road America",
@@ -1468,10 +1468,10 @@
       "live_tiles": 522,
       "hero3d": true,
       "attribution": "Datenquelle: basemap.at (CC BY 4.0)",
-      "version": "red-bull-ring-native-genai-v3-20260831-aligned",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/red-bull-ring-native-genai-v3-20260831-aligned/red-bull-ring-native-genai-v3-20260831-aligned.zip",
-      "sha256": "bf4b99c0e8428c61",
-      "size_bytes": 52190869
+      "version": "red-bull-ring-v2-20260902",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/red-bull-ring-v2-20260902/red-bull-ring.zip",
+      "sha256": "b702dd3b17104dd4",
+      "size_bytes": 49480588
     },
     "466": {
       "venue": "Virginia International Raceway",
