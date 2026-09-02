@@ -924,48 +924,48 @@
       "corners": 7,
       "provider": "ny-its",
       "live_tiles": 680,
-      "hero3d": false,
+      "hero3d": true,
       "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery",
-      "version": "watkins-glen-native-genai-v2-20260828",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/watkins-glen-native-genai-v2-20260828/watkins-glen-native-genai-v2-20260828.zip",
-      "sha256": "8e04fdeb443f26c2",
-      "size_bytes": 92470050
+      "version": "watkins-glen-v2-20260902",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/watkins-glen-v2-20260902/watkins-glen.zip",
+      "sha256": "5ee2f16519d02ea0",
+      "size_bytes": 86053929
     },
     "433": {
       "venue": "Watkins Glen International",
       "corners": 7,
       "provider": "ny-its",
       "live_tiles": 680,
-      "hero3d": false,
+      "hero3d": true,
       "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery",
-      "version": "watkins-glen-native-genai-v2-20260828",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/watkins-glen-native-genai-v2-20260828/watkins-glen-native-genai-v2-20260828.zip",
-      "sha256": "8e04fdeb443f26c2",
-      "size_bytes": 92470050
+      "version": "watkins-glen-v2-20260902",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/watkins-glen-v2-20260902/watkins-glen.zip",
+      "sha256": "5ee2f16519d02ea0",
+      "size_bytes": 86053929
     },
     "434": {
       "venue": "Watkins Glen International",
       "corners": 11,
       "provider": "ny-its",
       "live_tiles": 680,
-      "hero3d": false,
+      "hero3d": true,
       "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery",
-      "version": "watkins-glen-native-genai-v2-20260828",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/watkins-glen-native-genai-v2-20260828/watkins-glen-native-genai-v2-20260828.zip",
-      "sha256": "8e04fdeb443f26c2",
-      "size_bytes": 92470050
+      "version": "watkins-glen-v2-20260902",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/watkins-glen-v2-20260902/watkins-glen.zip",
+      "sha256": "5ee2f16519d02ea0",
+      "size_bytes": 86053929
     },
     "435": {
       "venue": "Watkins Glen International",
       "corners": 11,
       "provider": "ny-its",
       "live_tiles": 680,
-      "hero3d": false,
+      "hero3d": true,
       "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery",
-      "version": "watkins-glen-native-genai-v2-20260828",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/watkins-glen-native-genai-v2-20260828/watkins-glen-native-genai-v2-20260828.zip",
-      "sha256": "8e04fdeb443f26c2",
-      "size_bytes": 92470050
+      "version": "watkins-glen-v2-20260902",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/watkins-glen-v2-20260902/watkins-glen.zip",
+      "sha256": "5ee2f16519d02ea0",
+      "size_bytes": 86053929
     },
     "586": {
       "venue": "WeatherTech Raceway Laguna Seca",
