@@ -481,12 +481,12 @@
       "corners": 13,
       "provider": "oh-morrow-2021",
       "live_tiles": 432,
-      "hero3d": false,
+      "hero3d": true,
       "attribution": "Morrow County GIS — 2021 Aerial Imagery",
-      "version": "0.10.31",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.31/mid-ohio-v0.10.31.zip",
-      "sha256": "bb372468aba70cb5",
-      "size_bytes": 46121497
+      "version": "mid-ohio-v2-20260902",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/mid-ohio-v2-20260902/mid-ohio.zip",
+      "sha256": "0e61e4955874a8b7",
+      "size_bytes": 40999549
     },
     "501": {
       "venue": "Misano World Circuit Marco Simoncelli",
