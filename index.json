@@ -1093,40 +1093,40 @@
       "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
     },
     "341": {
-      "venue": "Silverstone",
+      "venue": "Silverstone Circuit",
       "corners": 18,
       "provider": "wm-skysat-silverstone",
-      "live_tiles": 240,
+      "live_tiles": 936,
       "hero3d": true,
       "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)",
-      "version": "0.10.40",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.40/silverstone-exact010-hero3d-v0.10.40.zip",
-      "sha256": "8498a38ddee0cdd7",
-      "size_bytes": 37535894
+      "version": "silverstone-v2-20260903",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/silverstone-v2-20260903/silverstone.zip",
+      "sha256": "daf8a2ba1f1db738",
+      "size_bytes": 95257025
     },
     "342": {
-      "venue": "Silverstone",
+      "venue": "Silverstone Circuit",
       "corners": 9,
       "provider": "wm-skysat-silverstone",
-      "live_tiles": 132,
+      "live_tiles": 506,
       "hero3d": true,
       "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)",
-      "version": "0.10.40",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.40/silverstone-exact010-hero3d-v0.10.40.zip",
-      "sha256": "8498a38ddee0cdd7",
-      "size_bytes": 37535894
+      "version": "silverstone-v2-20260903",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/silverstone-v2-20260903/silverstone.zip",
+      "sha256": "daf8a2ba1f1db738",
+      "size_bytes": 95257025
     },
     "343": {
-      "venue": "Silverstone",
+      "venue": "Silverstone Circuit",
       "corners": 6,
       "provider": "wm-skysat-silverstone",
-      "live_tiles": 80,
+      "live_tiles": 304,
       "hero3d": true,
       "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)",
-      "version": "0.10.40",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.40/silverstone-exact010-hero3d-v0.10.40.zip",
-      "sha256": "8498a38ddee0cdd7",
-      "size_bytes": 37535894
+      "version": "silverstone-v2-20260903",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/silverstone-v2-20260903/silverstone.zip",
+      "sha256": "daf8a2ba1f1db738",
+      "size_bytes": 95257025
     },
     "297": {
       "venue": "Snetterton Circuit",
