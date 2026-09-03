@@ -600,34 +600,40 @@
       "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]"
     },
     "250": {
-      "venue": "Nürburgring Grand-Prix-Strecke",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-22/n-rburgring-grand-prix-strecke.zip",
-      "version": "imagery-v2-catalog-22",
-      "sha256": "1026d9d157834805",
+      "venue": "Nurburgring Grand-Prix-Strecke",
       "corners": 16,
       "provider": "de-rlp",
-      "live_tiles": 103,
-      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]"
+      "live_tiles": 382,
+      "hero3d": true,
+      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]",
+      "version": "nurburgring-gp-v2-20260903",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/nurburgring-gp-v2-20260903/nurburgring-gp.zip",
+      "sha256": "2f3ba23ddd514cd0",
+      "size_bytes": 55372474
     },
     "255": {
-      "venue": "Nürburgring Grand-Prix-Strecke",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-22/n-rburgring-grand-prix-strecke.zip",
-      "version": "imagery-v2-catalog-22",
-      "sha256": "1026d9d157834805",
+      "venue": "Nurburgring Grand-Prix-Strecke",
       "corners": 16,
       "provider": "de-rlp",
-      "live_tiles": 102,
-      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]"
+      "live_tiles": 380,
+      "hero3d": true,
+      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]",
+      "version": "nurburgring-gp-v2-20260903",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/nurburgring-gp-v2-20260903/nurburgring-gp.zip",
+      "sha256": "2f3ba23ddd514cd0",
+      "size_bytes": 55372474
     },
     "259": {
-      "venue": "Nürburgring Grand-Prix-Strecke",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-22/n-rburgring-grand-prix-strecke.zip",
-      "version": "imagery-v2-catalog-22",
-      "sha256": "1026d9d157834805",
+      "venue": "Nurburgring Grand-Prix-Strecke",
       "corners": 11,
       "provider": "de-rlp",
-      "live_tiles": 76,
-      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]"
+      "live_tiles": 284,
+      "hero3d": true,
+      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]",
+      "version": "nurburgring-gp-v2-20260903",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/nurburgring-gp-v2-20260903/nurburgring-gp.zip",
+      "sha256": "2f3ba23ddd514cd0",
+      "size_bytes": 55372474
     },
     "249": {
       "venue": "Nürburgring Nordschleife",
