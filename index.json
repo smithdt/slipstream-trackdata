@@ -414,47 +414,51 @@
     },
     "352": {
       "venue": "Lime Rock Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-28/lime-rock-park.zip",
-      "version": "imagery-v2-catalog-28",
-      "sha256": "117c870d65215116",
       "corners": 7,
       "provider": "ct-cteco",
-      "live_tiles": 415,
+      "live_tiles": 273,
       "hero3d": true,
-      "attribution": "Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)"
+      "attribution": "Connecticut ECO (UConn CLEAR & CT DEEP) — 2023 statewide orthoimagery",
+      "version": "lime-rock-v2-20260904",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/lime-rock-v2-20260904/lime-rock.zip",
+      "sha256": "427873d46ba65d8a",
+      "size_bytes": 80338795
     },
     "353": {
       "venue": "Lime Rock Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-28/lime-rock-park.zip",
-      "version": "imagery-v2-catalog-28",
-      "sha256": "117c870d65215116",
       "corners": 9,
       "provider": "ct-cteco",
-      "live_tiles": 415,
+      "live_tiles": 273,
       "hero3d": true,
-      "attribution": "Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)"
+      "attribution": "Connecticut ECO (UConn CLEAR & CT DEEP) — 2023 statewide orthoimagery",
+      "version": "lime-rock-v2-20260904",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/lime-rock-v2-20260904/lime-rock.zip",
+      "sha256": "427873d46ba65d8a",
+      "size_bytes": 80338795
     },
     "354": {
       "venue": "Lime Rock Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-31/lime-rock-park.zip",
-      "version": "imagery-v2-catalog-31",
-      "sha256": "463c19f25206968f",
       "corners": 11,
       "provider": "ct-cteco",
-      "live_tiles": 446,
+      "live_tiles": 273,
       "hero3d": true,
-      "attribution": "Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)"
+      "attribution": "Connecticut ECO (UConn CLEAR & CT DEEP) — 2023 statewide orthoimagery",
+      "version": "lime-rock-v2-20260904",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/lime-rock-v2-20260904/lime-rock.zip",
+      "sha256": "427873d46ba65d8a",
+      "size_bytes": 80338795
     },
     "355": {
       "venue": "Lime Rock Park",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-31/lime-rock-park.zip",
-      "version": "imagery-v2-catalog-31",
-      "sha256": "463c19f25206968f",
       "corners": 9,
       "provider": "ct-cteco",
-      "live_tiles": 446,
+      "live_tiles": 273,
       "hero3d": true,
-      "attribution": "Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)"
+      "attribution": "Connecticut ECO (UConn CLEAR & CT DEEP) — 2023 statewide orthoimagery",
+      "version": "lime-rock-v2-20260904",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/lime-rock-v2-20260904/lime-rock.zip",
+      "sha256": "427873d46ba65d8a",
+      "size_bytes": 80338795
     },
     "179": {
       "venue": "Long Beach Street Circuit",
