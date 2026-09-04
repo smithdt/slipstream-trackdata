@@ -341,23 +341,27 @@
     },
     "444": {
       "venue": "Fuji International Speedway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/fuji-international-speedway.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "b0e0254d5883917d",
       "corners": 16,
-      "provider": "jp-gsi",
-      "live_tiles": 76,
-      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
+      "provider": "jp-virtual-shizuoka-fuji",
+      "live_tiles": 870,
+      "hero3d": true,
+      "attribution": "VIRTUAL SHIZUOKA 静岡県 点群データ (CC BY 4.0) を加工して作成",
+      "version": "fuji-v2-20260904",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/fuji-v2-20260904/fuji.zip",
+      "sha256": "9ac259b6e2e98b0e",
+      "size_bytes": 204429827
     },
     "445": {
       "venue": "Fuji International Speedway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/fuji-international-speedway.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "b0e0254d5883917d",
       "corners": 14,
-      "provider": "jp-gsi",
-      "live_tiles": 77,
-      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）"
+      "provider": "jp-virtual-shizuoka-fuji",
+      "live_tiles": 870,
+      "hero3d": true,
+      "attribution": "VIRTUAL SHIZUOKA 静岡県 点群データ (CC BY 4.0) を加工して作成",
+      "version": "fuji-v2-20260904",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/fuji-v2-20260904/fuji.zip",
+      "sha256": "9ac259b6e2e98b0e",
+      "size_bytes": 204429827
     },
     "390": {
       "venue": "Hockenheimring Baden-Württemberg",
