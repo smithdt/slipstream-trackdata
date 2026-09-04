@@ -253,14 +253,15 @@
     },
     "268": {
       "venue": "Circuit des 24 Heures du Mans",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-33/circuit-des-24-heures-du-mans.zip",
-      "version": "imagery-v2-catalog-33",
-      "sha256": "35a25701f5952235",
       "corners": 33,
       "provider": "ign-geoplateforme",
-      "live_tiles": 592,
+      "live_tiles": 1380,
       "hero3d": true,
-      "attribution": "© IGN — Géoplateforme (Licence Ouverte / Etalab 2.0)"
+      "attribution": "© IGN — Géoplateforme (Licence Ouverte / Etalab 2.0)",
+      "version": "le-mans-v2-20260904",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/le-mans-v2-20260904/le-mans.zip",
+      "sha256": "998c11c67df97287",
+      "size_bytes": 87033835
     },
     "229": {
       "venue": "Circuit of the Americas",
