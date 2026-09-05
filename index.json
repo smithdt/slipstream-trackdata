@@ -49,13 +49,13 @@
       "venue": "Autodromo Nazionale Monza",
       "corners": 11,
       "provider": "it-lombardia-agea",
-      "live_tiles": 589,
+      "live_tiles": 588,
       "hero3d": true,
       "attribution": "Regione Lombardia – Ortofoto AGEA 2015 / 2021 (Geoportale della Lombardia)",
-      "version": "monza-v2-20260904",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/monza-v2-20260904/monza.zip",
-      "sha256": "d517b81c277e3ba6",
-      "size_bytes": 48205387
+      "version": "monza-v2-20260905",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/monza-v2-20260905/monza.zip",
+      "sha256": "4ba49445ee50f7f2",
+      "size_bytes": 46304988
     },
     "212": {
       "venue": "Autódromo José Carlos Pace",
