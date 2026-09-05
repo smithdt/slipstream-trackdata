@@ -922,10 +922,10 @@
       "live_tiles": 946,
       "hero3d": true,
       "attribution": "Virginia Geographic Information Network — VBMP",
-      "version": "vir-v2-20260903",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/vir-v2-20260903/vir.zip",
-      "sha256": "21b8a2670b270208",
-      "size_bytes": 106044673
+      "version": "vir-v2-20260905",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/vir-v2-20260905/vir.zip",
+      "sha256": "5b478e14e85ac51b",
+      "size_bytes": 102139111
     },
     "467": {
       "venue": "Virginia International Raceway",
@@ -934,10 +934,10 @@
       "live_tiles": 946,
       "hero3d": true,
       "attribution": "Virginia Geographic Information Network — VBMP",
-      "version": "vir-v2-20260903",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/vir-v2-20260903/vir.zip",
-      "sha256": "21b8a2670b270208",
-      "size_bytes": 106044673
+      "version": "vir-v2-20260905",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/vir-v2-20260905/vir.zip",
+      "sha256": "5b478e14e85ac51b",
+      "size_bytes": 102139111
     },
     "432": {
       "venue": "Watkins Glen International",
@@ -1500,10 +1500,10 @@
       "live_tiles": 946,
       "hero3d": true,
       "attribution": "Virginia Geographic Information Network — VBMP",
-      "version": "vir-v2-20260903",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/vir-v2-20260903/vir.zip",
-      "sha256": "21b8a2670b270208",
-      "size_bytes": 106044673
+      "version": "vir-v2-20260905",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/vir-v2-20260905/vir.zip",
+      "sha256": "5b478e14e85ac51b",
+      "size_bytes": 102139111
     },
     "468": {
       "venue": "Virginia International Raceway",
@@ -1512,10 +1512,10 @@
       "live_tiles": 946,
       "hero3d": true,
       "attribution": "Virginia Geographic Information Network — VBMP",
-      "version": "vir-v2-20260903",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/vir-v2-20260903/vir.zip",
-      "sha256": "21b8a2670b270208",
-      "size_bytes": 106044673
+      "version": "vir-v2-20260905",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/vir-v2-20260905/vir.zip",
+      "sha256": "5b478e14e85ac51b",
+      "size_bytes": 102139111
     },
     "469": {
       "venue": "Virginia International Raceway",
@@ -1524,10 +1524,10 @@
       "live_tiles": 946,
       "hero3d": true,
       "attribution": "Virginia Geographic Information Network — VBMP",
-      "version": "vir-v2-20260903",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/vir-v2-20260903/vir.zip",
-      "sha256": "21b8a2670b270208",
-      "size_bytes": 106044673
+      "version": "vir-v2-20260905",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/vir-v2-20260905/vir.zip",
+      "sha256": "5b478e14e85ac51b",
+      "size_bytes": 102139111
     },
     "163": {
       "venue": "Circuit de Spa-Francorchamps",
