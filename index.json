@@ -864,10 +864,10 @@
       "live_tiles": 1080,
       "hero3d": true,
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
-      "version": "suzuka-v2-20260903",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/suzuka-v2-20260903/suzuka.zip",
-      "sha256": "f11114940f39963a",
-      "size_bytes": 104082537
+      "version": "suzuka-v2-20260905",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/suzuka-v2-20260905/suzuka.zip",
+      "sha256": "97d10cc0f19cdaf4",
+      "size_bytes": 101320753
     },
     "532": {
       "venue": "Thruxton Circuit",
