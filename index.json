@@ -258,10 +258,10 @@
       "live_tiles": 1380,
       "hero3d": true,
       "attribution": "© IGN — Géoplateforme (Licence Ouverte / Etalab 2.0)",
-      "version": "le-mans-v2-20260904",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/le-mans-v2-20260904/le-mans.zip",
-      "sha256": "998c11c67df97287",
-      "size_bytes": 87033835
+      "version": "le-mans-v2-20260905",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/le-mans-v2-20260905/le-mans.zip",
+      "sha256": "ac749e8e91274cf9",
+      "size_bytes": 83852400
     },
     "229": {
       "venue": "Circuit of the Americas",
