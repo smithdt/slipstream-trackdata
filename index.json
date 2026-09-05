@@ -14,14 +14,14 @@
     "266": {
       "venue": "Autodromo Internazionale Enzo e Dino Ferrari",
       "corners": 17,
-      "provider": "it-mase",
-      "live_tiles": 66,
+      "provider": "it-rer",
+      "live_tiles": 490,
       "hero3d": true,
-      "attribution": "Geoportale Nazionale — Ministero dell'Ambiente (MASE), Ortofoto 2012",
-      "version": "imagery-imola-ai-runtime-20260826",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-imola-ai-runtime-20260826/imagery-imola-ai-runtime-20260826.zip",
-      "sha256": "7b1c9cfcce99f879",
-      "size_bytes": 7465378
+      "attribution": "© Regione Emilia-Romagna, Ortofoto RER 2022 RGB (CGR S.p.A.), CC BY 4.0",
+      "version": "imola-v2-20260905",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imola-v2-20260905/imola.zip",
+      "sha256": "b6b9a3982dce00b8",
+      "size_bytes": 44663736
     },
     "498": {
       "venue": "Autodromo Internazionale del Mugello",
