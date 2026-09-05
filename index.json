@@ -346,10 +346,10 @@
       "live_tiles": 870,
       "hero3d": true,
       "attribution": "VIRTUAL SHIZUOKA 静岡県 点群データ (CC BY 4.0) を加工して作成",
-      "version": "fuji-v2-20260904",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/fuji-v2-20260904/fuji.zip",
-      "sha256": "9ac259b6e2e98b0e",
-      "size_bytes": 204429827
+      "version": "fuji-v2-20260905",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/fuji-v2-20260905/fuji.zip",
+      "sha256": "08c8117369c991e1",
+      "size_bytes": 192122748
     },
     "445": {
       "venue": "Fuji International Speedway",
@@ -358,10 +358,10 @@
       "live_tiles": 870,
       "hero3d": true,
       "attribution": "VIRTUAL SHIZUOKA 静岡県 点群データ (CC BY 4.0) を加工して作成",
-      "version": "fuji-v2-20260904",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/fuji-v2-20260904/fuji.zip",
-      "sha256": "9ac259b6e2e98b0e",
-      "size_bytes": 204429827
+      "version": "fuji-v2-20260905",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/fuji-v2-20260905/fuji.zip",
+      "sha256": "08c8117369c991e1",
+      "size_bytes": 192122748
     },
     "390": {
       "venue": "Hockenheimring Baden-Württemberg",
