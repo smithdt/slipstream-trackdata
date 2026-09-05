@@ -581,14 +581,15 @@
     },
     "219": {
       "venue": "Mount Panorama Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-31/mount-panorama-circuit.zip",
-      "version": "imagery-v2-catalog-31",
-      "sha256": "f62e341991110e93",
       "corners": 23,
       "provider": "au-nsw",
-      "live_tiles": 1475,
+      "live_tiles": 1550,
       "hero3d": true,
-      "attribution": "(c) State of New South Wales (Spatial Services) - CC-BY 3.0 AU"
+      "attribution": "(c) State of New South Wales (Spatial Services) - CC-BY 3.0 AU",
+      "version": "mount-panorama-v2-20260905",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/mount-panorama-v2-20260905/mount-panorama.zip",
+      "sha256": "36e529da161b3aba",
+      "size_bytes": 171485139
     },
     "252": {
       "venue": "Nürburgring Combined",
