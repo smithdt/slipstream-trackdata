@@ -618,10 +618,10 @@
       "live_tiles": 382,
       "hero3d": true,
       "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]",
-      "version": "nurburgring-gp-v2-20260903",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/nurburgring-gp-v2-20260903/nurburgring-gp.zip",
-      "sha256": "2f3ba23ddd514cd0",
-      "size_bytes": 55372474
+      "version": "nurburgring-gp-v2-20260905",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/nurburgring-gp-v2-20260905/nurburgring-gp.zip",
+      "sha256": "9765ca05d2d6d68b",
+      "size_bytes": 53298267
     },
     "255": {
       "venue": "Nurburgring Grand-Prix-Strecke",
@@ -630,10 +630,10 @@
       "live_tiles": 380,
       "hero3d": true,
       "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]",
-      "version": "nurburgring-gp-v2-20260903",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/nurburgring-gp-v2-20260903/nurburgring-gp.zip",
-      "sha256": "2f3ba23ddd514cd0",
-      "size_bytes": 55372474
+      "version": "nurburgring-gp-v2-20260905",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/nurburgring-gp-v2-20260905/nurburgring-gp.zip",
+      "sha256": "9765ca05d2d6d68b",
+      "size_bytes": 53298267
     },
     "259": {
       "venue": "Nurburgring Grand-Prix-Strecke",
@@ -642,10 +642,10 @@
       "live_tiles": 284,
       "hero3d": true,
       "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]",
-      "version": "nurburgring-gp-v2-20260903",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/nurburgring-gp-v2-20260903/nurburgring-gp.zip",
-      "sha256": "2f3ba23ddd514cd0",
-      "size_bytes": 55372474
+      "version": "nurburgring-gp-v2-20260905",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/nurburgring-gp-v2-20260905/nurburgring-gp.zip",
+      "sha256": "9765ca05d2d6d68b",
+      "size_bytes": 53298267
     },
     "249": {
       "venue": "Nürburgring Nordschleife",
