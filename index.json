@@ -557,25 +557,27 @@
     },
     "449": {
       "venue": "Motorsport Arena Oschersleben",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-32/motorsport-arena-oschersleben.zip",
-      "version": "imagery-v2-catalog-32",
-      "sha256": "9540f32af0a261e0",
       "corners": 14,
       "provider": "de-st",
-      "live_tiles": 120,
+      "live_tiles": 288,
       "hero3d": true,
-      "attribution": "© LVermGeo Sachsen-Anhalt, dl-de/by-2-0"
+      "attribution": "© LVermGeo Sachsen-Anhalt, dl-de/by-2-0 [Daten bearbeitet]",
+      "version": "oschersleben-v2-20260905",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/oschersleben-v2-20260905/oschersleben.zip",
+      "sha256": "4deb62fdc8dde9a9",
+      "size_bytes": 32110046
     },
     "455": {
       "venue": "Motorsport Arena Oschersleben",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-32/motorsport-arena-oschersleben.zip",
-      "version": "imagery-v2-catalog-32",
-      "sha256": "9540f32af0a261e0",
       "corners": 8,
       "provider": "de-st",
-      "live_tiles": 96,
+      "live_tiles": 288,
       "hero3d": true,
-      "attribution": "© LVermGeo Sachsen-Anhalt, dl-de/by-2-0"
+      "attribution": "© LVermGeo Sachsen-Anhalt, dl-de/by-2-0 [Daten bearbeitet]",
+      "version": "oschersleben-v2-20260905",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/oschersleben-v2-20260905/oschersleben.zip",
+      "sha256": "4deb62fdc8dde9a9",
+      "size_bytes": 32110046
     },
     "219": {
       "venue": "Mount Panorama Circuit",
