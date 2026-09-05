@@ -664,10 +664,10 @@
       "live_tiles": 324,
       "hero3d": true,
       "attribution": "おかやまインフラボックス 岡山県 3次元点群データ オルソ画像 を加工して作成",
-      "version": "okayama-v2-20260902",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/okayama-v2-20260902/okayama.zip",
-      "sha256": "32480e486fbcb583",
-      "size_bytes": 52752000
+      "version": "okayama-v2-20260905",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/okayama-v2-20260905/okayama.zip",
+      "sha256": "cf0790901ab7acb3",
+      "size_bytes": 51222156
     },
     "167": {
       "venue": "Okayama International Circuit",
@@ -676,10 +676,10 @@
       "live_tiles": 112,
       "hero3d": true,
       "attribution": "おかやまインフラボックス 岡山県 3次元点群データ オルソ画像 を加工して作成",
-      "version": "okayama-v2-20260902",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/okayama-v2-20260902/okayama.zip",
-      "sha256": "32480e486fbcb583",
-      "size_bytes": 52752000
+      "version": "okayama-v2-20260905",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/okayama-v2-20260905/okayama.zip",
+      "sha256": "cf0790901ab7acb3",
+      "size_bytes": 51222156
     },
     "536": {
       "venue": "Portland International Raceway",
