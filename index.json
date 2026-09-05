@@ -729,10 +729,10 @@
       "live_tiles": 910,
       "hero3d": true,
       "attribution": "Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery",
-      "version": "road-america-v2-20260902",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-america-v2-20260902/road-america.zip",
-      "sha256": "710dd44347732a9a",
-      "size_bytes": 132289358
+      "version": "road-america-v2-20260905",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-america-v2-20260905/road-america.zip",
+      "sha256": "f1cb62c2cc4b43ea",
+      "size_bytes": 132287521
     },
     "50": {
       "venue": "Road America",
@@ -741,10 +741,10 @@
       "live_tiles": 910,
       "hero3d": true,
       "attribution": "Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery",
-      "version": "road-america-v2-20260902",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-america-v2-20260902/road-america.zip",
-      "sha256": "710dd44347732a9a",
-      "size_bytes": 132289358
+      "version": "road-america-v2-20260905",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-america-v2-20260905/road-america.zip",
+      "sha256": "f1cb62c2cc4b43ea",
+      "size_bytes": 132287521
     },
     "127": {
       "venue": "Road Atlanta",
