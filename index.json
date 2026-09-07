@@ -110,10 +110,10 @@
       "live_tiles": 437,
       "hero3d": true,
       "attribution": "© PDOK / Kadaster — Luchtfoto 2026 (CC BY 4.0)",
-      "version": "zandvoort-v2-20260903",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/zandvoort-v2-20260903/zandvoort.zip",
-      "sha256": "3e936277a0e5a657",
-      "size_bytes": 54888492
+      "version": "zandvoort-v2-20260907",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/zandvoort-v2-20260907/zandvoort.zip",
+      "sha256": "428770899851975a",
+      "size_bytes": 50162729
     },
     "487": {
       "venue": "Circuit Zandvoort",
@@ -122,10 +122,10 @@
       "live_tiles": 437,
       "hero3d": true,
       "attribution": "© PDOK / Kadaster — Luchtfoto 2026 (CC BY 4.0)",
-      "version": "zandvoort-v2-20260903",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/zandvoort-v2-20260903/zandvoort.zip",
-      "sha256": "3e936277a0e5a657",
-      "size_bytes": 54888492
+      "version": "zandvoort-v2-20260907",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/zandvoort-v2-20260907/zandvoort.zip",
+      "sha256": "428770899851975a",
+      "size_bytes": 50162729
     },
     "199": {
       "venue": "Circuit Zolder",
@@ -1584,10 +1584,10 @@
       "live_tiles": 437,
       "hero3d": true,
       "attribution": "© PDOK / Kadaster — Luchtfoto 2026 (CC BY 4.0)",
-      "version": "zandvoort-v2-20260903",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/zandvoort-v2-20260903/zandvoort.zip",
-      "sha256": "3e936277a0e5a657",
-      "size_bytes": 54888492
+      "version": "zandvoort-v2-20260907",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/zandvoort-v2-20260907/zandvoort.zip",
+      "sha256": "428770899851975a",
+      "size_bytes": 50162729
     },
     "488": {
       "venue": "Circuit Zandvoort",
@@ -1596,10 +1596,10 @@
       "live_tiles": 437,
       "hero3d": true,
       "attribution": "© PDOK / Kadaster — Luchtfoto 2026 (CC BY 4.0)",
-      "version": "zandvoort-v2-20260903",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/zandvoort-v2-20260903/zandvoort.zip",
-      "sha256": "3e936277a0e5a657",
-      "size_bytes": 54888492
+      "version": "zandvoort-v2-20260907",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/zandvoort-v2-20260907/zandvoort.zip",
+      "sha256": "428770899851975a",
+      "size_bytes": 50162729
     }
   }
 }
