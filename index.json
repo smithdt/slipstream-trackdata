@@ -25,25 +25,27 @@
     },
     "498": {
       "venue": "Autodromo Internazionale del Mugello",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-28/autodromo-internazionale-del-mugello.zip",
-      "version": "imagery-v2-catalog-28",
-      "sha256": "7232ef7731baacb4",
       "corners": 15,
       "provider": "it-toscana",
       "live_tiles": 171,
       "hero3d": true,
-      "attribution": "© Regione Toscana — GEOscopio (CC BY 4.0)"
+      "attribution": "© Regione Toscana — GEOscopio (CC BY 4.0). Projection corrected by Slipstream Live.",
+      "version": "mugello-v2-20260908",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/mugello-v2-20260908/mugello.zip",
+      "sha256": "374afcf14b4f1e03",
+      "size_bytes": 30765075
     },
     "499": {
       "venue": "Autodromo Internazionale del Mugello",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-28/autodromo-internazionale-del-mugello.zip",
-      "version": "imagery-v2-catalog-28",
-      "sha256": "7232ef7731baacb4",
       "corners": 7,
       "provider": "it-toscana",
       "live_tiles": 116,
       "hero3d": true,
-      "attribution": "© Regione Toscana — GEOscopio (CC BY 4.0)"
+      "attribution": "© Regione Toscana — GEOscopio (CC BY 4.0). Projection corrected by Slipstream Live.",
+      "version": "mugello-v2-20260908",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/mugello-v2-20260908/mugello.zip",
+      "sha256": "374afcf14b4f1e03",
+      "size_bytes": 30765075
     },
     "239": {
       "venue": "Autodromo Nazionale Monza",
