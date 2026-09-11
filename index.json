@@ -212,10 +212,10 @@
       "live_tiles": 1363,
       "hero3d": true,
       "attribution": "© SPW (Service public de Wallonie) — open data",
-      "version": "spa-v2-20260910",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v2-20260910/spa.zip",
-      "sha256": "5292ee257539eaf0",
-      "size_bytes": 204593392
+      "version": "spa-v2-20260911",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v2-20260911/spa.zip",
+      "sha256": "28cca035d2bea1dc",
+      "size_bytes": 204592897
     },
     "524": {
       "venue": "Circuit de Spa-Francorchamps",
@@ -224,10 +224,10 @@
       "live_tiles": 1363,
       "hero3d": true,
       "attribution": "© SPW (Service public de Wallonie) — open data",
-      "version": "spa-v2-20260910",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v2-20260910/spa.zip",
-      "sha256": "5292ee257539eaf0",
-      "size_bytes": 204593392
+      "version": "spa-v2-20260911",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v2-20260911/spa.zip",
+      "sha256": "28cca035d2bea1dc",
+      "size_bytes": 204592897
     },
     "525": {
       "venue": "Circuit de Spa-Francorchamps",
@@ -236,10 +236,10 @@
       "live_tiles": 1363,
       "hero3d": true,
       "attribution": "© SPW (Service public de Wallonie) — open data",
-      "version": "spa-v2-20260910",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v2-20260910/spa.zip",
-      "sha256": "5292ee257539eaf0",
-      "size_bytes": 204593392
+      "version": "spa-v2-20260911",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v2-20260911/spa.zip",
+      "sha256": "28cca035d2bea1dc",
+      "size_bytes": 204592897
     },
     "526": {
       "venue": "Circuit de Spa-Francorchamps",
@@ -248,10 +248,10 @@
       "live_tiles": 1363,
       "hero3d": true,
       "attribution": "© SPW (Service public de Wallonie) — open data",
-      "version": "spa-v2-20260910",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v2-20260910/spa.zip",
-      "sha256": "5292ee257539eaf0",
-      "size_bytes": 204593392
+      "version": "spa-v2-20260911",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v2-20260911/spa.zip",
+      "sha256": "28cca035d2bea1dc",
+      "size_bytes": 204592897
     },
     "268": {
       "venue": "Circuit des 24 Heures du Mans",
@@ -1539,10 +1539,10 @@
       "live_tiles": 1363,
       "hero3d": true,
       "attribution": "© SPW (Service public de Wallonie) — open data",
-      "version": "spa-v2-20260910",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v2-20260910/spa.zip",
-      "sha256": "5292ee257539eaf0",
-      "size_bytes": 204593392
+      "version": "spa-v2-20260911",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v2-20260911/spa.zip",
+      "sha256": "28cca035d2bea1dc",
+      "size_bytes": 204592897
     },
     "164": {
       "venue": "Circuit de Spa-Francorchamps",
@@ -1551,10 +1551,10 @@
       "live_tiles": 1363,
       "hero3d": true,
       "attribution": "© SPW (Service public de Wallonie) — open data",
-      "version": "spa-v2-20260910",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v2-20260910/spa.zip",
-      "sha256": "5292ee257539eaf0",
-      "size_bytes": 204593392
+      "version": "spa-v2-20260911",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v2-20260911/spa.zip",
+      "sha256": "28cca035d2bea1dc",
+      "size_bytes": 204592897
     },
     "165": {
       "venue": "Circuit de Spa-Francorchamps",
@@ -1563,10 +1563,10 @@
       "live_tiles": 1363,
       "hero3d": true,
       "attribution": "© SPW (Service public de Wallonie) — open data",
-      "version": "spa-v2-20260910",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v2-20260910/spa.zip",
-      "sha256": "5292ee257539eaf0",
-      "size_bytes": 204593392
+      "version": "spa-v2-20260911",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v2-20260911/spa.zip",
+      "sha256": "28cca035d2bea1dc",
+      "size_bytes": 204592897
     },
     "94": {
       "venue": "Milwaukee Mile",
