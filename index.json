@@ -1771,6 +1771,18 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-atlanta-reuse-v2-20260911/road-atlanta-reuse.zip",
       "sha256": "a85813e2444c30db",
       "size_bytes": 97077142
+    },
+    "596": {
+      "venue": "Road America",
+      "corners": 0,
+      "provider": "wi-dnr",
+      "live_tiles": 910,
+      "hero3d": true,
+      "attribution": "Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery",
+      "version": "road-america-reuse-v2-20260911",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-america-reuse-v2-20260911/road-america-reuse.zip",
+      "sha256": "fc33b7b5b655fe74",
+      "size_bytes": 96225107
     }
   }
 }
