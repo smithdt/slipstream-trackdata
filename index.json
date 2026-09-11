@@ -1615,6 +1615,18 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/oulton-park-v2-20260911/oulton-park.zip",
       "sha256": "641f75612f8d8264",
       "size_bytes": 3019378
+    },
+    "560": {
+      "venue": "World Wide Technology Raceway",
+      "corners": 0,
+      "provider": "naip",
+      "live_tiles": 32,
+      "hero3d": true,
+      "attribution": "USDA Farm Service Agency / USGS — public domain",
+      "version": "gateway-reuse-v2-20260911",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/gateway-reuse-v2-20260911/gateway-reuse.zip",
+      "sha256": "126afa3a0773a9c4",
+      "size_bytes": 2539592
     }
   }
 }
