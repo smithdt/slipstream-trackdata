@@ -1651,6 +1651,18 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/summit-point-reuse-v2-20260911/summit-point-reuse.zip",
       "sha256": "2efbb159403c288a",
       "size_bytes": 53092536
+    },
+    "142": {
+      "venue": "Summit Point Raceway",
+      "corners": 0,
+      "provider": "wv-wvgistc-jefferson-2025",
+      "live_tiles": 120,
+      "hero3d": true,
+      "attribution": "WVGISTC and Jefferson County — 2025 leaf-off imagery",
+      "version": "summit-point-jefferson-reuse-v2-20260911",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/summit-point-jefferson-reuse-v2-20260911/summit-point-jefferson-reuse.zip",
+      "sha256": "5bc3164983d1fcb3",
+      "size_bytes": 15204904
     }
   }
 }
