@@ -1759,6 +1759,18 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/charlotte-reuse-v2-20260911/charlotte-reuse.zip",
       "sha256": "154dfb649c56597b",
       "size_bytes": 41976034
+    },
+    "126": {
+      "venue": "Road Atlanta",
+      "corners": 0,
+      "provider": "naip",
+      "live_tiles": 666,
+      "hero3d": true,
+      "attribution": "USDA Farm Service Agency / USGS — public domain",
+      "version": "road-atlanta-reuse-v2-20260911",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-atlanta-reuse-v2-20260911/road-atlanta-reuse.zip",
+      "sha256": "a85813e2444c30db",
+      "size_bytes": 97077142
     }
   }
 }
