@@ -1663,6 +1663,102 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/summit-point-jefferson-reuse-v2-20260911/summit-point-jefferson-reuse.zip",
       "sha256": "5bc3164983d1fcb3",
       "size_bytes": 15204904
+    },
+    "550": {
+      "venue": "Charlotte Motor Speedway",
+      "corners": 0,
+      "provider": "nc-cabarrus-charlotte-2025",
+      "live_tiles": 432,
+      "hero3d": true,
+      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
+      "version": "charlotte-reuse-v2-20260911",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/charlotte-reuse-v2-20260911/charlotte-reuse.zip",
+      "sha256": "154dfb649c56597b",
+      "size_bytes": 41976034
+    },
+    "551": {
+      "venue": "Charlotte Motor Speedway",
+      "corners": 0,
+      "provider": "nc-cabarrus-charlotte-2025",
+      "live_tiles": 432,
+      "hero3d": true,
+      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
+      "version": "charlotte-reuse-v2-20260911",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/charlotte-reuse-v2-20260911/charlotte-reuse.zip",
+      "sha256": "154dfb649c56597b",
+      "size_bytes": 41976034
+    },
+    "552": {
+      "venue": "Charlotte Motor Speedway",
+      "corners": 0,
+      "provider": "nc-cabarrus-charlotte-2025",
+      "live_tiles": 432,
+      "hero3d": true,
+      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
+      "version": "charlotte-reuse-v2-20260911",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/charlotte-reuse-v2-20260911/charlotte-reuse.zip",
+      "sha256": "154dfb649c56597b",
+      "size_bytes": 41976034
+    },
+    "553": {
+      "venue": "Charlotte Motor Speedway",
+      "corners": 0,
+      "provider": "nc-cabarrus-charlotte-2025",
+      "live_tiles": 432,
+      "hero3d": true,
+      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
+      "version": "charlotte-reuse-v2-20260911",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/charlotte-reuse-v2-20260911/charlotte-reuse.zip",
+      "sha256": "154dfb649c56597b",
+      "size_bytes": 41976034
+    },
+    "555": {
+      "venue": "Charlotte Motor Speedway",
+      "corners": 0,
+      "provider": "nc-cabarrus-charlotte-2025",
+      "live_tiles": 432,
+      "hero3d": true,
+      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
+      "version": "charlotte-reuse-v2-20260911",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/charlotte-reuse-v2-20260911/charlotte-reuse.zip",
+      "sha256": "154dfb649c56597b",
+      "size_bytes": 41976034
+    },
+    "556": {
+      "venue": "Charlotte Motor Speedway",
+      "corners": 0,
+      "provider": "nc-cabarrus-charlotte-2025",
+      "live_tiles": 432,
+      "hero3d": true,
+      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
+      "version": "charlotte-reuse-v2-20260911",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/charlotte-reuse-v2-20260911/charlotte-reuse.zip",
+      "sha256": "154dfb649c56597b",
+      "size_bytes": 41976034
+    },
+    "557": {
+      "venue": "Charlotte Motor Speedway",
+      "corners": 0,
+      "provider": "nc-cabarrus-charlotte-2025",
+      "live_tiles": 432,
+      "hero3d": true,
+      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
+      "version": "charlotte-reuse-v2-20260911",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/charlotte-reuse-v2-20260911/charlotte-reuse.zip",
+      "sha256": "154dfb649c56597b",
+      "size_bytes": 41976034
+    },
+    "558": {
+      "venue": "Charlotte Motor Speedway",
+      "corners": 0,
+      "provider": "nc-cabarrus-charlotte-2025",
+      "live_tiles": 432,
+      "hero3d": true,
+      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
+      "version": "charlotte-reuse-v2-20260911",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/charlotte-reuse-v2-20260911/charlotte-reuse.zip",
+      "sha256": "154dfb649c56597b",
+      "size_bytes": 41976034
     }
   }
 }
