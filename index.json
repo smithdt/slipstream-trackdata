@@ -1603,6 +1603,18 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/zandvoort-v2-20260907/zandvoort.zip",
       "sha256": "428770899851975a",
       "size_bytes": 50162729
+    },
+    "181": {
+      "venue": "Oulton Park Circuit",
+      "corners": 10,
+      "provider": "ea-lidar-osm",
+      "live_tiles": 29,
+      "hero3d": true,
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)",
+      "version": "oulton-park-v2-20260911",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/oulton-park-v2-20260911/oulton-park.zip",
+      "sha256": "641f75612f8d8264",
+      "size_bytes": 3019378
     }
   }
 }
