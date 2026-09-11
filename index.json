@@ -411,13 +411,15 @@
     },
     "448": {
       "venue": "Indianapolis Motor Speedway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/indianapolis-motor-speedway.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "a146f62ef5787053",
       "corners": 13,
       "provider": "in-gio-current",
-      "live_tiles": 22,
-      "attribution": "Indiana Geographic Information Office — Statewide Orthoimagery (CC0)"
+      "live_tiles": 612,
+      "hero3d": true,
+      "attribution": "Indiana Geographic Information Office — Statewide Orthoimagery (CC0)",
+      "version": "indianapolis-v2-20260911",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/indianapolis-v2-20260911/indianapolis.zip",
+      "sha256": "13dd9c0c358a3fc4",
+      "size_bytes": 50978833
     },
     "352": {
       "venue": "Lime Rock Park",
@@ -1783,6 +1785,30 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-america-reuse-v2-20260911/road-america-reuse.zip",
       "sha256": "fc33b7b5b655fe74",
       "size_bytes": 96225107
+    },
+    "453": {
+      "venue": "Indianapolis Motor Speedway",
+      "corners": 0,
+      "provider": "in-gio-current",
+      "live_tiles": 612,
+      "hero3d": true,
+      "attribution": "Indiana Geographic Information Office — Statewide Orthoimagery (CC0)",
+      "version": "indianapolis-v2-20260911",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/indianapolis-v2-20260911/indianapolis.zip",
+      "sha256": "13dd9c0c358a3fc4",
+      "size_bytes": 50978833
+    },
+    "522": {
+      "venue": "Indianapolis Motor Speedway",
+      "corners": 0,
+      "provider": "in-gio-current",
+      "live_tiles": 612,
+      "hero3d": true,
+      "attribution": "Indiana Geographic Information Office — Statewide Orthoimagery (CC0)",
+      "version": "indianapolis-v2-20260911",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/indianapolis-v2-20260911/indianapolis.zip",
+      "sha256": "13dd9c0c358a3fc4",
+      "size_bytes": 50978833
     }
   }
 }
