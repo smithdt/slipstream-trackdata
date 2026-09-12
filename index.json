@@ -1,1814 +1,2274 @@
 {
-  "version": "imagery-sebring-alignment-20260825",
-  "tracks": {
-    "509": {
+  "format": "slipstream-satellite-index-v3",
+  "schema_version": 3,
+  "version": "satellite-index-v3-cbb3d2289d36",
+  "venues": [
+    {
+      "schema_version": 3,
+      "physical_venue_key": "algarve-international-circuit",
       "venue": "Algarve International Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/algarve-international-circuit.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "fd1df6640091f9a1",
-      "corners": 15,
-      "provider": "pt-dgt-2018",
-      "live_tiles": 85,
-      "attribution": "© Direção-Geral do Território (DGT) — Ortos2018 (CC BY 4.0)"
+      "version": "algarve-international-circuit-v3-6194758f80ef",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/algarve-international-circuit-v3-6194758f80ef/algarve-international-circuit.zip",
+      "size_bytes": 7418731,
+      "sha256": "897bead22f5a339e8af1557da236f6f033de2eb8d88e54064420b235fb3ad466",
+      "layouts": [
+        509
+      ]
     },
-    "266": {
-      "venue": "Autodromo Internazionale Enzo e Dino Ferrari",
-      "corners": 17,
-      "provider": "it-rer",
-      "live_tiles": 490,
-      "hero3d": true,
-      "attribution": "© Regione Emilia-Romagna, Ortofoto RER 2022 RGB (CGR S.p.A.), CC BY 4.0",
-      "version": "imola-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imola-v2-20260905/imola.zip",
-      "sha256": "b6b9a3982dce00b8",
-      "size_bytes": 44663736
+    {
+      "schema_version": 3,
+      "physical_venue_key": "autodromo-hermanos-rodriguez",
+      "venue": "Autódromo Hermanos Rodríguez",
+      "version": "autodromo-hermanos-rodriguez-v3-b74323e57b8c",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/autodromo-hermanos-rodriguez-v3-b74323e57b8c/autodromo-hermanos-rodriguez.zip",
+      "size_bytes": 5289091,
+      "sha256": "9004d0f71cdb0970b0a30bbc58c0c5622a6e0771e2fd9b3b83743c2cdaa526b5",
+      "layouts": [
+        572
+      ]
     },
-    "498": {
-      "venue": "Autodromo Internazionale del Mugello",
-      "corners": 15,
-      "provider": "it-toscana",
-      "live_tiles": 171,
-      "hero3d": true,
-      "attribution": "© Regione Toscana — GEOscopio (CC BY 4.0). Projection corrected by Slipstream Live.",
-      "version": "mugello-v2-20260908",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/mugello-v2-20260908/mugello.zip",
-      "sha256": "374afcf14b4f1e03",
-      "size_bytes": 30765075
-    },
-    "499": {
-      "venue": "Autodromo Internazionale del Mugello",
-      "corners": 7,
-      "provider": "it-toscana",
-      "live_tiles": 116,
-      "hero3d": true,
-      "attribution": "© Regione Toscana — GEOscopio (CC BY 4.0). Projection corrected by Slipstream Live.",
-      "version": "mugello-v2-20260908",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/mugello-v2-20260908/mugello.zip",
-      "sha256": "374afcf14b4f1e03",
-      "size_bytes": 30765075
-    },
-    "239": {
-      "venue": "Autodromo Nazionale Monza",
-      "corners": 11,
-      "provider": "it-lombardia-agea",
-      "live_tiles": 588,
-      "hero3d": true,
-      "attribution": "Regione Lombardia – Ortofoto AGEA 2015 / 2021 (Geoportale della Lombardia)",
-      "version": "monza-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/monza-v2-20260905/monza.zip",
-      "sha256": "4ba49445ee50f7f2",
-      "size_bytes": 46304988
-    },
-    "212": {
-      "venue": "Autódromo José Carlos Pace",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-31/aut-dromo-jos-carlos-pace.zip",
-      "version": "imagery-v2-catalog-31",
-      "sha256": "a1ded1d3d05c19c5",
-      "corners": 15,
-      "provider": "br-geosampa",
-      "live_tiles": 588,
-      "hero3d": true,
-      "attribution": "© Prefeitura de São Paulo — GeoSampa (CC BY-SA 4.0)"
-    },
-    "585": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "barber",
       "venue": "Barber Motorsports Park",
-      "corners": 16,
-      "provider": "al-jefferson-dop-2025",
-      "live_tiles": 357,
-      "hero3d": false,
-      "attribution": "Jefferson County GIS Consortium — 2025 Digital Orthophotos",
-      "version": "0.10.31",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.31/barber-v0.10.31.zip",
-      "sha256": "52bb3afeb656cb97",
-      "size_bytes": 70640494
+      "version": "barber-v3-fcd1a496b138",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/barber-v3-fcd1a496b138/barber.zip",
+      "size_bytes": 55465998,
+      "sha256": "84b52ee3b45a8bbd565b4022fdf0dde1b1a1a56f6f6ed774a8841d3d2918a70f",
+      "layouts": [
+        585
+      ]
     },
-    "144": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "barcelona-catalunya",
+      "venue": "Circuit de Barcelona Catalunya",
+      "version": "barcelona-catalunya-v3-52a541b50b4e",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/barcelona-catalunya-v3-52a541b50b4e/barcelona-catalunya.zip",
+      "size_bytes": 23875902,
+      "sha256": "ed3e21f0858fc787298a3a4f7b80d343e5cd169c283bb573058fe216e61ea71c",
+      "layouts": [
+        345,
+        346,
+        349
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "brands-hatch",
+      "venue": "Brands Hatch Circuit",
+      "version": "brands-hatch-v3-3815d1af74ac",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/brands-hatch-v3-3815d1af74ac/brands-hatch.zip",
+      "size_bytes": 3880655,
+      "sha256": "8c7078137f54e57792d97649bf9e547c115381dd6792484e33e5651c4a9cf223",
+      "layouts": [
+        145,
+        146
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "cadwell-park",
+      "venue": "Cadwell Park Circuit",
+      "version": "cadwell-park-v3-1321b54df392",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/cadwell-park-v3-1321b54df392/cadwell-park.zip",
+      "size_bytes": 1849008,
+      "sha256": "7ba00110131c4dd0ea956102a4ce952899b6162145daf33feb39fb94f01e085e",
+      "layouts": [
+        527
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "canadian-tire-motorsport-park",
       "venue": "Canadian Tire Motorsport Park",
-      "corners": 10,
-      "provider": "ca-on-oiwms",
-      "live_tiles": 726,
-      "hero3d": true,
-      "attribution": "Contains information licensed under the Open Government Licence – Ontario",
-      "version": "canadian-tire-motorsport-park-v2-20260902",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/canadian-tire-motorsport-park-v2-20260902/canadian-tire-motorsport-park.zip",
-      "sha256": "0f21d8fcf8e18c24",
-      "size_bytes": 40505187
+      "version": "canadian-tire-motorsport-park-v3-9fa0c5a3db20",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/canadian-tire-motorsport-park-v3-9fa0c5a3db20/canadian-tire-motorsport-park.zip",
+      "size_bytes": 36482794,
+      "sha256": "e86b78677d71b3aa5d5b90a60b57142b877b86baeace0d900e42d01197aa125a",
+      "layouts": [
+        144
+      ]
     },
-    "483": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "charlotte-roval",
+      "venue": "Charlotte Motor Speedway",
+      "version": "charlotte-roval-v3-0616b6152ab1",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/charlotte-roval-v3-0616b6152ab1/charlotte-roval.zip",
+      "size_bytes": 46195253,
+      "sha256": "84ca21a0c40d2cf70dc563deed92efa2da41a3b58982f8d03f0fd9deddc9912f",
+      "layouts": [
+        550,
+        551,
+        552,
+        553,
+        554,
+        555,
+        556,
+        557,
+        558
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "chicago-street-course",
       "venue": "Chicago Street Course",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-34/chicago-street-course.zip",
-      "version": "imagery-v2-catalog-34",
-      "sha256": "10bf6d8fc152929b",
-      "corners": 12,
-      "provider": "il-cook-ortho-2024",
-      "live_tiles": 335,
-      "hero3d": true,
-      "attribution": "Cook County GIS — 2024 orthophotography"
+      "version": "chicago-street-course-v3-6742e401bd0e",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/chicago-street-course-v3-6742e401bd0e/chicago-street-course.zip",
+      "size_bytes": 20169434,
+      "sha256": "a05033b7c83648a1b3c90b3159f27faa120ceefa5a3148a614bc473f6ed757fa",
+      "layouts": [
+        483
+      ]
     },
-    "485": {
-      "venue": "Circuit Zandvoort",
-      "corners": 14,
-      "provider": "nl-pdok",
-      "live_tiles": 437,
-      "hero3d": true,
-      "attribution": "© PDOK / Kadaster — Luchtfoto 2026 (CC BY 4.0)",
-      "version": "zandvoort-v2-20260907",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/zandvoort-v2-20260907/zandvoort.zip",
-      "sha256": "428770899851975a",
-      "size_bytes": 50162729
-    },
-    "487": {
-      "venue": "Circuit Zandvoort",
-      "corners": 10,
-      "provider": "nl-pdok",
-      "live_tiles": 437,
-      "hero3d": true,
-      "attribution": "© PDOK / Kadaster — Luchtfoto 2026 (CC BY 4.0)",
-      "version": "zandvoort-v2-20260907",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/zandvoort-v2-20260907/zandvoort.zip",
-      "sha256": "428770899851975a",
-      "size_bytes": 50162729
-    },
-    "199": {
-      "venue": "Circuit Zolder",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-32/circuit-zolder.zip",
-      "version": "imagery-v2-catalog-32",
-      "sha256": "9a7129c148a613cd",
-      "corners": 10,
-      "provider": "be-flanders",
-      "live_tiles": 168,
-      "hero3d": true,
-      "attribution": "© Digitaal Vlaanderen — Orthofotomozaïek"
-    },
-    "200": {
-      "venue": "Circuit Zolder",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-32/circuit-zolder.zip",
-      "version": "imagery-v2-catalog-32",
-      "sha256": "9a7129c148a613cd",
-      "corners": 10,
-      "provider": "be-flanders",
-      "live_tiles": 166,
-      "hero3d": true,
-      "attribution": "© Digitaal Vlaanderen — Orthofotomozaïek"
-    },
-    "345": {
-      "venue": "Circuit de Barcelona Catalunya",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/circuit-de-barcelona-catalunya.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "7db6a16698c165f7",
-      "corners": 16,
-      "provider": "es-pnoa",
-      "live_tiles": 87,
-      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
-    },
-    "346": {
-      "venue": "Circuit de Barcelona Catalunya",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/circuit-de-barcelona-catalunya.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "7db6a16698c165f7",
-      "corners": 11,
-      "provider": "es-pnoa",
-      "live_tiles": 66,
-      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
-    },
-    "349": {
-      "venue": "Circuit de Barcelona Catalunya",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/circuit-de-barcelona-catalunya.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "7db6a16698c165f7",
-      "corners": 13,
-      "provider": "es-pnoa",
-      "live_tiles": 87,
-      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
-    },
-    "489": {
-      "venue": "Circuit de Ledenon",
-      "corners": 15,
-      "provider": "ign-geoplateforme",
-      "live_tiles": 54,
-      "hero3d": false,
-      "attribution": "© IGN — Géoplateforme (Licence Ouverte / Etalab 2.0)",
-      "version": "0.10.27",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.27/ledenon-v0.10.27.zip",
-      "sha256": "614bbdfe2db172ec",
-      "size_bytes": 10755706
-    },
-    "463": {
-      "venue": "Circuit de Nevers Magny-Cours",
-      "corners": 17,
-      "provider": "ign-geoplateforme",
-      "live_tiles": 117,
-      "hero3d": false,
-      "attribution": "© IGN — Géoplateforme (Licence Ouverte / Etalab 2.0)",
-      "version": "0.10.30",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.30/magny-cours-v0.10.30.zip",
-      "sha256": "762aea69914c4e23",
-      "size_bytes": 17414412
-    },
-    "523": {
-      "venue": "Circuit de Spa-Francorchamps",
-      "corners": 19,
-      "provider": "be-wallonia",
-      "live_tiles": 1363,
-      "hero3d": true,
-      "attribution": "© SPW (Service public de Wallonie) — open data",
-      "version": "spa-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v2-20260911/spa.zip",
-      "sha256": "28cca035d2bea1dc",
-      "size_bytes": 204592897
-    },
-    "524": {
-      "venue": "Circuit de Spa-Francorchamps",
-      "corners": 19,
-      "provider": "be-wallonia",
-      "live_tiles": 1363,
-      "hero3d": true,
-      "attribution": "© SPW (Service public de Wallonie) — open data",
-      "version": "spa-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v2-20260911/spa.zip",
-      "sha256": "28cca035d2bea1dc",
-      "size_bytes": 204592897
-    },
-    "525": {
-      "venue": "Circuit de Spa-Francorchamps",
-      "corners": 19,
-      "provider": "be-wallonia",
-      "live_tiles": 1363,
-      "hero3d": true,
-      "attribution": "© SPW (Service public de Wallonie) — open data",
-      "version": "spa-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v2-20260911/spa.zip",
-      "sha256": "28cca035d2bea1dc",
-      "size_bytes": 204592897
-    },
-    "526": {
-      "venue": "Circuit de Spa-Francorchamps",
-      "corners": 19,
-      "provider": "be-wallonia",
-      "live_tiles": 1363,
-      "hero3d": true,
-      "attribution": "© SPW (Service public de Wallonie) — open data",
-      "version": "spa-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v2-20260911/spa.zip",
-      "sha256": "28cca035d2bea1dc",
-      "size_bytes": 204592897
-    },
-    "268": {
-      "venue": "Circuit des 24 Heures du Mans",
-      "corners": 33,
-      "provider": "ign-geoplateforme",
-      "live_tiles": 1380,
-      "hero3d": true,
-      "attribution": "© IGN — Géoplateforme (Licence Ouverte / Etalab 2.0)",
-      "version": "le-mans-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/le-mans-v2-20260905/le-mans.zip",
-      "sha256": "ac749e8e91274cf9",
-      "size_bytes": 83852400
-    },
-    "229": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "cota",
       "venue": "Circuit of the Americas",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-28/circuit-of-the-americas.zip",
-      "version": "imagery-v2-catalog-28",
-      "sha256": "bec4e55cbfbce307",
-      "corners": 20,
-      "provider": "tx-stratmap19-caparea",
-      "live_tiles": 358,
-      "hero3d": true,
-      "attribution": "Texas StratMap 2019 / TxGIO (TNRIS) — Capital Area"
+      "version": "cota-v3-901ef626aa65",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/cota-v3-901ef626aa65/cota.zip",
+      "size_bytes": 36550565,
+      "sha256": "5a43e87f4d15d2b972e92406cf6a6ab0e236cc0f021a2fd7679562267997dc35",
+      "layouts": [
+        229
+      ]
     },
-    "473": {
-      "venue": "Circuito de Jerez - Ángel Nieto",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/circuito-de-jerez-ngel-nieto.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "3eac7048e2b0776a",
-      "corners": 15,
-      "provider": "es-pnoa",
-      "live_tiles": 85,
-      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
-    },
-    "515": {
-      "venue": "Circuito de Navarra",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-31/circuito-de-navarra.zip",
-      "version": "imagery-v2-catalog-31",
-      "sha256": "3f16b94223c0d985",
-      "corners": 15,
-      "provider": "es-pnoa",
-      "live_tiles": 133,
-      "hero3d": true,
-      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
-    },
-    "516": {
-      "venue": "Circuito de Navarra",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/circuito-de-navarra.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "f656428e641d240d",
-      "corners": 8,
-      "provider": "es-pnoa",
-      "live_tiles": 61,
-      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
-    },
-    "517": {
-      "venue": "Circuito de Navarra",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/circuito-de-navarra.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "f656428e641d240d",
-      "corners": 6,
-      "provider": "es-pnoa",
-      "live_tiles": 33,
-      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
-    },
-    "192": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "daytona",
       "venue": "Daytona International Speedway",
-      "corners": 12,
-      "provider": "fl-volusia-2024",
-      "live_tiles": 957,
-      "hero3d": true,
-      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
-      "version": "daytona-v2-20260902",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/daytona-v2-20260902/daytona.zip",
-      "sha256": "e89d3e6e9893b794",
-      "size_bytes": 139890030
+      "version": "daytona-v3-19eb54c4b832",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/daytona-v3-19eb54c4b832/daytona.zip",
+      "size_bytes": 78721585,
+      "sha256": "f154ba206fe73b5e55939571f88944c0e8c8848870a899c060db7ae14ada54f7",
+      "layouts": [
+        26,
+        27,
+        28,
+        29,
+        191,
+        192,
+        193,
+        194,
+        381
+      ]
     },
-    "319": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "detroit-belle-isle",
       "venue": "Detroit Grand Prix at Belle Isle",
-      "corners": 14,
-      "provider": "naip",
-      "live_tiles": 98,
-      "hero3d": false,
-      "attribution": "USDA Farm Service Agency / USGS — public domain",
-      "version": "0.10.28",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.28/detroit-belle-isle-v0.10.28.zip",
-      "sha256": "7be41226a983e30d",
-      "size_bytes": 11851561
+      "version": "detroit-belle-isle-v3-133280f92e88",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/detroit-belle-isle-v3-133280f92e88/detroit-belle-isle.zip",
+      "size_bytes": 10517853,
+      "sha256": "710e647ea2ca0e62053c7c045f53148d1131064d7c54388ddf79790765f76d30",
+      "layouts": [
+        319
+      ]
     },
-    "444": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "donington-park",
+      "venue": "Donington Park Racing Circuit",
+      "version": "donington-park-v3-5be00703e3e2",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/donington-park-v3-5be00703e3e2/donington-park.zip",
+      "size_bytes": 3864570,
+      "sha256": "5e95097a52952ffff70db930cb6c57e1e67df41153eaff94813278c2816dce19",
+      "layouts": [
+        233,
+        234
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "fuji",
       "venue": "Fuji International Speedway",
-      "corners": 16,
-      "provider": "jp-virtual-shizuoka-fuji",
-      "live_tiles": 870,
-      "hero3d": true,
-      "attribution": "VIRTUAL SHIZUOKA 静岡県 点群データ (CC BY 4.0) を加工して作成",
-      "version": "fuji-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/fuji-v2-20260905/fuji.zip",
-      "sha256": "08c8117369c991e1",
-      "size_bytes": 192122748
+      "version": "fuji-v3-50bc0844194c",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/fuji-v3-50bc0844194c/fuji.zip",
+      "size_bytes": 169139112,
+      "sha256": "222f7a8701a6a8aa819e2cd8112726772b4fcb13605fa7bbb0c2b42dbec9966f",
+      "layouts": [
+        444,
+        445
+      ]
     },
-    "445": {
-      "venue": "Fuji International Speedway",
-      "corners": 14,
-      "provider": "jp-virtual-shizuoka-fuji",
-      "live_tiles": 870,
-      "hero3d": true,
-      "attribution": "VIRTUAL SHIZUOKA 静岡県 点群データ (CC BY 4.0) を加工して作成",
-      "version": "fuji-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/fuji-v2-20260905/fuji.zip",
-      "sha256": "08c8117369c991e1",
-      "size_bytes": 192122748
+    {
+      "schema_version": 3,
+      "physical_venue_key": "gateway",
+      "venue": "World Wide Technology Raceway",
+      "version": "gateway-v3-82401d725e2d",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/gateway-v3-82401d725e2d/gateway.zip",
+      "size_bytes": 3592701,
+      "sha256": "876575c0daf2a0b42e0263c7af8de9f600321d1d5c7af2a8f68e5260daa2c34a",
+      "layouts": [
+        238,
+        560
+      ]
     },
-    "390": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "hockenheimring",
       "venue": "Hockenheimring Baden-Württemberg",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-28/hockenheimring-baden-w-rttemberg.zip",
-      "version": "imagery-v2-catalog-28",
-      "sha256": "8201d282b78fc88a",
-      "corners": 16,
-      "provider": "de-bw",
-      "live_tiles": 187,
-      "hero3d": true,
-      "attribution": "© LGL-BW, dl-de/by-2-0"
+      "version": "hockenheimring-v3-2d2b1569d6a0",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/hockenheimring-v3-2d2b1569d6a0/hockenheimring.zip",
+      "size_bytes": 54769358,
+      "sha256": "9ee7a6e4f76a85aefdd3c358c50fd4a408aebb92e04e3d8c137942c0bab5837a",
+      "layouts": [
+        390,
+        391,
+        395
+      ]
     },
-    "391": {
-      "venue": "Hockenheimring Baden-Württemberg",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-28/hockenheimring-baden-w-rttemberg.zip",
-      "version": "imagery-v2-catalog-28",
-      "sha256": "8201d282b78fc88a",
-      "corners": 15,
-      "provider": "de-bw",
-      "live_tiles": 144,
-      "hero3d": true,
-      "attribution": "© LGL-BW, dl-de/by-2-0"
-    },
-    "395": {
-      "venue": "Hockenheimring Baden-Württemberg",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-28/hockenheimring-baden-w-rttemberg.zip",
-      "version": "imagery-v2-catalog-28",
-      "sha256": "8201d282b78fc88a",
-      "corners": 12,
-      "provider": "de-bw",
-      "live_tiles": 188,
-      "hero3d": true,
-      "attribution": "© LGL-BW, dl-de/by-2-0"
-    },
-    "22": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "homestead-miami",
       "venue": "Homestead Miami Speedway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-29/homestead-miami-speedway.zip",
-      "version": "imagery-v2-catalog-29",
-      "sha256": "ed34775133d3e742",
-      "corners": 10,
-      "provider": "fl-miami-dade-woolpert-2025",
-      "live_tiles": 620,
-      "hero3d": true,
-      "attribution": "Miami-Dade County GIS — Woolpert 2025 Aerial Imagery"
+      "version": "homestead-miami-v3-04268256d340",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/homestead-miami-v3-04268256d340/homestead-miami.zip",
+      "size_bytes": 62169913,
+      "sha256": "1dc3e15cd0f2cc4af6b21c182e10d62b6aa33404518723f12f67ab5c72b9dfc4",
+      "layouts": [
+        22,
+        362
+      ]
     },
-    "448": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "hungaroring",
+      "venue": "Hungaroring",
+      "version": "hungaroring-v3-560207dba240",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/hungaroring-v3-560207dba240/hungaroring.zip",
+      "size_bytes": 24849939,
+      "sha256": "d4e6a5d0d1430908b5e517d1715a54b0b72d75c476a3ce02b46e4c1aba444450",
+      "layouts": [
+        413
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "imola",
+      "venue": "Autodromo Internazionale Enzo e Dino Ferrari",
+      "version": "imola-v3-d4bcd493c731",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imola-v3-d4bcd493c731/imola.zip",
+      "size_bytes": 31383324,
+      "sha256": "8bb50518839fea95f1421396b36b87622d01ecb3c87b32bc1a2af550cad7ce97",
+      "layouts": [
+        266
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "indianapolis",
       "venue": "Indianapolis Motor Speedway",
-      "corners": 13,
-      "provider": "in-gio-current",
-      "live_tiles": 612,
-      "hero3d": true,
-      "attribution": "Indiana Geographic Information Office — Statewide Orthoimagery (CC0)",
-      "version": "indianapolis-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/indianapolis-v2-20260911/indianapolis.zip",
-      "sha256": "13dd9c0c358a3fc4",
-      "size_bytes": 50978833
+      "version": "indianapolis-v3-3be59ce5689e",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/indianapolis-v3-3be59ce5689e/indianapolis.zip",
+      "size_bytes": 42887684,
+      "sha256": "028dac8885a823ecc92660807e31abccbd055bd8869b1df051207dd4c2d052b0",
+      "layouts": [
+        448,
+        453,
+        522
+      ]
     },
-    "352": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "interlagos",
+      "venue": "Autódromo José Carlos Pace",
+      "version": "interlagos-v3-4c7f46be5a29",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/interlagos-v3-4c7f46be5a29/interlagos.zip",
+      "size_bytes": 37974889,
+      "sha256": "165658b050203685e0de1bbebfa658c3288151d10e0f329f05488c23d38acb94",
+      "layouts": [
+        212
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "jerez",
+      "venue": "Circuito de Jerez - Ángel Nieto",
+      "version": "jerez-v3-cbefedb57014",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/jerez-v3-cbefedb57014/jerez.zip",
+      "size_bytes": 10390628,
+      "sha256": "80336750a16315381dd7f0dfed765c2544a307aaf2814ba66c3d7ed9d4d151c8",
+      "layouts": [
+        473
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "knockhill",
+      "venue": "Knockhill Racing Circuit",
+      "version": "knockhill-v3-5c64e9dc4702",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/knockhill-v3-5c64e9dc4702/knockhill.zip",
+      "size_bytes": 1369096,
+      "sha256": "dc773a4f9c740bac0d4c0317e6f11fb6202de3464d5f21a913e7cebb0ce4f2a6",
+      "layouts": [
+        423
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "laguna-seca",
+      "venue": "WeatherTech Raceway Laguna Seca",
+      "version": "laguna-seca-v3-6865389dbfbd",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/laguna-seca-v3-6865389dbfbd/laguna-seca.zip",
+      "size_bytes": 38625370,
+      "sha256": "6c657c4cb8ddd035fa349133f4d86b30097d4ef586b8448982b5d8d52470a796",
+      "layouts": [
+        47,
+        586
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "le-mans",
+      "venue": "Circuit des 24 Heures du Mans",
+      "version": "le-mans-v3-9dfd8b52875f",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/le-mans-v3-9dfd8b52875f/le-mans.zip",
+      "size_bytes": 62797705,
+      "sha256": "a488985217679db29423159c2ab634d4f55e7c6f391f8e0593a4052f873c141f",
+      "layouts": [
+        268,
+        269
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "ledenon",
+      "venue": "Circuit de Ledenon",
+      "version": "ledenon-v3-718d66841eae",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/ledenon-v3-718d66841eae/ledenon.zip",
+      "size_bytes": 8741715,
+      "sha256": "7bcfe2303b166e26fc01d93cc73743ab6fdf3f7f2718ff754fc520618b47f35d",
+      "layouts": [
+        489
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "lime-rock",
       "venue": "Lime Rock Park",
-      "corners": 7,
-      "provider": "ct-cteco",
-      "live_tiles": 273,
-      "hero3d": true,
-      "attribution": "Connecticut ECO (UConn CLEAR & CT DEEP) — 2023 statewide orthoimagery",
-      "version": "lime-rock-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/lime-rock-v2-20260905/lime-rock.zip",
-      "sha256": "59b09556986e7b5b",
-      "size_bytes": 74534313
+      "version": "lime-rock-v3-08667bfddaf7",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/lime-rock-v3-08667bfddaf7/lime-rock.zip",
+      "size_bytes": 36491464,
+      "sha256": "01c20f70a3ff6254dddc594ba7dcb64f5f193afc6cc033b84647bf6851235084",
+      "layouts": [
+        352,
+        353,
+        354,
+        355
+      ]
     },
-    "353": {
-      "venue": "Lime Rock Park",
-      "corners": 9,
-      "provider": "ct-cteco",
-      "live_tiles": 273,
-      "hero3d": true,
-      "attribution": "Connecticut ECO (UConn CLEAR & CT DEEP) — 2023 statewide orthoimagery",
-      "version": "lime-rock-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/lime-rock-v2-20260905/lime-rock.zip",
-      "sha256": "59b09556986e7b5b",
-      "size_bytes": 74534313
-    },
-    "354": {
-      "venue": "Lime Rock Park",
-      "corners": 11,
-      "provider": "ct-cteco",
-      "live_tiles": 273,
-      "hero3d": true,
-      "attribution": "Connecticut ECO (UConn CLEAR & CT DEEP) — 2023 statewide orthoimagery",
-      "version": "lime-rock-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/lime-rock-v2-20260905/lime-rock.zip",
-      "sha256": "59b09556986e7b5b",
-      "size_bytes": 74534313
-    },
-    "355": {
-      "venue": "Lime Rock Park",
-      "corners": 9,
-      "provider": "ct-cteco",
-      "live_tiles": 273,
-      "hero3d": true,
-      "attribution": "Connecticut ECO (UConn CLEAR & CT DEEP) — 2023 statewide orthoimagery",
-      "version": "lime-rock-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/lime-rock-v2-20260905/lime-rock.zip",
-      "sha256": "59b09556986e7b5b",
-      "size_bytes": 74534313
-    },
-    "179": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "long-beach",
       "venue": "Long Beach Street Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-36/long-beach-street-circuit.zip",
-      "version": "imagery-v2-catalog-36",
-      "sha256": "48d0845f4bcaa55f",
-      "corners": 11,
-      "provider": "us-noaa-long-beach-2025-local",
-      "live_tiles": 60,
-      "hero3d": true,
-      "attribution": "NOAA National Geodetic Survey, 2025"
+      "version": "long-beach-v3-b1f4c4b565f1",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/long-beach-v3-b1f4c4b565f1/long-beach.zip",
+      "size_bytes": 5765527,
+      "sha256": "e77bbde6cbb739f853a8e414a26b315d5d7939ac2bac87b8de83902d2803150b",
+      "layouts": [
+        179
+      ]
     },
-    "539": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "magny-cours",
+      "venue": "Circuit de Nevers Magny-Cours",
+      "version": "magny-cours-v3-a1d91af8b452",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/magny-cours-v3-a1d91af8b452/magny-cours.zip",
+      "size_bytes": 14004612,
+      "sha256": "4ad1ceeacd231681a6e72c17b6096d2e6cf0c837c1cc274b69f9b848d1f09501",
+      "layouts": [
+        463
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "miami-international-autodrome",
       "venue": "Miami International Autodrome",
-      "corners": 19,
-      "provider": "fl-miami-dade-woolpert-2025",
-      "live_tiles": 490,
-      "hero3d": false,
-      "attribution": "Miami-Dade County GIS — Woolpert 2025 Aerial Imagery",
-      "version": "0.10.31",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.31/miami-international-autodrome-v0.10.31.zip",
-      "sha256": "bfb1e7ff0aa81c1d",
-      "size_bytes": 73373024
+      "version": "miami-international-autodrome-v3-08106d015b1d",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/miami-international-autodrome-v3-08106d015b1d/miami-international-autodrome.zip",
+      "size_bytes": 58118135,
+      "sha256": "7b12ee4d37cc3d5f987f2bf7b00e74e6389c0caab44a6d6900198f46676cd0ac",
+      "layouts": [
+        539
+      ]
     },
-    "153": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "mid-ohio",
       "venue": "Mid-Ohio Sports Car Course",
-      "corners": 13,
-      "provider": "oh-morrow-2021",
-      "live_tiles": 432,
-      "hero3d": true,
-      "attribution": "Morrow County GIS — 2021 Aerial Imagery",
-      "version": "mid-ohio-v2-20260902",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/mid-ohio-v2-20260902/mid-ohio.zip",
-      "sha256": "0e61e4955874a8b7",
-      "size_bytes": 40999549
+      "version": "mid-ohio-v3-96ee63267242",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/mid-ohio-v3-96ee63267242/mid-ohio.zip",
+      "size_bytes": 32888982,
+      "sha256": "6dcb7932d33757a992287e29792733259a42e61a7dd0f72947f49795c0e4cc2c",
+      "layouts": [
+        153
+      ]
     },
-    "501": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "milwaukee-mile",
+      "venue": "Milwaukee Mile",
+      "version": "milwaukee-mile-v3-451e3304f9dc",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/milwaukee-mile-v3-451e3304f9dc/milwaukee-mile.zip",
+      "size_bytes": 12919959,
+      "sha256": "646b3e37abb9c5180eafd883e56c9665125daf1a7c7eada14cd2e8deb5cae5bd",
+      "layouts": [
+        94
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "misano",
       "venue": "Misano World Circuit Marco Simoncelli",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-32/misano-world-circuit-marco-simoncelli.zip",
-      "version": "imagery-v2-catalog-32",
-      "sha256": "9c888a561f58f353",
-      "corners": 16,
-      "provider": "it-rer",
-      "live_tiles": 147,
-      "hero3d": true,
-      "attribution": "© Regione Emilia-Romagna — RER 2023-24 (CC BY 4.0)"
+      "version": "misano-v3-6970fb12b94b",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/misano-v3-6970fb12b94b/misano.zip",
+      "size_bytes": 34781496,
+      "sha256": "4a37d55cb1fd62287087d7d1865350c38ad2f69b9e91cf5459a4ce5394a791c8",
+      "layouts": [
+        501,
+        503,
+        505
+      ]
     },
-    "503": {
-      "venue": "Misano World Circuit Marco Simoncelli",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-32/misano-world-circuit-marco-simoncelli.zip",
-      "version": "imagery-v2-catalog-32",
-      "sha256": "9c888a561f58f353",
-      "corners": 11,
-      "provider": "it-rer",
-      "live_tiles": 147,
-      "hero3d": true,
-      "attribution": "© Regione Emilia-Romagna — RER 2023-24 (CC BY 4.0)"
+    {
+      "schema_version": 3,
+      "physical_venue_key": "montreal",
+      "venue": "Circuit Gilles Villeneuve",
+      "version": "montreal-v3-37509055d15e",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/montreal-v3-37509055d15e/montreal.zip",
+      "size_bytes": 62631486,
+      "sha256": "35aa0cf5880b3a27464d3d8965aa69802f6fe6fd6d6b666872129abd97044c36",
+      "layouts": [
+        218
+      ]
     },
-    "505": {
-      "venue": "Misano World Circuit Marco Simoncelli",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-32/misano-world-circuit-marco-simoncelli.zip",
-      "version": "imagery-v2-catalog-32",
-      "sha256": "9c888a561f58f353",
-      "corners": 16,
-      "provider": "it-rer",
-      "live_tiles": 143,
-      "hero3d": true,
-      "attribution": "© Regione Emilia-Romagna — RER 2023-24 (CC BY 4.0)"
+    {
+      "schema_version": 3,
+      "physical_venue_key": "monza",
+      "venue": "Autodromo Nazionale Monza",
+      "version": "monza-v3-43614ec2ba4b",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/monza-v3-43614ec2ba4b/monza.zip",
+      "size_bytes": 37859961,
+      "sha256": "b9b64e35989215148d7bbe02fea2f7df051cd44e46006b59c998ec8ecc6f7119",
+      "layouts": [
+        239,
+        241,
+        242,
+        244
+      ]
     },
-    "195": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "motegi",
       "venue": "Mobility Resort Motegi",
-      "corners": 14,
-      "provider": "jp-gsi",
-      "live_tiles": 154,
-      "hero3d": true,
-      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
-      "version": "motegi-native-genai-v1-20260826",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/motegi-native-genai-v1-20260826/imagery-motegi-native-genai-v1-20260826.zip",
-      "sha256": "cbaaf19338e74952",
-      "size_bytes": 50649371
+      "version": "motegi-v3-40e313f64785",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/motegi-v3-40e313f64785/motegi.zip",
+      "size_bytes": 13101619,
+      "sha256": "b4ba55a6734f006824d05c1485e642add5570206c01306bb30f55a549a00d336",
+      "layouts": [
+        195,
+        196,
+        197,
+        198
+      ]
     },
-    "475": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "motorland-aragon",
       "venue": "MotorLand Aragón",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-10/motorland-arag-n.zip",
-      "version": "imagery-v2-catalog-10",
-      "sha256": "9edd43f800d12686",
-      "corners": 18,
-      "provider": "es-pnoa",
-      "live_tiles": 117,
-      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)"
+      "version": "motorland-aragon-v3-1c356f7e3564",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/motorland-aragon-v3-1c356f7e3564/motorland-aragon.zip",
+      "size_bytes": 6925415,
+      "sha256": "aadffce0cfedba6505d3c6f18d449cfecdde54de77f484522ebee9b7839e16ce",
+      "layouts": [
+        475,
+        476
+      ]
     },
-    "449": {
-      "venue": "Motorsport Arena Oschersleben",
-      "corners": 14,
-      "provider": "de-st",
-      "live_tiles": 288,
-      "hero3d": true,
-      "attribution": "© LVermGeo Sachsen-Anhalt, dl-de/by-2-0 [Daten bearbeitet]",
-      "version": "oschersleben-v2-20260905-2",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/oschersleben-v2-20260905-2/oschersleben.zip",
-      "sha256": "6102f49a4bac4331",
-      "size_bytes": 30504098
-    },
-    "455": {
-      "venue": "Motorsport Arena Oschersleben",
-      "corners": 8,
-      "provider": "de-st",
-      "live_tiles": 288,
-      "hero3d": true,
-      "attribution": "© LVermGeo Sachsen-Anhalt, dl-de/by-2-0 [Daten bearbeitet]",
-      "version": "oschersleben-v2-20260905-2",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/oschersleben-v2-20260905-2/oschersleben.zip",
-      "sha256": "6102f49a4bac4331",
-      "size_bytes": 30504098
-    },
-    "219": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "mount-panorama",
       "venue": "Mount Panorama Circuit",
-      "corners": 23,
-      "provider": "au-nsw",
-      "live_tiles": 1550,
-      "hero3d": true,
-      "attribution": "(c) State of New South Wales (Spatial Services) - CC-BY 3.0 AU",
-      "version": "mount-panorama-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/mount-panorama-v2-20260905/mount-panorama.zip",
-      "sha256": "36e529da161b3aba",
-      "size_bytes": 171485139
+      "version": "mount-panorama-v3-6bcf5ebfa5f9",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/mount-panorama-v3-6bcf5ebfa5f9/mount-panorama.zip",
+      "size_bytes": 150617375,
+      "sha256": "ae224321cdfb10d2693f0610c2c69c7e00c8cc44b2b4e6aa303833170a341930",
+      "layouts": [
+        219
+      ]
     },
-    "252": {
-      "venue": "Nürburgring Combined",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-17/n-rburgring-combined.zip",
-      "version": "imagery-v2-catalog-17",
-      "sha256": "e1f0ef7fce2301ee",
-      "corners": 0,
-      "provider": "de-rlp",
-      "live_tiles": 663,
-      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]"
+    {
+      "schema_version": 3,
+      "physical_venue_key": "mugello",
+      "venue": "Autodromo Internazionale del Mugello",
+      "version": "mugello-v3-31b2512df96b",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/mugello-v3-31b2512df96b/mugello.zip",
+      "size_bytes": 26817065,
+      "sha256": "9227dbfb095f64ef2dc9a8c85aa0920d6e1d45902840ed723fab643b96baef9a",
+      "layouts": [
+        498,
+        499
+      ]
     },
-    "262": {
-      "venue": "Nürburgring Combined",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-17/n-rburgring-combined.zip",
-      "version": "imagery-v2-catalog-17",
-      "sha256": "e1f0ef7fce2301ee",
-      "corners": 0,
-      "provider": "de-rlp",
-      "live_tiles": 642,
-      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]"
+    {
+      "schema_version": 3,
+      "physical_venue_key": "navarra",
+      "venue": "Circuito de Navarra",
+      "version": "navarra-v3-5f1623aa8bd8",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/navarra-v3-5f1623aa8bd8/navarra.zip",
+      "size_bytes": 21587970,
+      "sha256": "c2c7b13dc5e00d9dde5ac8c30dc843a119d62cf1dea0d98d995e0a8255859c75",
+      "layouts": [
+        515,
+        516,
+        517
+      ]
     },
-    "250": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "new-jersey-motorsports-park",
+      "venue": "New Jersey Motorsports Park",
+      "version": "new-jersey-motorsports-park-v3-0e2545219634",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/new-jersey-motorsports-park-v3-0e2545219634/new-jersey-motorsports-park.zip",
+      "size_bytes": 11846297,
+      "sha256": "ba58f69fb24a808fc18d8308f88c48f749cf4db914563fcd257ad7b60c3d8f9a",
+      "layouts": [
+        220
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "nurburgring",
       "venue": "Nurburgring Grand-Prix-Strecke",
-      "corners": 16,
-      "provider": "de-rlp",
-      "live_tiles": 382,
-      "hero3d": true,
-      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]",
-      "version": "nurburgring-gp-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/nurburgring-gp-v2-20260905/nurburgring-gp.zip",
-      "sha256": "9765ca05d2d6d68b",
-      "size_bytes": 53298267
+      "version": "nurburgring-v3-a1a1e5028f41",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/nurburgring-v3-a1a1e5028f41/nurburgring.zip",
+      "size_bytes": 173194165,
+      "sha256": "728b97c81fb88e771b2ffaf3354a99f6ec704428640c7330b688ae0096955b66",
+      "layouts": [
+        249,
+        250,
+        252,
+        255,
+        259,
+        260,
+        262
+      ]
     },
-    "255": {
-      "venue": "Nurburgring Grand-Prix-Strecke",
-      "corners": 16,
-      "provider": "de-rlp",
-      "live_tiles": 380,
-      "hero3d": true,
-      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]",
-      "version": "nurburgring-gp-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/nurburgring-gp-v2-20260905/nurburgring-gp.zip",
-      "sha256": "9765ca05d2d6d68b",
-      "size_bytes": 53298267
-    },
-    "259": {
-      "venue": "Nurburgring Grand-Prix-Strecke",
-      "corners": 11,
-      "provider": "de-rlp",
-      "live_tiles": 284,
-      "hero3d": true,
-      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]",
-      "version": "nurburgring-gp-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/nurburgring-gp-v2-20260905/nurburgring-gp.zip",
-      "sha256": "9765ca05d2d6d68b",
-      "size_bytes": 53298267
-    },
-    "249": {
-      "venue": "Nürburgring Nordschleife",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/n-rburgring-nordschleife.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "1a9d4b5592a6db95",
-      "corners": 0,
-      "provider": "de-rlp",
-      "live_tiles": 594,
-      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]"
-    },
-    "166": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "okayama",
       "venue": "Okayama International Circuit",
-      "corners": 11,
-      "provider": "jp-okayama-infrabox",
-      "live_tiles": 324,
-      "hero3d": true,
-      "attribution": "おかやまインフラボックス 岡山県 3次元点群データ オルソ画像 を加工して作成",
-      "version": "okayama-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/okayama-v2-20260905/okayama.zip",
-      "sha256": "cf0790901ab7acb3",
-      "size_bytes": 51222156
+      "version": "okayama-v3-4c7d2afb856a",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/okayama-v3-4c7d2afb856a/okayama.zip",
+      "size_bytes": 40845479,
+      "sha256": "02696b02f0d63cceaa7077e90f957d4c3e669184564b6da1216d16fd6a54a6b1",
+      "layouts": [
+        166,
+        167
+      ]
     },
-    "167": {
-      "venue": "Okayama International Circuit",
-      "corners": 7,
-      "provider": "jp-okayama-infrabox",
-      "live_tiles": 112,
-      "hero3d": true,
-      "attribution": "おかやまインフラボックス 岡山県 3次元点群データ オルソ画像 を加工して作成",
-      "version": "okayama-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/okayama-v2-20260905/okayama.zip",
-      "sha256": "cf0790901ab7acb3",
-      "size_bytes": 51222156
+    {
+      "schema_version": 3,
+      "physical_venue_key": "oran-park",
+      "venue": "Oran Park Raceway",
+      "version": "oran-park-v3-e4c92a3541e9",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/oran-park-v3-e4c92a3541e9/oran-park.zip",
+      "size_bytes": 74375338,
+      "sha256": "dcf445e64bbd0aa25d67fcce3094470abf05be57da94c0eca7a7941827533327",
+      "layouts": [
+        202,
+        207,
+        208,
+        209,
+        210,
+        211
+      ]
     },
-    "536": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "oschersleben",
+      "venue": "Motorsport Arena Oschersleben",
+      "version": "oschersleben-v3-70b682bc9177",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/oschersleben-v3-70b682bc9177/oschersleben.zip",
+      "size_bytes": 18138481,
+      "sha256": "6971633436604bfb1ce61ecab06651caeca262566703b8f92c76878062e48dfb",
+      "layouts": [
+        449,
+        454,
+        455,
+        456
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "oulton-park",
+      "venue": "Oulton Park Circuit",
+      "version": "oulton-park-v3-30a1dd185142",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/oulton-park-v3-30a1dd185142/oulton-park.zip",
+      "size_bytes": 2417792,
+      "sha256": "b19652c85365ad326df0317a653f7a605e83fa0ccc32053ac0de168118aa3464",
+      "layouts": [
+        180,
+        181,
+        184,
+        185,
+        187
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "portland",
       "venue": "Portland International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-26/portland-international-raceway.zip",
-      "version": "imagery-v2-catalog-26",
-      "sha256": "a76ac450cf34d374",
-      "corners": 12,
-      "provider": "naip",
-      "live_tiles": 68,
-      "attribution": "USDA Farm Service Agency / USGS — public domain"
+      "version": "portland-v3-36444bf6dacd",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/portland-v3-36444bf6dacd/portland.zip",
+      "size_bytes": 12035936,
+      "sha256": "e017d5a729748b73903f5442deac3b664cebb96c29d2c0890eff36710e187c31",
+      "layouts": [
+        536,
+        537
+      ]
     },
-    "537": {
-      "venue": "Portland International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/portland-international-raceway.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "c1035539a8964305",
-      "corners": 0,
-      "provider": "or-osip",
-      "live_tiles": 59,
-      "attribution": "Oregon OSIP 2018"
-    },
-    "403": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "red-bull-ring",
       "venue": "Red Bull Ring",
-      "corners": 10,
-      "provider": "at-basemap",
-      "live_tiles": 522,
-      "hero3d": true,
-      "attribution": "Datenquelle: basemap.at (CC BY 4.0)",
-      "version": "red-bull-ring-v2-20260902",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/red-bull-ring-v2-20260902/red-bull-ring.zip",
-      "sha256": "b702dd3b17104dd4",
-      "size_bytes": 49480588
+      "version": "red-bull-ring-v3-f60bab70b438",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/red-bull-ring-v3-f60bab70b438/red-bull-ring.zip",
+      "size_bytes": 37192539,
+      "sha256": "91088765c5b6d63ad5cb10b577a1d95cb6712cddee031c1d5daa31c670f81e67",
+      "layouts": [
+        403,
+        404,
+        407
+      ]
     },
-    "404": {
-      "venue": "Red Bull Ring",
-      "corners": 6,
-      "provider": "at-basemap",
-      "live_tiles": 522,
-      "hero3d": true,
-      "attribution": "Datenquelle: basemap.at (CC BY 4.0)",
-      "version": "red-bull-ring-v2-20260902",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/red-bull-ring-v2-20260902/red-bull-ring.zip",
-      "sha256": "b702dd3b17104dd4",
-      "size_bytes": 49480588
-    },
-    "18": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "road-america",
       "venue": "Road America",
-      "corners": 14,
-      "provider": "wi-dnr",
-      "live_tiles": 910,
-      "hero3d": true,
-      "attribution": "Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery",
-      "version": "road-america-v2-20260905-4",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-america-v2-20260905-4/road-america.zip",
-      "sha256": "617c671a4aa9709b",
-      "size_bytes": 123928211
+      "version": "road-america-v3-e28a49602df5",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-america-v3-e28a49602df5/road-america.zip",
+      "size_bytes": 96862546,
+      "sha256": "6c8782a643de7d01d6bce40520ee43deb45dc764dd510733dc179d87ab314821",
+      "layouts": [
+        18,
+        50,
+        596
+      ]
     },
-    "50": {
-      "venue": "Road America",
-      "corners": 14,
-      "provider": "wi-dnr",
-      "live_tiles": 910,
-      "hero3d": true,
-      "attribution": "Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery",
-      "version": "road-america-v2-20260905-4",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-america-v2-20260905-4/road-america.zip",
-      "sha256": "617c671a4aa9709b",
-      "size_bytes": 123928211
-    },
-    "127": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "road-atlanta",
       "venue": "Road Atlanta",
-      "corners": 11,
-      "provider": "naip",
-      "live_tiles": 666,
-      "hero3d": true,
-      "attribution": "USDA Farm Service Agency / USGS — public domain",
-      "version": "0.10.43",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.43/road-atlanta-0.10.43.zip",
-      "sha256": "0b42481afb5b6da1",
-      "size_bytes": 179736818
+      "version": "road-atlanta-v3-2a598c0092f8",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-atlanta-v3-2a598c0092f8/road-atlanta.zip",
+      "size_bytes": 160786531,
+      "sha256": "a122410bfce7e2812b0a751dc06d0df52221608ba378d42a37a63a189f8db510",
+      "layouts": [
+        126,
+        127,
+        128
+      ]
     },
-    "128": {
-      "venue": "Road Atlanta",
-      "corners": 10,
-      "provider": "naip",
-      "live_tiles": 432,
-      "hero3d": true,
-      "attribution": "USDA Farm Service Agency / USGS — public domain",
-      "version": "0.10.43",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.43/road-atlanta-0.10.43.zip",
-      "sha256": "0b42481afb5b6da1",
-      "size_bytes": 179736818
-    },
-    "521": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "sachsenring",
       "venue": "Sachsenring",
-      "corners": 13,
-      "provider": "de-sn",
-      "live_tiles": 120,
-      "hero3d": false,
-      "attribution": "© GeoSN (Staatsbetrieb Geobasisinformation und Vermessung Sachsen), dl-de/by-2-0",
-      "version": "0.10.29",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.29/sachsenring-v0.10.29.zip",
-      "sha256": "8114d2cc9d8f365b",
-      "size_bytes": 17502248
+      "version": "sachsenring-v3-bff9bf24864b",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/sachsenring-v3-bff9bf24864b/sachsenring.zip",
+      "size_bytes": 14884049,
+      "sha256": "d53f401ec938f4ff1189fddfef643a9767224bb37bffa0b81dbf4ce13c3be920",
+      "layouts": [
+        521
+      ]
     },
-    "95": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "sebring",
       "venue": "Sebring International Raceway",
-      "corners": 17,
-      "provider": "fl-fdot-east-2020",
-      "live_tiles": 644,
-      "hero3d": false,
-      "attribution": "FDOT — Florida Statewide Digital Orthoimagery (2020)",
-      "version": "0.10.31",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.31/sebring-v0.10.31.zip",
-      "sha256": "62fe6037d260ac21",
-      "size_bytes": 100549066
+      "version": "sebring-v3-634be8da2e3a",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/sebring-v3-634be8da2e3a/sebring.zip",
+      "size_bytes": 83844890,
+      "sha256": "028754a0fd659c0c884728d5b66b04a6ca96aa663c45229df20e431f650b65ad",
+      "layouts": [
+        95,
+        96,
+        97
+      ]
     },
-    "96": {
-      "venue": "Sebring International Raceway",
-      "corners": 9,
-      "provider": "fl-fdot-east-2020",
-      "live_tiles": 351,
-      "hero3d": false,
-      "attribution": "FDOT — Florida Statewide Digital Orthoimagery (2020)",
-      "version": "0.10.31",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.31/sebring-v0.10.31.zip",
-      "sha256": "62fe6037d260ac21",
-      "size_bytes": 100549066
+    {
+      "schema_version": 3,
+      "physical_venue_key": "silverstone",
+      "venue": "Silverstone Circuit",
+      "version": "silverstone-v3-c8d1e7e7f4a7",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/silverstone-v3-c8d1e7e7f4a7/silverstone.zip",
+      "size_bytes": 82688276,
+      "sha256": "9e6395781282e70704e894bf09b436c79542e3b377befe4f8cef273c7840794f",
+      "layouts": [
+        341,
+        342,
+        343
+      ]
     },
-    "97": {
-      "venue": "Sebring International Raceway",
-      "corners": 11,
-      "provider": "fl-fdot-east-2020",
-      "live_tiles": 288,
-      "hero3d": false,
-      "attribution": "FDOT — Florida Statewide Digital Orthoimagery (2020)",
-      "version": "0.10.31",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.31/sebring-v0.10.31.zip",
-      "sha256": "62fe6037d260ac21",
-      "size_bytes": 100549066
+    {
+      "schema_version": 3,
+      "physical_venue_key": "snetterton",
+      "venue": "Snetterton Circuit",
+      "version": "snetterton-v3-23b3158e747f",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/snetterton-v3-23b3158e747f/snetterton.zip",
+      "size_bytes": 1694524,
+      "sha256": "8447766340ddf491e7e26e066f9ccdb089a7be457fe0262d4d14dda8411f7013",
+      "layouts": [
+        297,
+        298,
+        299
+      ]
     },
-    "570": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "sonoma",
       "venue": "Sonoma Raceway",
-      "corners": 18,
-      "provider": "ca-sonoma-eagleview-2025",
-      "live_tiles": 303,
-      "hero3d": true,
-      "attribution": "Sonoma County and EagleView — 2025 orthophotography",
-      "version": "imagery-sonoma-backdrop-continuity-20260826",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-sonoma-backdrop-continuity-20260826/sonoma-raceway-r2.zip",
-      "sha256": "7f3b917159927510",
-      "size_bytes": 22282217
+      "version": "sonoma-v3-985b14d87df9",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/sonoma-v3-985b14d87df9/sonoma.zip",
+      "size_bytes": 18937987,
+      "sha256": "37597749db7ba778e8b3aacca37d789173dd5ba6f6dc6a6a7cb900d4b97aa699",
+      "layouts": [
+        566,
+        570
+      ]
     },
-    "8": {
+    {
+      "schema_version": 3,
+      "physical_venue_key": "spa",
+      "venue": "Circuit de Spa-Francorchamps",
+      "version": "spa-v3-a2c44b0620f1",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v3-a2c44b0620f1/spa.zip",
+      "size_bytes": 115560420,
+      "sha256": "97f4d1263b708ffdff3609c438212e5be0e872939812209eff676d257d3729c6",
+      "layouts": [
+        163,
+        164,
+        165,
+        523,
+        524,
+        525,
+        526
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "st-petersburg",
+      "venue": "St. Petersburg Grand Prix",
+      "version": "st-petersburg-v3-27b9fbda1ac9",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/st-petersburg-v3-27b9fbda1ac9/st-petersburg.zip",
+      "size_bytes": 33069745,
+      "sha256": "05356484efef2386d905e6fc9860541b68b773c1b47c1a7a721f4d8b60a5aa1b",
+      "layouts": [
+        584
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "summit-point",
       "venue": "Summit Point Motorsports Park",
-      "corners": 7,
-      "provider": "wv-wvgistc-jefferson-2025",
+      "version": "summit-point-v3-aa295ae31909",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/summit-point-v3-aa295ae31909/summit-point.zip",
+      "size_bytes": 76676461,
+      "sha256": "4ce45e621eaa5b1a2c7b5bf4f666f6140a8b9edba8e20dd59ac9345ba295868c",
+      "layouts": [
+        8,
+        9,
+        24,
+        142,
+        159
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "suzuka",
+      "venue": "Suzuka International Racing Course",
+      "version": "suzuka-v3-6081e31f5d7a",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/suzuka-v3-6081e31f5d7a/suzuka.zip",
+      "size_bytes": 89228643,
+      "sha256": "bae6e50912513d30095b2f99ae14f028670b42b2ac9ba0a7f9f41335a8bd7f2f",
+      "layouts": [
+        168
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "thruxton",
+      "venue": "Thruxton Circuit",
+      "version": "thruxton-v3-00e29517dd1c",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/thruxton-v3-00e29517dd1c/thruxton.zip",
+      "size_bytes": 1022183,
+      "sha256": "b07c36460c3b54103136a6ab99c1523f2f9a45b3e7db397b754afca7ca4a4284",
+      "layouts": [
+        532
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "tsukuba",
+      "venue": "Tsukuba Circuit",
+      "version": "tsukuba-v3-f74928cd0217",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/tsukuba-v3-f74928cd0217/tsukuba.zip",
+      "size_bytes": 19692514,
+      "sha256": "1235a0d19db35de50f8bc05574a76c4073c0a4a34be2c558e19a0ffc271c3222",
+      "layouts": [
+        324,
+        325,
+        329
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "vir",
+      "venue": "Virginia International Raceway",
+      "version": "vir-v3-b9c48166b0db",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/vir-v3-b9c48166b0db/vir.zip",
+      "size_bytes": 86338140,
+      "sha256": "7a9bbf5c732d074773bdb2d197046886389441e737c879904ca1186db1c45921",
+      "layouts": [
+        465,
+        466,
+        467,
+        468,
+        469
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "watkins-glen",
+      "venue": "Watkins Glen International",
+      "version": "watkins-glen-v3-6124ed30b6a6",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/watkins-glen-v3-6124ed30b6a6/watkins-glen.zip",
+      "size_bytes": 61116560,
+      "sha256": "be6399d5caf6d19d4564888ae019a823d707dffa4733bbb7c2db4a7163988f52",
+      "layouts": [
+        432,
+        433,
+        434,
+        435
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "willow-springs",
+      "venue": "Willow Springs International Raceway",
+      "version": "willow-springs-v3-f9c0291e863d",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/willow-springs-v3-f9c0291e863d/willow-springs.zip",
+      "size_bytes": 4936939,
+      "sha256": "82ab51553399983f8f06eb30bc091781c842784f46c30aa175652a3b68c89501",
+      "layouts": [
+        481
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "zandvoort",
+      "venue": "Circuit Zandvoort",
+      "version": "zandvoort-v3-50c1d80edfe2",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/zandvoort-v3-50c1d80edfe2/zandvoort.zip",
+      "size_bytes": 66969545,
+      "sha256": "638783de256f41d136e38d1cd0ac5737aa057bb642927344c82523fb5c0368d4",
+      "layouts": [
+        147,
+        148,
+        149,
+        150,
+        151,
+        485,
+        486,
+        487,
+        488
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "zolder",
+      "venue": "Circuit Zolder",
+      "version": "zolder-v3-b8b8579c4a01",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/zolder-v3-b8b8579c4a01/zolder.zip",
+      "size_bytes": 23109463,
+      "sha256": "1b8f5a23b57bfec75348d9dbcbc0d031987e22ededf6b1bfffcec4ad195ab20c",
+      "layouts": [
+        199,
+        200
+      ]
+    }
+  ],
+  "layouts": {
+    "8": {
+      "physical_venue_key": "summit-point",
+      "corner_views": 7,
       "live_tiles": 120,
-      "hero3d": true,
+      "provider": "wv-wvgistc-jefferson-2025",
       "attribution": "WVGISTC and Jefferson County — 2025 leaf-off imagery",
-      "version": "0.10.35",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.35/summit-point-exact010-seasonal-v2-hero3d-repair-v0.10.35.zip",
-      "sha256": "4c34ee13b878e99d",
-      "size_bytes": 86321194
+      "hero3d": true
     },
     "9": {
-      "venue": "Summit Point Motorsports Park",
-      "corners": 10,
+      "physical_venue_key": "summit-point",
+      "corner_views": 10,
+      "live_tiles": 432,
       "provider": "wv-wvgistc-jefferson-2025",
-      "live_tiles": 432,
-      "hero3d": true,
       "attribution": "WVGISTC and Jefferson County — 2025 leaf-off imagery",
-      "version": "0.10.35",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.35/summit-point-exact010-seasonal-v2-hero3d-repair-v0.10.35.zip",
-      "sha256": "4c34ee13b878e99d",
-      "size_bytes": 86321194
-    },
-    "168": {
-      "venue": "Suzuka International Racing Course",
-      "corners": 17,
-      "provider": "jp-gsi",
-      "live_tiles": 1080,
-      "hero3d": true,
-      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
-      "version": "suzuka-v2-20260906-2",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/suzuka-v2-20260906-2/suzuka.zip",
-      "sha256": "241bd8d89eb005ab",
-      "size_bytes": 101338010
-    },
-    "532": {
-      "venue": "Thruxton Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-04/thruxton-circuit.zip",
-      "version": "imagery-v2-catalog-04",
-      "sha256": "d25eef96173ea273",
-      "corners": 12,
-      "provider": "ea-vap",
-      "live_tiles": 4,
-      "attribution": "© Environment Agency copyright and/or database right — Open Government Licence v3.0"
-    },
-    "324": {
-      "venue": "Tsukuba Circuit",
-      "corners": 9,
-      "provider": "jp-gsi",
-      "live_tiles": 121,
-      "hero3d": true,
-      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
-      "version": "tsukuba-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/tsukuba-v2-20260905/tsukuba.zip",
-      "sha256": "5ab101d7bcd6efa1",
-      "size_bytes": 32934303
-    },
-    "325": {
-      "venue": "Tsukuba Circuit",
-      "corners": 10,
-      "provider": "jp-gsi",
-      "live_tiles": 121,
-      "hero3d": true,
-      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
-      "version": "tsukuba-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/tsukuba-v2-20260905/tsukuba.zip",
-      "sha256": "5ab101d7bcd6efa1",
-      "size_bytes": 32934303
-    },
-    "329": {
-      "venue": "Tsukuba Circuit",
-      "corners": 11,
-      "provider": "jp-gsi",
-      "live_tiles": 30,
-      "hero3d": true,
-      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
-      "version": "tsukuba-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/tsukuba-v2-20260905/tsukuba.zip",
-      "sha256": "5ab101d7bcd6efa1",
-      "size_bytes": 32934303
-    },
-    "465": {
-      "venue": "Virginia International Raceway",
-      "corners": 16,
-      "provider": "va-vbmp",
-      "live_tiles": 946,
-      "hero3d": true,
-      "attribution": "Virginia Geographic Information Network — VBMP",
-      "version": "vir-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/vir-v2-20260905/vir.zip",
-      "sha256": "5b478e14e85ac51b",
-      "size_bytes": 102139111
-    },
-    "467": {
-      "venue": "Virginia International Raceway",
-      "corners": 16,
-      "provider": "va-vbmp",
-      "live_tiles": 946,
-      "hero3d": true,
-      "attribution": "Virginia Geographic Information Network — VBMP",
-      "version": "vir-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/vir-v2-20260905/vir.zip",
-      "sha256": "5b478e14e85ac51b",
-      "size_bytes": 102139111
-    },
-    "432": {
-      "venue": "Watkins Glen International",
-      "corners": 7,
-      "provider": "ny-its",
-      "live_tiles": 680,
-      "hero3d": true,
-      "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery",
-      "version": "watkins-glen-v2-20260902",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/watkins-glen-v2-20260902/watkins-glen.zip",
-      "sha256": "5ee2f16519d02ea0",
-      "size_bytes": 86053929
-    },
-    "433": {
-      "venue": "Watkins Glen International",
-      "corners": 7,
-      "provider": "ny-its",
-      "live_tiles": 680,
-      "hero3d": true,
-      "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery",
-      "version": "watkins-glen-v2-20260902",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/watkins-glen-v2-20260902/watkins-glen.zip",
-      "sha256": "5ee2f16519d02ea0",
-      "size_bytes": 86053929
-    },
-    "434": {
-      "venue": "Watkins Glen International",
-      "corners": 11,
-      "provider": "ny-its",
-      "live_tiles": 680,
-      "hero3d": true,
-      "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery",
-      "version": "watkins-glen-v2-20260902",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/watkins-glen-v2-20260902/watkins-glen.zip",
-      "sha256": "5ee2f16519d02ea0",
-      "size_bytes": 86053929
-    },
-    "435": {
-      "venue": "Watkins Glen International",
-      "corners": 11,
-      "provider": "ny-its",
-      "live_tiles": 680,
-      "hero3d": true,
-      "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery",
-      "version": "watkins-glen-v2-20260902",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/watkins-glen-v2-20260902/watkins-glen.zip",
-      "sha256": "5ee2f16519d02ea0",
-      "size_bytes": 86053929
-    },
-    "586": {
-      "venue": "WeatherTech Raceway Laguna Seca",
-      "corners": 11,
-      "provider": "naip",
-      "live_tiles": 414,
-      "hero3d": true,
-      "attribution": "USDA Farm Service Agency / USGS — public domain",
-      "version": "laguna-seca-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/laguna-seca-v2-20260905/laguna-seca.zip",
-      "sha256": "76d1fceffb179a53",
-      "size_bytes": 46247253
-    },
-    "47": {
-      "venue": "WeatherTech Raceway Laguna Seca",
-      "corners": 11,
-      "provider": "naip",
-      "live_tiles": 414,
-      "hero3d": true,
-      "attribution": "USDA Farm Service Agency / USGS — public domain",
-      "version": "laguna-seca-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/laguna-seca-v2-20260905/laguna-seca.zip",
-      "sha256": "76d1fceffb179a53",
-      "size_bytes": 46247253
-    },
-    "481": {
-      "venue": "Willow Springs International Raceway",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-26/willow-springs-international-raceway.zip",
-      "version": "imagery-v2-catalog-26",
-      "sha256": "4079b4891df9c6e2",
-      "corners": 9,
-      "provider": "naip",
-      "live_tiles": 100,
-      "attribution": "USDA Farm Service Agency / USGS — public domain"
-    },
-    "238": {
-      "venue": "World Wide Technology Raceway",
-      "corners": 8,
-      "provider": "naip",
-      "live_tiles": 32,
-      "hero3d": false,
-      "attribution": "USDA Farm Service Agency / USGS — public domain",
-      "version": "0.10.25",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.25/gateway-v0.10.25.zip",
-      "sha256": "a13e0ae6cec63db7",
-      "size_bytes": 3973634
-    },
-    "145": {
-      "venue": "Brands Hatch Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-35/brands-hatch-circuit.zip",
-      "version": "imagery-v2-catalog-35",
-      "sha256": "f5f4403f27c41509",
-      "corners": 9,
-      "provider": "ea-lidar-osm",
-      "live_tiles": 22,
-      "hero3d": true,
-      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
-    },
-    "146": {
-      "venue": "Brands Hatch Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-35/brands-hatch-circuit.zip",
-      "version": "imagery-v2-catalog-35",
-      "sha256": "f5f4403f27c41509",
-      "corners": 5,
-      "provider": "ea-lidar-osm",
-      "live_tiles": 12,
-      "hero3d": true,
-      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
-    },
-    "527": {
-      "venue": "Cadwell Park Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-34/cadwell-park-circuit.zip",
-      "version": "imagery-v2-catalog-34",
-      "sha256": "3e9cc392a73fcb93",
-      "corners": 18,
-      "provider": "ea-lidar-osm",
-      "live_tiles": 21,
-      "hero3d": true,
-      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
-    },
-    "233": {
-      "venue": "Donington Park Racing Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-35/donington-park-racing-circuit.zip",
-      "version": "imagery-v2-catalog-35",
-      "sha256": "cabbce807396d851",
-      "corners": 12,
-      "provider": "ea-lidar-osm",
-      "live_tiles": 26,
-      "hero3d": true,
-      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
-    },
-    "234": {
-      "venue": "Donington Park Racing Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-35/donington-park-racing-circuit.zip",
-      "version": "imagery-v2-catalog-35",
-      "sha256": "cabbce807396d851",
-      "corners": 10,
-      "provider": "ea-lidar-osm",
-      "live_tiles": 26,
-      "hero3d": true,
-      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
-    },
-    "423": {
-      "venue": "Knockhill Racing Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-34/knockhill-racing-circuit.zip",
-      "version": "imagery-v2-catalog-34",
-      "sha256": "8cea6a5141bcfeb0",
-      "corners": 9,
-      "provider": "srsp-lidar-osm",
-      "live_tiles": 0,
-      "hero3d": false,
-      "attribution": "(c) Scottish Government / Scottish Remote Sensing Portal (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
-    },
-    "180": {
-      "venue": "Oulton Park Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-35/oulton-park-circuit.zip",
-      "version": "imagery-v2-catalog-35",
-      "sha256": "640d888ff6858605",
-      "corners": 17,
-      "provider": "ea-lidar-osm",
-      "live_tiles": 29,
-      "hero3d": true,
-      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
-    },
-    "341": {
-      "venue": "Silverstone Circuit",
-      "corners": 18,
-      "provider": "wm-skysat-silverstone",
-      "live_tiles": 936,
-      "hero3d": true,
-      "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)",
-      "version": "silverstone-v2-20260903",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/silverstone-v2-20260903/silverstone.zip",
-      "sha256": "daf8a2ba1f1db738",
-      "size_bytes": 95257025
-    },
-    "342": {
-      "venue": "Silverstone Circuit",
-      "corners": 9,
-      "provider": "wm-skysat-silverstone",
-      "live_tiles": 506,
-      "hero3d": true,
-      "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)",
-      "version": "silverstone-v2-20260903",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/silverstone-v2-20260903/silverstone.zip",
-      "sha256": "daf8a2ba1f1db738",
-      "size_bytes": 95257025
-    },
-    "343": {
-      "venue": "Silverstone Circuit",
-      "corners": 6,
-      "provider": "wm-skysat-silverstone",
-      "live_tiles": 304,
-      "hero3d": true,
-      "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)",
-      "version": "silverstone-v2-20260903",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/silverstone-v2-20260903/silverstone.zip",
-      "sha256": "daf8a2ba1f1db738",
-      "size_bytes": 95257025
-    },
-    "297": {
-      "venue": "Snetterton Circuit",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-35/snetterton-circuit.zip",
-      "version": "imagery-v2-catalog-35",
-      "sha256": "c3681b5afee27680",
-      "corners": 13,
-      "provider": "ea-lidar-osm",
-      "live_tiles": 22,
-      "hero3d": true,
-      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)"
-    },
-    "147": {
-      "venue": "Circuit Zandvoort",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/circuit-zandvoort.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "e5d38f70bf8aa1df",
-      "corners": 14,
-      "provider": "nl-pdok-2019",
-      "live_tiles": 77,
-      "attribution": "© PDOK / Kadaster — Luchtfoto 2019 (CC BY 4.0)"
-    },
-    "148": {
-      "venue": "Circuit Zandvoort",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/circuit-zandvoort.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "e5d38f70bf8aa1df",
-      "corners": 8,
-      "provider": "nl-pdok-2019",
-      "live_tiles": 53,
-      "attribution": "© PDOK / Kadaster — Luchtfoto 2019 (CC BY 4.0)"
-    },
-    "149": {
-      "venue": "Circuit Zandvoort",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/circuit-zandvoort.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "e5d38f70bf8aa1df",
-      "corners": 14,
-      "provider": "nl-pdok-2019",
-      "live_tiles": 77,
-      "attribution": "© PDOK / Kadaster — Luchtfoto 2019 (CC BY 4.0)"
-    },
-    "150": {
-      "venue": "Circuit Zandvoort",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/circuit-zandvoort.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "e5d38f70bf8aa1df",
-      "corners": 10,
-      "provider": "nl-pdok-2019",
-      "live_tiles": 62,
-      "attribution": "© PDOK / Kadaster — Luchtfoto 2019 (CC BY 4.0)"
-    },
-    "151": {
-      "venue": "Circuit Zandvoort",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-25/circuit-zandvoort.zip",
-      "version": "imagery-v2-catalog-25",
-      "sha256": "e5d38f70bf8aa1df",
-      "corners": 6,
-      "provider": "nl-pdok-2019",
-      "live_tiles": 33,
-      "attribution": "© PDOK / Kadaster — Luchtfoto 2019 (CC BY 4.0)"
-    },
-    "572": {
-      "venue": "Autódromo Hermanos Rodríguez",
-      "corners": 17,
-      "provider": "wm-skysat-mexico",
-      "live_tiles": 1,
-      "hero3d": true,
-      "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)",
-      "version": "mexico-native-genai-v2-20260826",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/mexico-native-genai-v2-20260826/imagery-mexico-native-genai-v2-20260826.zip",
-      "sha256": "a2fad1be87bac315",
-      "size_bytes": 4400160
-    },
-    "218": {
-      "venue": "Circuit Gilles Villeneuve",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-v2-catalog-36/circuit-gilles-villeneuve.zip",
-      "version": "imagery-v2-catalog-36",
-      "sha256": "caca3f29d454b934",
-      "corners": 14,
-      "provider": "ca-cmm-montreal-2022-local",
-      "live_tiles": 1261,
-      "hero3d": true,
-      "attribution": "Communauté métropolitaine de Montréal, Orthophoto 2022"
-    },
-    "202": {
-      "venue": "Oran Park Raceway",
-      "corners": 12,
-      "provider": "au-nsw-hist1998",
-      "live_tiles": 238,
-      "hero3d": true,
-      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)",
-      "version": "0.10.38",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.38/oran-park-v0.10.38.zip",
-      "sha256": "7c7a7dd15d329167",
-      "size_bytes": 85838914
-    },
-    "207": {
-      "venue": "Oran Park Raceway",
-      "corners": 0,
-      "provider": "au-nsw-hist1998",
-      "live_tiles": 40,
-      "hero3d": true,
-      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)",
-      "version": "0.10.38",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.38/oran-park-v0.10.38.zip",
-      "sha256": "7c7a7dd15d329167",
-      "size_bytes": 85838914
-    },
-    "208": {
-      "venue": "Oran Park Raceway",
-      "corners": 7,
-      "provider": "au-nsw-hist1998",
-      "live_tiles": 154,
-      "hero3d": true,
-      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)",
-      "version": "0.10.38",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.38/oran-park-v0.10.38.zip",
-      "sha256": "7c7a7dd15d329167",
-      "size_bytes": 85838914
-    },
-    "209": {
-      "venue": "Oran Park Raceway",
-      "corners": 0,
-      "provider": "au-nsw-hist1998",
-      "live_tiles": 40,
-      "hero3d": true,
-      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)",
-      "version": "0.10.38",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.38/oran-park-v0.10.38.zip",
-      "sha256": "7c7a7dd15d329167",
-      "size_bytes": 85838914
-    },
-    "210": {
-      "venue": "Oran Park Raceway",
-      "corners": 0,
-      "provider": "au-nsw-hist1998",
-      "live_tiles": 25,
-      "hero3d": true,
-      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)",
-      "version": "0.10.38",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.38/oran-park-v0.10.38.zip",
-      "sha256": "7c7a7dd15d329167",
-      "size_bytes": 85838914
-    },
-    "211": {
-      "venue": "Oran Park Raceway",
-      "corners": 0,
-      "provider": "au-nsw-hist1998",
-      "live_tiles": 238,
-      "hero3d": true,
-      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)",
-      "version": "0.10.38",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.38/oran-park-v0.10.38.zip",
-      "sha256": "7c7a7dd15d329167",
-      "size_bytes": 85838914
-    },
-    "413": {
-      "venue": "Hungaroring",
-      "corners": 14,
-      "provider": "hu-lechner-2015",
-      "live_tiles": 132,
-      "hero3d": true,
-      "attribution": "Lechner Tudásközpont (Lechner Knowledge Centre) — Hungarian national orthophoto 2015",
-      "version": "hungaroring-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/hungaroring-v2-20260911/hungaroring.zip",
-      "sha256": "3dec8ee13b66abfa",
-      "size_bytes": 28125356
-    },
-    "220": {
-      "venue": "New Jersey Motorsports Park",
-      "corners": 12,
-      "provider": "nj-njgin-2020",
-      "live_tiles": 96,
-      "hero3d": false,
-      "attribution": "New Jersey Office of Information Technology, Office of GIS — 2020 Natural Color Orthophotography",
-      "version": "0.10.24",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.24/new-jersey-motorsports-park-v0.10.24.zip",
-      "sha256": "107fba2289e48a42",
-      "size_bytes": 12904526
-    },
-    "554": {
-      "venue": "Charlotte Motor Speedway",
-      "corners": 15,
-      "provider": "nc-cabarrus-charlotte-2025",
-      "live_tiles": 432,
-      "hero3d": true,
-      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
-      "version": "imagery-charlotte-source-runtime-20260826",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/imagery-charlotte-source-runtime-20260826/charlotte-roval-20260826.zip",
-      "sha256": "af8a8995b1611619",
-      "size_bytes": 65829329
-    },
-    "196": {
-      "venue": "Mobility Resort Motegi",
-      "corners": 0,
-      "provider": "jp-gsi",
-      "live_tiles": 154,
-      "hero3d": true,
-      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
-      "version": "motegi-native-genai-v1-20260826",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/motegi-native-genai-v1-20260826/imagery-motegi-native-genai-v1-20260826.zip",
-      "sha256": "cbaaf19338e74952",
-      "size_bytes": 50649371
-    },
-    "197": {
-      "venue": "Mobility Resort Motegi",
-      "corners": 0,
-      "provider": "jp-gsi",
-      "live_tiles": 154,
-      "hero3d": true,
-      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
-      "version": "motegi-native-genai-v1-20260826",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/motegi-native-genai-v1-20260826/imagery-motegi-native-genai-v1-20260826.zip",
-      "sha256": "cbaaf19338e74952",
-      "size_bytes": 50649371
-    },
-    "198": {
-      "venue": "Mobility Resort Motegi",
-      "corners": 0,
-      "provider": "jp-gsi",
-      "live_tiles": 154,
-      "hero3d": true,
-      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
-      "version": "motegi-native-genai-v1-20260826",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/motegi-native-genai-v1-20260826/imagery-motegi-native-genai-v1-20260826.zip",
-      "sha256": "cbaaf19338e74952",
-      "size_bytes": 50649371
-    },
-    "584": {
-      "venue": "St. Petersburg Grand Prix",
-      "corners": 14,
-      "provider": "fl-pinellas-aerials-2025",
-      "live_tiles": 361,
-      "hero3d": false,
-      "attribution": "Pinellas County Enterprise GIS — 2025 Aerial Imagery",
-      "version": "0.10.23",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.23/st-petersburg-v0.10.23.zip",
-      "sha256": "e628b5fd019ecb16",
-      "size_bytes": 42396349
-    },
-    "26": {
-      "venue": "Daytona International Speedway",
-      "corners": 12,
-      "provider": "fl-volusia-2024",
-      "live_tiles": 957,
-      "hero3d": true,
-      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
-      "version": "daytona-v2-20260902",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/daytona-v2-20260902/daytona.zip",
-      "sha256": "e89d3e6e9893b794",
-      "size_bytes": 139890030
-    },
-    "27": {
-      "venue": "Daytona International Speedway",
-      "corners": 4,
-      "provider": "fl-volusia-2024",
-      "live_tiles": 957,
-      "hero3d": true,
-      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
-      "version": "daytona-v2-20260902",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/daytona-v2-20260902/daytona.zip",
-      "sha256": "e89d3e6e9893b794",
-      "size_bytes": 139890030
-    },
-    "28": {
-      "venue": "Daytona International Speedway",
-      "corners": 12,
-      "provider": "fl-volusia-2024",
-      "live_tiles": 957,
-      "hero3d": true,
-      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
-      "version": "daytona-v2-20260902",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/daytona-v2-20260902/daytona.zip",
-      "sha256": "e89d3e6e9893b794",
-      "size_bytes": 139890030
-    },
-    "29": {
-      "venue": "Daytona International Speedway",
-      "corners": 6,
-      "provider": "fl-volusia-2024",
-      "live_tiles": 957,
-      "hero3d": true,
-      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
-      "version": "daytona-v2-20260902",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/daytona-v2-20260902/daytona.zip",
-      "sha256": "e89d3e6e9893b794",
-      "size_bytes": 139890030
-    },
-    "191": {
-      "venue": "Daytona International Speedway",
-      "corners": 4,
-      "provider": "fl-volusia-2024",
-      "live_tiles": 957,
-      "hero3d": true,
-      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
-      "version": "daytona-v2-20260902",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/daytona-v2-20260902/daytona.zip",
-      "sha256": "e89d3e6e9893b794",
-      "size_bytes": 139890030
-    },
-    "193": {
-      "venue": "Daytona International Speedway",
-      "corners": 13,
-      "provider": "fl-volusia-2024",
-      "live_tiles": 957,
-      "hero3d": true,
-      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
-      "version": "daytona-v2-20260902",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/daytona-v2-20260902/daytona.zip",
-      "sha256": "e89d3e6e9893b794",
-      "size_bytes": 139890030
-    },
-    "194": {
-      "venue": "Daytona International Speedway",
-      "corners": 5,
-      "provider": "fl-volusia-2024",
-      "live_tiles": 957,
-      "hero3d": true,
-      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
-      "version": "daytona-v2-20260902",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/daytona-v2-20260902/daytona.zip",
-      "sha256": "e89d3e6e9893b794",
-      "size_bytes": 139890030
-    },
-    "381": {
-      "venue": "Daytona International Speedway",
-      "corners": 14,
-      "provider": "fl-volusia-2024",
-      "live_tiles": 957,
-      "hero3d": true,
-      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
-      "version": "daytona-v2-20260902",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/daytona-v2-20260902/daytona.zip",
-      "sha256": "e89d3e6e9893b794",
-      "size_bytes": 139890030
-    },
-    "407": {
-      "venue": "Red Bull Ring",
-      "corners": 5,
-      "provider": "at-basemap",
-      "live_tiles": 522,
-      "hero3d": true,
-      "attribution": "Datenquelle: basemap.at (CC BY 4.0)",
-      "version": "red-bull-ring-v2-20260902",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/red-bull-ring-v2-20260902/red-bull-ring.zip",
-      "sha256": "b702dd3b17104dd4",
-      "size_bytes": 49480588
-    },
-    "466": {
-      "venue": "Virginia International Raceway",
-      "corners": 0,
-      "provider": "va-vbmp",
-      "live_tiles": 946,
-      "hero3d": true,
-      "attribution": "Virginia Geographic Information Network — VBMP",
-      "version": "vir-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/vir-v2-20260905/vir.zip",
-      "sha256": "5b478e14e85ac51b",
-      "size_bytes": 102139111
-    },
-    "468": {
-      "venue": "Virginia International Raceway",
-      "corners": 0,
-      "provider": "va-vbmp",
-      "live_tiles": 946,
-      "hero3d": true,
-      "attribution": "Virginia Geographic Information Network — VBMP",
-      "version": "vir-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/vir-v2-20260905/vir.zip",
-      "sha256": "5b478e14e85ac51b",
-      "size_bytes": 102139111
-    },
-    "469": {
-      "venue": "Virginia International Raceway",
-      "corners": 0,
-      "provider": "va-vbmp",
-      "live_tiles": 946,
-      "hero3d": true,
-      "attribution": "Virginia Geographic Information Network — VBMP",
-      "version": "vir-v2-20260905",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/vir-v2-20260905/vir.zip",
-      "sha256": "5b478e14e85ac51b",
-      "size_bytes": 102139111
-    },
-    "163": {
-      "venue": "Circuit de Spa-Francorchamps",
-      "corners": 19,
-      "provider": "be-wallonia",
-      "live_tiles": 1363,
-      "hero3d": true,
-      "attribution": "© SPW (Service public de Wallonie) — open data",
-      "version": "spa-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v2-20260911/spa.zip",
-      "sha256": "28cca035d2bea1dc",
-      "size_bytes": 204592897
-    },
-    "164": {
-      "venue": "Circuit de Spa-Francorchamps",
-      "corners": 19,
-      "provider": "be-wallonia",
-      "live_tiles": 1363,
-      "hero3d": true,
-      "attribution": "© SPW (Service public de Wallonie) — open data",
-      "version": "spa-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v2-20260911/spa.zip",
-      "sha256": "28cca035d2bea1dc",
-      "size_bytes": 204592897
-    },
-    "165": {
-      "venue": "Circuit de Spa-Francorchamps",
-      "corners": 19,
-      "provider": "be-wallonia",
-      "live_tiles": 1363,
-      "hero3d": true,
-      "attribution": "© SPW (Service public de Wallonie) — open data",
-      "version": "spa-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v2-20260911/spa.zip",
-      "sha256": "28cca035d2bea1dc",
-      "size_bytes": 204592897
-    },
-    "94": {
-      "venue": "Milwaukee Mile",
-      "corners": 4,
-      "provider": "sewrpc-orthophotos-2024-rendered-risk-ruling",
-      "live_tiles": 8,
-      "hero3d": true,
-      "attribution": "Milwaukee County 2024 orthophotography; WROC; SEWRPC; EagleView",
-      "version": "0.10.42",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/0.10.42/milwaukee-mile-exact010-v0.10.42.zip",
-      "sha256": "0c3b85cce29d77d5",
-      "size_bytes": 12223138
-    },
-    "486": {
-      "venue": "Circuit Zandvoort",
-      "corners": 0,
-      "provider": "nl-pdok",
-      "live_tiles": 437,
-      "hero3d": true,
-      "attribution": "© PDOK / Kadaster — Luchtfoto 2026 (CC BY 4.0)",
-      "version": "zandvoort-v2-20260907",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/zandvoort-v2-20260907/zandvoort.zip",
-      "sha256": "428770899851975a",
-      "size_bytes": 50162729
-    },
-    "488": {
-      "venue": "Circuit Zandvoort",
-      "corners": 0,
-      "provider": "nl-pdok",
-      "live_tiles": 437,
-      "hero3d": true,
-      "attribution": "© PDOK / Kadaster — Luchtfoto 2026 (CC BY 4.0)",
-      "version": "zandvoort-v2-20260907",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/zandvoort-v2-20260907/zandvoort.zip",
-      "sha256": "428770899851975a",
-      "size_bytes": 50162729
-    },
-    "181": {
-      "venue": "Oulton Park Circuit",
-      "corners": 10,
-      "provider": "ea-lidar-osm",
-      "live_tiles": 29,
-      "hero3d": true,
-      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)",
-      "version": "oulton-park-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/oulton-park-v2-20260911/oulton-park.zip",
-      "sha256": "641f75612f8d8264",
-      "size_bytes": 3019378
-    },
-    "560": {
-      "venue": "World Wide Technology Raceway",
-      "corners": 0,
-      "provider": "naip",
-      "live_tiles": 32,
-      "hero3d": true,
-      "attribution": "USDA Farm Service Agency / USGS — public domain",
-      "version": "gateway-reuse-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/gateway-reuse-v2-20260911/gateway-reuse.zip",
-      "sha256": "126afa3a0773a9c4",
-      "size_bytes": 2539592
+      "hero3d": true
+    },
+    "18": {
+      "physical_venue_key": "road-america",
+      "corner_views": 14,
+      "live_tiles": 910,
+      "provider": "wi-dnr",
+      "attribution": "Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery",
+      "hero3d": true
+    },
+    "22": {
+      "physical_venue_key": "homestead-miami",
+      "corner_views": 10,
+      "live_tiles": 620,
+      "provider": "fl-miami-dade-woolpert-2025",
+      "attribution": "Miami-Dade County GIS — Woolpert 2025 Aerial Imagery",
+      "hero3d": true
     },
     "24": {
-      "venue": "Summit Point Raceway",
-      "corners": 0,
+      "physical_venue_key": "summit-point",
+      "corner_views": 0,
+      "live_tiles": 432,
       "provider": "wv-wvgistc-jefferson-2025",
-      "live_tiles": 432,
-      "hero3d": true,
       "attribution": "WVGISTC and Jefferson County — 2025 leaf-off imagery",
-      "version": "summit-point-reuse-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/summit-point-reuse-v2-20260911/summit-point-reuse.zip",
-      "sha256": "2efbb159403c288a",
-      "size_bytes": 53092536
+      "hero3d": true
     },
-    "159": {
-      "venue": "Summit Point Raceway",
-      "corners": 0,
-      "provider": "wv-wvgistc-jefferson-2025",
-      "live_tiles": 432,
-      "hero3d": true,
-      "attribution": "WVGISTC and Jefferson County — 2025 leaf-off imagery",
-      "version": "summit-point-reuse-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/summit-point-reuse-v2-20260911/summit-point-reuse.zip",
-      "sha256": "2efbb159403c288a",
-      "size_bytes": 53092536
+    "26": {
+      "physical_venue_key": "daytona",
+      "corner_views": 12,
+      "live_tiles": 957,
+      "provider": "fl-volusia-2024",
+      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
+      "hero3d": true
     },
-    "142": {
-      "venue": "Summit Point Raceway",
-      "corners": 0,
-      "provider": "wv-wvgistc-jefferson-2025",
-      "live_tiles": 120,
-      "hero3d": true,
-      "attribution": "WVGISTC and Jefferson County — 2025 leaf-off imagery",
-      "version": "summit-point-jefferson-reuse-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/summit-point-jefferson-reuse-v2-20260911/summit-point-jefferson-reuse.zip",
-      "sha256": "5bc3164983d1fcb3",
-      "size_bytes": 15204904
+    "27": {
+      "physical_venue_key": "daytona",
+      "corner_views": 4,
+      "live_tiles": 957,
+      "provider": "fl-volusia-2024",
+      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
+      "hero3d": true
     },
-    "550": {
-      "venue": "Charlotte Motor Speedway",
-      "corners": 0,
-      "provider": "nc-cabarrus-charlotte-2025",
-      "live_tiles": 432,
-      "hero3d": true,
-      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
-      "version": "charlotte-reuse-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/charlotte-reuse-v2-20260911/charlotte-reuse.zip",
-      "sha256": "154dfb649c56597b",
-      "size_bytes": 41976034
+    "28": {
+      "physical_venue_key": "daytona",
+      "corner_views": 12,
+      "live_tiles": 957,
+      "provider": "fl-volusia-2024",
+      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
+      "hero3d": true
     },
-    "551": {
-      "venue": "Charlotte Motor Speedway",
-      "corners": 0,
-      "provider": "nc-cabarrus-charlotte-2025",
-      "live_tiles": 432,
-      "hero3d": true,
-      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
-      "version": "charlotte-reuse-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/charlotte-reuse-v2-20260911/charlotte-reuse.zip",
-      "sha256": "154dfb649c56597b",
-      "size_bytes": 41976034
+    "29": {
+      "physical_venue_key": "daytona",
+      "corner_views": 6,
+      "live_tiles": 957,
+      "provider": "fl-volusia-2024",
+      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
+      "hero3d": true
     },
-    "552": {
-      "venue": "Charlotte Motor Speedway",
-      "corners": 0,
-      "provider": "nc-cabarrus-charlotte-2025",
-      "live_tiles": 432,
-      "hero3d": true,
-      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
-      "version": "charlotte-reuse-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/charlotte-reuse-v2-20260911/charlotte-reuse.zip",
-      "sha256": "154dfb649c56597b",
-      "size_bytes": 41976034
+    "47": {
+      "physical_venue_key": "laguna-seca",
+      "corner_views": 11,
+      "live_tiles": 414,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain",
+      "hero3d": true
     },
-    "553": {
-      "venue": "Charlotte Motor Speedway",
-      "corners": 0,
-      "provider": "nc-cabarrus-charlotte-2025",
-      "live_tiles": 432,
-      "hero3d": true,
-      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
-      "version": "charlotte-reuse-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/charlotte-reuse-v2-20260911/charlotte-reuse.zip",
-      "sha256": "154dfb649c56597b",
-      "size_bytes": 41976034
+    "50": {
+      "physical_venue_key": "road-america",
+      "corner_views": 14,
+      "live_tiles": 910,
+      "provider": "wi-dnr",
+      "attribution": "Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery",
+      "hero3d": true
     },
-    "555": {
-      "venue": "Charlotte Motor Speedway",
-      "corners": 0,
-      "provider": "nc-cabarrus-charlotte-2025",
-      "live_tiles": 432,
-      "hero3d": true,
-      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
-      "version": "charlotte-reuse-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/charlotte-reuse-v2-20260911/charlotte-reuse.zip",
-      "sha256": "154dfb649c56597b",
-      "size_bytes": 41976034
+    "94": {
+      "physical_venue_key": "milwaukee-mile",
+      "corner_views": 4,
+      "live_tiles": 8,
+      "provider": "sewrpc-orthophotos-2024-rendered-risk-ruling",
+      "attribution": "Milwaukee County 2024 orthophotography; WROC; SEWRPC; EagleView",
+      "hero3d": true
     },
-    "556": {
-      "venue": "Charlotte Motor Speedway",
-      "corners": 0,
-      "provider": "nc-cabarrus-charlotte-2025",
-      "live_tiles": 432,
-      "hero3d": true,
-      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
-      "version": "charlotte-reuse-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/charlotte-reuse-v2-20260911/charlotte-reuse.zip",
-      "sha256": "154dfb649c56597b",
-      "size_bytes": 41976034
+    "95": {
+      "physical_venue_key": "sebring",
+      "corner_views": 17,
+      "live_tiles": 644,
+      "provider": "fl-fdot-east-2020",
+      "attribution": "FDOT — Florida Statewide Digital Orthoimagery (2020)",
+      "hero3d": false
     },
-    "557": {
-      "venue": "Charlotte Motor Speedway",
-      "corners": 0,
-      "provider": "nc-cabarrus-charlotte-2025",
-      "live_tiles": 432,
-      "hero3d": true,
-      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
-      "version": "charlotte-reuse-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/charlotte-reuse-v2-20260911/charlotte-reuse.zip",
-      "sha256": "154dfb649c56597b",
-      "size_bytes": 41976034
+    "96": {
+      "physical_venue_key": "sebring",
+      "corner_views": 9,
+      "live_tiles": 351,
+      "provider": "fl-fdot-east-2020",
+      "attribution": "FDOT — Florida Statewide Digital Orthoimagery (2020)",
+      "hero3d": false
     },
-    "558": {
-      "venue": "Charlotte Motor Speedway",
-      "corners": 0,
-      "provider": "nc-cabarrus-charlotte-2025",
-      "live_tiles": 432,
-      "hero3d": true,
-      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
-      "version": "charlotte-reuse-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/charlotte-reuse-v2-20260911/charlotte-reuse.zip",
-      "sha256": "154dfb649c56597b",
-      "size_bytes": 41976034
+    "97": {
+      "physical_venue_key": "sebring",
+      "corner_views": 11,
+      "live_tiles": 288,
+      "provider": "fl-fdot-east-2020",
+      "attribution": "FDOT — Florida Statewide Digital Orthoimagery (2020)",
+      "hero3d": false
     },
     "126": {
-      "venue": "Road Atlanta",
-      "corners": 0,
-      "provider": "naip",
+      "physical_venue_key": "road-atlanta",
+      "corner_views": 0,
       "live_tiles": 666,
-      "hero3d": true,
+      "provider": "naip",
       "attribution": "USDA Farm Service Agency / USGS — public domain",
-      "version": "road-atlanta-reuse-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-atlanta-reuse-v2-20260911/road-atlanta-reuse.zip",
-      "sha256": "a85813e2444c30db",
-      "size_bytes": 97077142
+      "hero3d": true
     },
-    "596": {
-      "venue": "Road America",
-      "corners": 0,
-      "provider": "wi-dnr",
-      "live_tiles": 910,
-      "hero3d": true,
-      "attribution": "Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery",
-      "version": "road-america-reuse-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-america-reuse-v2-20260911/road-america-reuse.zip",
-      "sha256": "fc33b7b5b655fe74",
-      "size_bytes": 96225107
+    "127": {
+      "physical_venue_key": "road-atlanta",
+      "corner_views": 11,
+      "live_tiles": 666,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain",
+      "hero3d": true
+    },
+    "128": {
+      "physical_venue_key": "road-atlanta",
+      "corner_views": 10,
+      "live_tiles": 432,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain",
+      "hero3d": true
+    },
+    "142": {
+      "physical_venue_key": "summit-point",
+      "corner_views": 0,
+      "live_tiles": 120,
+      "provider": "wv-wvgistc-jefferson-2025",
+      "attribution": "WVGISTC and Jefferson County — 2025 leaf-off imagery",
+      "hero3d": true
+    },
+    "144": {
+      "physical_venue_key": "canadian-tire-motorsport-park",
+      "corner_views": 10,
+      "live_tiles": 726,
+      "provider": "ca-on-oiwms",
+      "attribution": "Contains information licensed under the Open Government Licence – Ontario",
+      "hero3d": true
+    },
+    "145": {
+      "physical_venue_key": "brands-hatch",
+      "corner_views": 9,
+      "live_tiles": 22,
+      "provider": "ea-lidar-osm",
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)",
+      "hero3d": true
+    },
+    "146": {
+      "physical_venue_key": "brands-hatch",
+      "corner_views": 5,
+      "live_tiles": 12,
+      "provider": "ea-lidar-osm",
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)",
+      "hero3d": true
+    },
+    "147": {
+      "physical_venue_key": "zandvoort",
+      "corner_views": 14,
+      "live_tiles": 77,
+      "provider": "nl-pdok-2019",
+      "attribution": "© PDOK / Kadaster — Luchtfoto 2019 (CC BY 4.0)",
+      "hero3d": false
+    },
+    "148": {
+      "physical_venue_key": "zandvoort",
+      "corner_views": 8,
+      "live_tiles": 53,
+      "provider": "nl-pdok-2019",
+      "attribution": "© PDOK / Kadaster — Luchtfoto 2019 (CC BY 4.0)",
+      "hero3d": false
+    },
+    "149": {
+      "physical_venue_key": "zandvoort",
+      "corner_views": 14,
+      "live_tiles": 77,
+      "provider": "nl-pdok-2019",
+      "attribution": "© PDOK / Kadaster — Luchtfoto 2019 (CC BY 4.0)",
+      "hero3d": false
+    },
+    "150": {
+      "physical_venue_key": "zandvoort",
+      "corner_views": 10,
+      "live_tiles": 62,
+      "provider": "nl-pdok-2019",
+      "attribution": "© PDOK / Kadaster — Luchtfoto 2019 (CC BY 4.0)",
+      "hero3d": false
+    },
+    "151": {
+      "physical_venue_key": "zandvoort",
+      "corner_views": 6,
+      "live_tiles": 33,
+      "provider": "nl-pdok-2019",
+      "attribution": "© PDOK / Kadaster — Luchtfoto 2019 (CC BY 4.0)",
+      "hero3d": false
+    },
+    "153": {
+      "physical_venue_key": "mid-ohio",
+      "corner_views": 13,
+      "live_tiles": 432,
+      "provider": "oh-morrow-2021",
+      "attribution": "Morrow County GIS — 2021 Aerial Imagery",
+      "hero3d": true
+    },
+    "159": {
+      "physical_venue_key": "summit-point",
+      "corner_views": 0,
+      "live_tiles": 432,
+      "provider": "wv-wvgistc-jefferson-2025",
+      "attribution": "WVGISTC and Jefferson County — 2025 leaf-off imagery",
+      "hero3d": true
+    },
+    "163": {
+      "physical_venue_key": "spa",
+      "corner_views": 19,
+      "live_tiles": 1363,
+      "provider": "be-wallonia",
+      "attribution": "© SPW (Service public de Wallonie) — open data",
+      "hero3d": true
+    },
+    "164": {
+      "physical_venue_key": "spa",
+      "corner_views": 19,
+      "live_tiles": 1363,
+      "provider": "be-wallonia",
+      "attribution": "© SPW (Service public de Wallonie) — open data",
+      "hero3d": true
+    },
+    "165": {
+      "physical_venue_key": "spa",
+      "corner_views": 19,
+      "live_tiles": 1363,
+      "provider": "be-wallonia",
+      "attribution": "© SPW (Service public de Wallonie) — open data",
+      "hero3d": true
+    },
+    "166": {
+      "physical_venue_key": "okayama",
+      "corner_views": 11,
+      "live_tiles": 324,
+      "provider": "jp-okayama-infrabox",
+      "attribution": "おかやまインフラボックス 岡山県 3次元点群データ オルソ画像 を加工して作成",
+      "hero3d": true
+    },
+    "167": {
+      "physical_venue_key": "okayama",
+      "corner_views": 7,
+      "live_tiles": 112,
+      "provider": "jp-okayama-infrabox",
+      "attribution": "おかやまインフラボックス 岡山県 3次元点群データ オルソ画像 を加工して作成",
+      "hero3d": true
+    },
+    "168": {
+      "physical_venue_key": "suzuka",
+      "corner_views": 17,
+      "live_tiles": 1080,
+      "provider": "jp-gsi",
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
+      "hero3d": true
+    },
+    "179": {
+      "physical_venue_key": "long-beach",
+      "corner_views": 11,
+      "live_tiles": 60,
+      "provider": "us-noaa-long-beach-2025-local",
+      "attribution": "NOAA National Geodetic Survey, 2025",
+      "hero3d": true
+    },
+    "180": {
+      "physical_venue_key": "oulton-park",
+      "corner_views": 17,
+      "live_tiles": 29,
+      "provider": "ea-lidar-osm",
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)",
+      "hero3d": true
+    },
+    "181": {
+      "physical_venue_key": "oulton-park",
+      "corner_views": 10,
+      "live_tiles": 29,
+      "provider": "ea-lidar-osm",
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)",
+      "hero3d": true
+    },
+    "184": {
+      "physical_venue_key": "oulton-park",
+      "corner_views": 17,
+      "live_tiles": 29,
+      "provider": "ea-lidar-osm",
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)",
+      "hero3d": true
+    },
+    "185": {
+      "physical_venue_key": "oulton-park",
+      "corner_views": 17,
+      "live_tiles": 29,
+      "provider": "ea-lidar-osm",
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)",
+      "hero3d": true
+    },
+    "187": {
+      "physical_venue_key": "oulton-park",
+      "corner_views": 17,
+      "live_tiles": 29,
+      "provider": "ea-lidar-osm",
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)",
+      "hero3d": true
+    },
+    "191": {
+      "physical_venue_key": "daytona",
+      "corner_views": 4,
+      "live_tiles": 957,
+      "provider": "fl-volusia-2024",
+      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
+      "hero3d": true
+    },
+    "192": {
+      "physical_venue_key": "daytona",
+      "corner_views": 12,
+      "live_tiles": 957,
+      "provider": "fl-volusia-2024",
+      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
+      "hero3d": true
+    },
+    "193": {
+      "physical_venue_key": "daytona",
+      "corner_views": 13,
+      "live_tiles": 957,
+      "provider": "fl-volusia-2024",
+      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
+      "hero3d": true
+    },
+    "194": {
+      "physical_venue_key": "daytona",
+      "corner_views": 5,
+      "live_tiles": 957,
+      "provider": "fl-volusia-2024",
+      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
+      "hero3d": true
+    },
+    "195": {
+      "physical_venue_key": "motegi",
+      "corner_views": 14,
+      "live_tiles": 154,
+      "provider": "jp-gsi",
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
+      "hero3d": true
+    },
+    "196": {
+      "physical_venue_key": "motegi",
+      "corner_views": 0,
+      "live_tiles": 154,
+      "provider": "jp-gsi",
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
+      "hero3d": true
+    },
+    "197": {
+      "physical_venue_key": "motegi",
+      "corner_views": 0,
+      "live_tiles": 154,
+      "provider": "jp-gsi",
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
+      "hero3d": true
+    },
+    "198": {
+      "physical_venue_key": "motegi",
+      "corner_views": 0,
+      "live_tiles": 154,
+      "provider": "jp-gsi",
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
+      "hero3d": true
+    },
+    "199": {
+      "physical_venue_key": "zolder",
+      "corner_views": 10,
+      "live_tiles": 168,
+      "provider": "be-flanders",
+      "attribution": "© Digitaal Vlaanderen — Orthofotomozaïek",
+      "hero3d": true
+    },
+    "200": {
+      "physical_venue_key": "zolder",
+      "corner_views": 10,
+      "live_tiles": 166,
+      "provider": "be-flanders",
+      "attribution": "© Digitaal Vlaanderen — Orthofotomozaïek",
+      "hero3d": true
+    },
+    "202": {
+      "physical_venue_key": "oran-park",
+      "corner_views": 12,
+      "live_tiles": 238,
+      "provider": "au-nsw-hist1998",
+      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)",
+      "hero3d": true
+    },
+    "207": {
+      "physical_venue_key": "oran-park",
+      "corner_views": 0,
+      "live_tiles": 40,
+      "provider": "au-nsw-hist1998",
+      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)",
+      "hero3d": true
+    },
+    "208": {
+      "physical_venue_key": "oran-park",
+      "corner_views": 7,
+      "live_tiles": 154,
+      "provider": "au-nsw-hist1998",
+      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)",
+      "hero3d": true
+    },
+    "209": {
+      "physical_venue_key": "oran-park",
+      "corner_views": 0,
+      "live_tiles": 40,
+      "provider": "au-nsw-hist1998",
+      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)",
+      "hero3d": true
+    },
+    "210": {
+      "physical_venue_key": "oran-park",
+      "corner_views": 0,
+      "live_tiles": 25,
+      "provider": "au-nsw-hist1998",
+      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)",
+      "hero3d": true
+    },
+    "211": {
+      "physical_venue_key": "oran-park",
+      "corner_views": 0,
+      "live_tiles": 238,
+      "provider": "au-nsw-hist1998",
+      "attribution": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)",
+      "hero3d": true
+    },
+    "212": {
+      "physical_venue_key": "interlagos",
+      "corner_views": 15,
+      "live_tiles": 588,
+      "provider": "br-geosampa",
+      "attribution": "© Prefeitura de São Paulo — GeoSampa (CC BY-SA 4.0)",
+      "hero3d": true
+    },
+    "218": {
+      "physical_venue_key": "montreal",
+      "corner_views": 14,
+      "live_tiles": 1261,
+      "provider": "ca-cmm-montreal-2022-local",
+      "attribution": "Communauté métropolitaine de Montréal, Orthophoto 2022",
+      "hero3d": true
+    },
+    "219": {
+      "physical_venue_key": "mount-panorama",
+      "corner_views": 23,
+      "live_tiles": 1550,
+      "provider": "au-nsw",
+      "attribution": "(c) State of New South Wales (Spatial Services) - CC-BY 3.0 AU",
+      "hero3d": true
+    },
+    "220": {
+      "physical_venue_key": "new-jersey-motorsports-park",
+      "corner_views": 12,
+      "live_tiles": 96,
+      "provider": "nj-njgin-2020",
+      "attribution": "New Jersey Office of Information Technology, Office of GIS — 2020 Natural Color Orthophotography",
+      "hero3d": false
+    },
+    "229": {
+      "physical_venue_key": "cota",
+      "corner_views": 20,
+      "live_tiles": 358,
+      "provider": "tx-stratmap19-caparea",
+      "attribution": "Texas StratMap 2019 / TxGIO (TNRIS) — Capital Area",
+      "hero3d": true
+    },
+    "233": {
+      "physical_venue_key": "donington-park",
+      "corner_views": 12,
+      "live_tiles": 26,
+      "provider": "ea-lidar-osm",
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)",
+      "hero3d": true
+    },
+    "234": {
+      "physical_venue_key": "donington-park",
+      "corner_views": 10,
+      "live_tiles": 26,
+      "provider": "ea-lidar-osm",
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)",
+      "hero3d": true
+    },
+    "238": {
+      "physical_venue_key": "gateway",
+      "corner_views": 8,
+      "live_tiles": 32,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain",
+      "hero3d": false
+    },
+    "239": {
+      "physical_venue_key": "monza",
+      "corner_views": 11,
+      "live_tiles": 588,
+      "provider": "it-lombardia-agea",
+      "attribution": "Regione Lombardia – Ortofoto AGEA 2015 / 2021 (Geoportale della Lombardia)",
+      "hero3d": true
+    },
+    "241": {
+      "physical_venue_key": "monza",
+      "corner_views": 11,
+      "live_tiles": 588,
+      "provider": "it-lombardia-agea",
+      "attribution": "Regione Lombardia – Ortofoto AGEA 2015 / 2021 (Geoportale della Lombardia)",
+      "hero3d": true
+    },
+    "242": {
+      "physical_venue_key": "monza",
+      "corner_views": 11,
+      "live_tiles": 588,
+      "provider": "it-lombardia-agea",
+      "attribution": "Regione Lombardia – Ortofoto AGEA 2015 / 2021 (Geoportale della Lombardia)",
+      "hero3d": true
+    },
+    "244": {
+      "physical_venue_key": "monza",
+      "corner_views": 11,
+      "live_tiles": 588,
+      "provider": "it-lombardia-agea",
+      "attribution": "Regione Lombardia – Ortofoto AGEA 2015 / 2021 (Geoportale della Lombardia)",
+      "hero3d": true
+    },
+    "249": {
+      "physical_venue_key": "nurburgring",
+      "corner_views": 0,
+      "live_tiles": 594,
+      "provider": "de-rlp",
+      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]",
+      "hero3d": false
+    },
+    "250": {
+      "physical_venue_key": "nurburgring",
+      "corner_views": 16,
+      "live_tiles": 382,
+      "provider": "de-rlp",
+      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]",
+      "hero3d": true
+    },
+    "252": {
+      "physical_venue_key": "nurburgring",
+      "corner_views": 0,
+      "live_tiles": 663,
+      "provider": "de-rlp",
+      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]",
+      "hero3d": false
+    },
+    "255": {
+      "physical_venue_key": "nurburgring",
+      "corner_views": 16,
+      "live_tiles": 380,
+      "provider": "de-rlp",
+      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]",
+      "hero3d": true
+    },
+    "259": {
+      "physical_venue_key": "nurburgring",
+      "corner_views": 11,
+      "live_tiles": 284,
+      "provider": "de-rlp",
+      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]",
+      "hero3d": true
+    },
+    "260": {
+      "physical_venue_key": "nurburgring",
+      "corner_views": 16,
+      "live_tiles": 382,
+      "provider": "de-rlp",
+      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]",
+      "hero3d": true
+    },
+    "262": {
+      "physical_venue_key": "nurburgring",
+      "corner_views": 0,
+      "live_tiles": 642,
+      "provider": "de-rlp",
+      "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]",
+      "hero3d": false
+    },
+    "266": {
+      "physical_venue_key": "imola",
+      "corner_views": 17,
+      "live_tiles": 490,
+      "provider": "it-rer",
+      "attribution": "© Regione Emilia-Romagna, Ortofoto RER 2022 RGB (CGR S.p.A.), CC BY 4.0",
+      "hero3d": true
+    },
+    "268": {
+      "physical_venue_key": "le-mans",
+      "corner_views": 33,
+      "live_tiles": 1380,
+      "provider": "ign-geoplateforme",
+      "attribution": "© IGN — Géoplateforme (Licence Ouverte / Etalab 2.0)",
+      "hero3d": true
+    },
+    "269": {
+      "physical_venue_key": "le-mans",
+      "corner_views": 33,
+      "live_tiles": 1380,
+      "provider": "ign-geoplateforme",
+      "attribution": "© IGN — Géoplateforme (Licence Ouverte / Etalab 2.0)",
+      "hero3d": true
+    },
+    "297": {
+      "physical_venue_key": "snetterton",
+      "corner_views": 13,
+      "live_tiles": 22,
+      "provider": "ea-lidar-osm",
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)",
+      "hero3d": true
+    },
+    "298": {
+      "physical_venue_key": "snetterton",
+      "corner_views": 13,
+      "live_tiles": 22,
+      "provider": "ea-lidar-osm",
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)",
+      "hero3d": true
+    },
+    "299": {
+      "physical_venue_key": "snetterton",
+      "corner_views": 13,
+      "live_tiles": 22,
+      "provider": "ea-lidar-osm",
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)",
+      "hero3d": true
+    },
+    "319": {
+      "physical_venue_key": "detroit-belle-isle",
+      "corner_views": 14,
+      "live_tiles": 98,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain",
+      "hero3d": false
+    },
+    "324": {
+      "physical_venue_key": "tsukuba",
+      "corner_views": 9,
+      "live_tiles": 121,
+      "provider": "jp-gsi",
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
+      "hero3d": true
+    },
+    "325": {
+      "physical_venue_key": "tsukuba",
+      "corner_views": 10,
+      "live_tiles": 121,
+      "provider": "jp-gsi",
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
+      "hero3d": true
+    },
+    "329": {
+      "physical_venue_key": "tsukuba",
+      "corner_views": 11,
+      "live_tiles": 30,
+      "provider": "jp-gsi",
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
+      "hero3d": true
+    },
+    "341": {
+      "physical_venue_key": "silverstone",
+      "corner_views": 18,
+      "live_tiles": 936,
+      "provider": "wm-skysat-silverstone",
+      "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)",
+      "hero3d": true
+    },
+    "342": {
+      "physical_venue_key": "silverstone",
+      "corner_views": 9,
+      "live_tiles": 506,
+      "provider": "wm-skysat-silverstone",
+      "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)",
+      "hero3d": true
+    },
+    "343": {
+      "physical_venue_key": "silverstone",
+      "corner_views": 6,
+      "live_tiles": 304,
+      "provider": "wm-skysat-silverstone",
+      "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)",
+      "hero3d": true
+    },
+    "345": {
+      "physical_venue_key": "barcelona-catalunya",
+      "corner_views": 16,
+      "live_tiles": 87,
+      "provider": "es-pnoa",
+      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
+      "hero3d": false
+    },
+    "346": {
+      "physical_venue_key": "barcelona-catalunya",
+      "corner_views": 11,
+      "live_tiles": 66,
+      "provider": "es-pnoa",
+      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
+      "hero3d": false
+    },
+    "349": {
+      "physical_venue_key": "barcelona-catalunya",
+      "corner_views": 13,
+      "live_tiles": 87,
+      "provider": "es-pnoa",
+      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
+      "hero3d": false
+    },
+    "352": {
+      "physical_venue_key": "lime-rock",
+      "corner_views": 7,
+      "live_tiles": 273,
+      "provider": "ct-cteco",
+      "attribution": "Connecticut ECO (UConn CLEAR & CT DEEP) — 2023 statewide orthoimagery",
+      "hero3d": true
+    },
+    "353": {
+      "physical_venue_key": "lime-rock",
+      "corner_views": 9,
+      "live_tiles": 273,
+      "provider": "ct-cteco",
+      "attribution": "Connecticut ECO (UConn CLEAR & CT DEEP) — 2023 statewide orthoimagery",
+      "hero3d": true
+    },
+    "354": {
+      "physical_venue_key": "lime-rock",
+      "corner_views": 11,
+      "live_tiles": 273,
+      "provider": "ct-cteco",
+      "attribution": "Connecticut ECO (UConn CLEAR & CT DEEP) — 2023 statewide orthoimagery",
+      "hero3d": true
+    },
+    "355": {
+      "physical_venue_key": "lime-rock",
+      "corner_views": 9,
+      "live_tiles": 273,
+      "provider": "ct-cteco",
+      "attribution": "Connecticut ECO (UConn CLEAR & CT DEEP) — 2023 statewide orthoimagery",
+      "hero3d": true
+    },
+    "362": {
+      "physical_venue_key": "homestead-miami",
+      "corner_views": 10,
+      "live_tiles": 620,
+      "provider": "fl-miami-dade-woolpert-2025",
+      "attribution": "Miami-Dade County GIS — Woolpert 2025 Aerial Imagery",
+      "hero3d": true
+    },
+    "381": {
+      "physical_venue_key": "daytona",
+      "corner_views": 14,
+      "live_tiles": 957,
+      "provider": "fl-volusia-2024",
+      "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
+      "hero3d": true
+    },
+    "390": {
+      "physical_venue_key": "hockenheimring",
+      "corner_views": 16,
+      "live_tiles": 187,
+      "provider": "de-bw",
+      "attribution": "© LGL-BW, dl-de/by-2-0",
+      "hero3d": true
+    },
+    "391": {
+      "physical_venue_key": "hockenheimring",
+      "corner_views": 15,
+      "live_tiles": 144,
+      "provider": "de-bw",
+      "attribution": "© LGL-BW, dl-de/by-2-0",
+      "hero3d": true
+    },
+    "395": {
+      "physical_venue_key": "hockenheimring",
+      "corner_views": 12,
+      "live_tiles": 188,
+      "provider": "de-bw",
+      "attribution": "© LGL-BW, dl-de/by-2-0",
+      "hero3d": true
+    },
+    "403": {
+      "physical_venue_key": "red-bull-ring",
+      "corner_views": 10,
+      "live_tiles": 522,
+      "provider": "at-basemap",
+      "attribution": "Datenquelle: basemap.at (CC BY 4.0)",
+      "hero3d": true
+    },
+    "404": {
+      "physical_venue_key": "red-bull-ring",
+      "corner_views": 6,
+      "live_tiles": 522,
+      "provider": "at-basemap",
+      "attribution": "Datenquelle: basemap.at (CC BY 4.0)",
+      "hero3d": true
+    },
+    "407": {
+      "physical_venue_key": "red-bull-ring",
+      "corner_views": 5,
+      "live_tiles": 522,
+      "provider": "at-basemap",
+      "attribution": "Datenquelle: basemap.at (CC BY 4.0)",
+      "hero3d": true
+    },
+    "413": {
+      "physical_venue_key": "hungaroring",
+      "corner_views": 14,
+      "live_tiles": 132,
+      "provider": "hu-lechner-2015",
+      "attribution": "Lechner Tudásközpont (Lechner Knowledge Centre) — Hungarian national orthophoto 2015",
+      "hero3d": true
+    },
+    "423": {
+      "physical_venue_key": "knockhill",
+      "corner_views": 9,
+      "live_tiles": 0,
+      "provider": "srsp-lidar-osm",
+      "attribution": "(c) Scottish Government / Scottish Remote Sensing Portal (OGL v3.0); (c) OpenStreetMap contributors (ODbL)",
+      "hero3d": false
+    },
+    "432": {
+      "physical_venue_key": "watkins-glen",
+      "corner_views": 7,
+      "live_tiles": 680,
+      "provider": "ny-its",
+      "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery",
+      "hero3d": true
+    },
+    "433": {
+      "physical_venue_key": "watkins-glen",
+      "corner_views": 7,
+      "live_tiles": 680,
+      "provider": "ny-its",
+      "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery",
+      "hero3d": true
+    },
+    "434": {
+      "physical_venue_key": "watkins-glen",
+      "corner_views": 11,
+      "live_tiles": 680,
+      "provider": "ny-its",
+      "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery",
+      "hero3d": true
+    },
+    "435": {
+      "physical_venue_key": "watkins-glen",
+      "corner_views": 11,
+      "live_tiles": 680,
+      "provider": "ny-its",
+      "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery",
+      "hero3d": true
+    },
+    "444": {
+      "physical_venue_key": "fuji",
+      "corner_views": 16,
+      "live_tiles": 870,
+      "provider": "jp-virtual-shizuoka-fuji",
+      "attribution": "VIRTUAL SHIZUOKA 静岡県 点群データ (CC BY 4.0) を加工して作成",
+      "hero3d": true
+    },
+    "445": {
+      "physical_venue_key": "fuji",
+      "corner_views": 14,
+      "live_tiles": 870,
+      "provider": "jp-virtual-shizuoka-fuji",
+      "attribution": "VIRTUAL SHIZUOKA 静岡県 点群データ (CC BY 4.0) を加工して作成",
+      "hero3d": true
+    },
+    "448": {
+      "physical_venue_key": "indianapolis",
+      "corner_views": 13,
+      "live_tiles": 612,
+      "provider": "in-gio-current",
+      "attribution": "Indiana Geographic Information Office — Statewide Orthoimagery (CC0)",
+      "hero3d": true
+    },
+    "449": {
+      "physical_venue_key": "oschersleben",
+      "corner_views": 14,
+      "live_tiles": 288,
+      "provider": "de-st",
+      "attribution": "© LVermGeo Sachsen-Anhalt, dl-de/by-2-0 [Daten bearbeitet]",
+      "hero3d": true
     },
     "453": {
-      "venue": "Indianapolis Motor Speedway",
-      "corners": 0,
-      "provider": "in-gio-current",
+      "physical_venue_key": "indianapolis",
+      "corner_views": 0,
       "live_tiles": 612,
-      "hero3d": true,
+      "provider": "in-gio-current",
       "attribution": "Indiana Geographic Information Office — Statewide Orthoimagery (CC0)",
-      "version": "indianapolis-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/indianapolis-v2-20260911/indianapolis.zip",
-      "sha256": "13dd9c0c358a3fc4",
-      "size_bytes": 50978833
+      "hero3d": true
+    },
+    "454": {
+      "physical_venue_key": "oschersleben",
+      "corner_views": 14,
+      "live_tiles": 288,
+      "provider": "de-st",
+      "attribution": "© LVermGeo Sachsen-Anhalt, dl-de/by-2-0 [Daten bearbeitet]",
+      "hero3d": true
+    },
+    "455": {
+      "physical_venue_key": "oschersleben",
+      "corner_views": 8,
+      "live_tiles": 288,
+      "provider": "de-st",
+      "attribution": "© LVermGeo Sachsen-Anhalt, dl-de/by-2-0 [Daten bearbeitet]",
+      "hero3d": true
+    },
+    "456": {
+      "physical_venue_key": "oschersleben",
+      "corner_views": 14,
+      "live_tiles": 288,
+      "provider": "de-st",
+      "attribution": "© LVermGeo Sachsen-Anhalt, dl-de/by-2-0 [Daten bearbeitet]",
+      "hero3d": true
+    },
+    "463": {
+      "physical_venue_key": "magny-cours",
+      "corner_views": 17,
+      "live_tiles": 117,
+      "provider": "ign-geoplateforme",
+      "attribution": "© IGN — Géoplateforme (Licence Ouverte / Etalab 2.0)",
+      "hero3d": false
+    },
+    "465": {
+      "physical_venue_key": "vir",
+      "corner_views": 16,
+      "live_tiles": 946,
+      "provider": "va-vbmp",
+      "attribution": "Virginia Geographic Information Network — VBMP",
+      "hero3d": true
+    },
+    "466": {
+      "physical_venue_key": "vir",
+      "corner_views": 0,
+      "live_tiles": 946,
+      "provider": "va-vbmp",
+      "attribution": "Virginia Geographic Information Network — VBMP",
+      "hero3d": true
+    },
+    "467": {
+      "physical_venue_key": "vir",
+      "corner_views": 16,
+      "live_tiles": 946,
+      "provider": "va-vbmp",
+      "attribution": "Virginia Geographic Information Network — VBMP",
+      "hero3d": true
+    },
+    "468": {
+      "physical_venue_key": "vir",
+      "corner_views": 0,
+      "live_tiles": 946,
+      "provider": "va-vbmp",
+      "attribution": "Virginia Geographic Information Network — VBMP",
+      "hero3d": true
+    },
+    "469": {
+      "physical_venue_key": "vir",
+      "corner_views": 0,
+      "live_tiles": 946,
+      "provider": "va-vbmp",
+      "attribution": "Virginia Geographic Information Network — VBMP",
+      "hero3d": true
+    },
+    "473": {
+      "physical_venue_key": "jerez",
+      "corner_views": 15,
+      "live_tiles": 85,
+      "provider": "es-pnoa",
+      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
+      "hero3d": false
+    },
+    "475": {
+      "physical_venue_key": "motorland-aragon",
+      "corner_views": 18,
+      "live_tiles": 117,
+      "provider": "es-pnoa",
+      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
+      "hero3d": false
+    },
+    "476": {
+      "physical_venue_key": "motorland-aragon",
+      "corner_views": 18,
+      "live_tiles": 117,
+      "provider": "es-pnoa",
+      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
+      "hero3d": false
+    },
+    "481": {
+      "physical_venue_key": "willow-springs",
+      "corner_views": 9,
+      "live_tiles": 100,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain",
+      "hero3d": false
+    },
+    "483": {
+      "physical_venue_key": "chicago-street-course",
+      "corner_views": 12,
+      "live_tiles": 335,
+      "provider": "il-cook-ortho-2024",
+      "attribution": "Cook County GIS — 2024 orthophotography",
+      "hero3d": true
+    },
+    "485": {
+      "physical_venue_key": "zandvoort",
+      "corner_views": 14,
+      "live_tiles": 437,
+      "provider": "nl-pdok",
+      "attribution": "© PDOK / Kadaster — Luchtfoto 2026 (CC BY 4.0)",
+      "hero3d": true
+    },
+    "486": {
+      "physical_venue_key": "zandvoort",
+      "corner_views": 0,
+      "live_tiles": 437,
+      "provider": "nl-pdok",
+      "attribution": "© PDOK / Kadaster — Luchtfoto 2026 (CC BY 4.0)",
+      "hero3d": true
+    },
+    "487": {
+      "physical_venue_key": "zandvoort",
+      "corner_views": 10,
+      "live_tiles": 437,
+      "provider": "nl-pdok",
+      "attribution": "© PDOK / Kadaster — Luchtfoto 2026 (CC BY 4.0)",
+      "hero3d": true
+    },
+    "488": {
+      "physical_venue_key": "zandvoort",
+      "corner_views": 0,
+      "live_tiles": 437,
+      "provider": "nl-pdok",
+      "attribution": "© PDOK / Kadaster — Luchtfoto 2026 (CC BY 4.0)",
+      "hero3d": true
+    },
+    "489": {
+      "physical_venue_key": "ledenon",
+      "corner_views": 15,
+      "live_tiles": 54,
+      "provider": "ign-geoplateforme",
+      "attribution": "© IGN — Géoplateforme (Licence Ouverte / Etalab 2.0)",
+      "hero3d": false
+    },
+    "498": {
+      "physical_venue_key": "mugello",
+      "corner_views": 15,
+      "live_tiles": 171,
+      "provider": "it-toscana",
+      "attribution": "© Regione Toscana — GEOscopio (CC BY 4.0). Projection corrected by Slipstream Live.",
+      "hero3d": true
+    },
+    "499": {
+      "physical_venue_key": "mugello",
+      "corner_views": 7,
+      "live_tiles": 116,
+      "provider": "it-toscana",
+      "attribution": "© Regione Toscana — GEOscopio (CC BY 4.0). Projection corrected by Slipstream Live.",
+      "hero3d": true
+    },
+    "501": {
+      "physical_venue_key": "misano",
+      "corner_views": 16,
+      "live_tiles": 147,
+      "provider": "it-rer",
+      "attribution": "© Regione Emilia-Romagna — RER 2023-24 (CC BY 4.0)",
+      "hero3d": true
+    },
+    "503": {
+      "physical_venue_key": "misano",
+      "corner_views": 11,
+      "live_tiles": 147,
+      "provider": "it-rer",
+      "attribution": "© Regione Emilia-Romagna — RER 2023-24 (CC BY 4.0)",
+      "hero3d": true
+    },
+    "505": {
+      "physical_venue_key": "misano",
+      "corner_views": 16,
+      "live_tiles": 143,
+      "provider": "it-rer",
+      "attribution": "© Regione Emilia-Romagna — RER 2023-24 (CC BY 4.0)",
+      "hero3d": true
+    },
+    "509": {
+      "physical_venue_key": "algarve-international-circuit",
+      "corner_views": 15,
+      "live_tiles": 85,
+      "provider": "pt-dgt-2018",
+      "attribution": "© Direção-Geral do Território (DGT) — Ortos2018 (CC BY 4.0)",
+      "hero3d": false
+    },
+    "515": {
+      "physical_venue_key": "navarra",
+      "corner_views": 15,
+      "live_tiles": 133,
+      "provider": "es-pnoa",
+      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
+      "hero3d": true
+    },
+    "516": {
+      "physical_venue_key": "navarra",
+      "corner_views": 8,
+      "live_tiles": 61,
+      "provider": "es-pnoa",
+      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
+      "hero3d": false
+    },
+    "517": {
+      "physical_venue_key": "navarra",
+      "corner_views": 6,
+      "live_tiles": 33,
+      "provider": "es-pnoa",
+      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
+      "hero3d": false
+    },
+    "521": {
+      "physical_venue_key": "sachsenring",
+      "corner_views": 13,
+      "live_tiles": 120,
+      "provider": "de-sn",
+      "attribution": "© GeoSN (Staatsbetrieb Geobasisinformation und Vermessung Sachsen), dl-de/by-2-0",
+      "hero3d": false
     },
     "522": {
-      "venue": "Indianapolis Motor Speedway",
-      "corners": 0,
-      "provider": "in-gio-current",
+      "physical_venue_key": "indianapolis",
+      "corner_views": 0,
       "live_tiles": 612,
-      "hero3d": true,
+      "provider": "in-gio-current",
       "attribution": "Indiana Geographic Information Office — Statewide Orthoimagery (CC0)",
-      "version": "indianapolis-v2-20260911",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/indianapolis-v2-20260911/indianapolis.zip",
-      "sha256": "13dd9c0c358a3fc4",
-      "size_bytes": 50978833
+      "hero3d": true
+    },
+    "523": {
+      "physical_venue_key": "spa",
+      "corner_views": 19,
+      "live_tiles": 1363,
+      "provider": "be-wallonia",
+      "attribution": "© SPW (Service public de Wallonie) — open data",
+      "hero3d": true
+    },
+    "524": {
+      "physical_venue_key": "spa",
+      "corner_views": 19,
+      "live_tiles": 1363,
+      "provider": "be-wallonia",
+      "attribution": "© SPW (Service public de Wallonie) — open data",
+      "hero3d": true
+    },
+    "525": {
+      "physical_venue_key": "spa",
+      "corner_views": 19,
+      "live_tiles": 1363,
+      "provider": "be-wallonia",
+      "attribution": "© SPW (Service public de Wallonie) — open data",
+      "hero3d": true
+    },
+    "526": {
+      "physical_venue_key": "spa",
+      "corner_views": 19,
+      "live_tiles": 1363,
+      "provider": "be-wallonia",
+      "attribution": "© SPW (Service public de Wallonie) — open data",
+      "hero3d": true
+    },
+    "527": {
+      "physical_venue_key": "cadwell-park",
+      "corner_views": 18,
+      "live_tiles": 21,
+      "provider": "ea-lidar-osm",
+      "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)",
+      "hero3d": true
+    },
+    "532": {
+      "physical_venue_key": "thruxton",
+      "corner_views": 12,
+      "live_tiles": 4,
+      "provider": "ea-vap",
+      "attribution": "© Environment Agency copyright and/or database right — Open Government Licence v3.0",
+      "hero3d": false
+    },
+    "536": {
+      "physical_venue_key": "portland",
+      "corner_views": 12,
+      "live_tiles": 68,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain",
+      "hero3d": false
+    },
+    "537": {
+      "physical_venue_key": "portland",
+      "corner_views": 0,
+      "live_tiles": 59,
+      "provider": "or-osip",
+      "attribution": "Oregon OSIP 2018",
+      "hero3d": false
+    },
+    "539": {
+      "physical_venue_key": "miami-international-autodrome",
+      "corner_views": 19,
+      "live_tiles": 490,
+      "provider": "fl-miami-dade-woolpert-2025",
+      "attribution": "Miami-Dade County GIS — Woolpert 2025 Aerial Imagery",
+      "hero3d": false
+    },
+    "550": {
+      "physical_venue_key": "charlotte-roval",
+      "corner_views": 0,
+      "live_tiles": 432,
+      "provider": "nc-cabarrus-charlotte-2025",
+      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
+      "hero3d": true
+    },
+    "551": {
+      "physical_venue_key": "charlotte-roval",
+      "corner_views": 0,
+      "live_tiles": 432,
+      "provider": "nc-cabarrus-charlotte-2025",
+      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
+      "hero3d": true
+    },
+    "552": {
+      "physical_venue_key": "charlotte-roval",
+      "corner_views": 0,
+      "live_tiles": 432,
+      "provider": "nc-cabarrus-charlotte-2025",
+      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
+      "hero3d": true
+    },
+    "553": {
+      "physical_venue_key": "charlotte-roval",
+      "corner_views": 0,
+      "live_tiles": 432,
+      "provider": "nc-cabarrus-charlotte-2025",
+      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
+      "hero3d": true
+    },
+    "554": {
+      "physical_venue_key": "charlotte-roval",
+      "corner_views": 15,
+      "live_tiles": 432,
+      "provider": "nc-cabarrus-charlotte-2025",
+      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
+      "hero3d": true
+    },
+    "555": {
+      "physical_venue_key": "charlotte-roval",
+      "corner_views": 0,
+      "live_tiles": 432,
+      "provider": "nc-cabarrus-charlotte-2025",
+      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
+      "hero3d": true
+    },
+    "556": {
+      "physical_venue_key": "charlotte-roval",
+      "corner_views": 0,
+      "live_tiles": 432,
+      "provider": "nc-cabarrus-charlotte-2025",
+      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
+      "hero3d": true
+    },
+    "557": {
+      "physical_venue_key": "charlotte-roval",
+      "corner_views": 0,
+      "live_tiles": 432,
+      "provider": "nc-cabarrus-charlotte-2025",
+      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
+      "hero3d": true
+    },
+    "558": {
+      "physical_venue_key": "charlotte-roval",
+      "corner_views": 0,
+      "live_tiles": 432,
+      "provider": "nc-cabarrus-charlotte-2025",
+      "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
+      "hero3d": true
+    },
+    "560": {
+      "physical_venue_key": "gateway",
+      "corner_views": 0,
+      "live_tiles": 32,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain",
+      "hero3d": true
+    },
+    "566": {
+      "physical_venue_key": "sonoma",
+      "corner_views": 18,
+      "live_tiles": 303,
+      "provider": "ca-sonoma-eagleview-2025",
+      "attribution": "Sonoma County and EagleView — 2025 orthophotography",
+      "hero3d": true
+    },
+    "570": {
+      "physical_venue_key": "sonoma",
+      "corner_views": 18,
+      "live_tiles": 303,
+      "provider": "ca-sonoma-eagleview-2025",
+      "attribution": "Sonoma County and EagleView — 2025 orthophotography",
+      "hero3d": true
+    },
+    "572": {
+      "physical_venue_key": "autodromo-hermanos-rodriguez",
+      "corner_views": 17,
+      "live_tiles": 1,
+      "provider": "wm-skysat-mexico",
+      "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)",
+      "hero3d": true
+    },
+    "584": {
+      "physical_venue_key": "st-petersburg",
+      "corner_views": 14,
+      "live_tiles": 361,
+      "provider": "fl-pinellas-aerials-2025",
+      "attribution": "Pinellas County Enterprise GIS — 2025 Aerial Imagery",
+      "hero3d": false
+    },
+    "585": {
+      "physical_venue_key": "barber",
+      "corner_views": 16,
+      "live_tiles": 357,
+      "provider": "al-jefferson-dop-2025",
+      "attribution": "Jefferson County GIS Consortium — 2025 Digital Orthophotos",
+      "hero3d": false
+    },
+    "586": {
+      "physical_venue_key": "laguna-seca",
+      "corner_views": 11,
+      "live_tiles": 414,
+      "provider": "naip",
+      "attribution": "USDA Farm Service Agency / USGS — public domain",
+      "hero3d": true
+    },
+    "596": {
+      "physical_venue_key": "road-america",
+      "corner_views": 0,
+      "live_tiles": 910,
+      "provider": "wi-dnr",
+      "attribution": "Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery",
+      "hero3d": true
     }
   }
 }
