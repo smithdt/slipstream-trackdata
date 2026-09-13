@@ -1,7 +1,7 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "satellite-index-v3-cbb3d2289d36-align-spa-20260913",
+  "version": "satellite-index-v3-cbb3d2289d36-align-five-20260913",
   "venues": [
     {
       "schema_version": 3,
@@ -82,10 +82,10 @@
       "schema_version": 3,
       "physical_venue_key": "canadian-tire-motorsport-park",
       "venue": "Canadian Tire Motorsport Park",
-      "version": "canadian-tire-motorsport-park-v3-9fa0c5a3db20",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/canadian-tire-motorsport-park-v3-9fa0c5a3db20/canadian-tire-motorsport-park.zip",
-      "size_bytes": 36482794,
-      "sha256": "e86b78677d71b3aa5d5b90a60b57142b877b86baeace0d900e42d01197aa125a",
+      "version": "canadian-tire-motorsport-park-v3-14664387b7e4",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/canadian-tire-motorsport-park-v3-14664387b7e4/canadian-tire-motorsport-park.zip",
+      "size_bytes": 37008756,
+      "sha256": "4fa129e9dc857073c57bdb02079873ec5781c78209393af1dc9afee4d589b036",
       "layouts": [
         144
       ]
@@ -310,10 +310,10 @@
       "schema_version": 3,
       "physical_venue_key": "laguna-seca",
       "venue": "WeatherTech Raceway Laguna Seca",
-      "version": "laguna-seca-v3-6865389dbfbd",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/laguna-seca-v3-6865389dbfbd/laguna-seca.zip",
-      "size_bytes": 38625370,
-      "sha256": "6c657c4cb8ddd035fa349133f4d86b30097d4ef586b8448982b5d8d52470a796",
+      "version": "laguna-seca-v3-313790a4814b",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/laguna-seca-v3-313790a4814b/laguna-seca.zip",
+      "size_bytes": 38334419,
+      "sha256": "e4a2f57447dedf03fbc0d0440d0aab769368efe67848a16af3a5f12323be980b",
       "layouts": [
         47,
         586
@@ -399,10 +399,10 @@
       "schema_version": 3,
       "physical_venue_key": "mid-ohio",
       "venue": "Mid-Ohio Sports Car Course",
-      "version": "mid-ohio-v3-96ee63267242",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/mid-ohio-v3-96ee63267242/mid-ohio.zip",
-      "size_bytes": 32888982,
-      "sha256": "6dcb7932d33757a992287e29792733259a42e61a7dd0f72947f49795c0e4cc2c",
+      "version": "mid-ohio-v3-3b142cb194a0",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/mid-ohio-v3-3b142cb194a0/mid-ohio.zip",
+      "size_bytes": 32974544,
+      "sha256": "cde262e707116b26674a782cf214e630081c38e77d61f7bf7f250dca53ddf8eb",
       "layouts": [
         153
       ]
@@ -561,10 +561,10 @@
       "schema_version": 3,
       "physical_venue_key": "okayama",
       "venue": "Okayama International Circuit",
-      "version": "okayama-v3-4c7d2afb856a",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/okayama-v3-4c7d2afb856a/okayama.zip",
-      "size_bytes": 40845479,
-      "sha256": "02696b02f0d63cceaa7077e90f957d4c3e669184564b6da1216d16fd6a54a6b1",
+      "version": "okayama-v3-4ad03d64e3bb",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/okayama-v3-4ad03d64e3bb/okayama.zip",
+      "size_bytes": 40531013,
+      "sha256": "511661d812c6ccb2d496e15753fd224fa6fb9583f4171cfb9c0fcdc5312955c2",
       "layouts": [
         166,
         167
@@ -814,10 +814,10 @@
       "schema_version": 3,
       "physical_venue_key": "tsukuba",
       "venue": "Tsukuba Circuit",
-      "version": "tsukuba-v3-f74928cd0217",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/tsukuba-v3-f74928cd0217/tsukuba.zip",
-      "size_bytes": 19692514,
-      "sha256": "1235a0d19db35de50f8bc05574a76c4073c0a4a34be2c558e19a0ffc271c3222",
+      "version": "tsukuba-v3-4e44a9337007",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/tsukuba-v3-4e44a9337007/tsukuba.zip",
+      "size_bytes": 19579946,
+      "sha256": "6d5b706f21bd99205361671be11a15e7de88dbe932f18966588bd8e0284bf82d",
       "layouts": [
         324,
         325,
