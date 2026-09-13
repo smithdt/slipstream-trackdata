@@ -1,7 +1,7 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "satellite-index-v3-cbb3d2289d36",
+  "version": "satellite-index-v3-cbb3d2289d36-align-spa-20260913",
   "venues": [
     {
       "schema_version": 3,
@@ -744,10 +744,10 @@
       "schema_version": 3,
       "physical_venue_key": "spa",
       "venue": "Circuit de Spa-Francorchamps",
-      "version": "spa-v3-a2c44b0620f1",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v3-a2c44b0620f1/spa.zip",
-      "size_bytes": 115560420,
-      "sha256": "97f4d1263b708ffdff3609c438212e5be0e872939812209eff676d257d3729c6",
+      "version": "spa-v3-2a80d5a1b3ac",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/spa-v3-2a80d5a1b3ac/spa.zip",
+      "size_bytes": 114855544,
+      "sha256": "96610d484af54adc4ee9a88a05c26e5a449910f73c6a42f19c88db861f5de759",
       "layouts": [
         163,
         164,
