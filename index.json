@@ -1,7 +1,7 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "satellite-index-v3-cbb3d2289d36-align-repairs-20260914",
+  "version": "satellite-index-v3-cbb3d2289d36-thruxton-lidar-fill-20260914",
   "venues": [
     {
       "schema_version": 3,
@@ -802,10 +802,10 @@
       "schema_version": 3,
       "physical_venue_key": "thruxton",
       "venue": "Thruxton Circuit",
-      "version": "thruxton-v3-00e29517dd1c",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/thruxton-v3-00e29517dd1c/thruxton.zip",
-      "size_bytes": 1022183,
-      "sha256": "b07c36460c3b54103136a6ab99c1523f2f9a45b3e7db397b754afca7ca4a4284",
+      "version": "thruxton-v3-861a7b9fe6e7",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/thruxton-v3-861a7b9fe6e7/thruxton.zip",
+      "size_bytes": 10152281,
+      "sha256": "f46749cdadeb9b755fd79ed4d77092ee42654936478be2869d916bc069e37ef8",
       "layouts": [
         532
       ]
@@ -2105,10 +2105,10 @@
     "532": {
       "physical_venue_key": "thruxton",
       "corner_views": 12,
-      "live_tiles": 4,
-      "provider": "ea-vap",
-      "attribution": "© Environment Agency copyright and/or database right — Open Government Licence v3.0",
-      "hero3d": false
+      "live_tiles": 176,
+      "provider": "ea-vap-lidar-fill",
+      "attribution": "© Environment Agency copyright and/or database right 2014, 2021. Open Government Licence v3.0. LIDAR-derived fill by Slipstream Live.",
+      "hero3d": true
     },
     "536": {
       "physical_venue_key": "portland",
