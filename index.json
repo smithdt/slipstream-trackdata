@@ -1,7 +1,7 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "satellite-index-v3-cbb3d2289d36-align-restore-20260914",
+  "version": "satellite-index-v3-cbb3d2289d36-align-repairs-20260914",
   "venues": [
     {
       "schema_version": 3,
@@ -19,10 +19,10 @@
       "schema_version": 3,
       "physical_venue_key": "autodromo-hermanos-rodriguez",
       "venue": "Autódromo Hermanos Rodríguez",
-      "version": "autodromo-hermanos-rodriguez-v3-b74323e57b8c",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/autodromo-hermanos-rodriguez-v3-b74323e57b8c/autodromo-hermanos-rodriguez.zip",
-      "size_bytes": 5289091,
-      "sha256": "9004d0f71cdb0970b0a30bbc58c0c5622a6e0771e2fd9b3b83743c2cdaa526b5",
+      "version": "autodromo-hermanos-rodriguez-v3-23f155b970d5",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/autodromo-hermanos-rodriguez-v3-23f155b970d5/autodromo-hermanos-rodriguez.zip",
+      "size_bytes": 3146651,
+      "sha256": "d582a0f2e6b8052127a94f514ba310b5cd2d275bafaf0dfc07de498dbf155ee6",
       "layouts": [
         572
       ]
@@ -464,10 +464,10 @@
       "schema_version": 3,
       "physical_venue_key": "motegi",
       "venue": "Mobility Resort Motegi",
-      "version": "motegi-v3-40e313f64785",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/motegi-v3-40e313f64785/motegi.zip",
-      "size_bytes": 13101619,
-      "sha256": "b4ba55a6734f006824d05c1485e642add5570206c01306bb30f55a549a00d336",
+      "version": "motegi-v3-e016e4dd95e5",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/motegi-v3-e016e4dd95e5/motegi.zip",
+      "size_bytes": 12223332,
+      "sha256": "34334f6ff8706903e940ae9af0d68c2b2162bc1b04858b7cd841c6d982dd0ae3",
       "layouts": [
         195,
         196,
@@ -663,10 +663,10 @@
       "schema_version": 3,
       "physical_venue_key": "road-atlanta",
       "venue": "Road Atlanta",
-      "version": "road-atlanta-v3-2a598c0092f8",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-atlanta-v3-2a598c0092f8/road-atlanta.zip",
-      "size_bytes": 160786531,
-      "sha256": "a122410bfce7e2812b0a751dc06d0df52221608ba378d42a37a63a189f8db510",
+      "version": "road-atlanta-v3-d21929602806",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-atlanta-v3-d21929602806/road-atlanta.zip",
+      "size_bytes": 135246559,
+      "sha256": "a667e08ad7a13b6b8a947a9f89e0ba149ccd0cede6cce228c9d30ecc12583c2f",
       "layouts": [
         126,
         127,
