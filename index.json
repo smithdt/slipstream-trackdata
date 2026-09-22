@@ -1,7 +1,7 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "satellite-index-v3-cbb3d2289d36-thruxton-lidar-fill-20260914",
+  "version": "satellite-index-v3-cbb3d2289d36-aragon-all-layouts-knockhill-cohort-20260922",
   "venues": [
     {
       "schema_version": 3,
@@ -298,10 +298,10 @@
       "schema_version": 3,
       "physical_venue_key": "knockhill",
       "venue": "Knockhill Racing Circuit",
-      "version": "knockhill-v3-5c64e9dc4702",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/knockhill-v3-5c64e9dc4702/knockhill.zip",
-      "size_bytes": 1369096,
-      "sha256": "dc773a4f9c740bac0d4c0317e6f11fb6202de3464d5f21a913e7cebb0ce4f2a6",
+      "version": "knockhill-v3-105bb7ea0216",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/knockhill-v3-105bb7ea0216/knockhill.zip",
+      "size_bytes": 1369095,
+      "sha256": "9327238b7047a587f295f3ba2765763637f8319660f50f18be7b07072068c852",
       "layouts": [
         423
       ]
@@ -479,13 +479,18 @@
       "schema_version": 3,
       "physical_venue_key": "motorland-aragon",
       "venue": "MotorLand Aragón",
-      "version": "motorland-aragon-v3-1c356f7e3564",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/motorland-aragon-v3-1c356f7e3564/motorland-aragon.zip",
-      "size_bytes": 6925415,
-      "sha256": "aadffce0cfedba6505d3c6f18d449cfecdde54de77f484522ebee9b7839e16ce",
+      "version": "motorland-aragon-v3-602f6ec8627d",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/motorland-aragon-v3-602f6ec8627d/motorland-aragon.zip",
+      "size_bytes": 6982659,
+      "sha256": "c515ac1241b04a5bc0fe1368fddc0676025ab522745c68c8449174fb077f6ee3",
       "layouts": [
         475,
-        476
+        476,
+        477,
+        478,
+        479,
+        480,
+        482
       ]
     },
     {
@@ -1918,12 +1923,52 @@
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
       "hero3d": false
     },
+    "477": {
+      "physical_venue_key": "motorland-aragon",
+      "corner_views": 18,
+      "live_tiles": 117,
+      "provider": "es-pnoa",
+      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
+      "hero3d": false
+    },
+    "478": {
+      "physical_venue_key": "motorland-aragon",
+      "corner_views": 18,
+      "live_tiles": 117,
+      "provider": "es-pnoa",
+      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
+      "hero3d": false
+    },
+    "479": {
+      "physical_venue_key": "motorland-aragon",
+      "corner_views": 18,
+      "live_tiles": 117,
+      "provider": "es-pnoa",
+      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
+      "hero3d": false
+    },
+    "480": {
+      "physical_venue_key": "motorland-aragon",
+      "corner_views": 18,
+      "live_tiles": 117,
+      "provider": "es-pnoa",
+      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
+      "hero3d": false
+    },
     "481": {
       "physical_venue_key": "willow-springs",
       "corner_views": 9,
       "live_tiles": 100,
       "provider": "naip",
       "attribution": "USDA Farm Service Agency / USGS — public domain",
+      "hero3d": false
+    },
+    "482": {
+      "physical_venue_key": "motorland-aragon",
+      "corner_views": 18,
+      "live_tiles": 117,
+      "provider": "es-pnoa",
+      "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
       "hero3d": false
     },
     "483": {
