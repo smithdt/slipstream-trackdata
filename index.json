@@ -1,7 +1,7 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "satellite-index-v3-aragon-restored-20260922",
+  "version": "satellite-index-v3-long-beach-cars-20260923",
   "venues": [
     {
       "schema_version": 3,
@@ -363,10 +363,10 @@
       "schema_version": 3,
       "physical_venue_key": "long-beach",
       "venue": "Long Beach Street Circuit",
-      "version": "long-beach-v3-b1f4c4b565f1",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/long-beach-v3-b1f4c4b565f1/long-beach.zip",
-      "size_bytes": 5765527,
-      "sha256": "e77bbde6cbb739f853a8e414a26b315d5d7939ac2bac87b8de83902d2803150b",
+      "version": "long-beach-v3-d748a4b98b9f",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/long-beach-v3-d748a4b98b9f/long-beach.zip",
+      "size_bytes": 18367427,
+      "sha256": "30446d4ef4870fb63ac4adcf58c9c6830bc2c9a7fb7d5e66e3cc8a638d2fc776",
       "layouts": [
         179
       ]
@@ -1190,7 +1190,7 @@
     "179": {
       "physical_venue_key": "long-beach",
       "corner_views": 11,
-      "live_tiles": 60,
+      "live_tiles": 159,
       "provider": "us-noaa-long-beach-2025-local",
       "attribution": "NOAA National Geodetic Survey, 2025",
       "hero3d": true
