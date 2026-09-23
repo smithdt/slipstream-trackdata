@@ -1,7 +1,7 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "satellite-index-v3-cbb3d2289d36-aragon-all-layouts-knockhill-cohort-20260922",
+  "version": "satellite-index-v3-aragon-restored-20260922",
   "venues": [
     {
       "schema_version": 3,
@@ -479,10 +479,10 @@
       "schema_version": 3,
       "physical_venue_key": "motorland-aragon",
       "venue": "MotorLand Aragón",
-      "version": "motorland-aragon-v3-602f6ec8627d",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/motorland-aragon-v3-602f6ec8627d/motorland-aragon.zip",
-      "size_bytes": 6982659,
-      "sha256": "c515ac1241b04a5bc0fe1368fddc0676025ab522745c68c8449174fb077f6ee3",
+      "version": "motorland-aragon-v3-b19300451293",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/motorland-aragon-v3-b19300451293/motorland-aragon.zip",
+      "size_bytes": 31561424,
+      "sha256": "c33599392c89c8540bf5a742780a762bc13ca89e13ef4cb2652c5f36446a2c7d",
       "layouts": [
         475,
         476,
@@ -1910,50 +1910,50 @@
     "475": {
       "physical_venue_key": "motorland-aragon",
       "corner_views": 18,
-      "live_tiles": 117,
+      "live_tiles": 299,
       "provider": "es-pnoa",
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
-      "hero3d": false
+      "hero3d": true
     },
     "476": {
       "physical_venue_key": "motorland-aragon",
       "corner_views": 18,
-      "live_tiles": 117,
+      "live_tiles": 299,
       "provider": "es-pnoa",
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
-      "hero3d": false
+      "hero3d": true
     },
     "477": {
       "physical_venue_key": "motorland-aragon",
       "corner_views": 18,
-      "live_tiles": 117,
+      "live_tiles": 299,
       "provider": "es-pnoa",
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
-      "hero3d": false
+      "hero3d": true
     },
     "478": {
       "physical_venue_key": "motorland-aragon",
       "corner_views": 18,
-      "live_tiles": 117,
+      "live_tiles": 299,
       "provider": "es-pnoa",
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
-      "hero3d": false
+      "hero3d": true
     },
     "479": {
       "physical_venue_key": "motorland-aragon",
       "corner_views": 18,
-      "live_tiles": 117,
+      "live_tiles": 299,
       "provider": "es-pnoa",
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
-      "hero3d": false
+      "hero3d": true
     },
     "480": {
       "physical_venue_key": "motorland-aragon",
       "corner_views": 18,
-      "live_tiles": 117,
+      "live_tiles": 299,
       "provider": "es-pnoa",
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
-      "hero3d": false
+      "hero3d": true
     },
     "481": {
       "physical_venue_key": "willow-springs",
@@ -1966,10 +1966,10 @@
     "482": {
       "physical_venue_key": "motorland-aragon",
       "corner_views": 18,
-      "live_tiles": 117,
+      "live_tiles": 299,
       "provider": "es-pnoa",
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
-      "hero3d": false
+      "hero3d": true
     },
     "483": {
       "physical_venue_key": "chicago-street-course",
