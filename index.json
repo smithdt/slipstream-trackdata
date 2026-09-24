@@ -1,16 +1,16 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "satellite-index-v3-long-beach-cars-20260923",
+  "version": "satellite-index-v3-s4-20260924",
   "venues": [
     {
       "schema_version": 3,
       "physical_venue_key": "algarve-international-circuit",
       "venue": "Algarve International Circuit",
-      "version": "algarve-international-circuit-v3-6194758f80ef",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/algarve-international-circuit-v3-6194758f80ef/algarve-international-circuit.zip",
-      "size_bytes": 7418731,
-      "sha256": "897bead22f5a339e8af1557da236f6f033de2eb8d88e54064420b235fb3ad466",
+      "version": "algarve-international-circuit-v3-e7a6455085d2",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/algarve-international-circuit-v3-e7a6455085d2/algarve-international-circuit.zip",
+      "size_bytes": 30619881,
+      "sha256": "1ed6037baa8fba7864a4f953dbf70a6986450548d89fecbf272524c8b8576092",
       "layouts": [
         509
       ]
@@ -19,10 +19,10 @@
       "schema_version": 3,
       "physical_venue_key": "autodromo-hermanos-rodriguez",
       "venue": "Autódromo Hermanos Rodríguez",
-      "version": "autodromo-hermanos-rodriguez-v3-23f155b970d5",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/autodromo-hermanos-rodriguez-v3-23f155b970d5/autodromo-hermanos-rodriguez.zip",
-      "size_bytes": 3146651,
-      "sha256": "d582a0f2e6b8052127a94f514ba310b5cd2d275bafaf0dfc07de498dbf155ee6",
+      "version": "autodromo-hermanos-rodriguez-v3-df4c1f586b90",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/autodromo-hermanos-rodriguez-v3-df4c1f586b90/autodromo-hermanos-rodriguez.zip",
+      "size_bytes": 82311526,
+      "sha256": "55a92c24465e53b1f27055feed6378fe0978a9daf79e3c6a323c5ba163f437fa",
       "layouts": [
         572
       ]
@@ -43,10 +43,10 @@
       "schema_version": 3,
       "physical_venue_key": "barcelona-catalunya",
       "venue": "Circuit de Barcelona Catalunya",
-      "version": "barcelona-catalunya-v3-1f45d0d09300",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/barcelona-catalunya-v3-1f45d0d09300/barcelona-catalunya.zip",
-      "size_bytes": 18263850,
-      "sha256": "9c54df3c59f6f14f6331c3f6e18a2d48e14c171652240f26de7de3711783c408",
+      "version": "barcelona-catalunya-v3-54fe4a66759a",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/barcelona-catalunya-v3-54fe4a66759a/barcelona-catalunya.zip",
+      "size_bytes": 144475302,
+      "sha256": "d1aabdf99e57b9fa150861d44289709c61776e8ec2ca1a6c9b1168daf79dc47a",
       "layouts": [
         345,
         346,
@@ -126,10 +126,10 @@
       "schema_version": 3,
       "physical_venue_key": "cota",
       "venue": "Circuit of the Americas",
-      "version": "cota-v3-901ef626aa65",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/cota-v3-901ef626aa65/cota.zip",
-      "size_bytes": 36550565,
-      "sha256": "5a43e87f4d15d2b972e92406cf6a6ab0e236cc0f021a2fd7679562267997dc35",
+      "version": "cota-v3-77545a7ea6ca",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/cota-v3-77545a7ea6ca/cota.zip",
+      "size_bytes": 86184525,
+      "sha256": "a067e96d3f2b97afc0be2ef028732e9c16780d6eb48b9a779bc504935332f39b",
       "layouts": [
         229
       ]
@@ -209,10 +209,10 @@
       "schema_version": 3,
       "physical_venue_key": "hockenheimring",
       "venue": "Hockenheimring Baden-Württemberg",
-      "version": "hockenheimring-v3-2d2b1569d6a0",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/hockenheimring-v3-2d2b1569d6a0/hockenheimring.zip",
-      "size_bytes": 54769358,
-      "sha256": "9ee7a6e4f76a85aefdd3c358c50fd4a408aebb92e04e3d8c137942c0bab5837a",
+      "version": "hockenheimring-v3-342dd60b10e2",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/hockenheimring-v3-342dd60b10e2/hockenheimring.zip",
+      "size_bytes": 173242503,
+      "sha256": "3a527ff3d8c6209da0c8b557be00eba378c621f367870e8221f1ffb8b353ad19",
       "layouts": [
         390,
         391,
@@ -336,10 +336,10 @@
       "schema_version": 3,
       "physical_venue_key": "ledenon",
       "venue": "Circuit de Ledenon",
-      "version": "ledenon-v3-718d66841eae",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/ledenon-v3-718d66841eae/ledenon.zip",
-      "size_bytes": 8741715,
-      "sha256": "7bcfe2303b166e26fc01d93cc73743ab6fdf3f7f2718ff754fc520618b47f35d",
+      "version": "ledenon-v3-7e7fdf88bc35",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/ledenon-v3-7e7fdf88bc35/ledenon.zip",
+      "size_bytes": 19150999,
+      "sha256": "a79f0fa7e42227bebf859a11f77dba972c5494641bd4e7ce5edaa35710547855",
       "layouts": [
         489
       ]
@@ -375,10 +375,10 @@
       "schema_version": 3,
       "physical_venue_key": "magny-cours",
       "venue": "Circuit de Nevers Magny-Cours",
-      "version": "magny-cours-v3-a1d91af8b452",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/magny-cours-v3-a1d91af8b452/magny-cours.zip",
-      "size_bytes": 14004612,
-      "sha256": "4ad1ceeacd231681a6e72c17b6096d2e6cf0c837c1cc274b69f9b848d1f09501",
+      "version": "magny-cours-v3-46c33fc2fa26",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/magny-cours-v3-46c33fc2fa26/magny-cours.zip",
+      "size_bytes": 29808461,
+      "sha256": "4c28ab466986adad0d86b92b70cffc7ab44fad7743db40e6c714be78b858222b",
       "layouts": [
         463
       ]
@@ -464,10 +464,10 @@
       "schema_version": 3,
       "physical_venue_key": "motegi",
       "venue": "Mobility Resort Motegi",
-      "version": "motegi-v3-e016e4dd95e5",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/motegi-v3-e016e4dd95e5/motegi.zip",
-      "size_bytes": 12223332,
-      "sha256": "34334f6ff8706903e940ae9af0d68c2b2162bc1b04858b7cd841c6d982dd0ae3",
+      "version": "motegi-v3-b3ff8b461bfd",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/motegi-v3-b3ff8b461bfd/motegi.zip",
+      "size_bytes": 51140247,
+      "sha256": "8a0b4f74b6204588aa9888cd3676b24f01b98d786994fba40f7a50c01602853d",
       "layouts": [
         195,
         196,
@@ -509,10 +509,10 @@
       "schema_version": 3,
       "physical_venue_key": "mugello",
       "venue": "Autodromo Internazionale del Mugello",
-      "version": "mugello-v3-595b3f5b802b",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/mugello-v3-595b3f5b802b/mugello.zip",
-      "size_bytes": 26624969,
-      "sha256": "f2405e6290636c565631df7b58746e077d5e294795d717967b774fbacbb3a31e",
+      "version": "mugello-v3-802710774058",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/mugello-v3-802710774058/mugello.zip",
+      "size_bytes": 78408201,
+      "sha256": "5cf9c812b2306ffff1a01d50962dbc099f9a117ca3d217b8f0e0874bf3657596",
       "layouts": [
         498,
         499
@@ -522,10 +522,10 @@
       "schema_version": 3,
       "physical_venue_key": "navarra",
       "venue": "Circuito de Navarra",
-      "version": "navarra-v3-5f1623aa8bd8",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/navarra-v3-5f1623aa8bd8/navarra.zip",
-      "size_bytes": 21587970,
-      "sha256": "c2c7b13dc5e00d9dde5ac8c30dc843a119d62cf1dea0d98d995e0a8255859c75",
+      "version": "navarra-v3-bff22336c30d",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/navarra-v3-bff22336c30d/navarra.zip",
+      "size_bytes": 64471485,
+      "sha256": "4c59d0b1fd8c2eeae3fa89f30283668da90adfe14516f213d401e1701b3ba4d9",
       "layouts": [
         515,
         516,
@@ -736,10 +736,10 @@
       "schema_version": 3,
       "physical_venue_key": "sonoma",
       "venue": "Sonoma Raceway",
-      "version": "sonoma-v3-985b14d87df9",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/sonoma-v3-985b14d87df9/sonoma.zip",
-      "size_bytes": 18937987,
-      "sha256": "37597749db7ba778e8b3aacca37d789173dd5ba6f6dc6a6a7cb900d4b97aa699",
+      "version": "sonoma-v3-7b4eb3ce32f9",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/sonoma-v3-7b4eb3ce32f9/sonoma.zip",
+      "size_bytes": 52419350,
+      "sha256": "eb610722690e762166b5328b46792c1e9a9278a7b55a67086bee065011f53d0f",
       "layouts": [
         566,
         570
@@ -896,10 +896,10 @@
       "schema_version": 3,
       "physical_venue_key": "zolder",
       "venue": "Circuit Zolder",
-      "version": "zolder-v3-b8b8579c4a01",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/zolder-v3-b8b8579c4a01/zolder.zip",
-      "size_bytes": 23109463,
-      "sha256": "1b8f5a23b57bfec75348d9dbcbc0d031987e22ededf6b1bfffcec4ad195ab20c",
+      "version": "zolder-v3-cdaf07a43be2",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/zolder-v3-cdaf07a43be2/zolder.zip",
+      "size_bytes": 118890377,
+      "sha256": "dfe1a3ac0dd1c38e64583dea7a8a0dee96d848378d8a49fc3a746cb1f9605010",
       "layouts": [
         199,
         200
@@ -1270,7 +1270,7 @@
     "195": {
       "physical_venue_key": "motegi",
       "corner_views": 14,
-      "live_tiles": 154,
+      "live_tiles": 567,
       "provider": "jp-gsi",
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
       "hero3d": true
@@ -1278,7 +1278,7 @@
     "196": {
       "physical_venue_key": "motegi",
       "corner_views": 0,
-      "live_tiles": 154,
+      "live_tiles": 567,
       "provider": "jp-gsi",
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
       "hero3d": true
@@ -1286,7 +1286,7 @@
     "197": {
       "physical_venue_key": "motegi",
       "corner_views": 0,
-      "live_tiles": 154,
+      "live_tiles": 567,
       "provider": "jp-gsi",
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
       "hero3d": true
@@ -1294,7 +1294,7 @@
     "198": {
       "physical_venue_key": "motegi",
       "corner_views": 0,
-      "live_tiles": 154,
+      "live_tiles": 567,
       "provider": "jp-gsi",
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
       "hero3d": true
@@ -1302,7 +1302,7 @@
     "199": {
       "physical_venue_key": "zolder",
       "corner_views": 10,
-      "live_tiles": 168,
+      "live_tiles": 780,
       "provider": "be-flanders",
       "attribution": "© Digitaal Vlaanderen — Orthofotomozaïek",
       "hero3d": true
@@ -1310,7 +1310,7 @@
     "200": {
       "physical_venue_key": "zolder",
       "corner_views": 10,
-      "live_tiles": 166,
+      "live_tiles": 780,
       "provider": "be-flanders",
       "attribution": "© Digitaal Vlaanderen — Orthofotomozaïek",
       "hero3d": true
@@ -1398,7 +1398,7 @@
     "229": {
       "physical_venue_key": "cota",
       "corner_views": 20,
-      "live_tiles": 358,
+      "live_tiles": 1008,
       "provider": "tx-stratmap19-caparea",
       "attribution": "Texas StratMap 2019 / TxGIO (TNRIS) — Capital Area",
       "hero3d": true
@@ -1622,26 +1622,26 @@
     "345": {
       "physical_venue_key": "barcelona-catalunya",
       "corner_views": 16,
-      "live_tiles": 87,
+      "live_tiles": 594,
       "provider": "es-pnoa",
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
-      "hero3d": false
+      "hero3d": true
     },
     "346": {
       "physical_venue_key": "barcelona-catalunya",
       "corner_views": 11,
-      "live_tiles": 66,
+      "live_tiles": 330,
       "provider": "es-pnoa",
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
-      "hero3d": false
+      "hero3d": true
     },
     "349": {
       "physical_venue_key": "barcelona-catalunya",
       "corner_views": 13,
-      "live_tiles": 87,
+      "live_tiles": 594,
       "provider": "es-pnoa",
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
-      "hero3d": false
+      "hero3d": true
     },
     "352": {
       "physical_venue_key": "lime-rock",
@@ -1694,25 +1694,25 @@
     "390": {
       "physical_venue_key": "hockenheimring",
       "corner_views": 16,
-      "live_tiles": 187,
+      "live_tiles": 693,
       "provider": "de-bw",
-      "attribution": "© LGL-BW, dl-de/by-2-0",
+      "attribution": "LGL-BW (2026), Datenlizenz Deutschland - Namensnennung - Version 2.0, www.lgl-bw.de. Historical2021 imagery processed and partly generatively restored by Slipstream Live.",
       "hero3d": true
     },
     "391": {
       "physical_venue_key": "hockenheimring",
       "corner_views": 15,
-      "live_tiles": 144,
+      "live_tiles": 504,
       "provider": "de-bw",
-      "attribution": "© LGL-BW, dl-de/by-2-0",
+      "attribution": "LGL-BW (2026), Datenlizenz Deutschland - Namensnennung - Version 2.0, www.lgl-bw.de. Historical2021 imagery processed and partly generatively restored by Slipstream Live.",
       "hero3d": true
     },
     "395": {
       "physical_venue_key": "hockenheimring",
       "corner_views": 12,
-      "live_tiles": 188,
+      "live_tiles": 693,
       "provider": "de-bw",
-      "attribution": "© LGL-BW, dl-de/by-2-0",
+      "attribution": "LGL-BW (2026), Datenlizenz Deutschland - Namensnennung - Version 2.0, www.lgl-bw.de. Historical2021 imagery processed and partly generatively restored by Slipstream Live.",
       "hero3d": true
     },
     "403": {
@@ -1854,10 +1854,10 @@
     "463": {
       "physical_venue_key": "magny-cours",
       "corner_views": 17,
-      "live_tiles": 117,
+      "live_tiles": 384,
       "provider": "ign-geoplateforme",
       "attribution": "© IGN — Géoplateforme (Licence Ouverte / Etalab 2.0)",
-      "hero3d": false
+      "hero3d": true
     },
     "465": {
       "physical_venue_key": "vir",
@@ -2014,15 +2014,15 @@
     "489": {
       "physical_venue_key": "ledenon",
       "corner_views": 15,
-      "live_tiles": 54,
+      "live_tiles": 187,
       "provider": "ign-geoplateforme",
       "attribution": "© IGN — Géoplateforme (Licence Ouverte / Etalab 2.0)",
-      "hero3d": false
+      "hero3d": true
     },
     "498": {
       "physical_venue_key": "mugello",
       "corner_views": 15,
-      "live_tiles": 171,
+      "live_tiles": 630,
       "provider": "it-toscana",
       "attribution": "© Regione Toscana — GEOscopio (CC BY 4.0). Projection corrected by Slipstream Live.",
       "hero3d": true
@@ -2030,7 +2030,7 @@
     "499": {
       "physical_venue_key": "mugello",
       "corner_views": 7,
-      "live_tiles": 116,
+      "live_tiles": 336,
       "provider": "it-toscana",
       "attribution": "© Regione Toscana — GEOscopio (CC BY 4.0). Projection corrected by Slipstream Live.",
       "hero3d": true
@@ -2062,15 +2062,15 @@
     "509": {
       "physical_venue_key": "algarve-international-circuit",
       "corner_views": 15,
-      "live_tiles": 85,
+      "live_tiles": 432,
       "provider": "pt-dgt-2018",
       "attribution": "© Direção-Geral do Território (DGT) — Ortos2018 (CC BY 4.0)",
-      "hero3d": false
+      "hero3d": true
     },
     "515": {
       "physical_venue_key": "navarra",
       "corner_views": 15,
-      "live_tiles": 133,
+      "live_tiles": 181,
       "provider": "es-pnoa",
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
       "hero3d": true
@@ -2078,18 +2078,18 @@
     "516": {
       "physical_venue_key": "navarra",
       "corner_views": 8,
-      "live_tiles": 61,
+      "live_tiles": 116,
       "provider": "es-pnoa",
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
-      "hero3d": false
+      "hero3d": true
     },
     "517": {
       "physical_venue_key": "navarra",
       "corner_views": 6,
-      "live_tiles": 33,
+      "live_tiles": 58,
       "provider": "es-pnoa",
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
-      "hero3d": false
+      "hero3d": true
     },
     "521": {
       "physical_venue_key": "sachsenring",
@@ -2262,7 +2262,7 @@
     "566": {
       "physical_venue_key": "sonoma",
       "corner_views": 18,
-      "live_tiles": 303,
+      "live_tiles": 483,
       "provider": "ca-sonoma-eagleview-2025",
       "attribution": "Sonoma County and EagleView — 2025 orthophotography",
       "hero3d": true
@@ -2270,7 +2270,7 @@
     "570": {
       "physical_venue_key": "sonoma",
       "corner_views": 18,
-      "live_tiles": 303,
+      "live_tiles": 483,
       "provider": "ca-sonoma-eagleview-2025",
       "attribution": "Sonoma County and EagleView — 2025 orthophotography",
       "hero3d": true
@@ -2278,7 +2278,7 @@
     "572": {
       "physical_venue_key": "autodromo-hermanos-rodriguez",
       "corner_views": 17,
-      "live_tiles": 1,
+      "live_tiles": 792,
       "provider": "wm-skysat-mexico",
       "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)",
       "hero3d": true
