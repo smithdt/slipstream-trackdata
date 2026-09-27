@@ -1,7 +1,7 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "satellite-tsukuba-20260926",
+  "version": "satellite-tsukuba-seven-20260926",
   "venues": [
     {
       "schema_version": 3,
@@ -819,14 +819,18 @@
       "schema_version": 3,
       "physical_venue_key": "tsukuba",
       "venue": "Tsukuba Circuit",
-      "version": "tsukuba-v3-0f34a133cc68",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/tsukuba-v3-0f34a133cc68/tsukuba.zip",
-      "size_bytes": 34063674,
-      "sha256": "3ede6982842366082e69d3cd6909df5f19ba3845958f4c907bd0f7bedb2bfcd4",
+      "version": "tsukuba-v3-58023e8b5d95",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/tsukuba-v3-58023e8b5d95/tsukuba.zip",
+      "size_bytes": 34082331,
+      "sha256": "00b533e6817dfd10a2808a08cde2edeecf55a7db6419d764d91a15ee8fd2813f",
       "layouts": [
         324,
         325,
-        329
+        326,
+        327,
+        328,
+        329,
+        333
       ]
     },
     {
@@ -1587,9 +1591,41 @@
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
       "hero3d": true
     },
+    "326": {
+      "physical_venue_key": "tsukuba",
+      "corner_views": 0,
+      "live_tiles": 121,
+      "provider": "jp-gsi",
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
+      "hero3d": true
+    },
+    "327": {
+      "physical_venue_key": "tsukuba",
+      "corner_views": 0,
+      "live_tiles": 30,
+      "provider": "jp-gsi",
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
+      "hero3d": true
+    },
+    "328": {
+      "physical_venue_key": "tsukuba",
+      "corner_views": 0,
+      "live_tiles": 30,
+      "provider": "jp-gsi",
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
+      "hero3d": true
+    },
     "329": {
       "physical_venue_key": "tsukuba",
       "corner_views": 11,
+      "live_tiles": 30,
+      "provider": "jp-gsi",
+      "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
+      "hero3d": true
+    },
+    "333": {
+      "physical_venue_key": "tsukuba",
+      "corner_views": 0,
       "live_tiles": 30,
       "provider": "jp-gsi",
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
