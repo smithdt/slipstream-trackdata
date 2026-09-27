@@ -1,7 +1,7 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "satellite-sebring-20260927",
+  "version": "satellite-silverstone-20260927",
   "venues": [
     {
       "schema_version": 3,
@@ -708,10 +708,10 @@
       "schema_version": 3,
       "physical_venue_key": "silverstone",
       "venue": "Silverstone Circuit",
-      "version": "silverstone-v3-c8d1e7e7f4a7",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/silverstone-v3-c8d1e7e7f4a7/silverstone.zip",
-      "size_bytes": 82688276,
-      "sha256": "9e6395781282e70704e894bf09b436c79542e3b377befe4f8cef273c7840794f",
+      "version": "silverstone-v3-f8471e79456b",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/silverstone-v3-f8471e79456b/silverstone.zip",
+      "size_bytes": 137453974,
+      "sha256": "ccd889787e8927546dfe00c30d58cb01015179d593416d6a3b8fd22994291047",
       "layouts": [
         341,
         342,
