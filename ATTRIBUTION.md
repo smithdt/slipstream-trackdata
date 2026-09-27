@@ -120,3 +120,7 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
 
 - **Milwaukee County 2024 orthophotography; WROC; SEWRPC; EagleView**  
   _https://gis.sewrpc.org/server/rest/services/RMS_Testing/Orthophotos_2024/MapServer/export_
+
+## Silverstone fresh generation — 2026-09-27
+
+Planet Labs SkySat photograph dated 2018-07-02, original 4000×2249 image via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Silverstone_Circuit,_July_2,_2018_SkySat.jpg), licensed CC BY-SA 4.0. Fitted source sampling is approximately 0.9892 m/px; this is not a measured optical-resolution claim. Detail generatively restored by Slipstream Live through 160 fresh 0.10 m/px generated crops across layouts 341, 342 and 343. Original photography remains outside the generated circuit corridor. Output remains CC BY-SA 4.0.
