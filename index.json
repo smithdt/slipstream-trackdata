@@ -1,7 +1,7 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "satellite-index-v3-s4-20260924",
+  "version": "satellite-tsukuba-20260926",
   "venues": [
     {
       "schema_version": 3,
@@ -819,10 +819,10 @@
       "schema_version": 3,
       "physical_venue_key": "tsukuba",
       "venue": "Tsukuba Circuit",
-      "version": "tsukuba-v3-4e44a9337007",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/tsukuba-v3-4e44a9337007/tsukuba.zip",
-      "size_bytes": 19579946,
-      "sha256": "6d5b706f21bd99205361671be11a15e7de88dbe932f18966588bd8e0284bf82d",
+      "version": "tsukuba-v3-0f34a133cc68",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/tsukuba-v3-0f34a133cc68/tsukuba.zip",
+      "size_bytes": 34063674,
+      "sha256": "3ede6982842366082e69d3cd6909df5f19ba3845958f4c907bd0f7bedb2bfcd4",
       "layouts": [
         324,
         325,
