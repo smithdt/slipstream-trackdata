@@ -1,7 +1,7 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "satellite-tsukuba-seven-20260926",
+  "version": "satellite-sebring-20260927",
   "venues": [
     {
       "schema_version": 3,
@@ -694,10 +694,10 @@
       "schema_version": 3,
       "physical_venue_key": "sebring",
       "venue": "Sebring International Raceway",
-      "version": "sebring-v3-2c0e1263f04f",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/sebring-v3-2c0e1263f04f/sebring.zip",
-      "size_bytes": 77180998,
-      "sha256": "0c34f11b036a85697718609c66f14aaf59d9db2f74fb40f80b8f62a0f0c715f5",
+      "version": "sebring-v3-bcf7cc492d02",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/sebring-v3-bcf7cc492d02/sebring.zip",
+      "size_bytes": 116632398,
+      "sha256": "285efe13ccaf6919422baaac0cab01a4cf14c1a8da2fe830a18d0d417480077d",
       "layouts": [
         95,
         96,
@@ -1013,7 +1013,7 @@
       "live_tiles": 644,
       "provider": "fl-fdot-east-2020",
       "attribution": "FDOT — Florida Statewide Digital Orthoimagery (2020)",
-      "hero3d": false
+      "hero3d": true
     },
     "96": {
       "physical_venue_key": "sebring",
@@ -1021,7 +1021,7 @@
       "live_tiles": 351,
       "provider": "fl-fdot-east-2020",
       "attribution": "FDOT — Florida Statewide Digital Orthoimagery (2020)",
-      "hero3d": false
+      "hero3d": true
     },
     "97": {
       "physical_venue_key": "sebring",
@@ -1029,7 +1029,7 @@
       "live_tiles": 288,
       "provider": "fl-fdot-east-2020",
       "attribution": "FDOT — Florida Statewide Digital Orthoimagery (2020)",
-      "hero3d": false
+      "hero3d": true
     },
     "126": {
       "physical_venue_key": "road-atlanta",
