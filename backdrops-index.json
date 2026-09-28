@@ -205,6 +205,13 @@
       "sha256": "8c889e30ad995b5b7fee8d6f198fe231d4a19d6259217cd66782ce0b96bac364",
       "size_bytes": 704726,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-silverstone.zip"
+    },
+    {
+      "physical_venue_key": "snetterton",
+      "version": "2026-09-28",
+      "sha256": "27295d7a1179834a7a93e45c59770d74aab9e1f0bac1100b33f48dd0122b4624",
+      "size_bytes": 480359,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-snetterton.zip"
     }
   ]
 }
