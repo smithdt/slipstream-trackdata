@@ -44,6 +44,13 @@
       "sha256": "1aa56fd3dbe09e99c8537fed021082559ecc09c37fe29b18b142073bffeb618b",
       "size_bytes": 1039172,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-daytona.zip"
+    },
+    {
+      "physical_venue_key": "fuji",
+      "version": "2026-09-28",
+      "sha256": "5f597be4e3d4f91d5c13d585fc206a76b75f4459c9e019fa9747112270937c75",
+      "size_bytes": 892434,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-fuji.zip"
     }
   ]
 }
