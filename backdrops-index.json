@@ -177,6 +177,13 @@
       "sha256": "07b50bf20e031b031f9777193ac34d4dfae21c4edd40661e4c7fa38ba27c031d",
       "size_bytes": 1068974,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-red-bull-ring.zip"
+    },
+    {
+      "physical_venue_key": "road-america",
+      "version": "2026-09-28",
+      "sha256": "3d65540cd143943e4c5e2c9ec95c4c593d99668eed400be40723845013a0e6fa",
+      "size_bytes": 482269,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-road-america.zip"
     }
   ]
 }
