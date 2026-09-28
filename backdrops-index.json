@@ -37,6 +37,13 @@
       "sha256": "393d18bf28810cd6b0591851ab22f4f0975828b659b93ce8762e7b904a626866",
       "size_bytes": 902989,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-cota.zip"
+    },
+    {
+      "physical_venue_key": "daytona",
+      "version": "2026-09-28",
+      "sha256": "1aa56fd3dbe09e99c8537fed021082559ecc09c37fe29b18b142073bffeb618b",
+      "size_bytes": 1039172,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-daytona.zip"
     }
   ]
 }
