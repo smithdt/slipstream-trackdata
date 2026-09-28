@@ -198,6 +198,13 @@
       "sha256": "cf28d857a5422d42aa8b31fd8517667e1825bd6a8742716883008eefe6fda188",
       "size_bytes": 266235,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-sebring.zip"
+    },
+    {
+      "physical_venue_key": "silverstone",
+      "version": "2026-09-28",
+      "sha256": "8c889e30ad995b5b7fee8d6f198fe231d4a19d6259217cd66782ce0b96bac364",
+      "size_bytes": 704726,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-silverstone.zip"
     }
   ]
 }
