@@ -261,6 +261,13 @@
       "sha256": "9adca58e16e98e1c4219edc6e0517ba523ae5991f9b81fdd08484b898690404b",
       "size_bytes": 380285,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-watkins-glen.zip"
+    },
+    {
+      "physical_venue_key": "zandvoort",
+      "version": "2026-09-28",
+      "sha256": "a14b0a168db5b32e6519c6d58de6fea505acb49980c0b3eaa52d7de787a14a44",
+      "size_bytes": 478393,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-zandvoort.zip"
     }
   ]
 }
