@@ -226,6 +226,13 @@
       "sha256": "1338f1a98e90aeb9b2e38075b1220c6025643df191480161fb204a62a5c3b1b2",
       "size_bytes": 196908,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-st-petersburg.zip"
+    },
+    {
+      "physical_venue_key": "summit-point",
+      "version": "2026-09-28",
+      "sha256": "5f134c45fbbcb2017e60000b95c7643d93f14ff8948660d578b4e910300e3979",
+      "size_bytes": 129347,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-summit-point.zip"
     }
   ]
 }
