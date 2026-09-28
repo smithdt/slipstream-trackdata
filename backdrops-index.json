@@ -128,6 +128,13 @@
       "sha256": "36301bc49780d2efd8b3e2381f2364d60b7c639bc0d5d9a2cfd7b8d37756b18f",
       "size_bytes": 499256,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-motegi.zip"
+    },
+    {
+      "physical_venue_key": "mount-panorama",
+      "version": "2026-09-28",
+      "sha256": "160ee237c1a2f8fcb18e16d13d0b409997291d4ec678ff36c9e01f6680d91065",
+      "size_bytes": 980067,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-mount-panorama.zip"
     }
   ]
 }
