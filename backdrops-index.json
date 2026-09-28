@@ -142,6 +142,13 @@
       "sha256": "d1068052c749bb468b845b9fe2066b4d17febbdec5281d325d428250d03f3017",
       "size_bytes": 656237,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-navarra.zip"
+    },
+    {
+      "physical_venue_key": "nurburgring",
+      "version": "2026-09-28",
+      "sha256": "95192d117292ad150bdd1821200d12b58e000073f0b3daeb0469582e0af32c71",
+      "size_bytes": 837254,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-nurburgring.zip"
     }
   ]
 }
