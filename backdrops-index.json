@@ -79,6 +79,13 @@
       "sha256": "99d0b4a4d0dabf0e6da9f71727764af8c8987401907c025e0cf169f46831d8e0",
       "size_bytes": 836248,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-interlagos.zip"
+    },
+    {
+      "physical_venue_key": "le-mans",
+      "version": "2026-09-28",
+      "sha256": "809285ed7d5816f54116557f8521dfa7c234c332d4ce95059f4816446e8a0ea4",
+      "size_bytes": 742470,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-le-mans.zip"
     }
   ]
 }
