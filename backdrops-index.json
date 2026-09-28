@@ -254,6 +254,13 @@
       "sha256": "11c317e47b6b61ab4058fe4cac70ba34d2c9b1e335c18e6ac853be1e52587f93",
       "size_bytes": 101151,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-vir.zip"
+    },
+    {
+      "physical_venue_key": "watkins-glen",
+      "version": "2026-09-28",
+      "sha256": "9adca58e16e98e1c4219edc6e0517ba523ae5991f9b81fdd08484b898690404b",
+      "size_bytes": 380285,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-watkins-glen.zip"
     }
   ]
 }
