@@ -219,6 +219,13 @@
       "sha256": "53943a73c887112976d1fc73fd8b4f6b853c0bb8ce02c95e4728b8a87da31497",
       "size_bytes": 1014046,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-spa.zip"
+    },
+    {
+      "physical_venue_key": "st-petersburg",
+      "version": "2026-09-28",
+      "sha256": "1338f1a98e90aeb9b2e38075b1220c6025643df191480161fb204a62a5c3b1b2",
+      "size_bytes": 196908,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-st-petersburg.zip"
     }
   ]
 }
