@@ -93,6 +93,13 @@
       "sha256": "e93016ca0352bd65e04c0e892b08c123f7e53413ac47a76ed3e28659331e82ed",
       "size_bytes": 953711,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-lime-rock.zip"
+    },
+    {
+      "physical_venue_key": "long-beach",
+      "version": "2026-09-28",
+      "sha256": "48c33ba2c911f610a2a379cb4a15458ed2a1f03e7344ecad71ec4917653a8110",
+      "size_bytes": 912161,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-long-beach.zip"
     }
   ]
 }
