@@ -51,6 +51,13 @@
       "sha256": "5f597be4e3d4f91d5c13d585fc206a76b75f4459c9e019fa9747112270937c75",
       "size_bytes": 892434,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-fuji.zip"
+    },
+    {
+      "physical_venue_key": "hockenheimring",
+      "version": "2026-09-28",
+      "sha256": "c96d756469db91cd001a01423611b91833f1a6f154877f189554f6c46f0b0f20",
+      "size_bytes": 910320,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-hockenheimring.zip"
     }
   ]
 }
