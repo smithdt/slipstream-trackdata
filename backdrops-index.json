@@ -58,6 +58,13 @@
       "sha256": "c96d756469db91cd001a01423611b91833f1a6f154877f189554f6c46f0b0f20",
       "size_bytes": 910320,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-hockenheimring.zip"
+    },
+    {
+      "physical_venue_key": "imola",
+      "version": "2026-09-28",
+      "sha256": "71869691f99500bed596b9d8a7499279e6810c18fb624bc33b5c6122ea7b0ae4",
+      "size_bytes": 808022,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-imola.zip"
     }
   ]
 }
