@@ -30,6 +30,13 @@
       "sha256": "79625feea4016c3745ecb7ddcbac977c4a7ae4053a96eff425f31646d4e32d29",
       "size_bytes": 720783,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-charlotte-roval.zip"
+    },
+    {
+      "physical_venue_key": "cota",
+      "version": "2026-09-28",
+      "sha256": "393d18bf28810cd6b0591851ab22f4f0975828b659b93ce8762e7b904a626866",
+      "size_bytes": 902989,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-cota.zip"
     }
   ]
 }
