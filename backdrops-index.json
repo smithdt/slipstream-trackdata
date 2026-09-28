@@ -23,6 +23,13 @@
       "sha256": "54077737d0fd50ae352c0b8838ba7aa50a4a0c4cb7fcadf8f51dc109bfb95d9d",
       "size_bytes": 899230,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-brands-hatch.zip"
+    },
+    {
+      "physical_venue_key": "charlotte-roval",
+      "version": "2026-09-28",
+      "sha256": "79625feea4016c3745ecb7ddcbac977c4a7ae4053a96eff425f31646d4e32d29",
+      "size_bytes": 720783,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-charlotte-roval.zip"
     }
   ]
 }
