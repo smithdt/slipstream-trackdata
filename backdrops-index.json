@@ -86,6 +86,13 @@
       "sha256": "809285ed7d5816f54116557f8521dfa7c234c332d4ce95059f4816446e8a0ea4",
       "size_bytes": 742470,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-le-mans.zip"
+    },
+    {
+      "physical_venue_key": "lime-rock",
+      "version": "2026-09-28",
+      "sha256": "e93016ca0352bd65e04c0e892b08c123f7e53413ac47a76ed3e28659331e82ed",
+      "size_bytes": 953711,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-lime-rock.zip"
     }
   ]
 }
