@@ -240,6 +240,13 @@
       "sha256": "0c23d35f68fc604f53ee03927b93b901774ba34fe956438966b4620178d308e5",
       "size_bytes": 795817,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-suzuka.zip"
+    },
+    {
+      "physical_venue_key": "tsukuba",
+      "version": "2026-09-28",
+      "sha256": "bdbf4606a0f3c5aea4927753dcad907894eb188a66d1d85af498c7d9c34e4dfa",
+      "size_bytes": 340828,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-tsukuba.zip"
     }
   ]
 }
