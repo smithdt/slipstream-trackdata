@@ -16,6 +16,13 @@
       "sha256": "12b221ba935d7af6d380a85f1d8c9d6f74eb1a5febc110fabd0f24436b760d4f",
       "size_bytes": 944563,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-autodromo-hermanos-rodriguez.zip"
+    },
+    {
+      "physical_venue_key": "brands-hatch",
+      "version": "2026-09-28",
+      "sha256": "54077737d0fd50ae352c0b8838ba7aa50a4a0c4cb7fcadf8f51dc109bfb95d9d",
+      "size_bytes": 899230,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-brands-hatch.zip"
     }
   ]
 }
