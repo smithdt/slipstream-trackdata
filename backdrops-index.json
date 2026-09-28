@@ -212,6 +212,13 @@
       "sha256": "27295d7a1179834a7a93e45c59770d74aab9e1f0bac1100b33f48dd0122b4624",
       "size_bytes": 480359,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-snetterton.zip"
+    },
+    {
+      "physical_venue_key": "spa",
+      "version": "2026-09-28",
+      "sha256": "53943a73c887112976d1fc73fd8b4f6b853c0bb8ce02c95e4728b8a87da31497",
+      "size_bytes": 1014046,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-spa.zip"
     }
   ]
 }
