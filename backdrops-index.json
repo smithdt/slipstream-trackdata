@@ -268,6 +268,13 @@
       "sha256": "a14b0a168db5b32e6519c6d58de6fea505acb49980c0b3eaa52d7de787a14a44",
       "size_bytes": 478393,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-zandvoort.zip"
+    },
+    {
+      "physical_venue_key": "zolder",
+      "version": "2026-09-28",
+      "sha256": "e822ab04a0583bd355295ad70acd25e56fd98d70f1d23aa856d3f506d08fd29c",
+      "size_bytes": 201787,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-zolder.zip"
     }
   ]
 }
