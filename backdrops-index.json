@@ -233,6 +233,13 @@
       "sha256": "5f134c45fbbcb2017e60000b95c7643d93f14ff8948660d578b4e910300e3979",
       "size_bytes": 129347,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-summit-point.zip"
+    },
+    {
+      "physical_venue_key": "suzuka",
+      "version": "2026-09-28",
+      "sha256": "0c23d35f68fc604f53ee03927b93b901774ba34fe956438966b4620178d308e5",
+      "size_bytes": 795817,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-suzuka.zip"
     }
   ]
 }
