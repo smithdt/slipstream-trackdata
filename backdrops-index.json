@@ -156,6 +156,13 @@
       "sha256": "0073c68c0ea79b05560f797037709869e9022ae33149c4fc51b3907a88052830",
       "size_bytes": 292442,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-okayama.zip"
+    },
+    {
+      "physical_venue_key": "oschersleben",
+      "version": "2026-09-28",
+      "sha256": "519850d034e6487d2f419a4386362a32bc27f24fbcc93f86d53baa5d4ac0613e",
+      "size_bytes": 373384,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-oschersleben.zip"
     }
   ]
 }
