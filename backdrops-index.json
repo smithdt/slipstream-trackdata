@@ -100,6 +100,13 @@
       "sha256": "48c33ba2c911f610a2a379cb4a15458ed2a1f03e7344ecad71ec4917653a8110",
       "size_bytes": 912161,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-long-beach.zip"
+    },
+    {
+      "physical_venue_key": "miami-international-autodrome",
+      "version": "2026-09-28",
+      "sha256": "cf84d8c0c0ba20563e1ef1cea8f253f29670d9c16f5fcde776a996470264157d",
+      "size_bytes": 291410,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-miami-international-autodrome.zip"
     }
   ]
 }
