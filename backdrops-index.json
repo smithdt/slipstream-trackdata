@@ -114,6 +114,13 @@
       "sha256": "0f8907aa3f02906ffbc5d0c8fc6038629fac83d08ea12416ac85379a2a553c82",
       "size_bytes": 932586,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-montreal.zip"
+    },
+    {
+      "physical_venue_key": "monza",
+      "version": "2026-09-28",
+      "sha256": "4524472dd60b834a1da606ddc10758f461021353afae764f631c70776b5ce77a",
+      "size_bytes": 1196022,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-monza.zip"
     }
   ]
 }
