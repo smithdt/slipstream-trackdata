@@ -121,6 +121,13 @@
       "sha256": "4524472dd60b834a1da606ddc10758f461021353afae764f631c70776b5ce77a",
       "size_bytes": 1196022,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-monza.zip"
+    },
+    {
+      "physical_venue_key": "motegi",
+      "version": "2026-09-28",
+      "sha256": "36301bc49780d2efd8b3e2381f2364d60b7c639bc0d5d9a2cfd7b8d37756b18f",
+      "size_bytes": 499256,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-motegi.zip"
     }
   ]
 }
