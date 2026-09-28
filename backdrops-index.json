@@ -65,6 +65,13 @@
       "sha256": "71869691f99500bed596b9d8a7499279e6810c18fb624bc33b5c6122ea7b0ae4",
       "size_bytes": 808022,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-imola.zip"
+    },
+    {
+      "physical_venue_key": "indianapolis",
+      "version": "2026-09-28",
+      "sha256": "16a8446fd207d07079c013220f5aafdbe8ad4a5f7636ecc9239d8e6179e01b7a",
+      "size_bytes": 869150,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-indianapolis.zip"
     }
   ]
 }
