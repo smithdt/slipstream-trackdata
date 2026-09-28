@@ -184,6 +184,13 @@
       "sha256": "3d65540cd143943e4c5e2c9ec95c4c593d99668eed400be40723845013a0e6fa",
       "size_bytes": 482269,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-road-america.zip"
+    },
+    {
+      "physical_venue_key": "road-atlanta",
+      "version": "2026-09-28",
+      "sha256": "3d67a8a1f20a6801b5da09c10051008625d300842571215d36b7f4a5b4ad43fc",
+      "size_bytes": 795176,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-road-atlanta.zip"
     }
   ]
 }
