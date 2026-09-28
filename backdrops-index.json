@@ -163,6 +163,13 @@
       "sha256": "519850d034e6487d2f419a4386362a32bc27f24fbcc93f86d53baa5d4ac0613e",
       "size_bytes": 373384,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-oschersleben.zip"
+    },
+    {
+      "physical_venue_key": "oulton-park",
+      "version": "2026-09-28",
+      "sha256": "7ad478639bd9e34222a1bddbcb20266c94d4c7b5ccb62dd72caca87b215df2d2",
+      "size_bytes": 1073981,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-oulton-park.zip"
     }
   ]
 }
