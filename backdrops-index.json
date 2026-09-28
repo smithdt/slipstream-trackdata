@@ -135,6 +135,13 @@
       "sha256": "160ee237c1a2f8fcb18e16d13d0b409997291d4ec678ff36c9e01f6680d91065",
       "size_bytes": 980067,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-mount-panorama.zip"
+    },
+    {
+      "physical_venue_key": "navarra",
+      "version": "2026-09-28",
+      "sha256": "d1068052c749bb468b845b9fe2066b4d17febbdec5281d325d428250d03f3017",
+      "size_bytes": 656237,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-navarra.zip"
     }
   ]
 }
