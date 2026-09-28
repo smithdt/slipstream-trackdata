@@ -107,6 +107,13 @@
       "sha256": "cf84d8c0c0ba20563e1ef1cea8f253f29670d9c16f5fcde776a996470264157d",
       "size_bytes": 291410,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-miami-international-autodrome.zip"
+    },
+    {
+      "physical_venue_key": "montreal",
+      "version": "2026-09-28",
+      "sha256": "0f8907aa3f02906ffbc5d0c8fc6038629fac83d08ea12416ac85379a2a553c82",
+      "size_bytes": 932586,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-montreal.zip"
     }
   ]
 }
