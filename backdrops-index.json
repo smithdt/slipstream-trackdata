@@ -9,6 +9,13 @@
       "sha256": "f421796dee0eeba5ad0eee095d1900e6e4a55ca0e053a34b89449b1fdce22063",
       "size_bytes": 983484,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-algarve-international-circuit.zip"
+    },
+    {
+      "physical_venue_key": "autodromo-hermanos-rodriguez",
+      "version": "2026-09-28",
+      "sha256": "12b221ba935d7af6d380a85f1d8c9d6f74eb1a5febc110fabd0f24436b760d4f",
+      "size_bytes": 944563,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-autodromo-hermanos-rodriguez.zip"
     }
   ]
 }
