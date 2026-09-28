@@ -191,6 +191,13 @@
       "sha256": "3d67a8a1f20a6801b5da09c10051008625d300842571215d36b7f4a5b4ad43fc",
       "size_bytes": 795176,
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-road-atlanta.zip"
+    },
+    {
+      "physical_venue_key": "sebring",
+      "version": "2026-09-28",
+      "sha256": "cf28d857a5422d42aa8b31fd8517667e1825bd6a8742716883008eefe6fda188",
+      "size_bytes": 266235,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-sebring.zip"
     }
   ]
 }
