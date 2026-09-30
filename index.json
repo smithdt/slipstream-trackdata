@@ -1,7 +1,7 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "satellite-silverstone-20260927",
+  "version": "satellite-four-venue-20260929",
   "venues": [
     {
       "schema_version": 3,
@@ -82,10 +82,10 @@
       "schema_version": 3,
       "physical_venue_key": "canadian-tire-motorsport-park",
       "venue": "Canadian Tire Motorsport Park",
-      "version": "canadian-tire-motorsport-park-v3-14664387b7e4",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/canadian-tire-motorsport-park-v3-14664387b7e4/canadian-tire-motorsport-park.zip",
-      "size_bytes": 37008756,
-      "sha256": "4fa129e9dc857073c57bdb02079873ec5781c78209393af1dc9afee4d589b036",
+      "version": "canadian-tire-motorsport-park-v3-1bf665ff3bca",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/canadian-tire-motorsport-park-v3-1bf665ff3bca/canadian-tire-motorsport-park.zip",
+      "size_bytes": 63591644,
+      "sha256": "da417c6ead7fa72fc882ad721921707e396b5efe974aad04042fc1caf1ad44e4",
       "layouts": [
         144
       ]
@@ -138,10 +138,10 @@
       "schema_version": 3,
       "physical_venue_key": "daytona",
       "venue": "Daytona International Speedway",
-      "version": "daytona-v3-6e4bd727d6bc",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/daytona-v3-6e4bd727d6bc/daytona.zip",
-      "size_bytes": 79244773,
-      "sha256": "2a934479daa36de8a583e73c0021dfe011d2fe445fcc0b0004c5ccf1023c8c01",
+      "version": "daytona-v3-5f52dc50a6f0",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/daytona-v3-5f52dc50a6f0/daytona.zip",
+      "size_bytes": 108698078,
+      "sha256": "0763ab7a4e1bb46c468a67c41d261d0f18326278c8ce9d2cecf78a9b8389a4bd",
       "layouts": [
         26,
         27,
@@ -274,10 +274,10 @@
       "schema_version": 3,
       "physical_venue_key": "interlagos",
       "venue": "Autódromo José Carlos Pace",
-      "version": "interlagos-v3-4c7f46be5a29",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/interlagos-v3-4c7f46be5a29/interlagos.zip",
-      "size_bytes": 37974889,
-      "sha256": "165658b050203685e0de1bbebfa658c3288151d10e0f329f05488c23d38acb94",
+      "version": "interlagos-v3-7416fe3c8806",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/interlagos-v3-7416fe3c8806/interlagos.zip",
+      "size_bytes": 35078598,
+      "sha256": "76265238ae73c900b04f9286e7dfd1fb7a6d110f3e9a7a72f30871e073de8c81",
       "layouts": [
         212
       ]
@@ -399,10 +399,10 @@
       "schema_version": 3,
       "physical_venue_key": "mid-ohio",
       "venue": "Mid-Ohio Sports Car Course",
-      "version": "mid-ohio-v3-3b142cb194a0",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/mid-ohio-v3-3b142cb194a0/mid-ohio.zip",
-      "size_bytes": 32974544,
-      "sha256": "cde262e707116b26674a782cf214e630081c38e77d61f7bf7f250dca53ddf8eb",
+      "version": "mid-ohio-v3-7dd1bef303a2",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/mid-ohio-v3-7dd1bef303a2/mid-ohio.zip",
+      "size_bytes": 44127580,
+      "sha256": "b6d14a32b7d04bfcfe7877d83f34c04ea06abc09950448308aae3a84461b44ef",
       "layouts": [
         153
       ]
@@ -954,7 +954,7 @@
     "26": {
       "physical_venue_key": "daytona",
       "corner_views": 12,
-      "live_tiles": 957,
+      "live_tiles": 1634,
       "provider": "fl-volusia-2024",
       "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
       "hero3d": true
@@ -962,7 +962,7 @@
     "27": {
       "physical_venue_key": "daytona",
       "corner_views": 4,
-      "live_tiles": 957,
+      "live_tiles": 1634,
       "provider": "fl-volusia-2024",
       "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
       "hero3d": true
@@ -970,7 +970,7 @@
     "28": {
       "physical_venue_key": "daytona",
       "corner_views": 12,
-      "live_tiles": 957,
+      "live_tiles": 1634,
       "provider": "fl-volusia-2024",
       "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
       "hero3d": true
@@ -978,7 +978,7 @@
     "29": {
       "physical_venue_key": "daytona",
       "corner_views": 6,
-      "live_tiles": 957,
+      "live_tiles": 1634,
       "provider": "fl-volusia-2024",
       "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
       "hero3d": true
@@ -1242,7 +1242,7 @@
     "191": {
       "physical_venue_key": "daytona",
       "corner_views": 4,
-      "live_tiles": 957,
+      "live_tiles": 1634,
       "provider": "fl-volusia-2024",
       "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
       "hero3d": true
@@ -1250,7 +1250,7 @@
     "192": {
       "physical_venue_key": "daytona",
       "corner_views": 12,
-      "live_tiles": 957,
+      "live_tiles": 1634,
       "provider": "fl-volusia-2024",
       "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
       "hero3d": true
@@ -1258,7 +1258,7 @@
     "193": {
       "physical_venue_key": "daytona",
       "corner_views": 13,
-      "live_tiles": 957,
+      "live_tiles": 1634,
       "provider": "fl-volusia-2024",
       "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
       "hero3d": true
@@ -1266,7 +1266,7 @@
     "194": {
       "physical_venue_key": "daytona",
       "corner_views": 5,
-      "live_tiles": 957,
+      "live_tiles": 1634,
       "provider": "fl-volusia-2024",
       "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
       "hero3d": true
@@ -1370,7 +1370,7 @@
     "212": {
       "physical_venue_key": "interlagos",
       "corner_views": 15,
-      "live_tiles": 588,
+      "live_tiles": 384,
       "provider": "br-geosampa",
       "attribution": "© Prefeitura de São Paulo — GeoSampa (CC BY-SA 4.0)",
       "hero3d": true
@@ -1722,7 +1722,7 @@
     "381": {
       "physical_venue_key": "daytona",
       "corner_views": 14,
-      "live_tiles": 957,
+      "live_tiles": 1634,
       "provider": "fl-volusia-2024",
       "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
       "hero3d": true
