@@ -13,7 +13,7 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
 - **Connecticut ECO — UConn CLEAR & CT DEEP (2023 orthoimagery)**  
   _CT ECO 2023 statewide orthophoto (UConn CLEAR / CT DEEP), 3-inch, EPSG:3857 (probed live 2026-06-08)_
 - **Contains information licensed under the Open Government Licence – Ontario**  
-  _Land Information Ontario OIWMS imagery MapServer export (NOT the _Source footprints service), ~0.16 m, EPSG:3857 (probed live 2026-06-09; covers Mosport / Canadian Tire Motorsport Park)_
+  _Land Information Ontario OIWMS imagery MapServer export (NOT the _Source footprints service), ~0.16 m sampling; acquisition vintage unresolved; EPSG:3857 (probed live 2026-06-09; covers Mosport / Canadian Tire Motorsport Park)_
 - **Cook County GIS — 2024 orthophotography**  
   _Cook County GIS 2024 four-band orthophoto ImageServer, 6-inch / 0.1524 m imagery. https://gis.cookcountyil.gov/imagery/rest/services/CookOrtho2024/ImageServer_
 - **Datenquelle: basemap.at (CC BY 4.0)**  
@@ -29,7 +29,7 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
 - **Miami-Dade County GIS — Woolpert 2025 Aerial Imagery**  
   _Miami-Dade County Woolpert 2025 orthophoto ImageServer, native 0.25 US-ft (3-inch) imagery in EPSG:6438_
 - **Morrow County GIS — 2021 Aerial Imagery**  
-  _Morrow County GIS 2021 Aerial Imagery (ImageServer, cached), ~3.7 cm, native EPSG:3857 (probed live 2026-06-12; covers Mid-Ohio Sports Car Course / ir_id 153). Also has 2014/2016/2019 vintages at same endpoint pattern._
+  _Morrow County GIS 2021 Aerial Imagery (ImageServer, cached), ~0.15 m retained photographic sampling; optical resolution is unverified; native EPSG:3857 (probed live 2026-06-12; covers Mid-Ohio Sports Car Course / ir_id 153). Also has 2014/2016/2019 vintages at same endpoint pattern._
 - **NOAA National Geodetic Survey, 2025**  
   _NOAA National Geodetic Survey Long Beach 4-band orthophoto; acquired 2025-02-01; 0.25 m GSD; bounded circuit crop read through the official EPSG:6340 VRT from intersecting COGs 387000e3738000n.tif and 390000e3738000n.tif._
 - **NYS ITS GIS Program Office — Statewide Orthoimagery**  
@@ -53,7 +53,7 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
 - **Virginia Geographic Information Network — VBMP**  
   _Virginia VBMP (Virginia Base Mapping Program) MostRecentImagery, 1-ft statewide (0.305 m), EPSG:3857 native. Urban areas may be 6-inch or 3-inch depending on county/cycle. Covers VIR (Halifax County). Endpoint moved from the retired gismaps.vita host to vginmaps.vdem.virginia.gov (verified 2026-07-24; default-DNS resolution can be flaky - probed via 8.8.8.8)._
 - **Volusia County Property Appraiser — 2024 aerial imagery**  
-  _Volusia County Property Appraiser 2024 aerial ImageServer, January 2024. The source description says 3-inch EagleView, but the live export service verified at 0.25 m/px; staged at the verified service resolution. https://maps5.vcgov.org/arcgis/rest/services/Aerials/2024_Aerial/ImageServer_
+  _Volusia County Property Appraiser 2024 aerial ImageServer, January 2024. The official product description identifies 3-inch EagleView imagery; the native EPSG:6438 export sampling is 0.25 US survey foot (0.0762001524 m). The source service exposes no constituent raster IDs, so the local acquisition class is not independently catalog-proven. Fine native imagery is retained for the local detail tiles. https://maps5.vcgov.org/arcgis/rest/services/Aerials/2024_Aerial/ImageServer_
 - **WVGISTC and Jefferson County — 2025 leaf-off imagery**  
   _WVGISTC Jefferson County 2025 leaf-off imagery, layer 1031; mixed 3–6 inch source classes, conservatively staged at 0.1524 m/px. https://services.wvgis.wvu.edu/arcgis/rest/services/Imagery_BaseMaps_EarthCover/wv_imagery_WVGISTC_leaf_off_mosaic/MapServer_
 - **Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery**  
@@ -77,7 +77,7 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
 - **© PDOK / Kadaster — Luchtfoto Actueel (CC BY 4.0)**  
   _PDOK Luchtfoto Actueel Ortho HR (8 cm RGB) via WMS, native EPSG:28992 but serves EPSG:3857 via WMS GetMap, 0.08 m (probed live 2026-06-09; highest-res source in the set). max_request_px capped at 2048 - the WMS ServiceExceptions on GetMap requests above ~2048 px/side (a native 0.08 m corner is 2750 px, so it tiles)._
 - **© Prefeitura de São Paulo — GeoSampa (CC BY-SA 4.0)**  
-  _GeoSampa (Prefeitura de São Paulo) Ortofoto 2020 RGB via GeoServer WMS (layer geoportal:ORTO_RGB_2020), 0.10 m, serves EPSG:3857 (probed live 2026-06-09; covers Interlagos)_
+  _GeoSampa (Prefeitura de São Paulo) Ortofoto 2020 RGB via GeoServer WMS (layer geoportal:ORTO_RGB_2020); 0.10 m is the export/generated grid, while the local optical acquisition class remains unresolved between 0.10 m urban and 0.20 m rural; serves EPSG:3857 (probed live 2026-06-09; covers Interlagos)_
 - **© Regione Emilia-Romagna — RER 2023-24 (CC BY 4.0)**  
   _Regione Emilia-Romagna RER 2023-24 RGB ortho via WMS (region's own flight, NOT the NC AGEA sibling), 0.20 m, EPSG:3857 (probed live 2026-06-09; covers Misano. NB: RER is a phased campaign — does NOT yet cover Imola, use it-mase there)_
 - **© Regione Toscana — GEOscopio (CC BY 4.0)**  
@@ -102,7 +102,7 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
 | barber | 585 | https://jccgis.jccal.org/image/rest/services/2025/DOP2025/ImageServer | Jefferson County GIS Consortium public-service redistribution under explicit product-owner risk acceptance; no affirmative redistribution grant was located | Source imagery processed by Slipstream Live |
 | charlotte-roval | 554 | https://location.cabarruscounty.us/services2/rest/services/Cached/Aerial2025/MapServer | Cabarrus County GIS public-cache redistribution under explicit product-owner risk acceptance; no affirmative redistribution grant was located | Source imagery processed by Slipstream Live |
 | miami-international-autodrome | 539 | https://www.arcgis.com/home/item.html?id=cfb274348d3b4d2baf6b9b83c17f5998 | For Public Use. Miami-Dade County provides the data as-is; the official imagery application offers multi-year aerial downloads free of charge. https://www.arcgis.com/home/item.html?id=cfb274348d3b4d2baf6b9b83c17f5998 | Source imagery processed by Slipstream Live |
-| mid-ohio | 153 | https://gis.morrowcountyohio.gov/arcgis/rest/services/Morrow_2021AerialsImage_cached/ImageServer | Ohio public record (Ohio Public Records Law ORC §149.43). County GIS imagery is generally public record — verify Morrow County GIS terms of use before commercial resale. | Source imagery processed by Slipstream Live |
+| mid-ohio | 153 | https://gis.morrowcountyohio.gov/arcgis/rest/services/Morrow_2021AerialsImage_cached/ImageServer | Ohio public record (Ohio Public Records Law ORC §149.43). County GIS imagery is generally public record — verify Morrow County GIS terms of use before commercial resale. | Detail generatively restored by Slipstream Live |
 | okayama | 166, 167 | https://i-box.pref.okayama.jp/datasets/250 | CC BY 4.0 under the recorded product-owner risk override; the source page also names ODbL | Source imagery processed by Slipstream Live |
 | sebring | 95, 96, 97 | https://ca.dep.state.fl.us/image/rest/services/FDOT_Yearly_Aerials/Aerial_Imagery_2020/ImageServer | Florida public record (FL Statutes public-records law). Commercial reuse generally permitted as public record — verify before resale. | Detail generatively restored by Slipstream Live |
 | sonoma | 570 | https://socogis.sonomacounty.ca.gov/image2/rest/services/Rasters/Ortho_SoCo_EagleView_2025_WM/ImageServer/exportImage | The service credits EagleView and Sonoma County but publishes no open redistribution licence. Driver redistribution-risk override recorded separately; this text is not provider approval. | Backdrop and corner crops recut from the retained 2025 source used by the live tiles |
