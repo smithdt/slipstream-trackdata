@@ -1,7 +1,7 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "satellite-four-venue-20260929",
+  "version": "satellite-charlotte-20261002",
   "venues": [
     {
       "schema_version": 3,
@@ -94,10 +94,10 @@
       "schema_version": 3,
       "physical_venue_key": "charlotte-roval",
       "venue": "Charlotte Motor Speedway",
-      "version": "charlotte-roval-v3-0616b6152ab1",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/charlotte-roval-v3-0616b6152ab1/charlotte-roval.zip",
-      "size_bytes": 46195253,
-      "sha256": "84ca21a0c40d2cf70dc563deed92efa2da41a3b58982f8d03f0fd9deddc9912f",
+      "version": "charlotte-roval-v3-568d11f39a1c",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/charlotte-roval-v3-568d11f39a1c/charlotte-roval.zip",
+      "size_bytes": 47856494,
+      "sha256": "4d58d4bb51162dc6b845e5b7f7721220633fa842d079375d1d38938138591ad8",
       "layouts": [
         550,
         551,
