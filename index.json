@@ -1,7 +1,7 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "satellite-v3-willow-2016-20261003-df3ce0dfc428",
+  "version": "satellite-v3-willow-fit-20261003-ead1534b2a09",
   "venues": [
     {
       "schema_version": 3,
@@ -868,10 +868,10 @@
       "schema_version": 3,
       "physical_venue_key": "willow-springs",
       "venue": "Willow Springs International Raceway",
-      "version": "willow-springs-v3-df3ce0dfc428",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/willow-springs-v3-df3ce0dfc428/willow-springs.zip",
-      "size_bytes": 37415319,
-      "sha256": "20fab53444b17cb0a079fff6a31eb8837cd2868f6639d473aef602469f02a4b8",
+      "version": "willow-springs-v3-ead1534b2a09",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/willow-springs-v3-ead1534b2a09/willow-springs.zip",
+      "size_bytes": 34723936,
+      "sha256": "2da92c55f350ddab1b9ce192b5a24bb7349acdbb231ae48a07cd63895bf56327",
       "layouts": [
         481
       ]
