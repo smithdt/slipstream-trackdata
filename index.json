@@ -1,7 +1,7 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "satellite-charlotte-20261002",
+  "version": "satellite-v3-willow-2016-20261003-df3ce0dfc428",
   "venues": [
     {
       "schema_version": 3,
@@ -868,10 +868,10 @@
       "schema_version": 3,
       "physical_venue_key": "willow-springs",
       "venue": "Willow Springs International Raceway",
-      "version": "willow-springs-v3-f9c0291e863d",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/willow-springs-v3-f9c0291e863d/willow-springs.zip",
-      "size_bytes": 4936939,
-      "sha256": "82ab51553399983f8f06eb30bc091781c842784f46c30aa175652a3b68c89501",
+      "version": "willow-springs-v3-df3ce0dfc428",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/willow-springs-v3-df3ce0dfc428/willow-springs.zip",
+      "size_bytes": 37415319,
+      "sha256": "20fab53444b17cb0a079fff6a31eb8837cd2868f6639d473aef602469f02a4b8",
       "layouts": [
         481
       ]
@@ -1994,10 +1994,10 @@
     "481": {
       "physical_venue_key": "willow-springs",
       "corner_views": 9,
-      "live_tiles": 100,
-      "provider": "naip",
-      "attribution": "USDA Farm Service Agency / USGS — public domain",
-      "hero3d": false
+      "live_tiles": 589,
+      "provider": "ca-kern-2016",
+      "attribution": "Kern County GIS — 2016 Aerial Imagery",
+      "hero3d": true
     },
     "482": {
       "physical_venue_key": "motorland-aragon",
