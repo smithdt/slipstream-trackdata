@@ -107,6 +107,7 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
 | sebring | 95, 96, 97 | https://ca.dep.state.fl.us/image/rest/services/FDOT_Yearly_Aerials/Aerial_Imagery_2020/ImageServer | Florida public record (FL Statutes public-records law). Commercial reuse generally permitted as public record — verify before resale. | Detail generatively restored by Slipstream Live |
 | sonoma | 570 | https://socogis.sonomacounty.ca.gov/image2/rest/services/Rasters/Ortho_SoCo_EagleView_2025_WM/ImageServer/exportImage | The service credits EagleView and Sonoma County but publishes no open redistribution licence. Driver redistribution-risk override recorded separately; this text is not provider approval. | Backdrop and corner crops recut from the retained 2025 source used by the live tiles |
 | st-petersburg | 584 | https://egis.pinellas.gov/gis/rest/services/Aerials2025/ImageServer | Pinellas County Enterprise GIS public-service redistribution under explicit product-owner risk acceptance; no affirmative redistribution grant was located | Source imagery processed by Slipstream Live |
+| willow-springs | 481 | https://maps.kerncounty.com/arcgis/rest/services/KernCounty2016_cached/ImageServer | Kern County GIS 2016 imagery under explicit product-owner redistribution-risk acceptance; no affirmative provider redistribution grant was found; this is not provider permission | Detail generatively restored by Slipstream Live |
 <!-- slipstream-source-processed:end -->
 
 - **Cabarrus County GIS — 2025 Aerial Imagery**  
@@ -124,3 +125,6 @@ Slipstream Live track imagery is derived from the public / open-licensed ortho s
 ## Silverstone fresh generation — 2026-09-27
 
 Planet Labs SkySat photograph dated 2018-07-02, original 4000×2249 image via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Silverstone_Circuit,_July_2,_2018_SkySat.jpg), licensed CC BY-SA 4.0. Fitted source sampling is approximately 0.9892 m/px; this is not a measured optical-resolution claim. Detail generatively restored by Slipstream Live through 160 fresh 0.10 m/px generated crops across layouts 341, 342 and 343. Original photography remains outside the generated circuit corridor. Output remains CC BY-SA 4.0.
+
+- **Kern County GIS — 2016 Aerial Imagery**  
+  _https://maps.kerncounty.com/arcgis/rest/services/KernCounty2016_cached/ImageServer_
