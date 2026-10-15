@@ -1,7 +1,7 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "satellite-v3-willow-fit-20261003-ead1534b2a09",
+  "version": "satellite-summit-20261015",
   "venues": [
     {
       "schema_version": 3,
@@ -779,10 +779,10 @@
       "schema_version": 3,
       "physical_venue_key": "summit-point",
       "venue": "Summit Point Motorsports Park",
-      "version": "summit-point-v3-aa295ae31909",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/summit-point-v3-aa295ae31909/summit-point.zip",
-      "size_bytes": 76676461,
-      "sha256": "4ce45e621eaa5b1a2c7b5bf4f666f6140a8b9edba8e20dd59ac9345ba295868c",
+      "version": "summit-point-v3-31d35b7ed531",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/summit-point-v3-31d35b7ed531/summit-point.zip",
+      "size_bytes": 78876909,
+      "sha256": "1920fd974eed9d1a2f4107a0d79bbdd7ca95d0d3df0700ee67c3447e3e7d6222",
       "layouts": [
         8,
         9,
