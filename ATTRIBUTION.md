@@ -128,3 +128,9 @@ Planet Labs SkySat photograph dated 2018-07-02, original 4000×2249 image via [W
 
 - **Kern County GIS — 2016 Aerial Imagery**  
   _https://maps.kerncounty.com/arcgis/rest/services/KernCounty2016_cached/ImageServer_
+
+## Summit Point rebuild — 2026-10-15
+
+WVGISTC and Jefferson County — 2025 leaf-off imagery, layer1031. https://services.wvgis.wvu.edu/arcgis/rest/services/Imagery_BaseMaps_EarthCover/wv_imagery_WVGISTC_leaf_off_mosaic/MapServer
+
+Detail generatively restored by Slipstream Live; leaf-on trees and green grass; cars removed from racing surface and pit lane. One USDA NAIP2024 West Virginia photograph supplies seasonal appearance only. All five layouts (8, 9, 24, 142, 159) retain their geographic frames. Output sampling is0.10m; source optical resolution is unverified. Publication retains the existing explicit product-owner rights-risk ruling; this is not provider permission.
