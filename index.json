@@ -1,7 +1,7 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "2026-10-19-rudskogen",
+  "version": "2026-10-19-winton-bend",
   "venues": [
     {
       "schema_version": 3,
@@ -817,6 +817,24 @@
     },
     {
       "schema_version": 3,
+      "physical_venue_key": "the-bend",
+      "venue": "Shell V-Power Motorsport Park at The Bend - East Circuit",
+      "version": "the-bend-v3-bc130419b041",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/the-bend-v3-bc130419b041/the-bend.zip",
+      "size_bytes": 122149363,
+      "sha256": "58d71cbcdeb63f82922a5773ed141e7d2bdeb2ca5629d9350eaab06773722e1c",
+      "layouts": [
+        540,
+        541,
+        542,
+        543,
+        544,
+        545,
+        546
+      ]
+    },
+    {
+      "schema_version": 3,
       "physical_venue_key": "thruxton",
       "venue": "Thruxton Circuit",
       "version": "thruxton-v3-861a7b9fe6e7",
@@ -886,6 +904,19 @@
       "sha256": "2da92c55f350ddab1b9ce192b5a24bb7349acdbb231ae48a07cd63895bf56327",
       "layouts": [
         481
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "winton",
+      "venue": "Winton Motor Raceway - Club Circuit",
+      "version": "winton-v3-075989a0cf10",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/winton-v3-075989a0cf10/winton.zip",
+      "size_bytes": 31064695,
+      "sha256": "dd5a88c3b3094cb20fba5ef072762cde20261ee772f47c4bc4f9ab6eceaacae3",
+      "layouts": [
+        439,
+        440
       ]
     },
     {
@@ -1835,6 +1866,22 @@
       "attribution": "NYS ITS GIS Program Office — Statewide Orthoimagery",
       "hero3d": true
     },
+    "439": {
+      "physical_venue_key": "winton",
+      "corner_views": 0,
+      "live_tiles": 145,
+      "provider": "geovic-deeca-northeast-2019-20cm",
+      "attribution": "© State Government of Victoria / DEECA — GeoVic North East - 28/10/2019 (20cm), layer 1749",
+      "hero3d": true
+    },
+    "440": {
+      "physical_venue_key": "winton",
+      "corner_views": 0,
+      "live_tiles": 99,
+      "provider": "geovic-deeca-northeast-2019-20cm",
+      "attribution": "© State Government of Victoria / DEECA — GeoVic North East - 28/10/2019 (20cm), layer 1749",
+      "hero3d": true
+    },
     "444": {
       "physical_venue_key": "fuji",
       "corner_views": 16,
@@ -2234,6 +2281,62 @@
       "provider": "fl-miami-dade-woolpert-2025",
       "attribution": "Miami-Dade County GIS — Woolpert 2025 Aerial Imagery",
       "hero3d": false
+    },
+    "540": {
+      "physical_venue_key": "the-bend",
+      "corner_views": 0,
+      "live_tiles": 392,
+      "provider": "esri-maxar-bend-wayback-2024r06",
+      "attribution": "Map image copyright Esri and its licensors; Maxar / Vivid / WorldView-3. Capture2023-09-06, Wayback release2024-06-06.",
+      "hero3d": true
+    },
+    "541": {
+      "physical_venue_key": "the-bend",
+      "corner_views": 0,
+      "live_tiles": 257,
+      "provider": "esri-maxar-bend-wayback-2024r06",
+      "attribution": "Map image copyright Esri and its licensors; Maxar / Vivid / WorldView-3. Capture2023-09-06, Wayback release2024-06-06.",
+      "hero3d": true
+    },
+    "542": {
+      "physical_venue_key": "the-bend",
+      "corner_views": 0,
+      "live_tiles": 205,
+      "provider": "esri-maxar-bend-wayback-2024r06",
+      "attribution": "Map image copyright Esri and its licensors; Maxar / Vivid / WorldView-3. Capture2023-09-06, Wayback release2024-06-06.",
+      "hero3d": true
+    },
+    "543": {
+      "physical_venue_key": "the-bend",
+      "corner_views": 0,
+      "live_tiles": 177,
+      "provider": "esri-maxar-bend-wayback-2024r06",
+      "attribution": "Map image copyright Esri and its licensors; Maxar / Vivid / WorldView-3. Capture2023-09-06, Wayback release2024-06-06.",
+      "hero3d": true
+    },
+    "544": {
+      "physical_venue_key": "the-bend",
+      "corner_views": 0,
+      "live_tiles": 184,
+      "provider": "esri-maxar-bend-wayback-2024r06",
+      "attribution": "Map image copyright Esri and its licensors; Maxar / Vivid / WorldView-3. Capture2023-09-06, Wayback release2024-06-06.",
+      "hero3d": true
+    },
+    "545": {
+      "physical_venue_key": "the-bend",
+      "corner_views": 0,
+      "live_tiles": 137,
+      "provider": "esri-maxar-bend-wayback-2024r06",
+      "attribution": "Map image copyright Esri and its licensors; Maxar / Vivid / WorldView-3. Capture2023-09-06, Wayback release2024-06-06.",
+      "hero3d": true
+    },
+    "546": {
+      "physical_venue_key": "the-bend",
+      "corner_views": 0,
+      "live_tiles": 94,
+      "provider": "esri-maxar-bend-wayback-2024r06",
+      "attribution": "Map image copyright Esri and its licensors; Maxar / Vivid / WorldView-3. Capture2023-09-06, Wayback release2024-06-06.",
+      "hero3d": true
     },
     "550": {
       "physical_venue_key": "charlotte-roval",
