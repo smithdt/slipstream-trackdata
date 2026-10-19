@@ -1,7 +1,7 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "satellite-summit-20261015",
+  "version": "2026-10-19-rudskogen",
   "venues": [
     {
       "schema_version": 3,
@@ -676,6 +676,18 @@
         126,
         127,
         128
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "rudskogen",
+      "venue": "Rudskogen Motorsenter",
+      "version": "rudskogen-v3-3b74e65b76ee",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/rudskogen-v3-3b74e65b76ee/rudskogen.zip",
+      "size_bytes": 13517191,
+      "sha256": "d90ed8d3bb5524b5feab2b1a6fb03b4d5d2d63ebc5f13712827e0c1eb9f558ec",
+      "layouts": [
+        451
       ]
     },
     {
@@ -1853,6 +1865,14 @@
       "live_tiles": 288,
       "provider": "de-st",
       "attribution": "© LVermGeo Sachsen-Anhalt, dl-de/by-2-0 [Daten bearbeitet]",
+      "hero3d": true
+    },
+    "451": {
+      "physical_venue_key": "rudskogen",
+      "corner_views": 0,
+      "live_tiles": 216,
+      "provider": "norgeibilder-ostfold-2025",
+      "attribution": "©norgeibilder.no / Geovekst / Field Geospatial AS — Østfold2025, project4831, photograph2025-05-04",
       "hero3d": true
     },
     "453": {
