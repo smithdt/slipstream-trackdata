@@ -1,8 +1,20 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "2026-10-19-winton-bend",
+  "version": "2026-10-24-adelaide",
   "venues": [
+    {
+      "schema_version": 3,
+      "physical_venue_key": "adelaide",
+      "venue": "Adelaide Street Circuit",
+      "version": "adelaide-v3-13db518a9b99",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/adelaide-v3-13db518a9b99/adelaide.zip",
+      "size_bytes": 23879332,
+      "sha256": "9813c42648029e2717519c4f8d936df05b5a9b7dab977e466e37bfcb42ee4b7f",
+      "layouts": [
+        580
+      ]
+    },
     {
       "schema_version": 3,
       "physical_venue_key": "algarve-international-circuit",
@@ -2440,6 +2452,14 @@
       "live_tiles": 792,
       "provider": "wm-skysat-mexico",
       "attribution": "Planet Labs SkySat via Wikimedia Commons (CC BY-SA 4.0)",
+      "hero3d": true
+    },
+    "580": {
+      "physical_venue_key": "adelaide",
+      "corner_views": 0,
+      "live_tiles": 147,
+      "provider": "esri-maxar-adelaide-wayback-2025r06",
+      "attribution": "Map image copyright Esri and its licensors; Maxar GeoEye1, photograph2025-04-02, Wayback release2025-06-26.",
       "hero3d": true
     },
     "584": {
