@@ -1,7 +1,7 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "2026-10-24-adelaide",
+  "version": "satellite-index-v3-road-america-fit-20261025",
   "venues": [
     {
       "schema_version": 3,
@@ -666,14 +666,17 @@
       "schema_version": 3,
       "physical_venue_key": "road-america",
       "venue": "Road America",
-      "version": "road-america-v3-e28a49602df5",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-america-v3-e28a49602df5/road-america.zip",
-      "size_bytes": 96862546,
-      "sha256": "6c8782a643de7d01d6bce40520ee43deb45dc764dd510733dc179d87ab314821",
+      "version": "road-america-v3-0139f79f0a9d",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/road-america-v3-0139f79f0a9d/road-america.zip",
+      "size_bytes": 96035182,
+      "sha256": "2267062c6f0edcba611d52cc7a9aaa8a3e56f494a3a59832824bbea9f1883e1a",
       "layouts": [
         18,
         50,
-        596
+        596,
+        597,
+        598,
+        599
       ]
     },
     {
@@ -2487,6 +2490,30 @@
       "hero3d": true
     },
     "596": {
+      "physical_venue_key": "road-america",
+      "corner_views": 0,
+      "live_tiles": 910,
+      "provider": "wi-dnr",
+      "attribution": "Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery",
+      "hero3d": true
+    },
+    "597": {
+      "physical_venue_key": "road-america",
+      "corner_views": 0,
+      "live_tiles": 910,
+      "provider": "wi-dnr",
+      "attribution": "Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery",
+      "hero3d": true
+    },
+    "598": {
+      "physical_venue_key": "road-america",
+      "corner_views": 0,
+      "live_tiles": 910,
+      "provider": "wi-dnr",
+      "attribution": "Wisconsin DNR / WROC — Latest Leaf-Off Orthoimagery",
+      "hero3d": true
+    },
+    "599": {
       "physical_venue_key": "road-america",
       "corner_views": 0,
       "live_tiles": 910,
