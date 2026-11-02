@@ -256,6 +256,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-mount-panorama.zip"
     },
     {
+      "physical_venue_key": "myrtle-beach-speedway",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "a30ccc01b2a1afc6a42a368acc32a16dcd878fae657c1cce2f56fb890506061e",
+      "size_bytes": 227041,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-myrtle-beach-speedway.zip"
+    },
+    {
       "physical_venue_key": "navarra",
       "version": "2026-09-28",
       "sha256": "d1068052c749bb468b845b9fe2066b4d17febbdec5281d325d428250d03f3017",
