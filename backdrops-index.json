@@ -445,6 +445,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-suzuka.zip"
     },
     {
+      "physical_venue_key": "talladega-superspeedway",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "eb1ca935936cd4b470486144cc58ed26561d72cddc9bce50b8bf785413c28f15",
+      "size_bytes": 768829,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-talladega-superspeedway.zip"
+    },
+    {
       "physical_venue_key": "tsukuba",
       "version": "2026-09-28",
       "sha256": "bdbf4606a0f3c5aea4927753dcad907894eb188a66d1d85af498c7d9c34e4dfa",
