@@ -1,7 +1,7 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "satellite-index-v3-road-america-fit-20261025",
+  "version": "satellite-index-v3-oval-20261102",
   "venues": [
     {
       "schema_version": 3,
@@ -80,6 +80,19 @@
     },
     {
       "schema_version": 3,
+      "physical_venue_key": "bristol-motor-speedway",
+      "venue": "Bristol Motor Speedway",
+      "version": "bristol-motor-speedway-v3-3d4aa821ab93",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/bristol-motor-speedway-v3-3d4aa821ab93/bristol-motor-speedway.zip",
+      "size_bytes": 6594106,
+      "sha256": "d529692e0b5c5baef04dfca45d4194fbadd9d29fc78a4e5dbb98def2f3a1381d",
+      "layouts": [
+        101,
+        365
+      ]
+    },
+    {
+      "schema_version": 3,
       "physical_venue_key": "cadwell-park",
       "venue": "Cadwell Park Circuit",
       "version": "cadwell-park-v3-1321b54df392",
@@ -136,6 +149,30 @@
     },
     {
       "schema_version": 3,
+      "physical_venue_key": "chicagoland-speedway",
+      "venue": "Chicagoland Speedway",
+      "version": "chicagoland-speedway-v3-2f945b6208fd",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/chicagoland-speedway-v3-2f945b6208fd/chicagoland-speedway.zip",
+      "size_bytes": 42480691,
+      "sha256": "db819822b5ea0ad78a364ea8e6dc502340cf8c356cfacf9362e693782d0aeb67",
+      "layouts": [
+        123
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "concord-speedway",
+      "venue": "Concord Speedway",
+      "version": "concord-speedway-v3-8bd4e3bf06e6",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/concord-speedway-v3-8bd4e3bf06e6/concord-speedway.zip",
+      "size_bytes": 3296239,
+      "sha256": "8ca89ce4280ccef098042d309e6e6df2bf6221b3289ee27bc71eee10b2f653ee",
+      "layouts": [
+        15
+      ]
+    },
+    {
+      "schema_version": 3,
       "physical_venue_key": "cota",
       "venue": "Circuit of the Americas",
       "version": "cota-v3-77545a7ea6ca",
@@ -144,6 +181,18 @@
       "sha256": "a067e96d3f2b97afc0be2ef028732e9c16780d6eb48b9a779bc504935332f39b",
       "layouts": [
         229
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "darlington-raceway",
+      "venue": "Darlington Raceway",
+      "version": "darlington-raceway-v3-1184fe5f9428",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/darlington-raceway-v3-1184fe5f9428/darlington-raceway.zip",
+      "size_bytes": 14008775,
+      "sha256": "ade235d8a1a32c6d2153b4751077552a765e6ce39235222b3cde8d505852d56d",
+      "layouts": [
+        115
       ]
     },
     {
@@ -193,6 +242,30 @@
     },
     {
       "schema_version": 3,
+      "physical_venue_key": "dover-motor-speedway",
+      "venue": "Dover Motor Speedway",
+      "version": "dover-motor-speedway-v3-c8b790e382aa",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/dover-motor-speedway-v3-c8b790e382aa/dover-motor-speedway.zip",
+      "size_bytes": 15432921,
+      "sha256": "32f205c55769626d6cc3473e25850e9f75426c5c0094ce9d67b9c2720bcf3e34",
+      "layouts": [
+        162
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "five-flags-speedway",
+      "venue": "Five Flags Speedway",
+      "version": "five-flags-speedway-v3-04b0575c5e69",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/five-flags-speedway-v3-04b0575c5e69/five-flags-speedway.zip",
+      "size_bytes": 6786005,
+      "sha256": "d8f63bfea72e0016498d41b6f8c0e34731e95bd768994ad88a1fee926ce65734",
+      "layouts": [
+        248
+      ]
+    },
+    {
+      "schema_version": 3,
       "physical_venue_key": "fuji",
       "venue": "Fuji International Speedway",
       "version": "fuji-v3-50bc0844194c",
@@ -215,6 +288,18 @@
       "layouts": [
         238,
         560
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "hickory-motor-speedway",
+      "venue": "Hickory Motor Speedway",
+      "version": "hickory-motor-speedway-v3-990a318fdbaf",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/hickory-motor-speedway-v3-990a318fdbaf/hickory-motor-speedway.zip",
+      "size_bytes": 3441970,
+      "sha256": "c56afb928c5187e57bc585fdf66ca5f7c3a395a5bd6e06c7302526cf6a2cdcc1",
+      "layouts": [
+        414
       ]
     },
     {
@@ -296,6 +381,19 @@
     },
     {
       "schema_version": 3,
+      "physical_venue_key": "iowa-speedway",
+      "venue": "Iowa Speedway",
+      "version": "iowa-speedway-v3-f5142605bf37",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/iowa-speedway-v3-f5142605bf37/iowa-speedway.zip",
+      "size_bytes": 11605415,
+      "sha256": "bc244188dec828cd0fb8468c9334211210bffd409e81b0576a6c717bbe0db379",
+      "layouts": [
+        169,
+        559
+      ]
+    },
+    {
+      "schema_version": 3,
       "physical_venue_key": "jerez",
       "venue": "Circuito de Jerez - Ángel Nieto",
       "version": "jerez-v3-cbefedb57014",
@@ -304,6 +402,30 @@
       "sha256": "80336750a16315381dd7f0dfed765c2544a307aaf2814ba66c3d7ed9d4d151c8",
       "layouts": [
         473
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "kansas-speedway",
+      "venue": "Kansas Speedway",
+      "version": "kansas-speedway-v3-70d77016741e",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/kansas-speedway-v3-70d77016741e/kansas-speedway.zip",
+      "size_bytes": 15637166,
+      "sha256": "3074ff729de7fd455271a1e947fb2bb7406b4f9b0142a39313febd50a67f4f45",
+      "layouts": [
+        214
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "kevin-harvick-s-kern-raceway",
+      "venue": "Kevin Harvick's Kern Raceway",
+      "version": "kevin-harvick-s-kern-raceway-v3-8def7c0ebc0f",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/kevin-harvick-s-kern-raceway-v3-8def7c0ebc0f/kevin-harvick-s-kern-raceway.zip",
+      "size_bytes": 6658115,
+      "sha256": "fd812b67e442f97a2ab804f229df8a98e46ce1a2b5ab3d419143750d58248c91",
+      "layouts": [
+        493
       ]
     },
     {
@@ -329,6 +451,42 @@
       "layouts": [
         47,
         586
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "langley-speedway",
+      "venue": "Langley Speedway",
+      "version": "langley-speedway-v3-7bfebb7f5cab",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/langley-speedway-v3-7bfebb7f5cab/langley-speedway.zip",
+      "size_bytes": 3495678,
+      "sha256": "44b2b500c35c567c6f32466eb8bf894f2165bd02017453433fbd5c965788e6a1",
+      "layouts": [
+        201
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "lanier-national-speedway",
+      "venue": "Lanier National Speedway",
+      "version": "lanier-national-speedway-v3-279ccf5ecd8c",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/lanier-national-speedway-v3-279ccf5ecd8c/lanier-national-speedway.zip",
+      "size_bytes": 3238471,
+      "sha256": "281fbbad63bd8cdf3047d4d1007b630fef2e08d214e3dedaa00765c9e967bcba",
+      "layouts": [
+        17
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "las-vegas-motor-speedway",
+      "venue": "Las Vegas Motor Speedway",
+      "version": "las-vegas-motor-speedway-v3-0d39f4660ba9",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/las-vegas-motor-speedway-v3-0d39f4660ba9/las-vegas-motor-speedway.zip",
+      "size_bytes": 14372517,
+      "sha256": "83bd6048f3cfabed7a4b4d2c849abb022950d8e2ae0cdc8f13a2974446d3ee6b",
+      "layouts": [
+        103
       ]
     },
     {
@@ -385,6 +543,18 @@
     },
     {
       "schema_version": 3,
+      "physical_venue_key": "lucas-oil-indianapolis-raceway-park",
+      "venue": "Lucas Oil Indianapolis Raceway Park",
+      "version": "lucas-oil-indianapolis-raceway-park-v3-6c04b4d0f541",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/lucas-oil-indianapolis-raceway-park-v3-6c04b4d0f541/lucas-oil-indianapolis-raceway-park.zip",
+      "size_bytes": 11189716,
+      "sha256": "306703796968d6d80ba1efa797f077e9a3a610fb2f0685f8fc256e1ac27e4fea",
+      "layouts": [
+        232
+      ]
+    },
+    {
+      "schema_version": 3,
       "physical_venue_key": "magny-cours",
       "venue": "Circuit de Nevers Magny-Cours",
       "version": "magny-cours-v3-46c33fc2fa26",
@@ -397,6 +567,18 @@
     },
     {
       "schema_version": 3,
+      "physical_venue_key": "martinsville-speedway",
+      "venue": "Martinsville Speedway",
+      "version": "martinsville-speedway-v3-19d76e6e489e",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/martinsville-speedway-v3-19d76e6e489e/martinsville-speedway.zip",
+      "size_bytes": 6190530,
+      "sha256": "70b374b9e0e248fa3693df09645936c96ad58516b375cdb38a1fcd76abe1a0b7",
+      "layouts": [
+        33
+      ]
+    },
+    {
+      "schema_version": 3,
       "physical_venue_key": "miami-international-autodrome",
       "venue": "Miami International Autodrome",
       "version": "miami-international-autodrome-v3-08106d015b1d",
@@ -405,6 +587,18 @@
       "sha256": "7b12ee4d37cc3d5f987f2bf7b00e74e6389c0caab44a6d6900198f46676cd0ac",
       "layouts": [
         539
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "michigan-international-speedway",
+      "venue": "Michigan International Speedway",
+      "version": "michigan-international-speedway-v3-39123ad31199",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/michigan-international-speedway-v3-39123ad31199/michigan-international-speedway.zip",
+      "size_bytes": 16921541,
+      "sha256": "051d0a7634519b55470e39da127ab9a34c101b75fe695cb712f7306ea58d964c",
+      "layouts": [
+        276
       ]
     },
     {
@@ -532,6 +726,30 @@
     },
     {
       "schema_version": 3,
+      "physical_venue_key": "myrtle-beach-speedway",
+      "venue": "Myrtle Beach Speedway",
+      "version": "myrtle-beach-speedway-v3-fe8f9a80281c",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/myrtle-beach-speedway-v3-fe8f9a80281c/myrtle-beach-speedway.zip",
+      "size_bytes": 8920449,
+      "sha256": "af897857b0ab27e51f4de94e7c0ddee3a0ef930626de3815e579dec0c79677a9",
+      "layouts": [
+        286
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "nashville-fairgrounds-speedway",
+      "venue": "Nashville Fairgrounds Speedway",
+      "version": "nashville-fairgrounds-speedway-v3-10c5b5fd10c8",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/nashville-fairgrounds-speedway-v3-10c5b5fd10c8/nashville-fairgrounds-speedway.zip",
+      "size_bytes": 7903659,
+      "sha256": "7815b47032f03914efa15c7e1bb45d163115c101c8849cfde1966d27f629bc8f",
+      "layouts": [
+        374
+      ]
+    },
+    {
+      "schema_version": 3,
       "physical_venue_key": "navarra",
       "venue": "Circuito de Navarra",
       "version": "navarra-v3-bff22336c30d",
@@ -546,6 +764,18 @@
     },
     {
       "schema_version": 3,
+      "physical_venue_key": "new-hampshire-motor-speedway",
+      "venue": "New Hampshire Motor Speedway",
+      "version": "new-hampshire-motor-speedway-v3-79388013b9b5",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/new-hampshire-motor-speedway-v3-79388013b9b5/new-hampshire-motor-speedway.zip",
+      "size_bytes": 14885057,
+      "sha256": "daa5c30db15c0188c078715912e03486f91f40b40ec570cd1c54e191b9966142",
+      "layouts": [
+        131
+      ]
+    },
+    {
+      "schema_version": 3,
       "physical_venue_key": "new-jersey-motorsports-park",
       "venue": "New Jersey Motorsports Park",
       "version": "new-jersey-motorsports-park-v3-0e2545219634",
@@ -554,6 +784,30 @@
       "sha256": "ba58f69fb24a808fc18d8308f88c48f749cf4db914563fcd257ad7b60c3d8f9a",
       "layouts": [
         220
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "new-smyrna-speedway",
+      "venue": "New Smyrna Speedway",
+      "version": "new-smyrna-speedway-v3-1607ba135f4a",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/new-smyrna-speedway-v3-1607ba135f4a/new-smyrna-speedway.zip",
+      "size_bytes": 9685925,
+      "sha256": "dcba537c1728b0dc91617993f5940851aa4a21e8b30d9ae6d2e7c2ff1c791695",
+      "layouts": [
+        190
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "north-wilkesboro-speedway",
+      "venue": "North Wilkesboro Speedway",
+      "version": "north-wilkesboro-speedway-v3-5bee3f5394a2",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/north-wilkesboro-speedway-v3-5bee3f5394a2/north-wilkesboro-speedway.zip",
+      "size_bytes": 8863614,
+      "sha256": "e89d98c348802ebf3a7fe60b1b0f3b3eae3fc5b447bf685a4667fed3ccde6fc8",
+      "layouts": [
+        562
       ]
     },
     {
@@ -621,6 +875,18 @@
     },
     {
       "schema_version": 3,
+      "physical_venue_key": "oswego-speedway",
+      "venue": "Oswego Speedway",
+      "version": "oswego-speedway-v3-e0280431ec79",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/oswego-speedway-v3-e0280431ec79/oswego-speedway.zip",
+      "size_bytes": 7489951,
+      "sha256": "db2d912bf3b3f480458aefc3360e1b8bb3dfb49273374ac69feec1bd3aba2e5b",
+      "layouts": [
+        518
+      ]
+    },
+    {
+      "schema_version": 3,
       "physical_venue_key": "oulton-park",
       "venue": "Oulton Park Circuit",
       "version": "oulton-park-v3-30a1dd185142",
@@ -633,6 +899,30 @@
         184,
         185,
         187
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "oxford-plains-speedway",
+      "venue": "Oxford Plains Speedway",
+      "version": "oxford-plains-speedway-v3-46479f111c9c",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/oxford-plains-speedway-v3-46479f111c9c/oxford-plains-speedway.zip",
+      "size_bytes": 3038750,
+      "sha256": "d66947d1b3fc515bde985c0c1e89e28cf1281d297c56f2e53dcac3b9c99f1253",
+      "layouts": [
+        12
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "phoenix-raceway",
+      "venue": "Phoenix Raceway",
+      "version": "phoenix-raceway-v3-52286b799016",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/phoenix-raceway-v3-52286b799016/phoenix-raceway.zip",
+      "size_bytes": 12481715,
+      "sha256": "40a54038fbd571c2b5e884b953861b441f81db5ce34dcbd3e7213ae02d271864",
+      "layouts": [
+        419
       ]
     },
     {
@@ -660,6 +950,18 @@
         403,
         404,
         407
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "richmond-raceway",
+      "venue": "Richmond Raceway",
+      "version": "richmond-raceway-v3-f2b975c6206f",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/richmond-raceway-v3-f2b975c6206f/richmond-raceway.zip",
+      "size_bytes": 10521716,
+      "sha256": "e8cc566857ea617a308f1797c59eac70ee53b977b34b7432ca6d64b1a74f0e23",
+      "layouts": [
+        561
       ]
     },
     {
@@ -747,6 +1049,18 @@
     },
     {
       "schema_version": 3,
+      "physical_venue_key": "slinger-speedway",
+      "venue": "Slinger Speedway",
+      "version": "slinger-speedway-v3-92afff12a266",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/slinger-speedway-v3-92afff12a266/slinger-speedway.zip",
+      "size_bytes": 5033026,
+      "sha256": "70c736f0b8c03bbdc748e6d25bb628d70239b4ee0ca40f6aa94d917e62f9707d",
+      "layouts": [
+        500
+      ]
+    },
+    {
+      "schema_version": 3,
       "physical_venue_key": "snetterton",
       "venue": "Snetterton Circuit",
       "version": "snetterton-v3-23b3158e747f",
@@ -770,6 +1084,30 @@
       "layouts": [
         566,
         570
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "south-boston",
+      "venue": "South Boston Speedway",
+      "version": "south-boston-v3-db3b79a70f6d",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/south-boston-v3-db3b79a70f6d/south-boston.zip",
+      "size_bytes": 3204526,
+      "sha256": "6fba5432d942e419499bf389b8527360ac506a122826a59beb48054808d835f3",
+      "layouts": [
+        14
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "southern-national-motorsports-park",
+      "venue": "Southern National Motorsports Park",
+      "version": "southern-national-motorsports-park-v3-20246bda9c30",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/southern-national-motorsports-park-v3-20246bda9c30/southern-national-motorsports-park.zip",
+      "size_bytes": 3704811,
+      "sha256": "b5ab6a4fd47682dcdb1dae2c31f5fedd0ef670a6a4b7fddef8b160686133befd",
+      "layouts": [
+        256
       ]
     },
     {
@@ -804,6 +1142,18 @@
     },
     {
       "schema_version": 3,
+      "physical_venue_key": "stafford-motor-speedway",
+      "venue": "Stafford Motor Speedway",
+      "version": "stafford-motor-speedway-v3-3d0ea921c040",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/stafford-motor-speedway-v3-3d0ea921c040/stafford-motor-speedway.zip",
+      "size_bytes": 10546470,
+      "sha256": "36aae10cf1c7d72cca4dd8386e6b785de8fedcf30059bc02e77fa7f773d7c092",
+      "layouts": [
+        11
+      ]
+    },
+    {
+      "schema_version": 3,
       "physical_venue_key": "summit-point",
       "venue": "Summit Point Motorsports Park",
       "version": "summit-point-v3-31d35b7ed531",
@@ -832,6 +1182,30 @@
     },
     {
       "schema_version": 3,
+      "physical_venue_key": "talladega-superspeedway",
+      "venue": "Talladega Superspeedway",
+      "version": "talladega-superspeedway-v3-ea131e1d738b",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/talladega-superspeedway-v3-ea131e1d738b/talladega-superspeedway.zip",
+      "size_bytes": 16550099,
+      "sha256": "f5b2096cf58461662bacf7971ee28544433252ada50c55827d38e13f0b5711df",
+      "layouts": [
+        116
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "texas-motor-speedway",
+      "venue": "Texas Motor Speedway",
+      "version": "texas-motor-speedway-v3-e4647ffce208",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/texas-motor-speedway-v3-e4647ffce208/texas-motor-speedway.zip",
+      "size_bytes": 33131880,
+      "sha256": "6d39d0139c229e20fd90c70ff8c1f1ff0a0b589366f44f95cf706cf774bf584e",
+      "layouts": [
+        357
+      ]
+    },
+    {
+      "schema_version": 3,
       "physical_venue_key": "the-bend",
       "venue": "Shell V-Power Motorsport Park at The Bend - East Circuit",
       "version": "the-bend-v3-bc130419b041",
@@ -846,6 +1220,18 @@
         544,
         545,
         546
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "thompson",
+      "venue": "Thompson Speedway Motorsports Park",
+      "version": "thompson-v3-0687ab95b393",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/thompson-v3-0687ab95b393/thompson.zip",
+      "size_bytes": 7962619,
+      "sha256": "dfdb329d54261d669664c2ed880f9222e736e8c52a69de1555f60fd396b2e385",
+      "layouts": [
+        161
       ]
     },
     {
@@ -876,6 +1262,18 @@
         328,
         329,
         333
+      ]
+    },
+    {
+      "schema_version": 3,
+      "physical_venue_key": "usa-international-speedway",
+      "venue": "USA International Speedway",
+      "version": "usa-international-speedway-v3-810ed43e6b81",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/usa-international-speedway-v3-810ed43e6b81/usa-international-speedway.zip",
+      "size_bytes": 6175996,
+      "sha256": "4af23d4b346bdcc07ba369a53975b8d49410e5f1212d400e12fa498c41785208",
+      "layouts": [
+        16
       ]
     },
     {
@@ -985,6 +1383,54 @@
       "attribution": "WVGISTC and Jefferson County — 2025 leaf-off imagery",
       "hero3d": true
     },
+    "11": {
+      "physical_venue_key": "stafford-motor-speedway",
+      "corner_views": 0,
+      "live_tiles": 132,
+      "provider": "ct-cteco",
+      "attribution": "Connecticut State GIS Office / CT ECO, UConn CLEAR / CT DEEP; Dewberry Engineers, Inc. — spring2023",
+      "hero3d": true
+    },
+    "12": {
+      "physical_venue_key": "oxford-plains-speedway",
+      "corner_views": 0,
+      "live_tiles": 27,
+      "provider": "naip",
+      "attribution": "USDA / USGS The National Map — NAIP/HRO original photography",
+      "hero3d": true
+    },
+    "14": {
+      "physical_venue_key": "south-boston",
+      "corner_views": 0,
+      "live_tiles": 33,
+      "provider": "va-vbmp",
+      "attribution": "Virginia VBMP2022 original photography; private unapproved authoring with GenAI restoration",
+      "hero3d": true
+    },
+    "15": {
+      "physical_venue_key": "concord-speedway",
+      "corner_views": 0,
+      "live_tiles": 38,
+      "provider": "esri-wayback-oval-private",
+      "attribution": "Esri / DigitalGlobe-Maxar; historical original imagery, acquisition metadata retained; private authoring only.",
+      "hero3d": true
+    },
+    "16": {
+      "physical_venue_key": "usa-international-speedway",
+      "corner_views": 0,
+      "live_tiles": 54,
+      "provider": "fl-fdot2008",
+      "attribution": "Florida DOT — FDOT2008 historical original imagery",
+      "hero3d": true
+    },
+    "17": {
+      "physical_venue_key": "lanier-national-speedway",
+      "corner_views": 0,
+      "live_tiles": 29,
+      "provider": "esri-wayback-oval-private",
+      "attribution": "Esri / Microsoft; historical2011 aerial photography; private authoring only",
+      "hero3d": true
+    },
     "18": {
       "physical_venue_key": "road-america",
       "corner_views": 14,
@@ -1041,6 +1487,14 @@
       "attribution": "Volusia County Property Appraiser — 2024 aerial imagery",
       "hero3d": true
     },
+    "33": {
+      "physical_venue_key": "martinsville-speedway",
+      "corner_views": 0,
+      "live_tiles": 43,
+      "provider": "va-vbmp-2023",
+      "attribution": "Virginia Geographic Information Network — VBMP",
+      "hero3d": true
+    },
     "47": {
       "physical_venue_key": "laguna-seca",
       "corner_views": 11,
@@ -1089,6 +1543,46 @@
       "attribution": "FDOT — Florida Statewide Digital Orthoimagery (2020)",
       "hero3d": true
     },
+    "101": {
+      "physical_venue_key": "bristol-motor-speedway",
+      "corner_views": 0,
+      "live_tiles": 49,
+      "provider": "esri-wayback-oval-private",
+      "attribution": "Esri / historical original photography; private authoring only",
+      "hero3d": true
+    },
+    "103": {
+      "physical_venue_key": "las-vegas-motor-speedway",
+      "corner_views": 0,
+      "live_tiles": 135,
+      "provider": "naip",
+      "attribution": "USDA / USGS The National Map — NAIP/HRO original photography",
+      "hero3d": true
+    },
+    "115": {
+      "physical_venue_key": "darlington-raceway",
+      "corner_views": 0,
+      "live_tiles": 110,
+      "provider": "sc-rfa2023",
+      "attribution": "South Carolina RFA2023 statewide photography",
+      "hero3d": true
+    },
+    "116": {
+      "physical_venue_key": "talladega-superspeedway",
+      "corner_views": 0,
+      "live_tiles": 234,
+      "provider": "naip",
+      "attribution": "USDA / USGS The National Map — NAIP/HRO original photography",
+      "hero3d": true
+    },
+    "123": {
+      "physical_venue_key": "chicagoland-speedway",
+      "corner_views": 0,
+      "live_tiles": 675,
+      "provider": "will2024",
+      "attribution": "Will County GIS —2024 3inch original orthophotography",
+      "hero3d": true
+    },
     "126": {
       "physical_venue_key": "road-atlanta",
       "corner_views": 0,
@@ -1111,6 +1605,14 @@
       "live_tiles": 432,
       "provider": "naip",
       "attribution": "USDA Farm Service Agency / USGS — public domain",
+      "hero3d": true
+    },
+    "131": {
+      "physical_venue_key": "new-hampshire-motor-speedway",
+      "corner_views": 0,
+      "live_tiles": 84,
+      "provider": "nh-granit2021-22",
+      "attribution": "NH GRANIT / UNH — statewide2021–2022 six-inch orthophotography",
       "hero3d": true
     },
     "142": {
@@ -1201,6 +1703,22 @@
       "attribution": "WVGISTC and Jefferson County — 2025 leaf-off imagery",
       "hero3d": true
     },
+    "161": {
+      "physical_venue_key": "thompson",
+      "corner_views": 0,
+      "live_tiles": 104,
+      "provider": "ct-cteco",
+      "attribution": "Connecticut State GIS Office / CT ECO, UConn CLEAR / CT DEEP; Dewberry Engineers, Inc. — spring2023",
+      "hero3d": true
+    },
+    "162": {
+      "physical_venue_key": "dover-motor-speedway",
+      "corner_views": 0,
+      "live_tiles": 86,
+      "provider": "de-firstmap",
+      "attribution": "State of Delaware / FirstMap; Sanborn Map Company — 2024 statewide orthoimagery",
+      "hero3d": true
+    },
     "163": {
       "physical_venue_key": "spa",
       "corner_views": 19,
@@ -1249,6 +1767,14 @@
       "attribution": "出典：国土地理院（地理院タイル seamlessphoto を加工して作成）",
       "hero3d": true
     },
+    "169": {
+      "physical_venue_key": "iowa-speedway",
+      "corner_views": 0,
+      "live_tiles": 71,
+      "provider": "naip",
+      "attribution": "USDA / USGS The National Map — NAIP/HRO original photography",
+      "hero3d": true
+    },
     "179": {
       "physical_venue_key": "long-beach",
       "corner_views": 11,
@@ -1295,6 +1821,14 @@
       "live_tiles": 29,
       "provider": "ea-lidar-osm",
       "attribution": "(c) Environment Agency copyright and/or database right 2019 (OGL v3.0); (c) OpenStreetMap contributors (ODbL)",
+      "hero3d": true
+    },
+    "190": {
+      "physical_venue_key": "new-smyrna-speedway",
+      "corner_views": 0,
+      "live_tiles": 104,
+      "provider": "fl-fdot2018",
+      "attribution": "Florida DOT / Florida DEP",
       "hero3d": true
     },
     "191": {
@@ -1377,6 +1911,14 @@
       "attribution": "© Digitaal Vlaanderen — Orthofotomozaïek",
       "hero3d": true
     },
+    "201": {
+      "physical_venue_key": "langley-speedway",
+      "corner_views": 0,
+      "live_tiles": 33,
+      "provider": "va-vbmp-2025",
+      "attribution": "Virginia Geographic Information Network — VBMP",
+      "hero3d": true
+    },
     "202": {
       "physical_venue_key": "oran-park",
       "corner_views": 12,
@@ -1433,6 +1975,14 @@
       "attribution": "© Prefeitura de São Paulo — GeoSampa (CC BY-SA 4.0)",
       "hero3d": true
     },
+    "214": {
+      "physical_venue_key": "kansas-speedway",
+      "corner_views": 0,
+      "live_tiles": 130,
+      "provider": "naip",
+      "attribution": "USDA / USGS The National Map — NAIP/HRO original photography",
+      "hero3d": true
+    },
     "218": {
       "physical_venue_key": "montreal",
       "corner_views": 14,
@@ -1463,6 +2013,14 @@
       "live_tiles": 1008,
       "provider": "tx-stratmap19-caparea",
       "attribution": "Texas StratMap 2019 / TxGIO (TNRIS) — Capital Area",
+      "hero3d": true
+    },
+    "232": {
+      "physical_venue_key": "lucas-oil-indianapolis-raceway-park",
+      "corner_views": 0,
+      "live_tiles": 150,
+      "provider": "in-gio-current",
+      "attribution": "Indiana Geographic Information Office —2025 orthophotography",
       "hero3d": true
     },
     "233": {
@@ -1521,6 +2079,14 @@
       "attribution": "Regione Lombardia – Ortofoto AGEA 2015 / 2021 (Geoportale della Lombardia)",
       "hero3d": true
     },
+    "248": {
+      "physical_venue_key": "five-flags-speedway",
+      "corner_views": 0,
+      "live_tiles": 42,
+      "provider": "fl-fdot2016",
+      "attribution": "Florida DOT / Florida DEP",
+      "hero3d": true
+    },
     "249": {
       "physical_venue_key": "nurburgring",
       "corner_views": 0,
@@ -1551,6 +2117,14 @@
       "live_tiles": 380,
       "provider": "de-rlp",
       "attribution": "©GeoBasis-DE / LVermGeoRP, dl-de/by-2-0 [Daten bearbeitet]",
+      "hero3d": true
+    },
+    "256": {
+      "physical_venue_key": "southern-national-motorsports-park",
+      "corner_views": 0,
+      "live_tiles": 30,
+      "provider": "nc-nconemap",
+      "attribution": "NC OneMap / NC Orthoimagery Program",
       "hero3d": true
     },
     "259": {
@@ -1599,6 +2173,22 @@
       "live_tiles": 1380,
       "provider": "ign-geoplateforme",
       "attribution": "© IGN — Géoplateforme (Licence Ouverte / Etalab 2.0)",
+      "hero3d": true
+    },
+    "276": {
+      "physical_venue_key": "michigan-international-speedway",
+      "corner_views": 0,
+      "live_tiles": 167,
+      "provider": "mi2024",
+      "attribution": "Michigan DTMB / MiSAIL — Jackson/Lenawee2024",
+      "hero3d": true
+    },
+    "286": {
+      "physical_venue_key": "myrtle-beach-speedway",
+      "corner_views": 0,
+      "live_tiles": 48,
+      "provider": "sc-rfa2020",
+      "attribution": "South Carolina RFA / Kucera International2020",
       "hero3d": true
     },
     "297": {
@@ -1769,12 +2359,36 @@
       "attribution": "Connecticut ECO (UConn CLEAR & CT DEEP) — 2023 statewide orthoimagery",
       "hero3d": true
     },
+    "357": {
+      "physical_venue_key": "texas-motor-speedway",
+      "corner_views": 0,
+      "live_tiles": 532,
+      "provider": "fortworth2024",
+      "attribution": "City of Fort Worth GIS",
+      "hero3d": true
+    },
     "362": {
       "physical_venue_key": "homestead-miami",
       "corner_views": 10,
       "live_tiles": 620,
       "provider": "fl-miami-dade-woolpert-2025",
       "attribution": "Miami-Dade County GIS — Woolpert 2025 Aerial Imagery",
+      "hero3d": true
+    },
+    "365": {
+      "physical_venue_key": "bristol-motor-speedway",
+      "corner_views": 0,
+      "live_tiles": 49,
+      "provider": "esri-wayback-oval-private",
+      "attribution": "Esri / historical original photography; private authoring only",
+      "hero3d": true
+    },
+    "374": {
+      "physical_venue_key": "nashville-fairgrounds-speedway",
+      "corner_views": 0,
+      "live_tiles": 47,
+      "provider": "tn-tdot",
+      "attribution": "TDOT Aerial Surveys",
       "hero3d": true
     },
     "381": {
@@ -1839,6 +2453,22 @@
       "live_tiles": 132,
       "provider": "hu-lechner-2015",
       "attribution": "Lechner Tudásközpont (Lechner Knowledge Centre) — Hungarian national orthophoto 2015",
+      "hero3d": true
+    },
+    "414": {
+      "physical_venue_key": "hickory-motor-speedway",
+      "corner_views": 0,
+      "live_tiles": 31,
+      "provider": "nc-nconemap",
+      "attribution": "NC OneMap / NC Orthoimagery Program",
+      "hero3d": true
+    },
+    "419": {
+      "physical_venue_key": "phoenix-raceway",
+      "corner_views": 0,
+      "live_tiles": 90,
+      "provider": "naip",
+      "attribution": "USDA / USGS The National Map — NAIP/HRO original photography",
       "hero3d": true
     },
     "423": {
@@ -2137,6 +2767,14 @@
       "attribution": "© IGN — Géoplateforme (Licence Ouverte / Etalab 2.0)",
       "hero3d": true
     },
+    "493": {
+      "physical_venue_key": "kevin-harvick-s-kern-raceway",
+      "corner_views": 0,
+      "live_tiles": 52,
+      "provider": "ca-kern-2016",
+      "attribution": "Kern County GIS —2016",
+      "hero3d": true
+    },
     "498": {
       "physical_venue_key": "mugello",
       "corner_views": 15,
@@ -2151,6 +2789,14 @@
       "live_tiles": 336,
       "provider": "it-toscana",
       "attribution": "© Regione Toscana — GEOscopio (CC BY 4.0). Projection corrected by Slipstream Live.",
+      "hero3d": true
+    },
+    "500": {
+      "physical_venue_key": "slinger-speedway",
+      "corner_views": 0,
+      "live_tiles": 54,
+      "provider": "wi-dnr",
+      "attribution": "Wisconsin DNR / Washington County / WROC-SEWRPC",
       "hero3d": true
     },
     "501": {
@@ -2207,6 +2853,14 @@
       "live_tiles": 58,
       "provider": "es-pnoa",
       "attribution": "PNOA cedido por © Instituto Geográfico Nacional de España (CC BY 4.0)",
+      "hero3d": true
+    },
+    "518": {
+      "physical_venue_key": "oswego-speedway",
+      "corner_views": 0,
+      "live_tiles": 40,
+      "provider": "ny-its",
+      "attribution": "New York State GIS / Statewide Digital Orthoimagery Program",
       "hero3d": true
     },
     "521": {
@@ -2425,12 +3079,36 @@
       "attribution": "Cabarrus County GIS — 2025 Aerial Imagery",
       "hero3d": true
     },
+    "559": {
+      "physical_venue_key": "iowa-speedway",
+      "corner_views": 0,
+      "live_tiles": 73,
+      "provider": "naip",
+      "attribution": "USDA / USGS The National Map — NAIP/HRO original photography",
+      "hero3d": true
+    },
     "560": {
       "physical_venue_key": "gateway",
       "corner_views": 0,
       "live_tiles": 32,
       "provider": "naip",
       "attribution": "USDA Farm Service Agency / USGS — public domain",
+      "hero3d": true
+    },
+    "561": {
+      "physical_venue_key": "richmond-raceway",
+      "corner_views": 0,
+      "live_tiles": 64,
+      "provider": "va-vbmp-2025",
+      "attribution": "Virginia Geographic Information Network — VBMP",
+      "hero3d": true
+    },
+    "562": {
+      "physical_venue_key": "north-wilkesboro-speedway",
+      "corner_views": 0,
+      "live_tiles": 44,
+      "provider": "nc-nconemap",
+      "attribution": "NC OneMap / NC Orthoimagery Program",
       "hero3d": true
     },
     "566": {
