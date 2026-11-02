@@ -32,6 +32,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-brands-hatch.zip"
     },
     {
+      "physical_venue_key": "bristol-motor-speedway",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "3bb33bd76a6840b88f3e33e49ff53c5791ddb29eb6bc83e9c8b0af08d32268c1",
+      "size_bytes": 520483,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-bristol-motor-speedway.zip"
+    },
+    {
       "physical_venue_key": "charlotte-roval",
       "version": "2026-09-28",
       "sha256": "79625feea4016c3745ecb7ddcbac977c4a7ae4053a96eff425f31646d4e32d29",
