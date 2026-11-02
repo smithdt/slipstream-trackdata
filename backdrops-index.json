@@ -452,6 +452,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-talladega-superspeedway.zip"
     },
     {
+      "physical_venue_key": "texas-motor-speedway",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "3e505cdc4b702a527ba5dda86bd54a3ae659ab8644956f2ffafd3d511115fc75",
+      "size_bytes": 775341,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-texas-motor-speedway.zip"
+    },
+    {
       "physical_venue_key": "tsukuba",
       "version": "2026-09-28",
       "sha256": "bdbf4606a0f3c5aea4927753dcad907894eb188a66d1d85af498c7d9c34e4dfa",
