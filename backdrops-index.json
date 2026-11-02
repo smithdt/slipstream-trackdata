@@ -263,6 +263,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-myrtle-beach-speedway.zip"
     },
     {
+      "physical_venue_key": "nashville-fairgrounds-speedway",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "2f1e59d97cb3a816a61fd714af5c47643ec163e6f159908c0ad44e573cfe5f62",
+      "size_bytes": 211419,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-nashville-fairgrounds-speedway.zip"
+    },
+    {
       "physical_venue_key": "navarra",
       "version": "2026-09-28",
       "sha256": "d1068052c749bb468b845b9fe2066b4d17febbdec5281d325d428250d03f3017",
