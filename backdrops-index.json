@@ -221,6 +221,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-michigan-international-speedway.zip"
     },
     {
+      "physical_venue_key": "milwaukee-mile",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "70301466ea1f9798accd93ddaab3ad899f1ea7fdc331973b62e80137632f9aa7",
+      "size_bytes": 388331,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-milwaukee-mile.zip"
+    },
+    {
       "physical_venue_key": "montreal",
       "version": "2026-09-28",
       "sha256": "0f8907aa3f02906ffbc5d0c8fc6038629fac83d08ea12416ac85379a2a553c82",
