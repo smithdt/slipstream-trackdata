@@ -60,6 +60,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-cota.zip"
     },
     {
+      "physical_venue_key": "darlington-raceway",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "50023bdb3978965f054c71c72e9edf2f8fcb0ee7c1afccc46c6ad5502368c862",
+      "size_bytes": 191189,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-darlington-raceway.zip"
+    },
+    {
       "physical_venue_key": "daytona",
       "version": "2026-09-28",
       "sha256": "1aa56fd3dbe09e99c8537fed021082559ecc09c37fe29b18b142073bffeb618b",
