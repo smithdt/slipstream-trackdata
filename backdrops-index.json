@@ -424,6 +424,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-st-petersburg.zip"
     },
     {
+      "physical_venue_key": "stafford-motor-speedway",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "c7054a37fd70db21aa9c12fea2039d84741d4b8039df67180b7fd980ebe2a5e3",
+      "size_bytes": 187836,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-stafford-motor-speedway.zip"
+    },
+    {
       "physical_venue_key": "summit-point",
       "version": "2026-09-28",
       "sha256": "5f134c45fbbcb2017e60000b95c7643d93f14ff8948660d578b4e910300e3979",
