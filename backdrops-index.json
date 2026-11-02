@@ -270,6 +270,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-nashville-fairgrounds-speedway.zip"
     },
     {
+      "physical_venue_key": "nashville-superspeedway",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "366163efb937064ddc349bba128609aa60cc54405ee00714284d1ed1b4384919",
+      "size_bytes": 162934,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-nashville-superspeedway.zip"
+    },
+    {
       "physical_venue_key": "navarra",
       "version": "2026-09-28",
       "sha256": "d1068052c749bb468b845b9fe2066b4d17febbdec5281d325d428250d03f3017",
