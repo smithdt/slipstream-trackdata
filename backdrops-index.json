@@ -291,6 +291,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-new-hampshire-motor-speedway.zip"
     },
     {
+      "physical_venue_key": "new-smyrna-speedway",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "c7c1c9f2fde4a831d2f30dd59dee222ee6752091be3d12718826ec5f9098ebcb",
+      "size_bytes": 166626,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-new-smyrna-speedway.zip"
+    },
+    {
       "physical_venue_key": "nurburgring",
       "version": "2026-09-28",
       "sha256": "95192d117292ad150bdd1821200d12b58e000073f0b3daeb0469582e0af32c71",
