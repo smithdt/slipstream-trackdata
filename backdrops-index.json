@@ -46,6 +46,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-charlotte-roval.zip"
     },
     {
+      "physical_venue_key": "chicagoland-speedway",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "7bad1ff7afc8ec14bd9bc95f4e79260701c08d6ec01c7a986abbd0ff08294fde",
+      "size_bytes": 149776,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-chicagoland-speedway.zip"
+    },
+    {
       "physical_venue_key": "cota",
       "version": "2026-09-28",
       "sha256": "393d18bf28810cd6b0591851ab22f4f0975828b659b93ce8762e7b904a626866",
