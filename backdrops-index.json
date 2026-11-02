@@ -200,6 +200,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-lucas-oil-indianapolis-raceway-park.zip"
     },
     {
+      "physical_venue_key": "martinsville-speedway",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "fbc707323ce9136dcb8e8aa197d3dcaaf0381c66a8967b01689e510c1ecf1b2f",
+      "size_bytes": 820703,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-martinsville-speedway.zip"
+    },
+    {
       "physical_venue_key": "miami-international-autodrome",
       "version": "2026-09-28",
       "sha256": "cf84d8c0c0ba20563e1ef1cea8f253f29670d9c16f5fcde776a996470264157d",
