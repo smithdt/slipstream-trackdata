@@ -11,6 +11,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-algarve-international-circuit.zip"
     },
     {
+      "physical_venue_key": "auto-club-speedway",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "d771e4277c887406fc081d0eb8a9a46c35dda5608f0c93ea2ff8337592f83555",
+      "size_bytes": 346476,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-auto-club-speedway.zip"
+    },
+    {
       "physical_venue_key": "autodromo-hermanos-rodriguez",
       "version": "2026-09-28",
       "sha256": "12b221ba935d7af6d380a85f1d8c9d6f74eb1a5febc110fabd0f24436b760d4f",
