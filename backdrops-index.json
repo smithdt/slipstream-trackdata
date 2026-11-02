@@ -165,6 +165,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-langley-speedway.zip"
     },
     {
+      "physical_venue_key": "las-vegas-motor-speedway",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "c6f14a47465c879644dc57baa23f7f566824462f3542c89337385ffb50f3a5c7",
+      "size_bytes": 338435,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-las-vegas-motor-speedway.zip"
+    },
+    {
       "physical_venue_key": "le-mans",
       "version": "2026-09-28",
       "sha256": "809285ed7d5816f54116557f8521dfa7c234c332d4ce95059f4816446e8a0ea4",
