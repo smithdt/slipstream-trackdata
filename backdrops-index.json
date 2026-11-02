@@ -284,6 +284,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-navarra.zip"
     },
     {
+      "physical_venue_key": "new-hampshire-motor-speedway",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "b8ebf85ecd52cf4dcf9135c89fd1e2750bdb8abe7507ad40c41e97f9921a4dcd",
+      "size_bytes": 466817,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-new-hampshire-motor-speedway.zip"
+    },
+    {
       "physical_venue_key": "nurburgring",
       "version": "2026-09-28",
       "sha256": "95192d117292ad150bdd1821200d12b58e000073f0b3daeb0469582e0af32c71",
