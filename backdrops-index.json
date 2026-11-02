@@ -109,6 +109,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-hockenheimring.zip"
     },
     {
+      "physical_venue_key": "homestead-miami",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "a36eb57f9bb398510a960fbfc17df6edec60c1d31016893733c8275d11bc0d1a",
+      "size_bytes": 339215,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-homestead-miami.zip"
+    },
+    {
       "physical_venue_key": "imola",
       "version": "2026-09-28",
       "sha256": "71869691f99500bed596b9d8a7499279e6810c18fb624bc33b5c6122ea7b0ae4",
