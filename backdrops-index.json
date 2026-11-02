@@ -214,6 +214,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-miami-international-autodrome.zip"
     },
     {
+      "physical_venue_key": "michigan-international-speedway",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "512bc5f7888665cfc0d4de79325b6bb26656fd7b0a1b6be2423ecb1b00b73c50",
+      "size_bytes": 204966,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-michigan-international-speedway.zip"
+    },
+    {
       "physical_venue_key": "montreal",
       "version": "2026-09-28",
       "sha256": "0f8907aa3f02906ffbc5d0c8fc6038629fac83d08ea12416ac85379a2a553c82",
