@@ -396,6 +396,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-silverstone.zip"
     },
     {
+      "physical_venue_key": "slinger-speedway",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "b6b08df8579ba86487fa1821698d08a87f3077d3a77bcb8a2047e4e019a3c9a2",
+      "size_bytes": 522623,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-slinger-speedway.zip"
+    },
+    {
       "physical_venue_key": "snetterton",
       "version": "2026-09-28",
       "sha256": "27295d7a1179834a7a93e45c59770d74aab9e1f0bac1100b33f48dd0122b4624",
