@@ -102,6 +102,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-fuji.zip"
     },
     {
+      "physical_venue_key": "gateway",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "b7dc2e0082682168afa00048d94e8e269106bae39ffc14a940f7da5aa37403f9",
+      "size_bytes": 252510,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-gateway.zip"
+    },
+    {
       "physical_venue_key": "hockenheimring",
       "version": "2026-09-28",
       "sha256": "c96d756469db91cd001a01423611b91833f1a6f154877f189554f6c46f0b0f20",
