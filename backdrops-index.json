@@ -193,6 +193,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-long-beach.zip"
     },
     {
+      "physical_venue_key": "lucas-oil-indianapolis-raceway-park",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "c154abd695f256d49de329ea19a26cba47c3d8039482e4e7197737f4e9ab6f20",
+      "size_bytes": 86302,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-lucas-oil-indianapolis-raceway-park.zip"
+    },
+    {
       "physical_venue_key": "miami-international-autodrome",
       "version": "2026-09-28",
       "sha256": "cf84d8c0c0ba20563e1ef1cea8f253f29670d9c16f5fcde776a996470264157d",
