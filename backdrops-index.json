@@ -361,6 +361,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-09-28/backdrop-red-bull-ring.zip"
     },
     {
+      "physical_venue_key": "richmond-raceway",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "54600af3899617d066146e77c4deb8689b1d1e30d3dc462679c719ea66bb3ce3",
+      "size_bytes": 408972,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-richmond-raceway.zip"
+    },
+    {
       "physical_venue_key": "road-america",
       "version": "2026-09-28",
       "sha256": "3d65540cd143943e4c5e2c9ec95c4c593d99668eed400be40723845013a0e6fa",
