@@ -347,6 +347,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-phoenix-raceway.zip"
     },
     {
+      "physical_venue_key": "pocono-raceway",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "44969c8b719117c56015ff3a772395c598c8a8783b688615978404a15636b975",
+      "size_bytes": 323943,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-pocono-raceway.zip"
+    },
+    {
       "physical_venue_key": "red-bull-ring",
       "version": "2026-09-28",
       "sha256": "07b50bf20e031b031f9777193ac34d4dfae21c4edd40661e4c7fa38ba27c031d",
