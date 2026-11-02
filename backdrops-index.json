@@ -298,6 +298,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-new-smyrna-speedway.zip"
     },
     {
+      "physical_venue_key": "north-wilkesboro-speedway",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "31e16c855b165cabaa1750df5bfd7c801366d590e8fb59f651b1e57d39b7b213",
+      "size_bytes": 146541,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-north-wilkesboro-speedway.zip"
+    },
+    {
       "physical_venue_key": "nurburgring",
       "version": "2026-09-28",
       "sha256": "95192d117292ad150bdd1821200d12b58e000073f0b3daeb0469582e0af32c71",
