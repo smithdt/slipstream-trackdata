@@ -88,6 +88,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-echopark-speedway-atlanta.zip"
     },
     {
+      "physical_venue_key": "five-flags-speedway",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "83899b2e763f74f2d33375169532618dc6a050a94f10b76e47c09f67f8d6713d",
+      "size_bytes": 68459,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-five-flags-speedway.zip"
+    },
+    {
       "physical_venue_key": "fuji",
       "version": "2026-09-28",
       "sha256": "5f597be4e3d4f91d5c13d585fc206a76b75f4459c9e019fa9747112270937c75",
