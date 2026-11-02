@@ -158,6 +158,13 @@
       "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-kansas-speedway.zip"
     },
     {
+      "physical_venue_key": "langley-speedway",
+      "version": "2026-11-02-oval-backdrops",
+      "sha256": "9c36729136094242d8c4705c0d3d7bd945f7d6e80462145d8fe9ee5c5e8d11da",
+      "size_bytes": 117414,
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/2026-11-02-oval-backdrops/backdrop-langley-speedway.zip"
+    },
+    {
       "physical_venue_key": "le-mans",
       "version": "2026-09-28",
       "sha256": "809285ed7d5816f54116557f8521dfa7c234c332d4ce95059f4816446e8a0ea4",
