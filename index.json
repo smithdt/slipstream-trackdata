@@ -1,7 +1,7 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "satellite-index-v3-oval-20261102",
+  "version": "satellite-index-v3-miami-hero3d-20261112",
   "venues": [
     {
       "schema_version": 3,
@@ -581,10 +581,10 @@
       "schema_version": 3,
       "physical_venue_key": "miami-international-autodrome",
       "venue": "Miami International Autodrome",
-      "version": "miami-international-autodrome-v3-08106d015b1d",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/miami-international-autodrome-v3-08106d015b1d/miami-international-autodrome.zip",
-      "size_bytes": 58118135,
-      "sha256": "7b12ee4d37cc3d5f987f2bf7b00e74e6389c0caab44a6d6900198f46676cd0ac",
+      "version": "miami-international-autodrome-v3-239425827526",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/miami-international-autodrome-v3-239425827526/miami-international-autodrome.zip",
+      "size_bytes": 58026935,
+      "sha256": "5a3a830fd5755b5b70d77c8e6defbc6f6e29348c503c3a4fd8413a037073e65c",
       "layouts": [
         539
       ]
@@ -2949,7 +2949,7 @@
       "live_tiles": 490,
       "provider": "fl-miami-dade-woolpert-2025",
       "attribution": "Miami-Dade County GIS — Woolpert 2025 Aerial Imagery",
-      "hero3d": false
+      "hero3d": true
     },
     "540": {
       "physical_venue_key": "the-bend",
