@@ -1,7 +1,7 @@
 {
   "format": "slipstream-satellite-index-v3",
   "schema_version": 3,
-  "version": "satellite-index-v3-miami-hero3d-20261112",
+  "version": "satellite-laguna-naip2024-20261118",
   "venues": [
     {
       "schema_version": 3,
@@ -444,10 +444,10 @@
       "schema_version": 3,
       "physical_venue_key": "laguna-seca",
       "venue": "WeatherTech Raceway Laguna Seca",
-      "version": "laguna-seca-v3-313790a4814b",
-      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/laguna-seca-v3-313790a4814b/laguna-seca.zip",
-      "size_bytes": 38334419,
-      "sha256": "e4a2f57447dedf03fbc0d0440d0aab769368efe67848a16af3a5f12323be980b",
+      "version": "laguna-seca-v3-a5d372a0a235",
+      "asset": "https://github.com/smithdt/slipstream-trackdata/releases/download/laguna-seca-v3-a5d372a0a235/laguna-seca.zip",
+      "size_bytes": 41121100,
+      "sha256": "bf6cf5aa0d8485c6abec19da94dc686ed677fd42dda0d7062aa175fcbb5ca215",
       "layouts": [
         47,
         586
@@ -1500,7 +1500,7 @@
       "corner_views": 11,
       "live_tiles": 414,
       "provider": "naip",
-      "attribution": "USDA Farm Service Agency / USGS — public domain",
+      "attribution": "USDA Farm Service Agency (NAIP), via Microsoft Planetary Computer",
       "hero3d": true
     },
     "50": {
@@ -3164,7 +3164,7 @@
       "corner_views": 11,
       "live_tiles": 414,
       "provider": "naip",
-      "attribution": "USDA Farm Service Agency / USGS — public domain",
+      "attribution": "USDA Farm Service Agency (NAIP), via Microsoft Planetary Computer",
       "hero3d": true
     },
     "596": {
